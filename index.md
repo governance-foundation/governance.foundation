@@ -24,17 +24,24 @@ feature_row:
     url: "/frameworks/"
     btn_label: "Show me!"
 
-
-intro:
-  - excerpt: '[<img src="/assets/images/brave/cropped-brave_appicon_release-270x270.png" alt="Download Brave and Send me a Tip" style="background-size: contain; width: 32px; height: 32px;"/> Download Brave and Send us a Tip!](https://brave.com/gov027) <br> Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @maxbarrass](https://twitter.com/maxbarrass){: .btn .btn--twitter}'
 ---
+
 
 <style>
 .archive__item-teaser {
     height: 250px;
 }
+.bravereferral {
+  text-align: center;
+}
 </style>
 
+{:.bravereferral}
+[<img src="/assets/images/brave/cropped-brave_appicon_release-270x270.png" alt="Download Brave and Send me a Tip" style="background-size: contain; width: 32px; height: 32px;"/> Download Brave and Send us a Tip!](https://brave.com/gov027)
+
+
 {% include feature_row.html id="intro" type="center" %}
+
+
 
 {% include feature_row.html %}
