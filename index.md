@@ -11,13 +11,13 @@ header:
   caption:
 excerpt: "Exploring foundations for governance."
 feature_row:
-  - image_path: /assets/images/cards/blog-hero.jpg
+  - image_path: /assets/images/background/create-something-kelly-sikkema-Nlax2tu89bU-unsplash.jpg
     alt: "blog"
     title: "Read the Blog"
     excerpt: "More posts from us"
     url: "/blog/"
     btn_label: "Blog"
-  - image_path: /assets/images/cards/mm-free-feature.png
+  - image_path: /assets/images/background/appartments-danist-BgoDlqwqz_U-unsplash.jpg
     alt: "Governance Frameworks"
     title: "Governance Frameworks"
     excerpt: "Browse the list of governance frameworks"
@@ -29,7 +29,11 @@ intro:
   - excerpt: '[<img src="/assets/images/brave/cropped-brave_appicon_release-270x270.png" alt="Download Brave and Send me a Tip" style="background-size: contain; width: 32px; height: 32px;"/> Download Brave and Send us a Tip!](https://brave.com/aem741) <br> Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @maxbarrass](https://twitter.com/maxbarrass){: .btn .btn--twitter}'
 ---
 
-
+<style>
+.archive__item-teaser {
+    height: 250px;
+}
+</style>
 
 {% include feature_row.html id="intro" type="center" %}
 
