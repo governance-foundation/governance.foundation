@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", ">= 4.0.0"
+gem "jekyll", "= 4.0.1"
 gem "nokogiri", ">= 1.8.5"
 gem "ffi", ">= 1.9.24"
 
