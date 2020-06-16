@@ -2,9 +2,14 @@
 layout: archive
 title: "Posts by Collection"
 permalink: /collection-archive/
-author_profile: true
+author_profile: false
+sidebar: false
 ---
-
+<style>
+  .archive {
+    width: auto !important;
+  }
+</style>
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
