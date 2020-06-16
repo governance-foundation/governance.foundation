@@ -2,7 +2,7 @@
 layout: single
 title: "Governance Framework"
 permalink: /frameworks/
-excerpt: "Exploring world of Governance Frameworks and myriad of coined concepts. Trying to decypher true meaning."
+excerpt: "Exploring world of Governance Frameworks and myriad of coined concepts."
 author: max
 comments: true
 categories:
