@@ -1,0 +1,24 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Frameworks"
+    url: /frameworks/
+  - title: "Blog"
+    url: /blog/
+  - title: "About"
+    url: /about/
+  - title: "GitHub"
+    target: _blank
+    url: https://github.com/governance-foundation
+  - title: "Search"
+    url: /search/
+
+#tools links
+frameworks:
+  - title: Frameworks
+    url: /frameworks/
+    children:
+#      - title: "String Tools"
+#        description: "String manipulation tool"
+#        url: /tools/string-tools
