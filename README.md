@@ -1,6 +1,6 @@
 # Governance Foundation
 
-[![build_status](https://github.com/governance-foundation/governance.foundation/workflows/ci/badge.svg)](https://github.com/governance-foundation/maxbarrass.com/actions?workflow=ci)
+[![build_status](https://github.com/governance-foundation/governance.foundation/workflows/ci/badge.svg)](https://github.com/governance-foundation/governance.foundation/actions?workflow=ci)
 [![github license](https://img.shields.io/github/license/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation) 
 [![github issues](https://img.shields.io/github/issues/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation) 
 [![github last commit](https://img.shields.io/github/last-commit/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation) 
