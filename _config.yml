@@ -269,7 +269,7 @@ defaults:
   # _frameworks
   - scope:
       path: ""
-      type: "frameworks"
+      type: "pages"
     values:
       layout: single
       read_time: true
