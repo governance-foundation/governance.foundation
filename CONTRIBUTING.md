@@ -61,7 +61,7 @@ We very much welcome issue reports or pull requests that improve our documentati
 
 ### Questions and Enhancement Requests
 
-If you have questions about this project or would like to submit a feature request or enhancement suggestions, we recommend posting them to the [Core Components Developer Mailing List](https://groups.google.com/forum/#!forum/governance-foundatio).
+If you have questions about this project or would like to submit a feature request or enhancement suggestions, we recommend posting them to the [Core Components Developer Mailing List](https://groups.google.com/forum/#!forum/governance-foundation).
 
 You can also add your voice to discussions around new and existing component features by commenting on an RTC. New components and features that openly invite public comment are marked by an [RTC](https://github.com/governance-foundation/governance.foundation/labels/rtc) (Request to Comment) label.
 
