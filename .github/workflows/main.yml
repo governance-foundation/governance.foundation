@@ -20,10 +20,10 @@ jobs:
       - name: build
         run: |
           bundle install
-          bundle exec jekyll build --trace
-          bundle exec htmlproofer --trace --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
+          bundle exec jekyll build
+          bundle exec htmlproofer --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
-        env:
+        with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
