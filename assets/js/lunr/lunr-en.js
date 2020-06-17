@@ -317,33 +317,6 @@
 
   
   
-    
-      
-      
-      
-    
-    
-      
-
-<nav class="nav__list">
-  
-  <input id="ac-toc" name="accordion-toc" type="checkbox" />
-  <label for="ac-toc">Toggle Menu</label>
-  <ul class="nav__items">
-    
-      <li>
-        
-          <a href="/frameworks/"><span class="nav__sub-title">Frameworks</span></a>
-        
-
-        
-      </li>
-    
-  </ul>
-</nav>
-
-    
-  
   </div>
 
 
@@ -360,15 +333,6 @@
 
 
                 
-                
-                <p class="page__meta"><i class="far fa-clock-o" aria-hidden="true"></i> 
-
-
-
-
-  less than 1 minute read
-
-</p>
                 
             </header>
             
@@ -479,18 +443,7 @@ $(document).ready(function() {
                 
             </footer>
 
-            <section class="page__share">
-  
-    <h4 class="page__share-title">Share on</h4>
-  
-
-  <a href="https://twitter.com/intent/tweet?text=%20https%3A%2F%2Fgovernance.foundation%2Fassets%2Fjs%2Flunr%2Flunr-en.js" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
-
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgovernance.foundation%2Fassets%2Fjs%2Flunr%2Flunr-en.js" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
-
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgovernance.foundation%2Fassets%2Fjs%2Flunr%2Flunr-en.js" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
-</section>
-
+            
 
             
         </div>
