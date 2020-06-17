@@ -268,8 +268,8 @@ defaults:
       author_profile: true
   # _frameworks
   - scope:
-      path: ""
-      type: "pages"
+      path: "_frameworks"
+      type: "frameworks"
     values:
       layout: single
       read_time: true
