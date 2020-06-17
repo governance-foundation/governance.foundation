@@ -2,7 +2,11 @@
 
 cd /build/source
 
-rvm install "ruby-2.6.3"
-gem install jekyll bundler jemoji nokogiri -n /usr/local/bin
+export LANG=en_US.UTF-8
+
+rvm install ruby --latest
+gem install jekyll bundler i18n jemoji nokogiri -n /usr/local/bin
+
 bundle install
-bundle exec htmlproofer --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
+bundle exec jekyll build --trace
+bundle exec htmlproofer --trace --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
