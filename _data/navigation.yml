@@ -1,16 +1,18 @@
 # main links
 main:
-  - title: "Home"
-    url: /
+  - title: "GitHub"
+    target: _blank
+    url: https://github.com/governance-foundation
+  - title: "Forum"
+    url: https://groups.google.com/forum/#!forum/governance-foundation
+  - title: "Chat"
+    url: https://gitter.im/governance-foundation/community
   - title: "Frameworks"
     url: /frameworks/
   - title: "Blog"
     url: /blog/
   - title: "About"
     url: /about/
-  - title: "GitHub"
-    target: _blank
-    url: https://github.com/governance-foundation
   - title: "Search"
     url: /search/
 
