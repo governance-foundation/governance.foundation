@@ -23,6 +23,18 @@ feature_row:
     excerpt: "Browse the list of governance frameworks"
     url: "/frameworks/"
     btn_label: "Show me!"
+  - image_path: /assets/images/cards/gitter.png
+    alt: "Gitter"
+    title: "Gitter"
+    excerpt: "Chat with the team"
+    url: "https://gitter.im/governance-foundation/community"
+    btn_label: "Char"
+  - image_path: /assets/images/cards/Google-Groups.jpg
+    alt: "Google Groups"
+    title: "Google Groups"
+    excerpt: "Send us a message on our forum"
+    url: "https://groups.google.com/forum/#!forum/governance-foundation"
+    btn_label: "Char"
 
 ---
 
