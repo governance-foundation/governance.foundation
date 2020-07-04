@@ -4,7 +4,7 @@ permalink: /blog/2020/06/16/governance-foundation
 author: max
 title:  "Governance Foundation"
 excerpt: ""
-date:   2020-05-21 00:00:00 +1100
+date:   2020-06-16 00:00:00 +1100
 categories:
   - blog
 tags:
