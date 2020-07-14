@@ -24,4 +24,4 @@ A quick start toolkit necessary to begin and sustain an Enterprise Architecture.
 
 ## Artifacts
 
-* [The Pragmatic Family of Frameworks](assets/frameworks/pragmaticea/PF2.pdf)
+* [The Pragmatic Family of Frameworks](/assets/frameworks/pragmaticea/PF2.pdf)
