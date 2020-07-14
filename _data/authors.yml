@@ -9,6 +9,8 @@ max:
   twitter     : "maxbarrass"
   linkedin    : "maxbarrass"
   github      : "wildone"
+  sponsor:
+    github    : "wildone"
   crypto:
     bitcoin   : "18kns7Jt6pym9tmZ6bzUY1Hw4WZ7XrEPxN"
     doge      : "DGxzGHeurYBV9jdUiHBdCJoqS3y1WFoVQF"

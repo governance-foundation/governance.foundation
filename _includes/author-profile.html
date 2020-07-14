@@ -234,7 +234,21 @@
           </a>
         </li>
       {% endif %}
-        {% if author.crypto %}
+
+      {% if author.sponsor %}
+      <li>
+        Sponsor
+      </li>
+      {% endif %}
+      {% if author.sponsor.github %}
+      <li>
+        <a href="https://github.com/sponsors{{ author.sponsor.github }}" itemprop="sameAs">
+          <i class="fa fa-heart" aria-hidden="true"></i> Github
+        </a>
+      </li>
+      {% endif %}
+
+      {% if author.crypto %}
         <li>
             Donate
         </li>
