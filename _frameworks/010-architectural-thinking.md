@@ -24,6 +24,6 @@ Focuses on the education of leaders in organisations to apply Architectural Thin
 
 ## Artifacts
 
-* [Architectural Thinking](assets/frameworks/architectural-thinking/architecturalthinkingddd-190222094552.pdf)
-* [Foundations of Architectural Thinking](assets/frameworks/architectural-thinking/Foundations-of-Architectural-Thinking.pdf)
-* [Masterclass Architectural Thinking](assets/frameworks/architectural-thinking/masterclassarchitecturalthinking-190919121740.pdf)
+* [Architectural Thinking](/assets/frameworks/architectural-thinking/architecturalthinkingddd-190222094552.pdf)
+* [Foundations of Architectural Thinking](/assets/frameworks/architectural-thinking/Foundations-of-Architectural-Thinking.pdf)
+* [Masterclass Architectural Thinking](/assets/frameworks/architectural-thinking/masterclassarchitecturalthinking-190919121740.pdf)
