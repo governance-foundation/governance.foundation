@@ -24,3 +24,6 @@ frameworks:
       - title: "Architectural Thinking"
         description: "Architectural Thinking Association"
         url: /frameworks/architectural-thinking
+      - title: "PragmaticEA"
+        description: "Toolkit for Enterprise Architecture"
+        url: /frameworks/pragmaticea
