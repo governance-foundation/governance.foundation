@@ -21,6 +21,6 @@ frameworks:
   - title: Frameworks
     url: /frameworks/
     children:
-#      - title: "String Tools"
-#        description: "String manipulation tool"
-#        url: /tools/string-tools
+      - title: "Architectural Thinking"
+        description: "Architectural Thinking Association"
+        url: /frameworks/architectural-thinking
