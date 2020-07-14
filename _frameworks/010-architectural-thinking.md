@@ -12,7 +12,7 @@ tags:
   - tools
 ---
 
-![status](https://img.shields.io/badge/status-in%20queue-yellowgreen) [![source](https://img.shields.io/badge/source-online-green)](https://architectural-thinking.com/)
+![status](https://img.shields.io/badge/status-in%20queue-silver) [![source](https://img.shields.io/badge/source-online-green)](https://architectural-thinking.com/)
 
 ## Project Lead
 
