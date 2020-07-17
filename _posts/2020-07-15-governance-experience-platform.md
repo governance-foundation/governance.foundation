@@ -25,7 +25,7 @@ header:
 }
 </style>
 
-There is a clear need for a new way to help to govern organisations. This need is apparent from the continual search for efficiencies and effectiveness of organisations which demonstrated through transformations and a smorgasbord of frameworks available. 
+There is a clear need for a new way to help to govern organisations. This need is apparent from the continual search for efficiencies and effectiveness of organisations which demonstrated through transformations and a smorgasbord of frameworks available.
 
 Existing patterns and frameworks focus on educating individual parts of the organisation in order to mature the organisation as a whole. Primarily this education efforts usually occur at a point in time where an organisation needs a boost to mature past current state. These education efforts are an oversight approach when applied and practised produces the desired outcome.
 
@@ -33,7 +33,7 @@ Fundamentally all organisations are socio-technical entities and at their very n
 
 ## Pathology of Organisational Miscommunication
 
-In organisations miscommunication is pathological, and it is prevalent in all types of socio-technical organisations startups, government and corporates. The primary reason for this is audience conflict, where teams loyalty at lower levels often erode its ability to deal with external ideas, other groups and its allegiance to the organisation as a whole. 
+In organisations miscommunication is pathological, and it is prevalent in all types of socio-technical organisations startups, government and corporates. The primary reason for this is audience conflict, where teams loyalty at lower levels often erode its ability to deal with external ideas, other groups and its allegiance to the organisation as a whole.
 
 These organisational communication issues further amplified by scale and velocity at which an organisation tries to move. In an organisation, geographic, corporate, and domain silos provide a ground on which miscommunication impeds communication and collaboration.
 
@@ -68,7 +68,7 @@ The ability of an organisation to actively listen and act on all inputs would pr
 
 The case for a new governance platform is all too apparent across all industries and social divides. Oldways of doing things within organisations cannot keep up with breadth, depth and scale of new age demands. The complexity of organisational dependencies, social ways of working and technology ecosystems create a foundation for unpredictable delivery.  
 
-Governance Experience Platform (GXP) is a platform that enables the development of Organisational Experiences that leverage foundational knowledge and structures that self-reinforces its foundations. GXP is a platform that will provide the foundations on which organisations can create organisational experiences that harness the shared knowledge into a shared data structure that further reinforce organisations foundations. 
+Governance Experience Platform (GXP) is a platform that enables the development of Organisational Experiences that leverage foundational knowledge and structures that self-reinforces its foundations. GXP is a platform that will provide the foundations on which organisations can create organisational experiences that harness the shared knowledge into a shared data structure that further reinforce organisations foundations.
 
 Organisations need to be able to create experiences that are efficient, effective and personalised to an individual level, crossing domain, organisational and geographic boundaries. GXP focus is to provide a foundation for creating experiences that facilitate social and procedural governance patterns, that can demonstrate and elevate the contribution of each individual to the social organisation journey.
 
