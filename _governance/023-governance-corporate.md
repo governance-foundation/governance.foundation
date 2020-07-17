@@ -1,0 +1,34 @@
+---
+layout: single
+title: "Corporate Governance"
+permalink: /governance/corporate
+author: max
+comments: true
+categories:
+  - governance
+  - framework
+tags:
+  - tools
+---
+Recent attention of academics and practitioners on Corporate Governance has emerged due to widely publicised scandals around the world involving corporations and, in particular, the conduct of Boards of Directors in large corporations (Cross, 2004; Colley, 2005). These scandals led to the development of new regulations and legislation, the most prominent of these being the Sarbanes-Oxley Act of 2002 (Colley, 2005). Colley points out that the confluence of these events has focused public eye on the topic of Corporate Governance, highlighting it's crucial importance to the capitalist and the world economy (Colley, 2005).
+
+Recent historical scandals have raised questions as to whether the transgressions were confined to the ranks of a few renegades, or whether the wrongdoing was systemic (Colley, 2005). Ostarkov suggests that the wrongdoing is needed in the existing governance systems that have been relayed by social institutions; and have the same specific problems that those institutions were initially designed to solve (Ostarkov, 2005). Ostarkov further asserts that under existing governance systems, companies that engage in "grey" business practices possess a competitive advantage and to withdraw from the shadow would jeopardise their operations (Ostarkov, 2005).
+
+The expression Corporate Governance has been well established in the United States since the 1970's and refers to the system of authoritative direction or a form of representative government in the public corporation as, demonstrated by Colley(Cross, 2004; Colley, 2005). Colley describes the roots of Corporate Governance, beginning in the early days of the Industrial Revolution (Colley, 2005). At that time governance was tightened to curb individual wealth, accumulation of the greedy and unscrupulous Robber Barons (Josephson, 1934) of the time, with laws, regulations and oversight of the federal and the State governments. Colley and ITGI present a basic premise of corporate governance is apparent which it is to protect the interests of customers, employees, shareholders, other stakeholders, and the community (Colley, 2005; ITGI, 1999).  
+
+An observation can be made that Corporate Governance referred to the stimulation of corporations to exhibit behaviour that is representative of the interests of all contributing parties. The incentive was provided through laws and regulations with reassurance delivered through oversight delivered by the State. The State, as the facilitator, maintained the scope of the system as a whole and acted accordingly. As observed earlier, through the development of Modern Governance (3.2.2), the State has already failed in its role as a facilitator through its inability to maintain the scope of the system as a whole. Furthermore, the effect of this in a Corporate Governance context is the perceived wrongdoings of corporations whilst discounting evident facilitation of those actions by the State.
+
+Several other definitions of Corporate Governance can be drawn from the literature. They all have one aspect in common, which is to place importance on the authoritative direction within an organisation.
+
+| Definition                                                                                                                                            | Analysis                                                                                                                                                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Corporate Governance is all the processes that coordinate and control an organisations resources and actions. (Meyer, 2004)                           | Internal structure used to direct the organisation, does not explicitly consider social aspect of the organisation or externalities, such as laws, regulations, social demographic                                                                               |
+| Corporate Governance deals with the ways in which suppliers of finance assure themselves of getting a return on investment. (Shleifer & Vishny, 1997) | Structured to ensure that suppliers of finance receive profit, could lead to anti-social behaviour within organisation where individuals consider their needs ahead of the organisation, does not consider external environment or social aspect of organisation |
+| Corporate Governance is the system by which companies are directed and controlled. (Cross, 2004)                                                      | Refers to an internal structure of control, organisations operate under numerous external influences that this definition does not encompass                                                                                                                     |
+| Corporate Governance is a system of authoritative direction or government. (Colley, 2005)                                                             | Refers to an internal structure of control, does not consider social elements of organisation                                                                                                                                                                    |
+
+In western society a corporation plays a role of a legal entity, that is in legal term it is similar to a legal person, and as the law was designed for a physical person, its application to virtual placeholder is limited. In addition, as corporations are self-creating and in a permanent state of change, the control systems must follow suit.
+
+Furthermore, the initial scope of corporate governance was aimed at providing external stimulus to the organisation and in turn, relying on organisations to perceive this stimulus as a signal to change. Thus, potentially a single change in an environment providing a simultaneous synchronisation of the corporation through self-organisation.
+
+An observation should be made that all the definitions defined above of Corporate Governance, are contrary to the original scope of corporate governance. Conceived scope of corporate governance was aimed at external stimulation of corporations, and these definitions clearly diversify and target the internal scope of the organisation nor provide a position for self-organisation based external influences.

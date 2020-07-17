@@ -36,5 +36,27 @@ governance:
     url: /governance/
     children:
       - title: "Introduction"
-        description: "What is Governance"
+        description: "What is Governance?"
         url: /governance/introduction
+      - title: "Governance Origin"
+        description: "Origin of the word Governance."
+        url: /governance/origin
+      - title: "Governance Paradigm"
+        url: /governance/paradigm
+      - title: "Governance Evolution"
+        url: /governance/evolution
+      - title: "Governance Perspectives"
+        description: "What are some Governance Perspectives?"
+        url: /governance/perspectives
+      - title: "Global Governance"
+        url: /governance/global
+      - title: "Modern Governance"
+        url: /governance/modern
+      - title: "Corporate Governance"
+        url: /governance/corporate
+      - title: "Enterprise Governance"
+        url: /governance/enterprise
+      - title: "IT Governance"
+        url: /governance/information-technology
+      - title: "Systemic Governance"
+        url: /governance/systemic
