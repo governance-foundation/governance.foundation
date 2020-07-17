@@ -2,7 +2,7 @@
 layout: single
 title: "Governance"
 permalink: /governance/
-excerpt: "All about Governance"
+excerpt: "Foundational knowledge about governance and it's related deviations."
 author: max
 comments: true
 categories:
