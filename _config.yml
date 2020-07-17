@@ -281,8 +281,24 @@ defaults:
       related: true
       sidebar:
         nav: "frameworks"
+  # _frameworks
+  - scope:
+      path: "_governance"
+      type: "governance"
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: true
+      comments: true
+      related: true
+      sidebar:
+        nav: "governance"
 
 collections:
   frameworks:
+    output: true
+    permalink: /:collection/:path/
+  governance:
     output: true
     permalink: /:collection/:path/

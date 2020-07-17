@@ -28,13 +28,13 @@ feature_row:
     title: "Gitter"
     excerpt: "Chat with the team"
     url: "https://gitter.im/governance-foundation/community"
-    btn_label: "Char"
+    btn_label: "Chat"
   - image_path: /assets/images/cards/Google-Groups.jpg
     alt: "Google Groups"
     title: "Google Groups"
     excerpt: "Send us a message on our forum"
     url: "https://groups.google.com/forum/#!forum/governance-foundation"
-    btn_label: "Char"
+    btn_label: "Chat"
 
 ---
 

@@ -1,22 +1,24 @@
 # main links
 main:
+  - title: "Governance"
+    url: /governance/
+  - title: "Frameworks"
+    url: /frameworks/
   - title: "GitHub"
     target: _blank
     url: https://github.com/governance-foundation
+  - title: "Blog"
+    url: /blog/
   - title: "Forum"
     url: https://groups.google.com/forum/#!forum/governance-foundation
   - title: "Chat"
     url: https://gitter.im/governance-foundation/community
-  - title: "Frameworks"
-    url: /frameworks/
-  - title: "Blog"
-    url: /blog/
   - title: "About"
     url: /about/
   - title: "Search"
     url: /search/
 
-#tools links
+#frameworks links
 frameworks:
   - title: Frameworks
     url: /frameworks/
@@ -27,3 +29,12 @@ frameworks:
       - title: "PragmaticEA"
         description: "Toolkit for Enterprise Architecture"
         url: /frameworks/pragmaticea
+
+#frameworks links
+governance:
+  - title: Governance
+    url: /governance/
+    children:
+      - title: "Introduction"
+        description: "What is Governance"
+        url: /governance/introduction
