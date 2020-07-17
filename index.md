@@ -7,10 +7,16 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/background/core-ricardo-gomez-angel-HXBP4Nud8PQ-unsplash.jpg
   cta_label: "<i class='fab fa-lightbulb-o'></i> Start Here"
-  cta_url: "/blog/"
+  cta_url: "/governance/"
   caption:
 excerpt: "Exploring foundations for governance."
 feature_row:
+  - image_path: /assets/images/background/compas-himesh-kumar-behera-t11oyf1K8kA-unsplash.jpg
+    alt: "governance"
+    title: "Read about Governance"
+    excerpt: "Foundational knowledge about governance and it's related deviations."
+    url: "/governance/"
+    btn_label: "Read"
   - image_path: /assets/images/background/create-something-kelly-sikkema-Nlax2tu89bU-unsplash.jpg
     alt: "blog"
     title: "Read the Blog"
@@ -34,7 +40,7 @@ feature_row:
     title: "Google Groups"
     excerpt: "Send us a message on our forum"
     url: "https://groups.google.com/forum/#!forum/governance-foundation"
-    btn_label: "Chat"
+    btn_label: "Create a Post"
 
 ---
 
