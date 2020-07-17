@@ -28,4 +28,10 @@ var store = [{
         "tags": ["governance","blog"],
         "url": "https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation",
         "teaser": null
+      },{
+        "title": "Governance Experience Platform",
+        "excerpt":"In organisations miscommunication is pathological, and it is prevalent in all types of socio-technical organisations startups, government and corporates. The primary reason for this is audience conflict, where teams loyalty at lower levels often erode its ability to deal with external ideas, other groups and its allegiance to the organisation...","categories": ["blog"],
+        "tags": ["governance","blog"],
+        "url": "https://governance.foundation/blog/2020/07/15/governance-experience-platform",
+        "teaser": null
       }]
