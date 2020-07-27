@@ -29,9 +29,11 @@ jobs:
           diagramUpdateCount=0
           for i in "${GIT_CHANGES[@]}"
           do
-              if [[ $(echo $i | grep "\.drawio$") != "" ]]; then
+              if [[ $(echo $i | grep "\.drawio$") == "" ]]; then
+                echo "NOT DIAGRAM: $i"
+              else
                 ((diagramUpdateCount+=1));
-                echo "NEED TO UPLOAD: $i"
+                echo "DIAGRAM: $i"
                 echo ::set-env name=UPLOAD_DIAGRAMS::"TRUE"
               fi
           done
