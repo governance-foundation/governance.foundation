@@ -13,6 +13,7 @@ jobs:
       SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
       SERVICE_ACCOUNT_NAME: "devops[bot]"
       SERVICE_ACCOUNT_EMAIL: "devops@governance.foundation"
+      ONLY_DIAGRAMS: "FALSE"
 
 
     runs-on: ubuntu-latest
@@ -63,21 +64,21 @@ jobs:
 
       # IF ONLY_DIAGRAMS is set don't do other steps
       - name: install dependencies
-        if: env.ONLY_DIAGRAMS == ''
+        if: env.ONLY_DIAGRAMS == 'FALSE'
         run: |
           sudo apt-get install libcurl4-openssl-dev libxslt-dev libxml2-dev
       - uses: actions/setup-ruby@v1
-        if: env.ONLY_DIAGRAMS == ''
+        if: env.ONLY_DIAGRAMS == 'FALSE'
         with:
           ruby-version: '2.x' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
       - name: build
-        if: env.ONLY_DIAGRAMS == ''
+        if: env.ONLY_DIAGRAMS == 'FALSE'
         run: |
           bundle install
           bundle exec jekyll build
           bundle exec htmlproofer --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
       - name: deploy
-        if: env.ONLY_DIAGRAMS == ''
+        if: env.ONLY_DIAGRAMS == 'FALSE'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
