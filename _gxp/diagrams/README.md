@@ -24,6 +24,24 @@ Once you know the `ID` for your diagram it you can add it to your readme file.
 </iframe>
 ```
 
+Sample diagram with `ID` of `1_AuCeiL8948uqFoUgKaMDFunMRZLO7Ze` would produc following html:
+
+```html
+<iframe
+  frameborder="0"
+  style="width:100%;height:973px;"
+  src="https://viewer.diagrams.net/#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1_AuCeiL8948uqFoUgKaMDFunMRZLO7Ze">
+</iframe>
+```
+
+When rendered in markdown will look as following:
+
+<iframe
+  frameborder="0"
+  style="width:100%;height:973px;"
+  src="https://viewer.diagrams.net/#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1_AuCeiL8948uqFoUgKaMDFunMRZLO7Ze">
+</iframe>
+
 ## Diagrams Folder
 
 Pubcic Diagrams folder is owned by service account `devops@governance-foundation.iam.gserviceaccount.com`
