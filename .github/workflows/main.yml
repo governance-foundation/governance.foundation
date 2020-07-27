@@ -11,7 +11,7 @@ jobs:
       GDRIVE_DIAGRAMS_FOLDER: "1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE"
       GDRIVE_IMAGE: "gvfn/gdrive"
       SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
-      SERVICE_ACCOUNT_NAME: "devops@governance.foundation"
+      SERVICE_ACCOUNT_NAME: "devops-gvfn"
       SERVICE_ACCOUNT_EMAIL: "devops@governance.foundation"
       ONLY_DIAGRAMS: "FALSE"
 
