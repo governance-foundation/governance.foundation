@@ -21,10 +21,12 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
+          fetch-depth: 2
 
       - name: Check Update
         run: |
-          export GIT_CHANGES=($(git diff-tree --no-commit-id --name-only -r ${{ github.sha }}))
+          export GIT_CHANGES=( $(git diff-tree --no-commit-id --name-only -r ${{ github.sha }}) )
+          echo $GIT_CHANGES
 
           diagramUpdateCount=0
           for i in "${GIT_CHANGES[@]}"
