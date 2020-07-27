@@ -13,7 +13,7 @@ jobs:
       GDRIVE_IMAGE: "gvfn/gdrive"
       SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
       SERVICE_ACCOUNT_NAME: "devops[bot]"
-      SERVICE_ACCOUNT_EMAIL: "devops@governance-foundation.iam.gserviceaccount.com"
+      SERVICE_ACCOUNT_EMAIL: "devops@governance.foundation"
 
     steps:
       - uses: actions/checkout@v1
@@ -37,15 +37,14 @@ jobs:
 
       - name: Upload to Diagrams to Google Drive
         run: |
-          cd _gxp/diagrams
-          docker run --rm -v `pwd`:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON sync upload /gdrive ${GDRIVE_DIAGRAMS_FOLDER}
-          docker run --rm -v `pwd`:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list>_gdrive_diagrams_list.txt
-          docker run --rm -v `pwd`:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON about>>_gdrive_diagrams_list.txt
+          docker run --rm -v ${GITHUB_WORKSPACE}/_gxp/diagrams:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON sync upload /gdrive ${GDRIVE_DIAGRAMS_FOLDER}
+          docker run --rm -v ${GITHUB_WORKSPACE}/_gxp/diagrams:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list>_gdrive_diagrams_list.txt
+          docker run --rm -v ${GITHUB_WORKSPACE}/_gxp/diagrams:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON about>>_gdrive_diagrams_list.txt
 
           git config --global user.name "${SERVICE_ACCOUNT_NAME}"
           git config --global user.email "${SERVICE_ACCOUNT_EMAIL}"
 
-          git add _dxp/diagrams/_gdrive_diagrams_list.txt
+          git add *_gdrive_diagrams_list.txt
           git commit -m "update _gdrive_diagrams_list.txt [skip ci]"
           git push
 
