@@ -43,9 +43,7 @@ jobs:
         if: env.UPLOAD_DIAGRAMS == 'TRUE'
         uses: docker://gvfn/gdrive
         with:
-          options: -v ${GITHUB_WORKSPACE}/_gxp/diagrams:/gdrive  ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON
-          env:
-            SERVICE_ACCOUNT_JSON: ${SERVICE_ACCOUNT_JSON}
+          options: -v ${GITHUB_WORKSPACE}/_gxp/diagrams:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON
           entrypoint: "/bin/sh"
           workdir: "/gdrive"
           args: |
