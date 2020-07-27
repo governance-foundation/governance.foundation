@@ -28,6 +28,7 @@ jobs:
           do
               if [[ $(echo $i | grep "\.drawio$") == "" ]]; then
                 ((lineCount+=1));
+              else
                 echo "NEED TO UPLOAD: $i"
                 echo ::set-env name=UPLOAD_DIAGRAMS::"TRUE"
               fi
@@ -58,7 +59,7 @@ jobs:
 
           git add *_gdrive_diagrams_list.txt
           git commit -m "update _gdrive_diagrams_list.txt [skip ci]"
-          git push
+          git push origin HEAD:master
 
       # IF ONLY_DIAGRAMS is set don't do other steps
       - name: install dependencies
