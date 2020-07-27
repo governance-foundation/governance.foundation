@@ -40,47 +40,47 @@ You need to have `SERVICE_ACCOUNT_JSON` variable with Service Accoutn Json confi
 ### List all files
 
 ```bash
-docker run -it --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list
+docker run --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list
 ```
 
 ### Delete folder
 
 ```bash
-docker run -it --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON delete --recursive 1i5_LRApsAGaYY3Vqw301IX9SgoFkxs5V
+docker run --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON delete --recursive 1i5_LRApsAGaYY3Vqw301IX9SgoFkxs5V
 ```
 
 ### Show help
 
 ```bash
-docker run -it --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive help share
+docker run --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive help share
 ```
 
 ### Login into GDrive docker container
 
 ```bash
-docker run -it --rm --entrypoint="" -v `pwd`:/gdrive gvfn/gdrive sh
+docker run --rm --entrypoint="" -v `pwd`:/gdrive gvfn/gdrive sh
 ```
 
 ### Sync Upload all file in current dir to Diagrams folder
 
 ```bash
-docker run -it --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON sync upload /gdrive 1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE
+docker run --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON sync upload /gdrive 1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE
 ```
 
 ### Share a folder
 
 ```bash
-docker run -it --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON sync upload /gdrive 1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE
+docker run --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON sync upload /gdrive 1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE
 ```
 
 ### Get List of files
 
 ```bash
-docker run -it --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list>_gdrive_diagrams_list.txt
+docker run -rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list>_gdrive_diagrams_list.txt
 ```
 
 ### Get Status of Drive
 
 ```bash
-docker run -it --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON about>>_gdrive_diagrams_list.txt
+docker run --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON about>>_gdrive_diagrams_list.txt
 ```
