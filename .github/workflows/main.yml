@@ -48,10 +48,11 @@ jobs:
             SERVICE_ACCOUNT_JSON: ${SERVICE_ACCOUNT_JSON}
           entrypoint: "/bin/sh"
           workdir: "/gdrive"
-        run: |
-          gdrive sync upload /gdrive ${GDRIVE_DIAGRAMS_FOLDER}
-          gdrive list>_gdrive_diagrams_list.txt
-          gdrive about>>_gdrive_diagrams_list.txt
+          args: |
+            -c "\
+            gdrive sync upload /gdrive ${GDRIVE_DIAGRAMS_FOLDER} && \
+            gdrive list>_gdrive_diagrams_list.txt && \
+            gdrive about>>_gdrive_diagrams_list.txt"
 
       - name: Push Google Drive Stats to Repo
         if: env.UPLOAD_DIAGRAMS == 'TRUE'
