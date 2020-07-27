@@ -26,6 +26,8 @@ Once you know the `ID` for your diagram it you can add it to your readme file.
 
 ## Diagrams Folder
 
+Pubcic Diagrams folder is owned by service account `devops@governance-foundation.iam.gserviceaccount.com`
+
 governance.foundation (1R1dso_ZO6BfbRrCm5lYKEVkCv1ZtsO-X)
   dxp (17yuwLoktRbeY43FPR_NEnmRqzyaCIQi8)
     diagrams [Public](https://drive.google.com/drive/folders/1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE) (1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE)
@@ -75,4 +77,10 @@ docker run -it --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --confi
 
 ```bash
 docker run -it --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list>_gdrive_diagrams_list.txt
+```
+
+### Get Status of Drive
+
+```bash
+docker run -it --rm -v `pwd`:/gdrive -e SERVICE_ACCOUNT_JSON gvfn/gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON about>>_gdrive_diagrams_list.txt
 ```
