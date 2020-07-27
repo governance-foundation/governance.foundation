@@ -46,11 +46,9 @@ jobs:
           entrypoint: "/bin/sh"
           args: |
             -c "\
-            ls /github/workspace/_gxp/diagrams && \
-            set && \
-            gdrive --config /gdrive --service-account-evar ${SERVICE_ACCOUNT_JSON} sync upload /github/workspace/_gxp/diagrams ${GDRIVE_DIAGRAMS_FOLDER} && \
-            gdrive --config /gdrive --service-account-evar ${SERVICE_ACCOUNT_JSON} list>/github/workspace/_gxp/diagrams/_gdrive_diagrams_list.txt && \
-            gdrive --config /gdrive --service-account-evar ${SERVICE_ACCOUNT_JSON} about>>/github/workspace/_gxp/diagrams/_gdrive_diagrams_list.txt"
+            gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON sync upload /github/workspace/_gxp/diagrams ${GDRIVE_DIAGRAMS_FOLDER} && \
+            gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list>/github/workspace/_gxp/diagrams/_gdrive_diagrams_list.txt && \
+            gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON about>>/github/workspace/_gxp/diagrams/_gdrive_diagrams_list.txt"
 
       - name: Push Google Drive Stats to Repo
         if: env.UPLOAD_DIAGRAMS == 'TRUE'
