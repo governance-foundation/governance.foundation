@@ -18,7 +18,9 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
 
       - name: Check Update
         run: |
@@ -59,7 +61,7 @@ jobs:
 
           git add *_gdrive_diagrams_list.txt
           git commit -m "update _gdrive_diagrams_list.txt [skip ci]"
-          git push origin HEAD:master
+          git push
 
       # IF ONLY_DIAGRAMS is set don't do other steps
       - name: install dependencies
