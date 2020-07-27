@@ -1,0 +1,10 @@
+Id                                  Name                                 Type   Size      Created
+1SnOWUmSM0iPsbeWIOUlTgwud1XAXk-D6   README.md                            bin    2.5 KB    2020-07-27 10:48:20
+1p6u53G9tMa3rbQgRDRGCrifv_lu-9Gk4   Data-Modeling-Tech-Overview.drawio   bin    19.0 KB   2020-07-27 10:48:17
+1_AuCeiL8948uqFoUgKaMDFunMRZLO7Ze   _sample.drawio                       bin    2.4 KB    2020-07-27 14:08:06
+1vLyZpRtXARKSZlqiCIJ2UrogI6uZefwo   _gdrive_diagrams_list.txt            bin    876.0 B   2020-07-27 14:08:04
+1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE   diagrams                             dir              2020-07-27 10:42:27
+1FP430l0QIjNwHbUGk-k0UxmOpm9ItKSx   gdrive_diagrams_list.txt             bin    144.0 B   2020-07-27 10:48:21
+1AzszYrF0pWubmbTPZkgYcFDV5RJeYwYp   Data-Perspectives.drawio             bin    18.6 KB   2020-07-27 10:48:18
+17yuwLoktRbeY43FPR_NEnmRqzyaCIQi8   gxp                                  dir              2020-07-27 10:42:11
+1R1dso_ZO6BfbRrCm5lYKEVkCv1ZtsO-X   governance.foundation                dir              2020-07-27 10:41:42
