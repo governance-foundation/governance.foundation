@@ -24,19 +24,18 @@ jobs:
         run: |
           export GIT_CHANGES=($(git diff-tree --no-commit-id --name-only -r ${{ github.sha }}))
 
-          lineCount=0
+          diagramUpdateCount=0
           for i in "${GIT_CHANGES[@]}"
           do
-              if [[ $(echo $i | grep "\.drawio$") == "" ]]; then
-                ((lineCount+=1));
-              else
+              if [[ $(echo $i | grep "\.drawio$") != "" ]]; then
+                ((diagramUpdateCount+=1));
                 echo "NEED TO UPLOAD: $i"
                 echo ::set-env name=UPLOAD_DIAGRAMS::"TRUE"
               fi
           done
-          echo "lineCount: $lineCount"
+          echo "diagramUpdateCount: $diagramUpdateCount"
           echo "GIT_CHANGES: ${#GIT_CHANGES[@]}"
-          if [[ ${#GIT_CHANGES[@]} == $lineCount ]]; then
+          if [[ ${#GIT_CHANGES[@]} == $diagramUpdateCount ]]; then
             echo "ONLY DIAGRAMS"
             echo ::set-env name=ONLY_DIAGRAMS::"TRUE"
           fi
