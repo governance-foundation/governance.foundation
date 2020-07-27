@@ -6,7 +6,6 @@ jobs:
   build:
     if: "!contains(github.event.head_commit.message, 'skip ci')"
 
-    runs-on: ubuntu-latest
     env:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true
       GDRIVE_DIAGRAMS_FOLDER: "1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE"
@@ -15,6 +14,8 @@ jobs:
       SERVICE_ACCOUNT_NAME: "devops[bot]"
       SERVICE_ACCOUNT_EMAIL: "devops@governance.foundation"
 
+
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
 
@@ -34,13 +35,27 @@ jobs:
           if [[ ${#GIT_CHANGES[@]} == $lineCount ]]; then
             echo ::set-env name=ONLY_DIAGRAMS::"TRUE"
           fi
+          if (( $lineCount > 0 )); then
+            echo ::set-env name=UPLOAD_DIAGRAMS::"TRUE"
+          fi
 
       - name: Upload to Diagrams to Google Drive
+        if: env.UPLOAD_DIAGRAMS == 'TRUE'
+        uses: docker://gvfn/gdrive
+        with:
+          options: -v ${GITHUB_WORKSPACE}/_gxp/diagrams:/gdrive  ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON
+          env:
+            SERVICE_ACCOUNT_JSON: ${SERVICE_ACCOUNT_JSON}
+          entrypoint: "/bin/sh"
+          workdir: "/gdrive"
         run: |
-          docker run --rm -v ${GITHUB_WORKSPACE}/_gxp/diagrams:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON sync upload /gdrive ${GDRIVE_DIAGRAMS_FOLDER}
-          docker run --rm -v ${GITHUB_WORKSPACE}/_gxp/diagrams:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list>_gdrive_diagrams_list.txt
-          docker run --rm -v ${GITHUB_WORKSPACE}/_gxp/diagrams:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON about>>_gdrive_diagrams_list.txt
+          gdrive sync upload /gdrive ${GDRIVE_DIAGRAMS_FOLDER}
+          gdrive list>_gdrive_diagrams_list.txt
+          gdrive about>>_gdrive_diagrams_list.txt
 
+      - name: Push Google Drive Stats to Repo
+        if: env.UPLOAD_DIAGRAMS == 'TRUE'
+        run: |
           git config --global user.name "${SERVICE_ACCOUNT_NAME}"
           git config --global user.email "${SERVICE_ACCOUNT_EMAIL}"
 
