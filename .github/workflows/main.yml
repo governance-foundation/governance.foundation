@@ -4,25 +4,68 @@ on: [push]
 
 jobs:
   build:
+    if: "!contains(github.event.head_commit.message, 'skip ci')"
 
     runs-on: ubuntu-latest
     env:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true
+      GDRIVE_DIAGRAMS_FOLDER: "1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE"
+      GDRIVE_IMAGE: "gvfn/gdrive"
+      SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+      SERVICE_ACCOUNT_NAME: "devops[bot]"
+      SERVICE_ACCOUNT_EMAIL: "devops@governance-foundation.iam.gserviceaccount.com"
 
     steps:
       - uses: actions/checkout@v1
+
+      - name: Check Update
+        run: |
+          export GIT_CHANGES=($(git diff-tree --no-commit-id --name-only -r ${{ github.sha }}))
+
+          lineCount=0
+          for i in "${GIT_CHANGES[@]}"
+          do
+              if [[ $(echo $i | grep "\.md$") == "" ]]; then
+                ((lineCount+=1));
+              fi
+          done
+          echo "lineCount: $lineCount"
+          echo "GIT_CHANGES: ${#GIT_CHANGES[@]}"
+          if [[ ${#GIT_CHANGES[@]} == $lineCount ]]; then
+            echo ::set-env name=ONLY_DIAGRAMS::"TRUE"
+          fi
+
+      - name: Upload to Diagrams to Google Drive
+        run: |
+          cd _gxp/diagrams
+          docker run -it --rm -v `pwd`:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON sync upload /gdrive ${GDRIVE_DIAGRAMS_FOLDER}
+          docker run -it --rm -v `pwd`:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list>_gdrive_diagrams_list.txt
+          docker run -it --rm -v `pwd`:/gdrive --env SERVICE_ACCOUNT_JSON=${SERVICE_ACCOUNT_JSON} ${GDRIVE_IMAGE} --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON about>>_gdrive_diagrams_list.txt
+
+          git config --global user.name "${SERVICE_ACCOUNT_NAME}"
+          git config --global user.email "${SERVICE_ACCOUNT_EMAIL}"
+
+          git add _dxp/diagrams/_gdrive_diagrams_list.txt
+          git commit -m "update _gdrive_diagrams_list.txt [skip ci]"
+          git push
+
+      # IF ONLY_DIAGRAMS is set don't do other steps
       - name: install dependencies
+        if: env.ONLY_DIAGRAMS == ''
         run: |
           sudo apt-get install libcurl4-openssl-dev libxslt-dev libxml2-dev
       - uses: actions/setup-ruby@v1
+        if: env.ONLY_DIAGRAMS == ''
         with:
           ruby-version: '2.x' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
       - name: build
+        if: env.ONLY_DIAGRAMS == ''
         run: |
           bundle install
           bundle exec jekyll build
           bundle exec htmlproofer --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
       - name: deploy
+        if: env.ONLY_DIAGRAMS == ''
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
