@@ -34,6 +34,9 @@ frameworks:
       - title: "Avancier Methods"
         url: /frameworks/avancier
         description: "Avancier Methods for Enterprise and Solution Architecture"
+      - title: "Panorama 360"
+        url: /frameworks/panorama360
+        description: "Business Architecture, Process Models & Methodologies"
 
         #governance links
 governance:
