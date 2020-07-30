@@ -86,7 +86,6 @@
 {% endif %}
 
 
-
 {% if page.header.image %}
   {% if page.header.image contains "://" %}
     {% assign ogimage = page.header.image %}
@@ -112,8 +111,8 @@
     {% assign ogimage = page.header.og_image | relative_url %}
   {% endif %}
 {% endif %}
-{% if ogimage contains "webp" %}
-  {% assign ogimage = ogimage | split: "." | reverse | shift | reverse | join "." | append ".jpg" %}
+{% if ogimage contains ".webp" %}
+  {% assign ogimage = ogimage | split: "." | reverse | shift | reverse | join "." | append: ".jpg" %}
 {% endif %}
 {% if ogimage %}
 <meta property="og:image" content="{{ ogimage }}">
