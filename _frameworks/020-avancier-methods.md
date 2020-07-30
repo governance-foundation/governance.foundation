@@ -2,7 +2,6 @@
 layout: single
 title: "Avancier Methods"
 permalink: /frameworks/avancier
-excerpt: "Avancier Methods for Enterprise and Solution Architecture"
 author: max
 comments: true
 categories:
