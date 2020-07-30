@@ -29,6 +29,24 @@ var store = [{
         "url": "https://governance.foundation/frameworks/panorama360",
         "teaser": null
       },{
+        "title": "TRAK Metamodel",
+        "excerpt":"    Project Lead   Nic Plum   Description   An enterprise architecture framework.   Artifacts      Trak   Trak Viewpoints   Trak Metamodel  ","categories": ["governance","framework"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/frameworks/trak",
+        "teaser": null
+      },{
+        "title": "Ministry of Defence Architecture Framework UK",
+        "excerpt":"    Description   The MOD Architecture Framework (MODAF) is a set of rules that support defence planning and change management activities.   Artifacts      MODAF  ","categories": ["governance","framework"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/frameworks/modaf",
+        "teaser": null
+      },{
+        "title": "Department of Defence Architecture Framework US",
+        "excerpt":"    Description   The DoDAF Architecture Framework Version.   Artifacts      DoDAF  ","categories": ["governance","framework"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/frameworks/dodaf",
+        "teaser": null
+      },{
         "title": "Governance",
         "excerpt":"These pages are dedicated to provide foundation aknowledge about concepts of Governance. Table of Contents Introduction - What is Governance? Governance Origin - Origin of the word Governance. Governance Paradigm Governance Evolution Governance Perspectives - What are some Governance Perspectives? Global Governance Modern Governance Corporate Governance Enterprise Governance IT Governance...","categories": ["governance","framework"],
         "tags": ["tools"],
