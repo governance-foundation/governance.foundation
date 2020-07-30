@@ -23,13 +23,13 @@ header:
 }
 </style>
 
-Organisations are socio-technical ecostems that relly on data to make decisions.
+Organisations are socio-technical ecosystems that rely on data to make decisions.
 
-GXP will provide a data platfrom for organisations that will enchance decision making.
+GXP will provide a data platform for organisations that will enhance decision making.
 
-GXP data platfrom will provide a source of truth for all orgnisational information that is used for decision making. This will enable oganisations to efficently measure their knowlege depth and that will provide effective method for driving knowledge discovery.
+GXP data platform will provide a source of truth for all organisational information that is used for decision making. This will enable organisations to efficiently measure their knowledge depth, and this will provide an effective method for driving knowledge discovery.
 
-Following pages are focused on providing modeling concepts that will be a foundation of knowledge within an enterprise.
+Following pages are focused on providing modelling concepts that will be a foundation of knowledge within an enterprise.
 
 ## Table of Contents
 
