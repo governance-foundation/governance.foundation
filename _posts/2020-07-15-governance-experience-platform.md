@@ -11,7 +11,7 @@ tags:
   - governance
   - blog
 header:
-    overlay_image: /assets/images/background/the-journey-is-on-jakob-soby-zQe1wEsW3W4-unsplash.jpg  
+    overlay_image: /assets/images/background/the-journey-is-on-jakob-soby-zQe1wEsW3W4-unsplash.webp  
 ---
 
 {% include toc_sticky.html %}

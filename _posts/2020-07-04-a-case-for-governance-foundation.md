@@ -11,7 +11,7 @@ tags:
   - governance
   - blog
 header:
-    overlay_image: /assets/images/background/scaffold-ashkan-forouzani-v31lgBn5114-unsplash.jpg 
+    overlay_image: /assets/images/background/scaffold-ashkan-forouzani-v31lgBn5114-unsplash.webp 
 ---
 
 ## Copy-Paste Governance

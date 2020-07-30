@@ -11,7 +11,7 @@ categories:
 tags:
   - tools
 header:
-  overlay_image: /assets/images/background/tools.jpg
+  overlay_image: /assets/images/background/tools.webp
 ---
 
 These pages are the foundations that provide input to developing this site.

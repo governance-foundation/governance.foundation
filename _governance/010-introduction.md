@@ -11,7 +11,7 @@ categories:
 tags:
   - tools
 header:
-  overlay_image: /assets/images/background/compas-himesh-kumar-behera-t11oyf1K8kA-unsplash.jpg
+  overlay_image: /assets/images/background/compas-himesh-kumar-behera-t11oyf1K8kA-unsplash.webp
 ---
 
 {% include toc_sticky.html %}

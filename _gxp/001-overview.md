@@ -11,7 +11,7 @@ categories:
 tags:
   - tools
 header:
-  overlay_image: /assets/images/background/leaf-markus-spiske-MkwAXj8LV8c-unsplash.jpg
+  overlay_image: /assets/images/background/leaf-markus-spiske-MkwAXj8LV8c-unsplash.webp
 ---
 
 <style>
