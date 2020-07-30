@@ -2,8 +2,8 @@
 import os
 import sys
 
-cwebp = 'cwebp'
-gif2webp = 'gif2webp'
+cwebp = '/usr/bin/cwebp'
+gif2webp = '/usr/bin/gif2webp'
 
 # This dict ensures we don't even attempt to process files whose extensions are not in here.
 # We certainly could attempt to do that, but then the output would be cluttered with cwebp errors.

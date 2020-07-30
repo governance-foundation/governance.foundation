@@ -2,6 +2,8 @@
 
 cd /build/source
 
+yum install -y libwebp libwebp-tools
+
 rvm install ruby --latest
 gem install jekyll bundler i18 jemoji nokogiri -n /usr/local/bin
 
