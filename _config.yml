@@ -281,7 +281,7 @@ defaults:
       related: true
       sidebar:
         nav: "frameworks"
-  # _frameworks
+  # _governance
   - scope:
       path: "_governance"
       type: "governance"
@@ -294,11 +294,27 @@ defaults:
       related: true
       sidebar:
         nav: "governance"
+  # _gxp
+  - scope:
+      path: "_gxp"
+      type: "gxp"
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: true
+      comments: true
+      related: true
+      sidebar:
+        nav: "gxp"
 
 collections:
   frameworks:
     output: true
     permalink: /:collection/:path/
   governance:
+    output: true
+    permalink: /:collection/:path/
+  gxp:
     output: true
     permalink: /:collection/:path/

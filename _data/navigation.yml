@@ -2,6 +2,8 @@
 main:
   - title: "Governance"
     url: /governance/
+  - title: "GXP"
+    url: /gxp/
   - title: "Frameworks"
     url: /frameworks/
   - title: "GitHub"
@@ -13,10 +15,10 @@ main:
     url: https://groups.google.com/forum/#!forum/governance-foundation
   - title: "Chat"
     url: https://gitter.im/governance-foundation/community
-  - title: "About"
-    url: /about/
   - title: "Search"
     url: /search/
+  - title: "About"
+    url: /about/
 
 #frameworks links
 frameworks:
@@ -30,7 +32,7 @@ frameworks:
         description: "Toolkit for Enterprise Architecture"
         url: /frameworks/pragmaticea
 
-#frameworks links
+#governance links
 governance:
   - title: Governance
     url: /governance/
@@ -60,3 +62,11 @@ governance:
         url: /governance/information-technology
       - title: "Systemic Governance"
         url: /governance/systemic
+
+#gxp links
+gxp:
+  - title: Governance Experience Platform
+    url: /gxp/
+    children:
+      - title: "Governance Experience Platform"
+        url: /gxp/
