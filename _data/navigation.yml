@@ -37,8 +37,18 @@ frameworks:
       - title: "Panorama 360"
         url: /frameworks/panorama360
         description: "Business Architecture, Process Models & Methodologies"
+      - title: "TRAK"
+        url: /frameworks/panorama360
+        description: "An enterprise architecture framework."
+      - title: "MODAF UK"
+        url: /frameworks/modaf
+        description: "Ministry of Defence Architecture Framework UK"
+      - title: DoDAF US"
+        url: /frameworks/dodaf
+        description: "Ministry of Defence Architecture Framework UK"
 
-        #governance links
+
+#governance links
 governance:
   - title: Governance
     url: /governance/
