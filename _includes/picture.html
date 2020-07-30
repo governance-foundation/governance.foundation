@@ -1,0 +1,6 @@
+{% assign img = include.img %}
+{% assign imgpath = img | remove: img.extname %}
+<picture>
+    <source type="image/webp" srcset="{{ imgpath }}.webp" >
+    <img src="{{ img }}" alt="{{ include.alt }}" />
+</picture>
