@@ -17,6 +17,18 @@ var store = [{
         "url": "https://governance.foundation/frameworks/pragmaticea",
         "teaser": null
       },{
+        "title": "Avancier Methods",
+        "excerpt":"    Project Lead   Graham Berrisford   Description   Enterprise and Solution Architecture.   Artifacts      Avancier Methods  ","categories": ["governance","framework"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/frameworks/avancier",
+        "teaser": null
+      },{
+        "title": "Panorama 360",
+        "excerpt":"    Project Lead   Pierre Gagné   Description   Enterprise and Solution Architecture.   Artifacts      Panorama 360  ","categories": ["governance","framework"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/frameworks/panorama360",
+        "teaser": null
+      },{
         "title": "Governance",
         "excerpt":"These pages are dedicated to provide foundation aknowledge about concepts of Governance. Table of Contents Introduction - What is Governance? Governance Origin - Origin of the word Governance. Governance Paradigm Governance Evolution Governance Perspectives - What are some Governance Perspectives? Global Governance Modern Governance Corporate Governance Enterprise Governance IT Governance...","categories": ["governance","framework"],
         "tags": ["tools"],
@@ -87,6 +99,12 @@ var store = [{
         "excerpt":"Meyer stipulates that an alternative to governance through oversight is systemic governance, implemented by replacing oversight controls with systemic controls to induce desired behaviours (Meyer, 2004). Meyer further associates the systemic controls with forces prevalent in the market economy, forces that align every business with the needs of its clients...","categories": ["governance","framework"],
         "tags": ["tools"],
         "url": "https://governance.foundation/governance/systemic",
+        "teaser": null
+      },{
+        "title": "Governance Experience Platform",
+        "excerpt":"Organisations are socio-technical ecostems that relly on data to make decisions. GXP will provide a data platfrom for organisations that will enchance decision making. GXP data platfrom will provide a source of truth for all orgnisational information that is used for decision making. This will enable oganisations to efficently measure...","categories": ["governance","foundation"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/",
         "teaser": null
       },{
         "title": "Governance Foundation",
