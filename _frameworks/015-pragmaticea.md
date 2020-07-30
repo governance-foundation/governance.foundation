@@ -2,7 +2,6 @@
 layout: single
 title: "PragmaticEA"
 permalink: /frameworks/pragmaticea
-excerpt: "Exploring world of Governance Frameworks and myriad of coined concepts."
 author: max
 comments: true
 categories:
