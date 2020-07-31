@@ -44,8 +44,8 @@
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 
 {% if seo_url %}
-  <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
-  <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
+  <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" | split: ':' | shift | join: ':'  }}">
+  <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/"  | split: ':' | shift | join: ':'  }}">
 {% endif %}
 
 {% if page.excerpt %}
@@ -112,10 +112,10 @@
   {% endif %}
 {% endif %}
 {% if ogimage contains ".webp" %}
-  {% assign ogimage = ogimage | split: "." | reverse | shift | reverse | join "." | append: ".jpg" %}
+  {% assign ogimage = ogimage | split: "." | reverse | shift | reverse | join: "." | append: ".jpg" %}
 {% endif %}
 {% if ogimage %}
-<meta property="og:image" content="{{ ogimage }}">
+<meta property="og:image" content="{{ ogimage | prepend: seo_url | split: ':' | shift | join: ':' }}">
 {% endif %}
 
 {% if page.date %}
