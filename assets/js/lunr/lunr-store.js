@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "PragmaticEA",
-        "excerpt":"    Project Lead   Kevin Lee Smith   Description   A quick start toolkit necessary to begin and sustain an Enterprise Architecture.   Artifacts      The Pragmatic Family of Frameworks  ","categories": ["governance","framework"],
+        "excerpt":"Project Lead Kevin Lee Smith Description A quick start toolkit necessary to begin and sustain an Enterprise Architecture. Artifacts The Pragmatic Family of Frameworks A frmework for conceptualising and scoring enterpise. Applies scoring methodology and uses MS Office products for enabling tools. Primarily focused at managment. Lots of anecdotal evidence....","categories": ["governance","framework"],
         "tags": ["tools"],
         "url": "https://governance.foundation/frameworks/pragmaticea",
         "teaser": null
