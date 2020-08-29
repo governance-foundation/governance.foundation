@@ -79,4 +79,9 @@ How are they currently paying?
 How would they prefer to pay?
 How much does each Revenue Stream contribute to overall revenues?
 
+Applicaiton Architecture
+What API is is called by give API
 
+Data Architecture
+
+Infrastrucutre Architecture
