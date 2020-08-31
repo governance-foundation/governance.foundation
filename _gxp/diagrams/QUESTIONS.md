@@ -1,102 +1,107 @@
+# Questions 
 
-# Organisaiton
+Following is a list of that organisations face and need to be able to answer with help of people.
 
-How buerecratic is my organisaitons?
-Do we have a politics problem, that deviates our people from our mission? - Measure of claims by resource
-Do people choose paths that are not optimal for our mission? - Measure of claims by resource
+## Organisaiton
 
-# Adaptive
+* How buerecratic is my organisaitons?
+* Do we have a politics problem, that deviates our people from our mission? - Measure of claims by resource
+* Do people choose paths that are not optimal for our mission? - Measure of claims by resource
 
-Why is Metadata Manager needed?
+## Adaptive
 
-Who is using the data?
-Which data elements are used where?
-What is the quality of the data?
-What is the definition of an entity or attribute?
-What processes use a specific object?
-What applications will be impacted if my customer data "source" (feed) changes?
-Which business functions/processes are supported by customer data?
-Which data elements are in compliance with industry standards?
+* Why is Metadata Manager needed?
+
+* Who is using the data?
+* Which data elements are used where?
+* What is the quality of the data?
+* What is the definition of an entity or attribute?
+* What processes use a specific object?
+* What applications will be impacted if my customer data "source" (feed) changes?
+* Which business functions/processes are supported by customer data?
+* Which data elements are in compliance with industry standards?
 
 
-# Business Model Canvas
+## Business Model Canvas
 
-## Key Partners
+These come from BMC.
 
-Who are our Key Partners?
-Who are our key suppliers?
-Which Key Resources are we acquiring from partners?
-Which Key Activities do partners perform?
+### Key Partners
 
-## Key Activities
+* Who are our Key Partners?
+* Who are our key suppliers?
+* Which Key Resources are we acquiring from partners?
+* Which Key Activities do partners perform?
 
-What Key Activities do our Value Propositions require?
-Our Distribution Channels?
-Customer Relationships?
-Revenue streams?
+### Key Activities
 
-## Key Resources
+* What Key Activities do our Value Propositions require?
+* Our Distribution Channels?
+* Customer Relationships?
+* Revenue streams?
 
-What Key Resources do our Value Propositions require?
-Our Distribution Channels? Customer Relationships?
-Revenue Streams?
+### Key Resources
 
-## Value Propositions
+* What Key Resources do our Value Propositions require?
+* Our Distribution Channels? Customer Relationships?
+* Revenue Streams?
 
-What value do we deliver to the customer?
-Which one of our customer’s problems are we helping to solve?
-What bundles of products and services are we offering to each Customer Segment?
-Which customer needs are we satisfying?
+### Value Propositions
 
-## Cusomer Relationships
+* What value do we deliver to the customer?
+* Which one of our customer’s problems are we helping to solve?
+* What bundles of products and services are we offering to each Customer Segment?
+* Which customer needs are we satisfying?
 
-What type of relationship does each of our Customer Segments expect us to establish and maintain with them? Which ones have we established?
-How are they integrated with the rest of our business model?
-How costly are they?
+### Cusomer Relationships
 
-# Channels
+* What type of relationship does each of our Customer Segments expect us to establish and maintain with them? Which ones have we established?
+* How are they integrated with the rest of our business model?
+* How costly are they?
 
-Through which Channels do our Customer Segments
-want to be reached?
-How are we reaching them now?
-How are our Channels integrated?
-Which ones work best?
-Which ones are most cost-efficient?
-How are we integrating them with customer routines?
+## Channels
 
-## Cusomer Segments
+* Through which Channels do our Customer Segments
+* want to be reached?
+* How are we reaching them now?
+* How are our Channels integrated?
+* Which ones work best?
+* Which ones are most cost-efficient?
+* How are we integrating them with customer routines?
 
-Who are our Key Partners?
-Who are our key suppliers?
-Which Key Resources are we acquiring from partners?
-Which Key Activities do partners perform?
+### Cusomer Segments
 
-## Cost Structure
+* Who are our Key Partners?
+* Who are our key suppliers?
+* Which Key Resources are we acquiring from partners?
+* Which Key Activities do partners perform?
 
-What are the most important costs inherent in our business model?
-Which Key Resources are most expensive?
-Which Key Activities are most expensive?
+### Cost Structure
 
-## Revenue Streams
+* What are the most important costs inherent in our business model?
+* Which Key Resources are most expensive?
+* Which Key Activities are most expensive?
 
-For what value are our customers really willing to pay?
-For what do they currently pay?
-How are they currently paying?
-How would they prefer to pay?
-How much does each Revenue Stream contribute to overall revenues?
+### Revenue Streams
 
-# Application Architecture
+* For what value are our customers really willing to pay?
+* For what do they currently pay?
+* How are they currently paying?
+* How would they prefer to pay?
+* How much does each Revenue Stream contribute to overall revenues?
 
-What API is is called by give API?
-How complex is you applications?
-How many system do not have API defined?
-What API does a given system uses?
+## Application Architecture
 
-# Data Architecture
+* What API is is called by give API?
+* How complex is you applications?
+* How many system do not have API defined?
+* What API does a given system uses?
 
-How complex is you data?
-How many systems do not have data dictionaries?
+## Data Architecture
 
-# Infrastrucutre Architecture
+* How complex is you data?
+* How many systems do not have data dictionaries?
 
-How complex is you infrastrcuture?
+## Infrastrucutre Architecture
+
+* How complex is you infrastrcuture?
