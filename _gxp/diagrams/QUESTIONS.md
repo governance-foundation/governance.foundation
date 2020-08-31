@@ -4,7 +4,7 @@ Following is a list of that organisations face and need to be able to answer wit
 
 ## Organisaiton
 
-* How buerecratic is my organisaitons?
+* How buerecratic is my organisaiton?
 * Do we have a politics problem, that deviates our people from our mission? - Measure of claims by resource
 * Do people choose paths that are not optimal for our mission? - Measure of claims by resource
 
