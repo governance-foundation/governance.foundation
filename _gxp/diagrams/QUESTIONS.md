@@ -1,4 +1,10 @@
 
+# Organisaiton
+
+How buerecratic is my organisaitons?
+Do we have a politics problem, that deviates our people from our mission? - Measure of claims by resource
+Do people choose paths that are not optimal for our mission? - Measure of claims by resource
+
 # Adaptive
 
 Why is Metadata Manager needed?
@@ -79,9 +85,18 @@ How are they currently paying?
 How would they prefer to pay?
 How much does each Revenue Stream contribute to overall revenues?
 
-Applicaiton Architecture
-What API is is called by give API
+# Application Architecture
 
-Data Architecture
+What API is is called by give API?
+How complex is you applications?
+How many system do not have API defined?
+What API does a given system uses?
 
-Infrastrucutre Architecture
+# Data Architecture
+
+How complex is you data?
+How many systems do not have data dictionaries?
+
+# Infrastrucutre Architecture
+
+How complex is you infrastrcuture?
