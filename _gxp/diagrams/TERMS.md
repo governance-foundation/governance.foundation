@@ -99,7 +99,7 @@ Main Type of Cultural Knowledge
 
 * Stakeholder
   * Government
-  * Customer
+  * Customer / Customer Segments
   * Community
   * Supplier
   * Investor
