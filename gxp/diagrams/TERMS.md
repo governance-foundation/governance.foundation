@@ -1,7 +1,10 @@
 # Terms
 
+## System
 
-# Structure
+Without a system in place people are not held accountable to mission alignment.
+
+## Structure
 
 * Vision
 * Mission
@@ -26,7 +29,7 @@ values are the principles or beliefs that will guide the organization in fulfill
 
 ## Goal
 
-Ket Result Area
+Ket Result Area, what you would like to accomplish
 
 is
 
@@ -36,6 +39,8 @@ is
 
 ## Objective
 
+Improvment that will take place
+
 is
 
 * specific
@@ -44,19 +49,22 @@ is
 
 ## Strategy
 
-How to archive Goals
+Why and How to archive Goals
 
 plans that will help to achieve goals
 
 ## Tactics
 
-How to achive Goals
+How to achive Goals, Specific Activities
+
+is 
+
+* actionable
+* measurable
 
 Tricks and patterns developed to drive and support the strategy
 
-
-
-Social
+## Social
 
 Hight Context
 
@@ -78,10 +86,12 @@ Low Contex
 * Task-centered. Decisions and activities focus around what needs to be done, division of responsibilities.
 
 The Structure of Relationships
+
 * High:   Dense, intersecting networks and longterm relationships, strong boundaries, relationship more important than task
 * Low:   Loose, wide networks, shorter term, compartmentalized relationships, task more important than relationship
 
 Main Type of Cultural Knowledge
+
 * High:  More knowledge is below the waterline--implicit, patterns that are not fully conscious, hard to explain even if you are a member of that culture
 * Low:   More knowledge is above the waterline--explicit, consciously organized
 
@@ -89,7 +99,7 @@ Main Type of Cultural Knowledge
 
 * Stakeholder
   * Government
-  * Customer
+  * Customer / Customer Segments
   * Community
   * Supplier
   * Investor
@@ -102,3 +112,18 @@ Main Type of Cultural Knowledge
   * User
   * Shareholder
   * Local Authority
+
+## Business Architecture
+
+* Strategic Context: The core reason the company exists and its strategic blueprint.
+* Business Context: The overall enterprise information that is pertinent to the effectiveness of business architecture.
+* Business Capabilities: The business capabilities capture “What” a business does.
+* Value Streams: Value streams or Stakeholder Journeys capture the “How” business activities come together to serve the end-to-end needs of stakeholders.
+* Data Context: Data is the lifeblood of an organization and juxtaposing data to other business architecture elements help provide transparency of information flows.
+* IT Context: IT enables and powers the business capabilities and value streams and overlay of IT information creates the underpinnings of how capabilities and value streams come to life.
+
+## Knowledge Quality Indicators
+
+* Knowledge Information Quality Indicator (KIQI) provides an ability to understand quality of information on which decisions are made
+* Knowledge Information Contribution Indicator (KICI) provides an ability to understand individual contribution to shared knowledge
+* Knowledge Information Usage Indicator (KIUI) provides an ability to understand how individual contribution are being leveraged from shared knowledge, this will allow tracking and rewarding prductised knowledge patterns. This would provide an incentive to productise knowledge for the shared knowledge.

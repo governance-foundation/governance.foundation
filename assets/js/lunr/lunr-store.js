@@ -125,6 +125,54 @@ var store = [{
         "url": "https://governance.foundation/gxp/",
         "teaser": null
       },{
+        "title": "Model - Overview",
+        "excerpt":"This model provides a high-level structure of information domains. Social - provides information domain for the social network analysis within an organisation. Business - provides a base information element for business definition and knowledge management. Service - provides a relationship and a model for generalising business into services and linking...","categories": ["governance","foundation","model","overview"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/model/overview",
+        "teaser": null
+      },{
+        "title": "Model - Collaboration",
+        "excerpt":"This model provides a high-level structure of how organisational knowledge experiences will contribute information into the model. In an organisation, each person will be using a tailored experience suited to their job; doing this will contribute information into a shared knowledge network. This information will part of a knowledge network...","categories": ["governance","foundation","model","overview"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/model/collaboration",
+        "teaser": null
+      },{
+        "title": "Model - Business",
+        "excerpt":"This information domain is for providing a base schema for general modelling of business architecture. Following classic perspectives have been leveraged to develop this: Enterprise and Strategic Planning Audit Management Performance Management Practice Management Policy Management Resource Management Compliance Management Organisational and Traning Development Risk and Reward Management Exception Management...","categories": ["governance","foundation","model","business"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/model/business",
+        "teaser": null
+      },{
+        "title": "Model - Service",
+        "excerpt":"This provides high level structure of service information domain.        ","categories": ["governance","foundation","model","service"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/model/service",
+        "teaser": null
+      },{
+        "title": "Model - Application",
+        "excerpt":"This provides high level structure of application information domain.        ","categories": ["governance","foundation","model","application"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/model/application",
+        "teaser": null
+      },{
+        "title": "Model - Deployment",
+        "excerpt":"This provides high level structure of deployment information domain.        ","categories": ["governance","foundation","model","deployment"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/model/deployment",
+        "teaser": null
+      },{
+        "title": "Model - Data",
+        "excerpt":"This provides high level structure of data information domain.        ","categories": ["governance","foundation","model","data"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/model/data",
+        "teaser": null
+      },{
+        "title": "Model - Infrastructre",
+        "excerpt":"This provides high level structure of infrastructure information domain.        ","categories": ["governance","foundation","model","infrastructure"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/model/infrastructure",
+        "teaser": null
+      },{
         "title": "Governance Foundation",
         "excerpt":"Welcome to Governance Foundation!   This site will aim to collate relevant knowledge that provides a foundation for developing governance frameworks.   As well as providing insight on available governance frameworks, a new concept’s for governance will be explored.   Welcome to the journey!  ","categories": ["blog"],
         "tags": ["governance","blog"],
