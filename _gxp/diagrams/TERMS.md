@@ -122,7 +122,7 @@ Main Type of Cultural Knowledge
 * Data Context: Data is the lifeblood of an organization and juxtaposing data to other business architecture elements help provide transparency of information flows.
 * IT Context: IT enables and powers the business capabilities and value streams and overlay of IT information creates the underpinnings of how capabilities and value streams come to life.
 
-## Indicators
+## Knowledge Quality Indicators
 
 * Knowledge Information Quality Indicator (KIQI) provides an ability to understand quality of information on which decisions are made
 * Knowledge Information Contribution Indicator (KICI) provides an ability to understand individual contribution to shared knowledge
