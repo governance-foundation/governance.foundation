@@ -11,7 +11,7 @@ tags:
   - tools
 ---
 
-![status](https://img.shields.io/badge/status-in%20review-orange) [![source](https://img.shields.io/badge/source-online-green)](https://www.pragmaticea.com/)
+![status](https://img.shields.io/badge/status-done-green) [![source](https://img.shields.io/badge/source-online-green)](https://www.pragmaticea.com/)
 
 ## Project Lead
 
