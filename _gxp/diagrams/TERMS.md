@@ -121,3 +121,9 @@ Main Type of Cultural Knowledge
 * Value Streams: Value streams or Stakeholder Journeys capture the “How” business activities come together to serve the end-to-end needs of stakeholders.
 * Data Context: Data is the lifeblood of an organization and juxtaposing data to other business architecture elements help provide transparency of information flows.
 * IT Context: IT enables and powers the business capabilities and value streams and overlay of IT information creates the underpinnings of how capabilities and value streams come to life.
+
+## Indicators
+
+* Knowledge Information Quality Indicator (KIQI) provides an ability to understand quality of information on which decisions are made
+* Knowledge Information Contribution Indicator (KICI) provides an ability to understand individual contribution to shared knowledge
+* Knowledge Information Usage Indicator (KIUI) provides an ability to understand how individual contribution are being leveraged from shared knowledge, this will allow tracking and rewarding prductised knowledge patterns. This would provide an incentive to productise knowledge for the shared knowledge.
