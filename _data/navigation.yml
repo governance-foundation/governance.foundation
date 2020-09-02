@@ -45,7 +45,7 @@ frameworks:
       - title: "MODAF UK"
         url: /frameworks/modaf
         description: "Ministry of Defence Architecture Framework UK"
-      - title: DoDAF US"
+      - title: "DoDAF US"
         url: /frameworks/dodaf
         description: "Ministry of Defence Architecture Framework UK"
 
