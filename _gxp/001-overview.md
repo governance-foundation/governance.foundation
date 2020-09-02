@@ -33,4 +33,4 @@ Following pages are focused on providing modelling concepts that will be a found
 
 ## Table of Contents
 
-{% include nav_list.html nav="governance" navtype="ol" navstyle="list-style-type: decimal" childrenFor="/gxp/" showtitle=false %}
+{% include nav_list.html nav="gxp" navtype="ol" navstyle="list-style-type: decimal" childrenFor="/gxp/" showtitle=false %}

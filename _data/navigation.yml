@@ -86,5 +86,19 @@ gxp:
   - title: Governance Experience Platform
     url: /gxp/
     children:
-      - title: "Governance Experience Platform"
-        url: /gxp/
+      - title: "Model - Overview"
+        url: /gxp/model/overview
+      - title: "Model - Collaboration"
+        url: /gxp/model/collaboration
+      - title: "Model - Business"
+        url: /gxp/model/business
+      - title: "Model - Service"
+        url: /gxp/model/service
+      - title: "Model - Application"
+        url: /gxp/model/application
+      - title: "Model - Deployment"
+        url: /gxp/model/deployment
+      - title: "Model - Data"
+        url: /gxp/model/data
+      - title: "Model - Infrastructure"
+        url: /gxp/model/infrastructure
