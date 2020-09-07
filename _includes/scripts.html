@@ -27,6 +27,10 @@
 
 {% include analytics.html %}
 <!--START: comments-providers/scripts-->
+<!-- site.comments.disqus.shortname: {{ site.comments.disqus.shortname }} -->
+<!-- page.comments: {{ page.comments }} -->
+<!-- site.comments.provider: {{ site.comments.provider }} -->
+<!-- site.comments.provider and page.comments: {{ site.comments.provider and page.comments }} -->
 {% include /comments-providers/scripts.html %}
 <!--END: comments-providers/scripts-->
 {% if site.after_footer_scripts %}
