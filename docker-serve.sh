@@ -8,4 +8,4 @@ rvm install ruby --latest
 gem install i18n jekyll bundler jemoji nokogiri -n /usr/local/bin
 
 bundle install
-bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling
+bundle exec jekyll serve --host 0.0.0.0 --port 8100 --livereload --force_polling
