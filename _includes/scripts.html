@@ -1,3 +1,4 @@
+<!--START: scripts-->
 {% if site.footer_scripts %}
   {% for script in site.footer_scripts %}
     {% if script contains "://" %}
@@ -25,8 +26,9 @@
 {% endif %}
 
 {% include analytics.html %}
+<!--START: comments-providers/scripts-->
 {% include /comments-providers/scripts.html %}
-
+<!--END: comments-providers/scripts-->
 {% if site.after_footer_scripts %}
   {% for script in site.after_footer_scripts %}
     {% if script contains "://" %}
@@ -37,3 +39,4 @@
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% endif %}
+<!--END: scripts-->
