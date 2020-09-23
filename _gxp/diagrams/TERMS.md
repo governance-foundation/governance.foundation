@@ -127,3 +127,15 @@ Main Type of Cultural Knowledge
 * Knowledge Information Quality Indicator (KIQI) provides an ability to understand quality of information on which decisions are made
 * Knowledge Information Contribution Indicator (KICI) provides an ability to understand individual contribution to shared knowledge
 * Knowledge Information Usage Indicator (KIUI) provides an ability to understand how individual contribution are being leveraged from shared knowledge, this will allow tracking and rewarding prductised knowledge patterns. This would provide an incentive to productise knowledge for the shared knowledge.
+
+## A Product
+
+Is
+
+* a good
+* an idea
+* a method
+* informaiton
+* an object
+* service
+* project delivery (internal/external)
