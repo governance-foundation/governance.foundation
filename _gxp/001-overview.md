@@ -31,6 +31,17 @@ GXP data platform will provide a source of truth for all organisational informat
 
 Following pages are focused on providing modelling concepts that will be a foundation of knowledge within an enterprise.
 
+## Why Model
+
+Provide initial cognitive structure that can be used to align thoghts.
+
+## Definitions
+
+* [Terms](TERMS.md) - definition of terms used.
+* [Measurment](MEASURMENT.md) - how do we measure things.
+* [Questions](QUESTIONS.md) - list of questions that would need to be anwswered by the model.
+
+
 ## Table of Contents
 
 {% include nav_list.html nav="gxp" navtype="ol" navstyle="list-style-type: decimal" childrenFor="/gxp/" showtitle=false %}
