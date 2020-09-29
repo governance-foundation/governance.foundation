@@ -4,15 +4,6 @@
 
 Without a system in place people are not held accountable to mission alignment.
 
-## Structure
-
-* Vision
-* Mission
-* Goals
-* Objectives
-* Strategies
-* Tactics
-
 https://www.itsguru.com/difference-goal-objective-strategy-plan/
 
 ## Vision
@@ -20,6 +11,14 @@ https://www.itsguru.com/difference-goal-objective-strategy-plan/
 a vision is an expression of what the organization wants to become, what it wants to be, to be known as or to be known for. It is the long-term objective of the organization.
 
 ## Mission
+
+Related:
+
+* Idea - what the organisaiton pursues and belives in
+* Story - a shared narritive about the organisation
+* Belief
+* Brand - perspective of organisation sought and perceived
+* Ambition
 
 a mission is a quest, a journey to a destination in which the whole organization is engaged. The mission statement tells us what our goal is – where are we going. It provides the compass setting for the organization. It is the foundation of effective leadership. It is how the organization is going to achieve its vision.
 
@@ -139,3 +138,29 @@ Is
 * an object
 * service
 * project delivery (internal/external)
+
+## Corporate Strategies
+
+* Mission
+* Strategies
+* Tactics
+
+## Croporate Goals
+
+* Vision
+* Goals
+* Objectives
+
+## Capability
+
+* an ability to perform or achive certain outcomes
+
+## Process
+
+Related: Journey
+
+* orchestration of activities internal or external
+
+## Product
+
+* output of organisation that is of measurable value

@@ -105,3 +105,24 @@ These come from BMC.
 ## Infrastrucutre Architecture
 
 * How complex is you infrastrcuture?
+
+## Organisational Idenity
+
+Strategic Intent
+
+* Who are we, why do we exit, what matters to us?
+* What makes us diffrent and unique?
+* How do we help society?
+* How are we being preceived?
+
+## Organisational Structure
+
+* What makes all the parts in our enterprise work together?
+* What are are we capable of achieving?
+* How do we collaborate as a team?
+
+## Organisational Experience
+
+* What is our role in people live's
+* What value do we create?
+* What is the result of out work?
