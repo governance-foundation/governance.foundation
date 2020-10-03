@@ -4,7 +4,9 @@ cd /build/source
 
 export LANG=en_US.UTF-8
 
-rvm install ruby --latest
+rvm get stable
+rvm use ruby --install --default
+
 gem install jekyll bundler i18n jemoji nokogiri -n /usr/local/bin
 
 bundle install
