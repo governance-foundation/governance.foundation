@@ -86,7 +86,9 @@ yandex_site_verification :
 naver_site_verification  :
 
 logo: "/assets/images/site-logo.png"
-
+head_scripts:
+  - /assets/scripts/lightbox.js
+  
 # Social Sharing
 twitter:
   username               :
