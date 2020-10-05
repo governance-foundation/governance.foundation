@@ -46,14 +46,13 @@ This is the meta model in the database, its used to drive all planning knowledge
 * Goals - listing of goals as per Goals (Purpose, Benefit, Values) and Measures
 * Measures - measure for a goal? What about the measure for outputs?
 * Knowledge - is all of the conceptual data in the model?
-* Strategies - 
+* Strategies - meta for strategies
 * Tactics - implements strategies
 * Logical - these are all about the physical structure
 * Facts - models of data and its trust levels?
 * Databases - this is a just the data store for an application, its interacted to via applications?
 * Process - does this represent business process across capabilities?
 * Application - these are technical systems that people use.
-
 
 ## Artifacts
 
