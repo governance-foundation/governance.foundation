@@ -47,6 +47,12 @@ var store = [{
         "url": "https://governance.foundation/frameworks/dodaf",
         "teaser": null
       },{
+        "title": "Ripose and Casper",
+        "excerpt":"Project Lead Charles Meyer Richter Description The Ripose technique enables the rapid clarification of your organization’s objectives, knowledge and strategies by helping you identify, document and manage three types of information - explicit, tacit and hidden. Ripose provides the perspective for social-process, and Caspar provides a tool that matches Ripose...","categories": ["governance","framework"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/frameworks/ripose-casper",
+        "teaser": null
+      },{
         "title": "Governance",
         "excerpt":"These pages are dedicated to provide foundation aknowledge about concepts of Governance. Table of Contents Introduction - What is Governance? Governance Origin - Origin of the word Governance. Governance Paradigm Governance Evolution Governance Perspectives - What are some Governance Perspectives? Global Governance Modern Governance Corporate Governance Enterprise Governance IT Governance...","categories": ["governance","framework"],
         "tags": ["tools"],
@@ -126,13 +132,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Model - Overview",
-        "excerpt":"This model provides a high-level structure of information domains. Social - provides information domain for the social network analysis within an organisation. Business - provides a base information element for business definition and knowledge management. Service - provides a relationship and a model for generalising business into services and linking...","categories": ["governance","foundation","model","overview"],
+        "excerpt":"This model provides a high-level structure of information domains. Social - provides information domain for the social network analysis within an organisation, is modelling the social element of the organisation that are outside of the structural aspect of the organisation. Its aim to provide an understanding of how the social...","categories": ["governance","foundation","model","overview"],
         "tags": ["tools"],
         "url": "https://governance.foundation/gxp/model/overview",
         "teaser": null
       },{
+        "title": "Model - Layers",
+        "excerpt":"Each of the high-level structure of information domains needs to be viewed with an information quality perspective. This would allow linking data in each domain to underlying information and would enable assessment of quality for each structure. The quality perspective extends to object metadata, relationships and leverage of data for...","categories": ["governance","foundation","model","overview"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/model/layers",
+        "teaser": null
+      },{
         "title": "Model - Collaboration",
-        "excerpt":"This model provides a high-level structure of how organisational knowledge experiences will contribute information into the model. In an organisation, each person will be using a tailored experience suited to their job; doing this will contribute information into a shared knowledge network. This information will part of a knowledge network...","categories": ["governance","foundation","model","overview"],
+        "excerpt":"This model provides a high-level structure of how organisational knowledge experiences will contribute information into the model. Its aim is to provid a data model for different purposes that are contributed by different people with different jobs. This can be understood as: A business taxonomy Governance enabler Communication platform Knowledge...","categories": ["governance","foundation","model","overview"],
         "tags": ["tools"],
         "url": "https://governance.foundation/gxp/model/collaboration",
         "teaser": null
@@ -173,6 +185,36 @@ var store = [{
         "url": "https://governance.foundation/gxp/model/infrastructure",
         "teaser": null
       },{
+        "title": "Diagrams Overview",
+        "excerpt":"Following directory contains all of the digrams used to provide modelling for GXP platform. Editing and Using To edit diagrams use app.diagrams.net and chose “Github” as a source of your diagrams. This will allow you to open and create diagrams directly in git. Every will allow you to save diagrams...","categories": ["governance","foundation"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/diagrams/overview",
+        "teaser": null
+      },{
+        "title": "Measurement",
+        "excerpt":"Type of Measurement by Product Growth of Contribution Margin % of Total Contirbution Margin Growth in Market Share Market Share (% of Market)) Growt of Revienue % of Total Revenue Time to value Expaansion revenue Average revenue per user Net churn Virality Network Effect Number of user actions per sesison...","categories": ["governance","foundation"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/diagrams/measurement",
+        "teaser": null
+      },{
+        "title": "Questions",
+        "excerpt":"Following is a list of that organisations face and need to be able to answer with the help of people. Organisation How buerecratic is my organisaiton? Do we have a politics problem, that deviates our people from our mission? - Measure of claims by resource Do people choose paths that...","categories": ["governance","foundation"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/diagrams/questions",
+        "teaser": null
+      },{
+        "title": "Terms",
+        "excerpt":"System Without a system, in place, people are not held accountable to mission alignment. https://www.itsguru.com/difference-goal-objective-strategy-plan/ Vision A vision is an expression of what the organisation wants to become, what it wants to be, to be known as or to be known for. It is the long-term objective of the organisation....","categories": ["governance","foundation"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/diagrams/terms",
+        "teaser": null
+      },{
+        "title": "Viewpoints",
+        "excerpt":"Different perspecitves that can be used to view the finromation. Review Tool / Perspective Internal External Outcome Activity Balance Scorecards x x     Value Chain x x     Hoshin Kanri x x     Business Model Canvas x x x   Business Motivation Model x x x  ...","categories": ["governance","foundation"],
+        "tags": ["tools"],
+        "url": "https://governance.foundation/gxp/diagrams/viewpoints",
+        "teaser": null
+      },{
         "title": "Governance Foundation",
         "excerpt":"Welcome to Governance Foundation!   This site will aim to collate relevant knowledge that provides a foundation for developing governance frameworks.   As well as providing insight on available governance frameworks, a new concept’s for governance will be explored.   Welcome to the journey!  ","categories": ["blog"],
         "tags": ["governance","blog"],
@@ -189,5 +231,11 @@ var store = [{
         "excerpt":"On This Page Pathology of Organisational Miscommunication Sharing Knowledge in Socio-Technical Organisations Organisational Deafness Governance Reborn Beyond Governance There is a clear need for a new way to help to govern organisations. This need is apparent from the continual search for efficiencies and effectiveness of organisations which demonstrated through transformations...","categories": ["blog"],
         "tags": ["governance","blog"],
         "url": "https://governance.foundation/blog/2020/07/15/governance-experience-platform",
+        "teaser": null
+      },{
+        "title": "Why Frameworks Fail?",
+        "excerpt":"A framework is an aggregation of knowledge, its a mechanism for converting knowledge into a repeatable pattern, productising knowledge and turning into a commodity product. A Framework aims to provide a way to make knowledge portable and accessible in a way that enables others without the immediate need to understand...","categories": ["blog"],
+        "tags": ["governance","blog"],
+        "url": "https://governance.foundation/blog/2020/10/02/why-frameoworks-fail",
         "teaser": null
       }]
