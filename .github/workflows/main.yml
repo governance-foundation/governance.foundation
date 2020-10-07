@@ -81,7 +81,7 @@ jobs:
         run: |
           bundle install
           bundle exec jekyll build --verbose --trace
-          bundle exec htmlproofer --verbosity debug --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
+          bundle exec htmlproofer --log_level :debug --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
       - name: deploy
         if: env.ONLY_DIAGRAMS == 'FALSE'
         uses: peaceiris/actions-gh-pages@v3
