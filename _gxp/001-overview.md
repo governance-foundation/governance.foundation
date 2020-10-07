@@ -37,11 +37,15 @@ Provide initial cognitive structure that can be used to align thoghts.
 
 ## Definitions
 
-* [Terms](TERMS.md) - definition of terms used.
-* [Measurment](MEASURMENT.md) - how do we measure things.
-* [Questions](QUESTIONS.md) - list of questions that would need to be anwswered by the model.
-
+* [Terms](/gxp/diagrams/terms) - definition of terms used.
+* [Measurment](/gxp/diagrams/measurment) - how do we measure things.
+* [Questions](/gxp/diagrams/questions) - list of questions that would need to be anwswered by the model.
+* [Viewpoints](/gxp/diagrams/viewpoints) - frameworks for viewpoints to present information in the model.
 
 ## Table of Contents
 
 {% include nav_list.html nav="gxp" navtype="ol" navstyle="list-style-type: decimal" childrenFor="/gxp/" showtitle=false %}
+
+## Updating
+
+Seet [Diagrams Overview](/gxp/diagrams/overview) To update or add new model see the f
