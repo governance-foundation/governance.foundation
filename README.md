@@ -1,14 +1,12 @@
 # Governance Foundation
 
 [![build_status](https://github.com/governance-foundation/governance.foundation/workflows/build/badge.svg)](https://github.com/governance-foundation/governance.foundation/actions?workflow=build)
-[![github license](https://img.shields.io/github/license/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation) 
-[![github issues](https://img.shields.io/github/issues/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation) 
-[![github last commit](https://img.shields.io/github/last-commit/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation) 
-[![github repo size](https://img.shields.io/github/repo-size/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation) 
+[![github license](https://img.shields.io/github/license/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation)
+[![github issues](https://img.shields.io/github/issues/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation)
+[![github last commit](https://img.shields.io/github/last-commit/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation)
+[![github repo size](https://img.shields.io/github/repo-size/governance-foundation/governance.foundation)](https://github.com/governance-foundation/governance.foundation)
 [![Gitter](https://badges.gitter.im/governance-foundation/community.svg)](https://gitter.im/governance-foundation/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Gitter](https://img.shields.io/badge/forum-Google-orange)](https://groups.google.com/forum/#!forum/governance-foundation)
-
-
 
 Project site project updates and knowledge articles.
 
@@ -60,12 +58,11 @@ bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling
 
 ```
 
-
-# Google Ads
+## Google Ads
 
 Config is located in `_data/advertising.yml` html should not need to be changed and located in `_includes/adds/adsense.html`
 
-# Project Structure Description
+## Project Structure Description
 
 Following is the description of important sections in the project. 
 
