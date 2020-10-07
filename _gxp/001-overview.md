@@ -31,9 +31,9 @@ GXP data platform will provide a source of truth for all organisational informat
 
 Following pages are focused on providing modelling concepts that will be a foundation of knowledge within an enterprise.
 
-## Why Model
+## Why do we need to model
 
-Provide initial cognitive structure that can be used to align thoghts.
+Provide initial cognitive structure that can be used as an informatio scafold when tramnsforming knowledge to information. Model provides a method for sharing knowledge and ability to test quality of knowledge.
 
 ## Definitions
 
