@@ -88,6 +88,8 @@ gxp:
     children:
       - title: "Model - Overview"
         url: /gxp/model/overview
+      - title: "Model - Layers"
+        url: /gxp/model/layers
       - title: "Model - Collaboration"
         url: /gxp/model/collaboration
       - title: "Model - Business"
