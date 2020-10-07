@@ -1,8 +1,19 @@
-# Questions 
+---
+layout: single
+title: "Questions"
+permalink: /gxp/diagrams/questions
+author: max
+comments: true
+categories:
+  - governance
+  - foundation
+tags:
+  - tools
+---
 
-Following is a list of that organisations face and need to be able to answer with help of people.
+Following is a list of that organisations face and need to be able to answer with the help of people.
 
-## Organisaiton
+## Organisation
 
 * How buerecratic is my organisaiton?
 * Do we have a politics problem, that deviates our people from our mission? - Measure of claims by resource
@@ -49,7 +60,7 @@ These come from BMC.
 ### Value Propositions
 
 * What value do we deliver to the customer?
-* Which one of our customer’s problems are we helping to solve?
+* Which one of our customer's problems are we helping to solve?
 * What bundles of products and services are we offering to each Customer Segment?
 * Which customer needs are we satisfying?
 
@@ -92,37 +103,38 @@ These come from BMC.
 
 ## Application Architecture
 
-* What API is is called by give API?
-* How complex is you applications?
-* How many system do not have API defined?
-* What API does a given system uses?
+* What API is called by given API?
+* How complex is your applications?
+* How many systems do not have API defined?
+* What API does a given system use?
 
 ## Data Architecture
 
-* How complex is you data?
+* How complex is your data?
 * How many systems do not have data dictionaries?
 
 ## Infrastrucutre Architecture
 
-* How complex is you infrastrcuture?
+* How complex is you infrastructure?
 
-## Organisational Idenity
+## Organisational Identity
 
 Strategic Intent
 
-* Who are we, why do we exit, what matters to us?
-* What makes us diffrent and unique?
+* Who are we? Why do we exist, what matters to us?
+* What makes us different and unique?
 * How do we help society?
-* How are we being preceived?
+* How are we being perceived?
 
 ## Organisational Structure
 
 * What makes all the parts in our enterprise work together?
-* What are are we capable of achieving?
+* What are we capable of achieving?
 * How do we collaborate as a team?
 
 ## Organisational Experience
 
 * What is our role in people live's
 * What value do we create?
-* What is the result of out work?
+* What is the result of our work?
+

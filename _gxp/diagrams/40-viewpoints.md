@@ -1,6 +1,15 @@
-# Dashboards
-
-# Viewpoints
+---
+layout: single
+title: "Viewpoints"
+permalink: /gxp/diagrams/viewpoints
+author: max
+comments: true
+categories:
+  - governance
+  - foundation
+tags:
+  - tools
+---
 
 Different perspecitves that can be used to view the finromation.
 
