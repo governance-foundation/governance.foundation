@@ -11,4 +11,4 @@ gem install jekyll bundler i18n jemoji nokogiri -n /usr/local/bin
 
 bundle install
 bundle exec jekyll build --verbose --trace
-bundle exec htmlproofer --verbose --trace --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
+bundle exec htmlproofer --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
