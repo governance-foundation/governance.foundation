@@ -27,19 +27,19 @@ Organisations are socio-technical ecosystems that rely on data to make decisions
 
 GXP will provide a data platform for organisations that will enhance decision making.
 
-GXP data platform will provide a source of truth for all organisational information that is used for decision making. This will enable organisations to efficiently measure their knowledge depth, and this will provide an effective method for driving knowledge discovery.
+GXP data platform will provide a source of truth for all organisational information that is used for decision making. This will enable organisations to measure their knowledge depth efficiently, and this will provide an effective method for driving knowledge discovery.
 
 Following pages are focused on providing modelling concepts that will be a foundation of knowledge within an enterprise.
 
 ## Why do we need to model
 
-Provide initial cognitive structure that can be used as an informatio scafold when tramnsforming knowledge to information. Model provides a method for sharing knowledge and ability to test quality of knowledge.
+Provide an initial cognitive structure that can be used as an information scaffold when transforming knowledge to information. The model provides a method for sharing knowledge and ability to test the quality of knowledge.
 
 ## Definitions
 
 * [Terms](/gxp/diagrams/terms) - definition of terms used.
 * [Measurement](/gxp/diagrams/measurement) - how do we measure things.
-* [Questions](/gxp/diagrams/questions) - list of questions that would need to be anwswered by the model.
+* [Questions](/gxp/diagrams/questions) - list of questions that would need to be answered by the model.
 * [Viewpoints](/gxp/diagrams/viewpoints) - frameworks for viewpoints to present information in the model.
 
 ## Table of Contents
@@ -48,4 +48,4 @@ Provide initial cognitive structure that can be used as an informatio scafold wh
 
 ## Updating
 
-Seet [Diagrams Overview](/gxp/diagrams/overview) To update or add new model see the f
+See [Diagrams Overview](/gxp/diagrams/overview) for instructions how to update and add diagrams.
