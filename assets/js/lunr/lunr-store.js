@@ -126,7 +126,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Governance Experience Platform",
-        "excerpt":"Organisations are socio-technical ecosystems that rely on data to make decisions. GXP will provide a data platform for organisations that will enhance decision making. GXP data platform will provide a source of truth for all organisational information that is used for decision making. This will enable organisations to efficiently measure...","categories": ["governance","foundation"],
+        "excerpt":"Organisations are socio-technical ecosystems that rely on data to make decisions. GXP will provide a data platform for organisations that will enhance decision making. GXP data platform will provide a source of truth for all organisational information that is used for decision making. This will enable organisations to measure their...","categories": ["governance","foundation"],
         "tags": ["tools"],
         "url": "https://governance.foundation/gxp/",
         "teaser": null
