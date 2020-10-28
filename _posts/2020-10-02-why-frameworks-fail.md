@@ -57,4 +57,8 @@ Even when roles are formally incentivised to maintain quality of information and
 
 Extending incentives beyond central authority in organisations are not feasible as it distracts others from their core activities. Furthermore, any form of generating and maintaining non-social information silos outside of main control function becomes a form of side-hustle. It's it a hard job to manage information without the support, and it's just easier to create social process gates to avoid the hassle.
 
-This situation places the organisation future at the mercy of social consequence, where its social selection of people that help along the journey defines its success.
+## Conclusion
+
+These and other factors place an organisation future at the mercy of social consequence, where its social selection of people that help along the journey defines its success. There is no quick solution; it means that organisations need to be very thorough when introducing frameworks into their organisations.
+
+Organisations are like people; their ability to understand a framework depend on their historical experience and acquired knowledge, so "uploading" framework knowledge into an organisation does not work like in the Matrix. GXP will explore this "upload" notion and how this could be possible in organisations of the future.
