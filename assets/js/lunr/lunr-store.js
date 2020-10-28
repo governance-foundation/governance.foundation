@@ -1,6 +1,6 @@
 var store = [{
         "title": "Governance Framework",
-        "excerpt":"These pages are the foundations that provide input to developing this site. These frameworks are listed in no particular order and are here as a reference a testament to the knowledge that people behind these frameworks have created. Table of Contents Architectural Thinking - Architectural Thinking Association PragmaticEA - Toolkit...","categories": ["governance","framework"],
+        "excerpt":"These pages are the foundations that provide input to developing this site. These frameworks are listed in no particular order and are here as a reference a testament to the knowledge that people behind these frameworks have created. From modelling perspective review of existing models and frameworks is done to...","categories": ["governance","framework"],
         "tags": ["tools"],
         "url": "https://governance.foundation/frameworks/",
         "teaser": null
