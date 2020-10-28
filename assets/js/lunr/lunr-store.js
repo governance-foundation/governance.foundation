@@ -236,6 +236,6 @@ var store = [{
         "title": "Why Frameworks Fail?",
         "excerpt":"A framework is an aggregation of knowledge, its a mechanism for converting knowledge into a repeatable pattern, productising knowledge and turning into a commodity product. A Framework aims to provide a way to make knowledge portable and accessible in a way that enables others without the immediate need to understand...","categories": ["blog"],
         "tags": ["governance","blog"],
-        "url": "https://governance.foundation/blog/2020/10/02/why-frameoworks-fail",
+        "url": "https://governance.foundation/blog/2020/10/02/why-frameworks-fail",
         "teaser": null
       }]
