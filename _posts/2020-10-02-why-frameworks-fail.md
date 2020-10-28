@@ -25,6 +25,8 @@ Some of the reasons why frameworks fail:
 * The social factors for rejection
 * Information governance as a Side-hustle
 
+Let's discuss these in some detail.
+
 ## Knowledge Icebergs
 
 Aggregated nature of a framework means that it's an iceberg of knowledge, and it represents the cumulative knowledge it's author's as well as knowledge of giants on which shoulders those authors stood. These knowledge icebergs if not approached correctly, will seal your faith which is an unfortunate nature of the unknown.
