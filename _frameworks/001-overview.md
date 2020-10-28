@@ -16,7 +16,11 @@ header:
 
 These pages are the foundations that provide input to developing this site.
 
-These frameworks are listed in no particular order and are here as a reference a testament to the knowledge that people behind these frameworks have created. 
+These frameworks are listed in no particular order and are here as a reference a testament to the knowledge that people behind these frameworks have created.
+
+From modelling perspective review of existing models and frameworks is done to elicit their essential cognitive models and leveraging their ideas to develop the ontology model. This model will be used to teach synthetic intelligence system what it needs to be able to understand an organisation using that model.
+
+Educating a synthetic intelligence system follows the same process as teaching a person, its a process of enabling the understanding of what sort of information should be of interest about an organisation to describe it in its entirety. This information then would be used to help to provide additional input to the organisation.
 
 ## Table of Contents
 
