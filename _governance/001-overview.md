@@ -9,15 +9,6 @@ header:
   overlay_image: /assets/images/background/compas-himesh-kumar-behera-t11oyf1K8kA-unsplash.webp
 ---
 
-<style>
-.page__hero--overlay p, .page__hero--overlay h1{
-    background-color: rgba(240, 87, 66, 0.8);
-    max-width: fit-content !important;
-    border-radius: 25px;
-    padding: 10px;
-}
-</style>
-
 These pages are dedicated to provide foundation aknowledge about concepts of Governance.
 
 ## Table of Contents

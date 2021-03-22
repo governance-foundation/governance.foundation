@@ -11,15 +11,6 @@ header:
 
 {% include toc_sticky.html %}
 
-<style>
-.page__hero--overlay p, .page__hero--overlay h1{
-    background-color: rgba(240, 87, 66, 0.8);
-    max-width: fit-content !important;
-    border-radius: 25px;
-    padding: 10px;
-}
-</style>
-
 ## What is Governance
 
 Governance described and detailed as a conceptual perspective of a particular domain and its context, it’s aimed at unambiguously conveying a context of an entity within its domain that contributes to its behaviour. This notion can be observed in numerous usages of the term in different context as well as in the generic all-encompassing technical nature of those terms.

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Governance Framework"
+title: "Governance Frameworks"
 permalink: /frameworks/
 excerpt: "Exploring world of Governance Frameworks and myriad of coined concepts."
 author: max

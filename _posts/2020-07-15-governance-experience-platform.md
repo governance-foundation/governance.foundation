@@ -15,15 +15,6 @@ header:
 
 {% include toc_sticky.html %}
 
-<style>
-.page__hero--overlay p, .page__hero--overlay h1{
-    background-color: rgba(240, 87, 66, 0.8);
-    max-width: fit-content !important;
-    border-radius: 25px;
-    padding: 10px;
-}
-</style>
-
 There is a clear need for a new way to help to govern organisations. This need is apparent from the continual search for efficiencies and effectiveness of organisations which demonstrated through transformations and a smorgasbord of frameworks available.
 
 Existing patterns and frameworks focus on educating individual parts of the organisation in order to mature the organisation as a whole. Primarily this education efforts usually occur at a point in time where an organisation needs a boost to mature past current state. These education efforts are an oversight approach when applied and practised produces the desired outcome.

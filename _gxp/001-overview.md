@@ -9,15 +9,6 @@ header:
   overlay_image: /assets/images/background/leaf-markus-spiske-MkwAXj8LV8c-unsplash.webp
 ---
 
-<style>
-.page__hero--overlay p, .page__hero--overlay h1{
-    background-color: rgba(240, 87, 66, 0.8);
-    max-width: fit-content !important;
-    border-radius: 25px;
-    padding: 10px;
-}
-</style>
-
 Organisations are socio-technical ecosystems that rely on data to make decisions.
 
 GXP will provide a data platform for organisations that will enhance decision making.
