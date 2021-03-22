@@ -21,6 +21,15 @@ Educating a synthetic intelligence system follows the same process as teaching a
 
 {% include nav_list.html nav="frameworks" navtype="ol" navstyle="list-style-type: decimal" childrenFor="/frameworks/" showtitle=false %}
 
-## Additional References
+## References
 
 For a very comprehensive list of frameworks available you can refer to [Survey of Architecture Frameworks](http://www.iso-architecture.org/ieee-1471/afs/frameworks-table.html).
+
+Following reference documents that are useful foundation for developing systemic governance frameworks and methodologies.
+
+Contributions to the list are welcome.
+
+### Co-Learning
+
+* [Knowledge management – from bottleneck to success factor](/assets/frameworks/co-learning/200702_giz_paII_knowledgemanagement_brochure_rz_05_web_0.pdf)
+* [Collaborative Networks: A Pillar of Digital Transformation](/assets/frameworks/co-learning/2.%20Collaborative_Networks_A_Pillar_of_Digital.pdf)
