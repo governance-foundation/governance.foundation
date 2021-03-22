@@ -9,7 +9,6 @@ categories:
   - blog
 tags:
   - governance
-  - blog
 header:
     overlay_image: /assets/images/background/scaffold-ashkan-forouzani-v31lgBn5114-unsplash.webp 
 ---
