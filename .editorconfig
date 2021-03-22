@@ -19,3 +19,6 @@ trim_trailing_whitespace = false
 [*.{groovy,java,xml}]
 indent_size = 4
 indent_style = tab
+
+[*.port]
+insert_final_newline = false

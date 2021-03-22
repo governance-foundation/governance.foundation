@@ -17,8 +17,6 @@ main:
   - title: "Chat"
     target: _blank
     url: https://gitter.im/governance-foundation/community
-  - title: "Search"
-    url: /search/
   - title: "About"
     url: /about/
 
