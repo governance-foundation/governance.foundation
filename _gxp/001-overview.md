@@ -5,11 +5,6 @@ permalink: /gxp/
 excerpt: "Defining the future for organisational governance."
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-tags:
-  - tools
 header:
   overlay_image: /assets/images/background/leaf-markus-spiske-MkwAXj8LV8c-unsplash.webp
 ---

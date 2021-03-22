@@ -4,13 +4,6 @@ title: "Model - Layers"
 permalink: /gxp/model/layers
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-  - model
-  - overview
-tags:
-  - tools
 ---
 
 Each of the high-level structure of information domains needs to be viewed with an information quality perspective. This would allow linking data in each domain to underlying information and would enable assessment of quality for each structure.

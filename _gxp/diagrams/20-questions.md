@@ -4,11 +4,6 @@ title: "Questions"
 permalink: /gxp/diagrams/questions
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-tags:
-  - tools
 ---
 
 Following is a list of that organisations face and need to be able to answer with the help of people.

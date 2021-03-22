@@ -4,13 +4,6 @@ title: "Model - Data"
 permalink: /gxp/model/data
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-  - model
-  - data
-tags:
-  - tools
 ---
 
 This provides high level structure of data information domain.

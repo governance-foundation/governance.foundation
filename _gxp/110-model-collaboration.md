@@ -4,13 +4,6 @@ title: "Model - Collaboration"
 permalink: /gxp/model/collaboration
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-  - model
-  - overview
-tags:
-  - tools
 ---
 
 This model provides a high-level structure of how organisational knowledge experiences will contribute information into the model. Its aim is to provid a data model for different purposes that are contributed by different people with different jobs. This can be understood as:

@@ -4,11 +4,6 @@ title: "Diagrams Overview"
 permalink: /gxp/diagrams/overview
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-tags:
-  - tools
 ---
 
 

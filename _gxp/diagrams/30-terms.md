@@ -4,11 +4,6 @@ title: "Terms"
 permalink: /gxp/diagrams/terms
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-tags:
-  - tools
 ---
 
 ## System

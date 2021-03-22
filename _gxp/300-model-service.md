@@ -4,13 +4,6 @@ title: "Model - Service"
 permalink: /gxp/model/service
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-  - model
-  - service
-tags:
-  - tools
 ---
 
 This provides high level structure of service information domain.

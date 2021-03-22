@@ -4,13 +4,6 @@ title: "Model - Deployment"
 permalink: /gxp/model/deployment
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-  - model
-  - deployment
-tags:
-  - tools
 ---
 
 This provides high level structure of deployment information domain.

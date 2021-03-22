@@ -4,13 +4,6 @@ title: "Model - Application"
 permalink: /gxp/model/application
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-  - model
-  - application
-tags:
-  - tools
 ---
 
 This provides high level structure of application information domain.

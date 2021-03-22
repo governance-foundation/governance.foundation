@@ -4,13 +4,6 @@ title: "Model - Business"
 permalink: /gxp/model/business
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-  - model
-  - business
-tags:
-  - tools
 ---
 
 This information domain is for providing a base schema for general modelling of business architecture.

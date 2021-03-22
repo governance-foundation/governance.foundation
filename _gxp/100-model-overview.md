@@ -4,13 +4,6 @@ title: "Model - Overview"
 permalink: /gxp/model/overview
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-  - model
-  - overview
-tags:
-  - tools
 ---
 
 This model provides a high-level structure of information domains.

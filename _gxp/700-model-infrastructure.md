@@ -4,13 +4,6 @@ title: "Model - Infrastructre"
 permalink: /gxp/model/infrastructure
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-  - model
-  - infrastructure
-tags:
-  - tools
 ---
 
 This provides high level structure of infrastructure information domain.

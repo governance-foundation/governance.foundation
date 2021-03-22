@@ -4,11 +4,6 @@ title: "Measurement"
 permalink: /gxp/diagrams/measurement
 author: max
 comments: true
-categories:
-  - governance
-  - foundation
-tags:
-  - tools
 ---
 
 ## Type of Measurement by Product
