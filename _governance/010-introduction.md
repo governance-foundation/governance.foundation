@@ -5,11 +5,6 @@ permalink: /governance/introduction
 excerpt: "Governance is as a conceptual perspective of a particular domain and its context."
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 header:
   overlay_image: /assets/images/background/compas-himesh-kumar-behera-t11oyf1K8kA-unsplash.webp
 ---

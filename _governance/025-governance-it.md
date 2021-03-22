@@ -4,11 +4,6 @@ title: "Information Technology Governance"
 permalink: /governance/information-technology
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 The term Information Technology Governance (IT Governance), represents a functional governance model fundamental to an IT organisation. It is part of the overall corporate governance structure (Brown & Grant, 2005) and applies principals similar to financial governance to IT Management (Weill & Woodham, 2002).

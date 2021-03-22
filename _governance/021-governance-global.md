@@ -4,11 +4,6 @@ title: "Global Governance"
 permalink: /governance/global
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 Hufty describes Global Governance as a concept for establishing order in international regimes (Hufty, 2009).  The concept emerged due to the absence of a supra-state entity in the international systems that could arbitrate conflict between actors. According to Hufty, the complexity in the number of participating actors and the institutionalisation of international life establishes the concept as multilevel governance (Hufty, 2009). Global governance aims to solve co-operation and decision-making problems through consensus without paying attention to relative powers in international regimes. Hufty highlights an innovative definition of governance established by the Commission on Global Governance (CGG) (Hufty, 2009).

@@ -4,11 +4,6 @@ title: "Corporate Governance"
 permalink: /governance/corporate
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 Recent attention of academics and practitioners on Corporate Governance has emerged due to widely publicised scandals around the world involving corporations and, in particular, the conduct of Boards of Directors in large corporations (Cross, 2004; Colley, 2005). These scandals led to the development of new regulations and legislation, the most prominent of these being the Sarbanes-Oxley Act of 2002 (Colley, 2005). Colley points out that the confluence of these events has focused public eye on the topic of Corporate Governance, highlighting it's crucial importance to the capitalist and the world economy (Colley, 2005).
 

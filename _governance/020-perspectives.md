@@ -5,11 +5,6 @@ permalink: /governance/perspectives
 excerpt: "Governance perspectives provide insight into the fundamental nature of governance."
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 header:
   overlay_image: /assets/images/background/compas-himesh-kumar-behera-t11oyf1K8kA-unsplash.webp
 ---

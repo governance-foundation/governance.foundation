@@ -4,11 +4,6 @@ title: "Governance Paradigm"
 permalink: /governance/paradigm
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 The Greek reference to the term governance and its subsequent translations are not conclusive to the exact meaning of the term. Attempts at distinction, although evident in subsequent translations, are not authoritative due to lack of consistency in the definitions. A prominent distinction was made by Plato who used the term to describe the act of governing men (Hufty, 2009; Oliveira, 2003), despite also being a translation, it demonstrated that the term is generic and can be applied in different contexts. 

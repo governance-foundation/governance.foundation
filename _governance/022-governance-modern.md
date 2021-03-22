@@ -4,11 +4,6 @@ title: "Modern Governance"
 permalink: /governance/modern
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 Modern governance refers to the concept of the State being dependant on heterarchical regulation mechanisms, caused by the loss or delegation of its power and competencies, to various local, national and international entities. This concept is used as an instrument for analysis and action, contributing to the solution of the crisis in the governance of the State (Hufty, 2009). 

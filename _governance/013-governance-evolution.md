@@ -4,11 +4,6 @@ title: "Governance Evolution"
 permalink: /governance/evolution
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 The evolution of the term governance in its many perspectives is being driven by the need to establish a predictive and repeatable governance norm. Efforts at clarification to date have been a multitude of disparate normative and prescriptive frameworks, and a governance norm still does not exist despite the unprecedented dedication of research to the concept (Hufty, 2009).

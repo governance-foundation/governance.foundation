@@ -4,11 +4,6 @@ title: "Enterprise Governance"
 permalink: /governance/enterprise
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 ITGI used the term "Enterprise Governance" to describe a globally applicable prescribed model of organisational governance called the "Enterprise Governance Model" (ITGI, 1999). The Enterprise Governance Model was created in response to three environmental threats listed below as identified by the Information Systems Audit and Control Foundation (ISACF):

@@ -5,11 +5,6 @@ permalink: /governance/origin
 excerpt: "Origin of the word Governance"
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 The term 'governance' has fallen into disuse (Hufty, 2009), it originates from a Greek verb 'kubernân' which refers to the verb 'pilot' (Oliveira, 2003) in reference to 'pilot a ship'. The Greek term subsequently gave birth to the Latin verb 'gubernare' of similar meaning; its derivative 'gubernantia', in turn, gave birth to other words in many languages, including English and French (Oliveira, 2003). In the middle ages, the French term gouvernance was subjected to multiple meanings, the most prevalent, and the term that was passed on into English being 'the art' or 'way of governing' (Oliveira, 2003).
