@@ -4,11 +4,6 @@ title: "Ripose and Casper"
 permalink: /frameworks/ripose-casper
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 ![status](https://img.shields.io/badge/status-done-green) [![source](https://img.shields.io/badge/source-online-green)](http://ripose.com.au/)

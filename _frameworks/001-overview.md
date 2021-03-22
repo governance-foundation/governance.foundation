@@ -5,11 +5,6 @@ permalink: /frameworks/
 excerpt: "Exploring world of Governance Frameworks and myriad of coined concepts."
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 header:
   overlay_image: /assets/images/background/tools.webp
 ---

@@ -4,11 +4,6 @@ title: "PragmaticEA"
 permalink: /frameworks/pragmaticea
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 ![status](https://img.shields.io/badge/status-done-green) [![source](https://img.shields.io/badge/source-online-green)](https://www.pragmaticea.com/)

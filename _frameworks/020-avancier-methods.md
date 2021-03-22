@@ -4,11 +4,6 @@ title: "Avancier Methods"
 permalink: /frameworks/avancier
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 ![status](https://img.shields.io/badge/status-in%20queue-silver) [![source](https://img.shields.io/badge/source-online-green)](http://avancier.website/)

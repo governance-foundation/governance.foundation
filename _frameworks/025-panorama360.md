@@ -4,11 +4,6 @@ title: "Panorama 360"
 permalink: /frameworks/panorama360
 author: max
 comments: true
-categories:
-  - governance
-  - framework
-tags:
-  - tools
 ---
 
 ![status](https://img.shields.io/badge/status-in%20queue-silver) [![source](https://img.shields.io/badge/source-online-green)](https://www.insuranceframeworks.com/)
