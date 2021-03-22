@@ -6,10 +6,6 @@ excerpt: "About Governance Foundation"
 modified: 2020-06-16T00:00:00-10:00
 author_profile: false
 sidebar: false
-categories:
-  - info
-tags:
-  - about
 ---
 
 Governance Foundation is about exploring knowledge that has been developed and accumulated in relation to governance models and frameworks.
