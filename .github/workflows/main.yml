@@ -79,9 +79,10 @@ jobs:
       - name: build
         if: env.ONLY_DIAGRAMS == 'FALSE'
         run: |
+          export LANG=en_US.UTF-8
+          export JEKYLL_ENV=production
           bundle install
-          bundle exec jekyll build --verbose --trace
-          bundle exec htmlproofer --log_level :debug --check-html --internal-domains localhost:4000 --assume-extension --disable-external --url-ignore "/#.*/" _site
+          bundle exec jekyll build --future --profile --trace  --verbose
       - name: deploy
         if: env.ONLY_DIAGRAMS == 'FALSE'
         uses: peaceiris/actions-gh-pages@v3
