@@ -6,9 +6,9 @@ title:  "Governance Experience Platform"
 excerpt: "A case for a new governance platfrom that caters to individual experiences."
 date:   2020-07-15 00:00:00 +1100
 categories:
-  - blog
+  - foundation
 tags:
-  - governance
+  - foundation
 header:
     overlay_image: /assets/images/background/the-journey-is-on-jakob-soby-zQe1wEsW3W4-unsplash.webp  
 ---

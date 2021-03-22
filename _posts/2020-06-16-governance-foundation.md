@@ -6,9 +6,9 @@ title:  "Governance Foundation"
 excerpt: ""
 date:   2020-06-16 00:00:00 +1100
 categories:
-  - blog
+  - foundation
 tags:
-  - governance
+  - foundation
 header:
     overlay_image: /assets/images/background/the-journey-is-on-jakob-soby-zQe1wEsW3W4-unsplash.webp  
 ---

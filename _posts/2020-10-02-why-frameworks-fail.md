@@ -6,9 +6,9 @@ title:  "Why Frameworks Fail?"
 excerpt: ""
 date:   2020-07-15 00:00:00 +1100
 categories:
-  - blog
+  - foundation
 tags:
-  - governance
+  - foundation
 header:
     overlay_image: /assets/images/background/scaffold-ashkan-forouzani-v31lgBn5114-unsplash.webp 
 ---
