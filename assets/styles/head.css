@@ -12,3 +12,10 @@
   background-color: rgba(255,179,107,.5);
   background-blend-mode: multiply;
 }
+
+.page__hero--overlay p, .page__hero--overlay h1{
+  background-color: rgba(240, 87, 66, 0.8);
+  max-width: fit-content !important;
+  border-radius: 25px;
+  padding: 10px;
+}
