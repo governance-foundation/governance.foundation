@@ -7,6 +7,9 @@ author: max
 comments: true
 header:
   overlay_image: /assets/images/background/leaf-markus-spiske-MkwAXj8LV8c-unsplash.webp
+redirect_from:
+  - /gxp/model
+  - /gxp/tech
 ---
 
 Organisations are socio-technical ecosystems that rely on data to make decisions.
