@@ -102,3 +102,5 @@ gxp:
         url: /gxp/model/data
       - title: "Model - Infrastructure"
         url: /gxp/model/infrastructure
+      - title: "Tech - Architecture"
+        url: /gxp/tech/architecture
