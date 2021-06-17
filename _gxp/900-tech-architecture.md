@@ -10,6 +10,11 @@ This provides high level structure of technical architecture needed for the gxp.
 
 ![status](https://img.shields.io/badge/status-draft-red)
 
+## Tech Requirements
+
+- Analytics across all API's and UI's
+- Token transactions
+
 <iframe
   frameborder="0"
   style="width:100%;height:973px;"
