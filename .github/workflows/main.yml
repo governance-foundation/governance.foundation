@@ -47,7 +47,7 @@ jobs:
           fi
 
       - name: Upload to Diagrams to Google Drive
-        if: env.UPLOAD_DIAGRAMS == 'TRUE'
+        if: env.UPLOAD_DIAGRAMS == 'TRUE' || contains(github.event.head_commit.message, 'upload diagrams')
         uses: docker://gvfn/gdrive
         with:
           entrypoint: "/bin/sh"
