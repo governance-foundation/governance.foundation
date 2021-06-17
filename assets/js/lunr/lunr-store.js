@@ -186,7 +186,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Technical - Architecture",
-        "excerpt":"This provides high level structure of technical architecture needed for the gxp.        ","categories": [],
+        "excerpt":"This provides high level structure of technical architecture needed for the gxp.      Tech Requirements      Analytics across all API’s and UI’s   Token transactions     ","categories": [],
         "tags": [],
         "url": "/gxp/tech/architecture",
         "teaser": null
