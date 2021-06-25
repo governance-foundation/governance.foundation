@@ -4,6 +4,7 @@ permalink: /
 github:
   - excerpt: &githubexc '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=governance-foundation&repo=governance.foundation&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=governance-foundation&repo=governance.foundation&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 header:
+  og_image: /assets/screenshots/homepage-small.png
   overlay_color: "#5e616c"
   overlay_image: /assets/images/background/core-ricardo-gomez-angel-HXBP4Nud8PQ-unsplash.webp
   cta_label: "<i class='fab fa-lightbulb-o'></i> Start Here"
@@ -41,8 +42,6 @@ feature_row:
     excerpt: "Send us a message on our forum"
     url: "https://groups.google.com/forum/#!forum/governance-foundation"
     btn_label: "Create a Post"
-header:
-    og_image: /assets/screenshots/homepage-small.png
 ---
 
 
