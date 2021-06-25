@@ -41,7 +41,8 @@ feature_row:
     excerpt: "Send us a message on our forum"
     url: "https://groups.google.com/forum/#!forum/governance-foundation"
     btn_label: "Create a Post"
-
+header:
+    og_image: /assets/screenshots/homepage-small.png
 ---
 
 
