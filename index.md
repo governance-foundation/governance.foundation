@@ -6,7 +6,7 @@ github:
 header:
   og_image: /assets/screenshots/homepage-small.png
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/background/core-ricardo-gomez-angel-HXBP4Nud8PQ-unsplash.png
+  overlay_image: /assets/images/background/core-ricardo-gomez-angel-HXBP4Nud8PQ-unsplash.jpg
   cta_label: "<i class='fab fa-lightbulb-o'></i> Start Here"
   cta_url: "/governance/"
   caption:
