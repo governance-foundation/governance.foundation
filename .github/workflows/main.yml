@@ -37,14 +37,14 @@ jobs:
               else
                 ((diagramUpdateCount+=1));
                 echo "DIAGRAM: $i"
-                echo ::set-env name=UPLOAD_DIAGRAMS::"TRUE"
+                echo "UPLOAD_DIAGRAMS=TRUE" >> $GITHUB_ENV
               fi
           done
           echo "diagramUpdateCount: $diagramUpdateCount"
           echo "GIT_CHANGES: ${#GIT_CHANGES[@]}"
           if [[ ${#GIT_CHANGES[@]} == $diagramUpdateCount ]]; then
             echo "ONLY DIAGRAMS"
-            echo ::set-env name=ONLY_DIAGRAMS::"TRUE"
+                echo "UPLOAD_DIAGRAMS=TRUE" >> $GITHUB_ENV
           fi
 
       - name: Upload to Diagrams to Google Drive
