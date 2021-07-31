@@ -1,10 +1,10 @@
 Id                                  Name                                   Type   Size      Created
-1vLyZpRtXARKSZlqiCIJ2UrogI6uZefwo   _gdrive_diagrams_list.txt              bin    3.3 KB    2020-07-27 14:08:04
+1vLyZpRtXARKSZlqiCIJ2UrogI6uZefwo   _gdrive_diagrams_list.txt              bin    3.6 KB    2020-07-27 14:08:04
+19eAJDNdmUSINpeUmn1x9ZatQ0933Rirn   GXP-Architecture.drawio                bin    3.1 KB    2020-07-30 16:55:38
 1rDZc0iuIVQMV4GPBD5YgAPdSz0vtzY0e   GXP-Model-Transformation.drawio        bin    5.9 KB    2020-07-30 16:55:50
 1tL5HffJEbBLoYA5AkEFRphCt_FemU8jN   GXP-Model-Layers.drawio                bin    4.1 KB    2020-07-30 16:55:47
 18xqnEOZvpsNCpJEBKtRIFQM_3FOyZGrp   GXP-Model-Data-Social.drawio           bin    4.0 KB    2020-08-31 02:04:12
 1aRsuMeJJxG60YwnNezoTkzPwlnOciHJN   GXP-Model-Data-Business.drawio         bin    23.0 KB   2020-07-30 16:55:41
-19eAJDNdmUSINpeUmn1x9ZatQ0933Rirn   GXP-Architecture.drawio                bin    3.1 KB    2020-07-30 16:55:38
 1AzszYrF0pWubmbTPZkgYcFDV5RJeYwYp   Data-Perspectives.drawio               bin    6.9 KB    2020-07-27 10:48:18
 1QS23b6ybWJQc-3MOjGnhQjnroGQA-8Up   40-viewpoints.md                       bin    1.6 KB    2021-06-17 23:29:07
 1cX3sBMXZ8bdW2h2CsnsEv0XGqzSvna7M   30-terms.md                            bin    5.2 KB    2021-06-17 23:29:06
@@ -30,7 +30,7 @@ Id                                  Name                                   Type 
 1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE   diagrams                               dir              2020-07-27 10:42:27
 1FP430l0QIjNwHbUGk-k0UxmOpm9ItKSx   gdrive_diagrams_list.txt               bin    144.0 B   2020-07-27 10:48:21
 User: devops@governance-foundation.iam.gserviceaccount.com, devops@governance-foundation.iam.gserviceaccount.com
-Used: 114.8 KB
+Used: 115.1 KB
 Free: 16.1 GB
 Total: 16.1 GB
 Max upload size: 5.2 TB
