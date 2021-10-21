@@ -14,15 +14,19 @@ redirect_from:
 
 Organisations are socio-technical ecosystems that rely on data to make decisions.
 
-GXP will provide a experience and knowledge ecosystem for organisations, it will enhance decision making and make AI and human collarboration possible. This will be done by allowing organisations to gradualy grow into an organisational ontology, with the pace defined by the focus of the organisation.
+GXP will provide an experience and knowledge ecosystem for organisations; it will enhance decision making and make AI and human collaboration possible. This will be done by allowing organisations to gradually grow into an organisational ontology, with the pace defined by the focus of the organisation.
 
 GXP data platform will provide a source of truth for all organisational information that is used for decision making. This will enable organisations to measure their knowledge depth efficiently, and this will provide an effective method for driving knowledge discovery.
 
-Following pages are focused on providing modelling concepts that will be a foundation of knowledge within an enterprise.
+The following pages are focused on providing modelling concepts that will be a foundation of knowledge within an enterprise.
 
 ## Why do we need to model
 
-Provide an initial cognitive structure that can be used as an information scaffold when transforming knowledge to information. The model provides a method for sharing knowledge and ability to test the quality of knowledge.
+Provide an initial cognitive structure that can be used as an information scaffold when transforming knowledge to information. The model provides a method for sharing knowledge and the ability to test the quality of knowledge.
+
+### Enterprise Ontology Model
+
+At its core, GXP will leverage an enterprise ontology model as a mechanism that will be a foundation of knowledge integration. Having a unified ontology for an enterprise will enable data persistence into a common language, enabling AI-assisted assistance and decision making. Additionally, the enterprise ontology model will also provide consistency of modelling across enterprises.
 
 ## Definitions
 
