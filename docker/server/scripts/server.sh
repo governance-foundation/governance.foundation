@@ -8,15 +8,13 @@ cd /build/source
 
 export LANG=en_US.UTF-8
 
-if [[ "${PORT}" == "" ]]; then
-  PORT=$(cat dev.port)
-fi
+PORT=$(cat dev.port)
+PORT_LIVERELOAD=$(cat dev-livereload.port)
 
-if [[ "${PORT_LIVERELOAD}" == "" ]]; then
-  PORT_LIVERELOAD=$(cat dev-livereload.port)
-fi
+yum install -y libwebp libwebp-tools
 
-
+rvm install ruby --latest
+rvm use --latest
 gem install i18n jekyll bundler jemoji nokogiri -n /usr/local/bin
 
 bundle install
