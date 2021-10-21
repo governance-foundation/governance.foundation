@@ -5,7 +5,8 @@ import sys
 cwebp = '/usr/bin/cwebp'
 gif2webp = '/usr/bin/gif2webp'
 
-mode = os.environ.get('MODE')
+#create new images by default.
+mode = os.environ.get('MODE','CREATE')
 
 # This dict ensures we don't even attempt to process files whose extensions are not in here.
 # We certainly could attempt to do that, but then the output would be cluttered with cwebp errors.
@@ -58,6 +59,7 @@ def main():
 
             img_path = os.path.join(dir_name, img)
 
+            # if file does not exist or mode is update, generate new image
             if mode == "UPDATE" or not os.path.isfile("{}.webp".format(img_path)):
               #print(img_path)
               print("FILE: {}{}\n\n".format(img_path, ext))
