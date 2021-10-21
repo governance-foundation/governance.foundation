@@ -14,7 +14,7 @@ redirect_from:
 
 Organisations are socio-technical ecosystems that rely on data to make decisions.
 
-GXP will provide a data platform for organisations that will enhance decision making.
+GXP will provide a experience ecosystem for organisations that will enhance decision making and make AI and human collarboration possible. This will be done by allowing organisations to gradualy grow into an organisational ontology, with the pace defined by the focus of the organisation.
 
 GXP data platform will provide a source of truth for all organisational information that is used for decision making. This will enable organisations to measure their knowledge depth efficiently, and this will provide an effective method for driving knowledge discovery.
 
