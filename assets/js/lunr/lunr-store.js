@@ -222,7 +222,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Technical - Architecture",
-        "excerpt":"This provides high level structure of technical architecture needed for the gxp.      Tech Requirements      Analytics across all API’s and UI’s   Token transactions     ","categories": [],
+        "excerpt":"This provides high level structure of technical architecture needed for the gxp.      Tech Requirements   Followgin is a list of TODO’s of things that needed in the architecture, add things here as ideas if you dont have tools for them yet.      Analytics across all API’s and UI’s   Token transactions   Priciples   Followgin are principals for building out this architecture      OpenSource, with Apache 2.0 license as much as possible as it will be most likeley people will commit to, need to have good Github presence.   Lightweight, keep things as light and fast as possible to minimise ram usage, good language choice for maintanability  GO, C++, Node   Integration, need to be able to be easily and simply integratable ito other tools   API and Config, API first, must be able to control the tech with API, failing that config files that will have API on top of it   Layers   This diagram has followign layers for segregating perspectives      Experience - where not obvious call out experiences that are foundational   Architecture - major capability and matching technology stack     ","categories": [],
         "tags": [],
         "url": "/gxp/tech/architecture",
         "teaser": null

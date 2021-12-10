@@ -30,11 +30,11 @@
 
 
 
-  <meta property="article:published_time" content="2021-11-19T01:09:57+11:00">
+  <meta property="article:published_time" content="2021-12-10T12:54:49+11:00">
 
 
 
-  <meta property="article:modified_time" content="2021-06-18T09:14:58+10:00">
+  <meta property="article:modified_time" content="2021-12-10T12:50:13+11:00">
 
 
 
@@ -52,10 +52,9 @@
   {
     "@context": "https://schema.org",
     
-      "@type": "Person",
-      "name": "Governance Foundation",
+      "@type": "Organization",
       "url": "https://governance.foundation/",
-      "sameAs": ["https://www.linkedin.com/company/governance-foundation"]
+      "logo": "https://governance.foundation/assets/screenshots/homepage-small.png"
     
   }
 </script>
@@ -512,8 +511,8 @@
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Technical - Architecture">
     <meta itemprop="description" content="This provides high level structure of technical architecture needed for the gxp.">
-    <meta itemprop="datePublished" content="2021-11-19T01:09:57+11:00">
-    <meta itemprop="dateModified" content="2021-06-18T09:14:58+10:00">
+    <meta itemprop="datePublished" content="2021-12-10T12:54:49+11:00">
+    <meta itemprop="dateModified" content="2021-12-10T12:50:13+11:00">
 
     <div class="page__inner-wrap">
       
@@ -552,9 +551,31 @@
 
 <h2 id="tech-requirements">Tech Requirements</h2>
 
+<p>Followgin is a list of TODO’s of things that needed in the architecture, add things here as ideas if you dont have tools for them yet.</p>
+
 <ul>
   <li>Analytics across all API’s and UI’s</li>
   <li>Token transactions</li>
+</ul>
+
+<h2 id="priciples">Priciples</h2>
+
+<p>Followgin are principals for building out this architecture</p>
+
+<ul>
+  <li>OpenSource, with Apache 2.0 license as much as possible as it will be most likeley people will commit to, need to have good Github presence.</li>
+  <li>Lightweight, keep things as light and fast as possible to minimise ram usage, good language choice for maintanability  GO, C++, Node</li>
+  <li>Integration, need to be able to be easily and simply integratable ito other tools</li>
+  <li>API and Config, API first, must be able to control the tech with API, failing that config files that will have API on top of it</li>
+</ul>
+
+<h2 id="layers">Layers</h2>
+
+<p>This diagram has followign layers for segregating perspectives</p>
+
+<ul>
+  <li>Experience - where not obvious call out experiences that are foundational</li>
+  <li>Architecture - major capability and matching technology stack</li>
 </ul>
 
 <iframe frameborder="0" style="width:100%;height:973px;" src="https://viewer.diagrams.net/#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D19eAJDNdmUSINpeUmn1x9ZatQ0933Rirn">
@@ -594,7 +615,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-06-18">June 18, 2021</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-12-10">December 10, 2021</time></p>
 
 
       </footer>
