@@ -15,7 +15,7 @@
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-114" value="Searching of logs, View gashboards" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
                     <mxGeometry x="475" y="1010" width="130" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="hdmXZGqUlNRK6feqRWDT-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="hdmXZGqUlNRK6feqRWDT-110" source="hdmXZGqUlNRK6feqRWDT-116" target="hdmXZGqUlNRK6feqRWDT-47" edge="1">
+                <mxCell id="hdmXZGqUlNRK6feqRWDT-115" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="hdmXZGqUlNRK6feqRWDT-110" source="hdmXZGqUlNRK6feqRWDT-116" target="hdmXZGqUlNRK6feqRWDT-47" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="360" y="-30" as="targetPoint"/>
                     </mxGeometry>
@@ -23,13 +23,13 @@
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-116" value="Unified Proxy and Service Registration" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
                     <mxGeometry x="295" y="-170" width="130" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="hdmXZGqUlNRK6feqRWDT-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="hdmXZGqUlNRK6feqRWDT-110" source="hdmXZGqUlNRK6feqRWDT-118" target="hdmXZGqUlNRK6feqRWDT-49" edge="1">
+                <mxCell id="hdmXZGqUlNRK6feqRWDT-117" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="hdmXZGqUlNRK6feqRWDT-110" source="hdmXZGqUlNRK6feqRWDT-118" target="hdmXZGqUlNRK6feqRWDT-49" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="590" y="-30" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-118" value="SSO and Management" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
-                    <mxGeometry x="525" y="-170" width="130" height="60" as="geometry"/>
+                    <mxGeometry x="780" y="-170" width="130" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-158" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="hdmXZGqUlNRK6feqRWDT-110" source="hdmXZGqUlNRK6feqRWDT-119" target="hdmXZGqUlNRK6feqRWDT-39" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -45,11 +45,11 @@
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-121" value="Secrets Management" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
                     <mxGeometry x="1330" y="240" width="130" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="hdmXZGqUlNRK6feqRWDT-122" value="Analytics" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
+                <mxCell id="hdmXZGqUlNRK6feqRWDT-122" value="Analytics, User Journey" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
                     <mxGeometry x="130" y="-170" width="130" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-124" value="CMS" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
-                    <mxGeometry x="730" y="-170" width="130" height="60" as="geometry"/>
+                    <mxGeometry x="620" y="-170" width="130" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-126" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="hdmXZGqUlNRK6feqRWDT-110" source="hdmXZGqUlNRK6feqRWDT-122" target="hdmXZGqUlNRK6feqRWDT-68" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -67,7 +67,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-128" value="User Profile" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
-                    <mxGeometry x="-200" y="-170" width="130" height="60" as="geometry"/>
+                    <mxGeometry x="-210" y="-170" width="130" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-135" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="hdmXZGqUlNRK6feqRWDT-110" source="hdmXZGqUlNRK6feqRWDT-134" target="hdmXZGqUlNRK6feqRWDT-50" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -75,7 +75,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-134" value="User and Group Management" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
-                    <mxGeometry x="930" y="-170" width="130" height="60" as="geometry"/>
+                    <mxGeometry x="950" y="-170" width="130" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-143" value="Private Certificate Authority" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
                     <mxGeometry x="1330" y="330" width="130" height="60" as="geometry"/>
@@ -109,6 +109,12 @@
                 </mxCell>
                 <mxCell id="11" style="edgeStyle=none;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" source="7" target="hdmXZGqUlNRK6feqRWDT-38" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=none;html=1;dashed=1;" edge="1" parent="hdmXZGqUlNRK6feqRWDT-110" source="21" target="hdmXZGqUlNRK6feqRWDT-38">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Social Graph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hdmXZGqUlNRK6feqRWDT-110">
+                    <mxGeometry x="460" y="-170" width="130" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-15" value="Architecture" parent="0"/>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-18" value="Platform" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;align=left;verticalAlign=top;" parent="hdmXZGqUlNRK6feqRWDT-15" vertex="1">
@@ -412,7 +418,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="&lt;div&gt;GraphQL&lt;/div&gt;&lt;div&gt;(Apollo Server, GraphiQL)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-15" vertex="1">
-                    <mxGeometry x="425" y="130" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="480" y="150" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-140" value="&lt;div&gt;Web Cache&lt;/div&gt;&lt;div&gt;(Nginx)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-15" vertex="1">
                     <mxGeometry x="580" y="60" width="120" height="60" as="geometry"/>
