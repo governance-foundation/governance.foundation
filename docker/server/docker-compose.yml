@@ -3,7 +3,7 @@ version: "2.4"
 services:
 
   server:
-    image: aemdesign/centos-java-buildpack:jdk11
+    image: aemdesign/java-buildpack:jdk11
     restart: always
     extends:
       file: ../common/config-tz.yml
@@ -31,7 +31,7 @@ services:
       - internal
 
   webp-create:
-    image: aemdesign/centos-java-buildpack:jdk11
+    image: aemdesign/java-buildpack:jdk11
     extends:
       file: ../common/config-tz.yml
       service: config
@@ -49,7 +49,7 @@ services:
       - internal
 
   webp-update:
-    image: aemdesign/centos-java-buildpack:jdk11
+    image: aemdesign/java-buildpack:jdk11
     extends:
       file: ../common/config-tz.yml
       service: config
