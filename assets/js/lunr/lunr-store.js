@@ -168,19 +168,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Model - Overview",
-        "excerpt":"This model provides a high-level structure of information domains.      Social - provides information domain for the social network analysis within an organisation, is modelling the social element of the organisation that are outside of the structural aspect of the organisation. Its aim to provide an understanding of how the social aspect of an organisation influence structure/technical aspect of the organisation.   Business - provides a base information element for business definition and knowledge management and is about defining the logical elements of the organisation.   Service - is for defining the logical element of the organisation that is supported by technology.   Application and Data - is for modelling softwasre in its entirety.   Infrastructure - is for modelling physical object of things.   Deployment - is for joining the instance of Infrastructure and Application.        ","categories": [],
+        "excerpt":"This model provides a high-level structure of information domains.      Social - provides information domain for the social network analysis within an organisation, is modelling the social element of the organisation that are outside of the structural aspect of the organisation. Its aim to provide an understanding of how the social aspect of an organisation influence structure/technical aspect of the organisation.   Business - provides a base information element for business definition and knowledge management and is about defining the logical elements of the organisation.   Service - is for defining the logical element of the organisation that is supported by technology.   Application and Data - is for modelling softwasre in its entirety.   Infrastructure - is for modelling physical object of things.   Deployment - is for joining the instance of Infrastructure and Application.         ","categories": [],
         "tags": [],
         "url": "/gxp/model/overview",
         "teaser": null
       },{
         "title": "Model - Layers",
-        "excerpt":"Each of the high-level structure of information domains needs to be viewed with an information quality perspective. This would allow linking data in each domain to underlying information and would enable assessment of quality for each structure.   The quality perspective extends to object metadata, relationships and leverage of data for multiple purposes; this allows information value to increase by further institutionalising its usage into the organisation.   Viewing information structure with quality perspective allows determining the value of information used. This allows for better decision making and assessment of unknowns.   This approach also allows for gradual learning of information without needing to dive deep into information structured. In essence, this allows the progressive and gradual building of finite structures by converting knowledge into information over time and avoiding a more traditional all-or-nothing approach.   Current perspective follows these levels:      Conceptual - the highest level of abstraction of information with the lowest value if not connected to other layers.   Logical - logical definition of the physical layer into information domains.   Physical - tangible aspects of information used and consumed by the organisation.        ","categories": [],
+        "excerpt":"Each of the high-level structure of information domains needs to be viewed with an information quality perspective. This would allow linking data in each domain to underlying information and would enable assessment of quality for each structure.   The quality perspective extends to object metadata, relationships and leverage of data for multiple purposes; this allows information value to increase by further institutionalising its usage into the organisation.   Viewing information structure with quality perspective allows determining the value of information used. This allows for better decision making and assessment of unknowns.   This approach also allows for gradual learning of information without needing to dive deep into information structured. In essence, this allows the progressive and gradual building of finite structures by converting knowledge into information over time and avoiding a more traditional all-or-nothing approach.   Current perspective follows these levels:      Conceptual - the highest level of abstraction of information with the lowest value if not connected to other layers.   Logical - logical definition of the physical layer into information domains.   Physical - tangible aspects of information used and consumed by the organisation.         ","categories": [],
         "tags": [],
         "url": "/gxp/model/layers",
         "teaser": null
       },{
         "title": "Model - Collaboration",
-        "excerpt":"This model provides a high-level structure of how organisational knowledge experiences will contribute information into the model. Its aim is to provid a data model for different purposes that are contributed by different people with different jobs. This can be understood as:      A business taxonomy   Governance enabler   Communication platform   Knowledge Map   Single point of information reference   Conceptual Information model (network taxonomy, multi dimensional, hierarchical and associative categories, NOT “all or nothing”)   Living, breathing, evolving knowledge foundation   In an organisation, each person will be using a tailored experience suited to their job; doing this will contribute information into a shared knowledge network. This information will part of a knowledge network that will allow information linkage and reuse.        ","categories": [],
+        "excerpt":"This model provides a high-level structure of how organisational knowledge experiences will contribute information into the model. Its aim is to provid a data model for different purposes that are contributed by different people with different jobs. This can be understood as:      A business taxonomy   Governance enabler   Communication platform   Knowledge Map   Single point of information reference   Conceptual Information model (network taxonomy, multi dimensional, hierarchical and associative categories, NOT “all or nothing”)   Living, breathing, evolving knowledge foundation   In an organisation, each person will be using a tailored experience suited to their job; doing this will contribute information into a shared knowledge network. This information will part of a knowledge network that will allow information linkage and reuse.         ","categories": [],
         "tags": [],
         "url": "/gxp/model/collaboration",
         "teaser": null
@@ -198,31 +198,31 @@ var store = [{
         "teaser": null
       },{
         "title": "Model - Application",
-        "excerpt":"This provides high level structure of application information domain.        ","categories": [],
+        "excerpt":"This provides high level structure of application information domain.         ","categories": [],
         "tags": [],
         "url": "/gxp/model/application",
         "teaser": null
       },{
         "title": "Model - Deployment",
-        "excerpt":"This provides high level structure of deployment information domain.        ","categories": [],
+        "excerpt":"This provides high level structure of deployment information domain.         ","categories": [],
         "tags": [],
         "url": "/gxp/model/deployment",
         "teaser": null
       },{
         "title": "Model - Data",
-        "excerpt":"This provides high level structure of data information domain.        ","categories": [],
+        "excerpt":"This provides high level structure of data information domain.         ","categories": [],
         "tags": [],
         "url": "/gxp/model/data",
         "teaser": null
       },{
         "title": "Model - Infrastructre",
-        "excerpt":"This provides high level structure of infrastructure information domain.        ","categories": [],
+        "excerpt":"This provides high level structure of infrastructure information domain.         ","categories": [],
         "tags": [],
         "url": "/gxp/model/infrastructure",
         "teaser": null
       },{
         "title": "Technical - Architecture",
-        "excerpt":"This provides high level structure of technical architecture needed for the gxp.      Tech Requirements   Following is a list of TODO’s of things that needed in the architecture, add things here as ideas if you don’t have tools for them yet.      Analytics across all API’s and UI’s   Token transactions   Principles   Following are principals for building out this architecture      OpenSource, with Apache 2.0 license as much as possible as it will be most likeley people will commit to, need to have good GitHub presence.   Lightweight, keep things as light and fast as possible to minimise ram usage, good language choice for maintainability  GO, C++, Node   Integration, need to be able to be easily and simply integrate ito other tools   API and Config, API first, must be able to control the tech with API, failing that config files that will have API on top of it   Layers   This diagram has the following layers for segregating perspectives      Experience - where not obvious call out experiences that are foundational   Architecture - major capability and matching technology stack     ","categories": [],
+        "excerpt":"This provides high level structure of technical architecture needed for the gxp.      Tech Requirements   Following is a list of TODO’s of things that needed in the architecture, add things here as ideas if you don’t have tools for them yet.      Analytics across all API’s and UI’s   Token transactions   Principles   Following are principals for building out this architecture      OpenSource, with Apache 2.0 license as much as possible as it will be most likeley people will commit to, need to have good GitHub presence.   Lightweight, keep things as light and fast as possible to minimise ram usage, good language choice for maintainability  GO, C++, Node   Integration, need to be able to be easily and simply integrate ito other tools   API and Config, API first, must be able to control the tech with API, failing that config files that will have API on top of it   Layers   This diagram has the following layers for segregating perspectives      Experience - where not obvious call out experiences that are foundational   Architecture - major capability and matching technology stack      ","categories": [],
         "tags": [],
         "url": "/gxp/tech/architecture",
         "teaser": null
