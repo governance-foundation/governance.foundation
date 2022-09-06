@@ -73,6 +73,7 @@ jobs:
       - name: install dependencies
         if: env.ONLY_DIAGRAMS == 'FALSE'
         run: |
+          sudo apt-get update
           sudo apt-get install libcurl4-openssl-dev libxslt-dev libxml2-dev
       - uses: actions/setup-ruby@v1
         if: env.ONLY_DIAGRAMS == 'FALSE'
