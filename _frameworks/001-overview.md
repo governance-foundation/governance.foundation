@@ -23,7 +23,7 @@ Educating a synthetic intelligence system follows the same process as teaching a
 
 ## References
 
-For a very comprehensive list of frameworks available you can refer to [Survey of Architecture Frameworks](http://www.iso-architecture.org/ieee-1471/afs/frameworks-table.html).
+For a very comprehensive list of frameworks available you can refer to [Survey of Architecture Frameworks](https://www.iso-architecture.org/ieee-1471/afs/frameworks-table.html).
 
 Following reference documents that are useful foundation for developing systemic governance frameworks and methodologies.
 

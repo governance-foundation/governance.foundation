@@ -6,7 +6,7 @@ author: max
 comments: true
 ---
 
-![status](https://img.shields.io/badge/status-in%20queue-silver) [![source](https://img.shields.io/badge/source-online-green)](http://dev.nemo.inf.ufes.br/seon/)
+![status](https://img.shields.io/badge/status-in%20queue-silver) [![source](https://img.shields.io/badge/source-online-green)](https://dev.nemo.inf.ufes.br/seon/)
 
 ## Description
 
@@ -21,4 +21,4 @@ SEON results from various efforts on building ontologies for the Software Engine
 ## Artifacts
 
 * [SEON](https://nemo.inf.ufes.br/wp-content/uploads/2016/10/SEON_A-Software-Engineering-Ontology-Network-Ruy-et-al.-2016.pdf)
-* [SEON](http://dev.nemo.inf.ufes.br/seon/)
+* [SEON](https://dev.nemo.inf.ufes.br/seon/)

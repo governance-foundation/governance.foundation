@@ -1,7 +1,7 @@
 # Advertising
 
 show          : &block_show true
-url           : &script_url "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+url           : &script_url "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
 
 #appears above title on single template
 #_layouts/single.html
