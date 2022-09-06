@@ -16,6 +16,8 @@ if [[ "${PORT_LIVERELOAD}" == "" ]]; then
   PORT_LIVERELOAD=$(cat dev-livereload.port)
 fi
 
+# install ruby-devel
+apt-get install -y ruby-dev
 
 gem install i18n jekyll bundler jemoji nokogiri -n /usr/local/bin
 
