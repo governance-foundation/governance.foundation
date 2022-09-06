@@ -18,8 +18,4 @@ This model provides a high-level structure of information domains.
 
 ![status](https://img.shields.io/badge/status-draft-red)
 
-<iframe
-  frameborder="0"
-  style="width:100%;height:973px;"
-  src="https://viewer.diagrams.net/#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1HrHS1onwC3XB00JQqMTcrSJZd06aiA8Y">
-</iframe>
+{% include diagram.html code="1HrHS1onwC3XB00JQqMTcrSJZd06aiA8Y" %}

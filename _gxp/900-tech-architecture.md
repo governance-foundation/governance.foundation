@@ -33,8 +33,4 @@ This diagram has the following layers for segregating perspectives
 - Experience - where not obvious call out experiences that are foundational
 - Architecture - major capability and matching technology stack
 
-<iframe
-  frameborder="0"
-  style="width:100%;height:973px;"
-  src="https://viewer.diagrams.net/#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D19eAJDNdmUSINpeUmn1x9ZatQ0933Rirn">
-</iframe>
+{% include diagram.html code="19eAJDNdmUSINpeUmn1x9ZatQ0933Rirn" %}
