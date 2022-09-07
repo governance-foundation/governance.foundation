@@ -23,7 +23,7 @@ layout: page
       <th scope="row"><img src="logos/governance.foundation.png" alt="{{ site.env.SITE_TITLE}}" class="logo"></th>
       <td>Project Dashboard</td>
       <td>this page</td>
-      <td><a target="_blank" class="btn btn-primary" href="{{ site.env.SERVER_URL }}">Open</a>
+      <td><a target="_blank" class="btn btn-primary" href="{{ site.env.DOMAIN_URL }}">Open</a>
       </td>
       <td></td>
     </tr>
@@ -31,9 +31,9 @@ layout: page
       <th scope="row"><img src="logos/governance.foundation.png" alt="{{ site.env.SITE_TITLE}}" class="logo"></th>
       <td>Local</td>
       <td>development instance</td>
-      <td><a target="_blank" class="btn btn-primary" href="{{ site.env.DOMAIN_URL }}">Open</a>
+      <td><a target="_blank" class="btn btn-primary" href="{{ site.env.SERVER_SITE_URL }}">Open</a>
       </td>
-      <td>Live reload {{ site.env.SERVER_LIVERELOAD_PORT }}</td>
+      <td>Live reload {{ site.env.SERVER_SITE_LIVERELOAD_PORT }}</td>
     </tr>
     <tr>
       <th scope="row"><img src="logos/Traefik.logo.png" alt="Traefik" class="logo"></th>
