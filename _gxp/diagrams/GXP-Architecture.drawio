@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="2">
     <diagram id="fKNdlD2plWOkOZGuG4vE" name="Services">
-        <mxGraphModel dx="1867" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="3488" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-110" value="Experience" parent="0"/>
@@ -110,10 +110,10 @@
                 <mxCell id="11" style="edgeStyle=none;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" source="7" target="hdmXZGqUlNRK6feqRWDT-38" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" style="edgeStyle=none;html=1;dashed=1;" edge="1" parent="hdmXZGqUlNRK6feqRWDT-110" source="21" target="hdmXZGqUlNRK6feqRWDT-38">
+                <mxCell id="27" style="edgeStyle=none;html=1;dashed=1;" parent="hdmXZGqUlNRK6feqRWDT-110" source="21" target="hdmXZGqUlNRK6feqRWDT-38" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="Social Graph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hdmXZGqUlNRK6feqRWDT-110">
+                <mxCell id="21" value="Social Graph" style="rounded=0;whiteSpace=wrap;html=1;" parent="hdmXZGqUlNRK6feqRWDT-110" vertex="1">
                     <mxGeometry x="460" y="-170" width="130" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="hdmXZGqUlNRK6feqRWDT-15" value="Architecture" parent="0"/>
