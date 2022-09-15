@@ -7,3 +7,4 @@ Gemfile.lock
 .ssl/
 *.iml
 .DS_Store
+logs/
