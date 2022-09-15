@@ -3,7 +3,7 @@ version: "2.4"
 services:
 
   server:
-    image: aemdesign/java-buildpack:jdk11
+    image: aemdesign/java-buildpack:jdk11-ubuntu
     restart: always
     extends:
       file: ../common/config-tz.yml
