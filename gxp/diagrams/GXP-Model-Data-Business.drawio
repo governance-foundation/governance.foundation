@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" compressed="true" pages="4">
     <diagram id="5mdXpFSmkrV_lgbcLtbX" name="Model">
-        <mxGraphModel dx="1017" dy="2704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1336" dy="3441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -890,8 +890,8 @@
                 <mxCell id="OV-v5QMWO7NhztnAQlz1-413" value="Resource" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;dashed=1;" parent="1" vertex="1">
                     <mxGeometry x="1730" y="-1070" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="OV-v5QMWO7NhztnAQlz1-418" value="Stakeholder, Partners, Customers, Internal, External, Infrastructure, Application, Service, Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-                    <mxGeometry x="1110" y="-500" width="100" height="60" as="geometry"/>
+                <mxCell id="OV-v5QMWO7NhztnAQlz1-418" value="Stakeholder, Partners, Customers, Internal, External, Infrastructure, Application, Service, Client, Equipment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1110" y="-500" width="130" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="OV-v5QMWO7NhztnAQlz1-419" value="&lt;b&gt;Organisational and Training Management&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="1690" y="-270" width="140" height="50" as="geometry"/>
@@ -984,8 +984,8 @@
                 <mxCell id="qxVtuvf2T6lj4K0am9P8-36" value="Cost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
                     <mxGeometry x="564" y="-424" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="qxVtuvf2T6lj4K0am9P8-38" value="Cost, Equity, Asset" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-                    <mxGeometry x="1037.5" y="-414" width="73" height="20" as="geometry"/>
+                <mxCell id="qxVtuvf2T6lj4K0am9P8-38" value="Cost, Equity, Asset, Material" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="1037.5" y="-414" width="92.5" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="MHKkgaHY1pmoHZkdyh2U-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qxVtuvf2T6lj4K0am9P8-43" target="OV-v5QMWO7NhztnAQlz1-86" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -1103,7 +1103,7 @@
                 <mxCell id="M0yTE4UhmUmWDhHYKbKs-8" value="External / Internal Vision" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="928" y="-1380" width="144" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="M0yTE4UhmUmWDhHYKbKs-9" value="External Factor, Requirements, Constraint, Opportunity, External Challenge, Assumption, Gap, Internal Challenge, Competence, Idea" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                <mxCell id="M0yTE4UhmUmWDhHYKbKs-9" value="External Factor, Requirements, Constraint, Demand, Opportunity, External Challenge, Assumption, Gap, Internal Challenge, Competence, Idea" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="862" y="-1270" width="160" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="M0yTE4UhmUmWDhHYKbKs-10" value="Type" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
@@ -1194,7 +1194,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="thRvt1LdquRD4ncgpqAX" name="Capabilities">
-        <mxGraphModel dx="-683" dy="3804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="-364" dy="4541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="ve6rhD3FlOR0zIHJ6LE8-0"/>
                 <mxCell id="ve6rhD3FlOR0zIHJ6LE8-1" parent="ve6rhD3FlOR0zIHJ6LE8-0"/>
@@ -1640,7 +1640,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="-HhuUIDzTcEkgpmsBKhW" name="Canvas">
-        <mxGraphModel dx="1017" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1336" dy="1241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="n8iIfs-p58l6Ss1Zy7IL-0"/>
                 <mxCell id="n8iIfs-p58l6Ss1Zy7IL-1" parent="n8iIfs-p58l6Ss1Zy7IL-0"/>
