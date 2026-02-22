@@ -200,6 +200,7 @@ exclude:
   - README
   - tmp
   - services
+  - assets/frameworks/togaf
   - "*.sh"
   - "docker-*"
   - .idea
