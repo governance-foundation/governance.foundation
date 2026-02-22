@@ -2,7 +2,7 @@ Param(
   [string]$LOG_PATH = ".\logs",
   [string]$LOG_PEFIX = "start",
   [string]$LOG_SUFFIX = ".log",
-  [string]$FUNCTIONS_URI = "https://github.com/aem-design/aemdesign-docker/releases/latest/download/functions.ps1",
+  [string]$FUNCTIONS_URI = "https://raw.githubusercontent.com/governance-foundation/governance.foundation/master/scripts/functions.ps1",
   [string]$SERVICES = "$( (Get-Content ".\start-services.conf" | Where-Object {$_ -notmatch '^#.*'} | Where-Object {-not([String]::IsNullOrWhiteSpace($_))} ) -join " -f ")",
   [string]$PORT = "5080"
 )
