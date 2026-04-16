@@ -4,6 +4,8 @@ main:
     url: /governance/
   - title: "GXP"
     url: /gxp/
+  - title: "KnowledgeFund"
+    url: /knowledgefund/
   - title: "Frameworks"
     url: /frameworks/
   - title: "GitHub"
@@ -11,12 +13,6 @@ main:
     url: https://github.com/governance-foundation
   - title: "Blog"
     url: /blog/
-  - title: "Forum"
-    target: _blank
-    url: https://groups.google.com/forum/#!forum/governance-foundation
-  - title: "Chat"
-    target: _blank
-    url: https://gitter.im/governance-foundation/community
   - title: "About"
     url: /about/
 
@@ -104,3 +100,24 @@ gxp:
         url: /gxp/model/infrastructure
       - title: "Tech - Architecture"
         url: /gxp/tech/architecture
+
+#knowledgefund links
+knowledgefund:
+  - title: KnowledgeFund
+    url: /knowledgefund/
+    children:
+      - title: "Overview"
+        description: "What KnowledgeFund is and why it matters."
+        url: /knowledgefund/
+      - title: "Model"
+        description: "The structural and conceptual model behind KnowledgeFund."
+        url: /knowledgefund/model/
+      - title: "Diagram"
+        description: "A simple visual map of how KnowledgeFund fits together."
+        url: /knowledgefund/diagram/
+      - title: "Bootstrap"
+        description: "How organisations start building their own KnowledgeFund."
+        url: /knowledgefund/bootstrap/
+      - title: "Experiences"
+        description: "The practical surfaces and capabilities KnowledgeFund can enable."
+        url: /knowledgefund/experiences/

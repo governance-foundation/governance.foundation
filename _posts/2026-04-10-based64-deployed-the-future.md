@@ -80,6 +80,12 @@ AI does not create value merely because people now have access to tools.
 
 It creates value when the business changes, when work changes, when decision-making changes, when governance changes, and when organisational effort becomes more coherent rather than more scattered.
 
+AI does not magically solve alignment.
+
+It can, and will, amplify chaos if the organisational knowledge body is poor, fragmented, political, or stale.
+
+So if you are seeing these kinds of results, it may be a sign that your governance needs some care and attention.
+
 Until then, Based64 will continue to look very advanced.
 
 Right up until the moment someone asks what actually got better.
