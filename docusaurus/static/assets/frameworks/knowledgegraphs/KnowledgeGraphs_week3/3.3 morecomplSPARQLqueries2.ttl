@@ -1,0 +1,23 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .  
+@prefix dbr: <http://dbpedia.org/resource/> .  
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .  
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .  
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .  
+
+dbr:Titanic dbo:director dbr:James_Cameron .  
+dbr:Titanic rdf:type dbo:Film .  
+dbr:Titanic dbo:starring dbr:Kate_Winslet,  
+    dbr:Leonardo_DiCaprio, dbr:Bernard_Hill, dbr:Gloria_Stuart ,  
+    dbr:Victor_Garber, dbr:Danny_Nucci, dbr:David_Warner_\(actor\) ,  
+    dbr:Kathy_Bates, dbr:Bill_Paxton,  dbr:Frances_Fisher,  
+    dbr:Jonathan_Hyde, dbr:Billy_Zane .  
+dbr:Inception dbo:director dbr:Christopher_Nolan .  
+dbr:Inception dbo:starring dbr:Leonardo_DiCaprio, dbr:Ken_Watanabe,  
+    dbr:Joseph_Gordon-Levitt, dbr:Marion_Cotillard, dbr:Ellen_Page,  
+    dbr:Tom_Hardy, dbr:Cillian_Murphy, dbr:Tom_Berenger,  
+    dbr:Michael_Caine .  
+dbr:Inception rdf:type dbo:Film .  
+dbr:Tenet rdf:type dbo:Film .  
+dbr:Tenet dbo:director dbr:Christopher_Nolan .  
+dbr:Dark_Angel_\(TV_series\) dbo:creator dbr:James_Cameron .  
+dbr:Dark_Angel_\(TV_series\) rdf:type dbo:TelevisionWork .

@@ -1,0 +1,32 @@
+	@prefix schema: <https://schema.org/> .
+	@prefix owl: <http://www.w3.org/2002/07/owl#> .
+	@prefix ex: <https://example.org/resource/> .
+	@prefix dbr: <http://dbpedia.org/resource/> .
+	@prefix dbo: <http://dbpedia.org/ontology/> .
+	@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+	@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+	ex:SpaceForce ex:network dbr:Netflix ;
+    	schema:genre ex:Space ;
+    	schema:actor dbr:Steve_Carell,
+        	dbr:John_Malkovich ;
+    	schema:datePublished "2020-05-29"^^xsd:date ;
+    	rdfs:label "Space Force"@en .
+	ex:The_Office_US schema:genre dbr:Mockumentary ;
+    	schema:actor dbr:Steve_Carell ,
+      	 	dbr:John_Krasinski ;
+    	ex:episodes "201" ;
+    	schema:datePublished "2005-03-24"^^xsd:date ;
+    	rdfs:label "Das Büro"@de ,
+        	"The Office"@en .
+	dbr:Westworld ex:network dbr:HBO ;
+    	schema:genre dbr:Western ;
+    	ex:episodes "28" ;
+    	schema:datePublished "2016-10-02"^^xsd:date ;
+    	schema:isBasedOn dbr:Westworld_\(film\) .
+	ex:Star_Trek:Picard ex:network ex:CBS ;
+    	schema:genre ex:Space ;
+    	ex:episodes "10" ;
+    	schema:datePublished "2020-03-23"^^xsd:date .
+	dbr:Bird_Box_\(film\) schema:actor dbr:John_Malkovich ;
+    	schema:datePublished "2018-11-12"^^xsd:date .
