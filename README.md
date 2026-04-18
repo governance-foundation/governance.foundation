@@ -29,35 +29,35 @@ Icons can be selected form here [Fontawesome](http://fontawesome.io/icons/)
 
 ## Getting Started
 
-* setup ```ruby```
+### Local development (current)
 
-* install dependecies run
+Use the Docusaurus app under `docusaurus/` for local preview.
 
-```bash
-./install.sh
-```
-
-* run server while editing
+Local preview port: `17600`
 
 ```bash
-./serve.sh
+cd docusaurus
+npm install
+npm run start:local
 ```
 
-### On Windows
-
-On windows, for best results use docker for everything.
+Or from the repo root:
 
 ```powershell
-#POWERSHELL
-docker run -it --rm -p 4000:4000 -p 35729:35729 -v ${pwd}:/build/source:rw aemdesign/centos-java-buildpack bash --login
-
-cd source/
-rvm install "ruby-2.6.3"
-gem install jekyll bundler jemoji nokogiri -n /usr/local/bin
-bundle install
-bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling
-
+./serve-local.ps1
 ```
+
+```bash
+./serve-local.sh
+```
+
+Rules:
+- local development/runtime: no Docker
+- CI/pipeline or other non-local automation: Docker is acceptable if useful
+
+### Legacy Jekyll/Docker path
+
+The old Jekyll site still exists at repo root during migration, but it is now a legacy path. Prefer the Docusaurus local flow above for normal development.
 
 ## Google Ads
 

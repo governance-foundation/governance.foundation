@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --ifm-color-primary: #273449;
+  --ifm-color-primary-dark: #202c3e;
+  --ifm-color-primary-darker: #1b2636;
+  --ifm-color-primary-darkest: #121a27;
+  --ifm-color-primary-light: #344663;
+  --ifm-color-primary-lighter: #41587b;
+  --ifm-color-primary-lightest: #55709b;
+  --ifm-background-color: #f4efe6;
+  --ifm-background-surface-color: #fbf7f0;
+  --ifm-navbar-background-color: rgba(245, 239, 230, 0.92);
+  --ifm-navbar-height: 56px;
+  --ifm-font-color-base: #1f2933;
+  --ifm-heading-color: #16202c;
+  --ifm-color-content: #3f4b59;
+  --ifm-color-content-secondary: #586273;
+  --ifm-toc-border-color: rgba(22, 32, 44, 0.08);
+  --ifm-menu-color-background-active: rgba(39, 52, 73, 0.08);
+  --ifm-menu-color-background-hover: rgba(39, 52, 73, 0.05);
+  --ifm-card-background-color: rgba(251, 247, 240, 0.92);
+  --ifm-code-font-size: 95%;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #c4ac7d;
+  --ifm-color-primary-dark: #b79d6b;
+  --ifm-color-primary-darker: #ab935f;
+  --ifm-color-primary-darkest: #907847;
+  --ifm-color-primary-light: #cfba92;
+  --ifm-color-primary-lighter: #d9c8a7;
+  --ifm-color-primary-lightest: #e7dcc7;
+  --ifm-background-color: #0f141a;
+  --ifm-background-surface-color: #151d25;
+  --ifm-navbar-background-color: rgba(17, 22, 29, 0.9);
+  --ifm-font-color-base: #d8d2c5;
+  --ifm-heading-color: #f1eadf;
+  --ifm-color-content: #c6beb1;
+  --ifm-color-content-secondary: #9d988d;
+  --ifm-toc-border-color: rgba(196, 172, 125, 0.16);
+  --ifm-menu-color-background-active: rgba(196, 172, 125, 0.12);
+  --ifm-menu-color-background-hover: rgba(196, 172, 125, 0.08);
+  --ifm-card-background-color: rgba(21, 29, 37, 0.92);
+}
+
+html,
+body,
+main,
+.main-wrapper {
+  background: var(--ifm-background-color);
+}
+
+body {
+  color: var(--ifm-color-content);
+}
+
+.navbar {
+  background: var(--ifm-navbar-background-color);
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+  box-shadow: none;
+  backdrop-filter: blur(14px);
+}
+
+.navbar,
+.navbar a,
+.navbar__title,
+.navbar__toggle {
+  color: var(--ifm-heading-color);
+}
+
+.navbar__brand {
+  margin-right: 0.5rem;
+}
+
+.navbar__logo img {
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+}
+
+.navbar__items--left,
+.navbar__items--right {
+  align-items: center;
+}
+
+.navbar__items--left {
+  gap: 0.65rem;
+}
+
+.navbar__items--right {
+  gap: 0.6rem;
+}
+
+.navbar__item,
+.navbar-open-issue,
+.navbar-github-link {
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.navbar-open-issue svg[class*='iconExternalLink'],
+.navbar-github-link svg[class*='iconExternalLink'] {
+  display: inline-block !important;
+  margin-left: 0.28rem;
+  width: 0.78rem;
+  height: 0.78rem;
+  opacity: 0.82;
+  vertical-align: text-top;
+}
+
+.navbar-open-issue:hover svg[class*='iconExternalLink'],
+.navbar-github-link:hover svg[class*='iconExternalLink'] {
+  opacity: 1;
+}
+
+
+.navbar__search {
+  margin-left: auto;
+}
+
+.DocSearch-Button,
+.aa-DetachedSearchButton {
+  width: 100%;
+  min-width: 11rem;
+  height: 34px;
+  margin: 0;
+  padding: 0 0.45rem 0 0.55rem;
+  background: color-mix(in srgb, var(--ifm-background-surface-color) 82%, transparent) !important;
+  border: 1px solid var(--ifm-toc-border-color) !important;
+  border-radius: 999px !important;
+  box-shadow: none !important;
+}
+
+.DocSearch-Button:hover,
+.aa-DetachedSearchButton:hover {
+  background: color-mix(in srgb, var(--ifm-background-surface-color) 92%, transparent) !important;
+}
+
+.DocSearch-Search-Icon,
+.aa-DetachedSearchButton .aa-DetachedSearchButtonIcon {
+  width: 14px !important;
+  height: 14px !important;
+  color: var(--ifm-color-content-secondary) !important;
+}
+
+.DocSearch-Button-Placeholder,
+.aa-DetachedSearchButtonPlaceholder,
+.aa-DetachedSearchButtonQuery {
+  color: var(--ifm-color-content) !important;
+  font-size: 0.88rem;
+  font-weight: 500;
+}
+
+.DocSearch-Button-Keys,
+.aa-DetachedSearchButton .aa-DetachedSearchButtonSuffix {
+  gap: 0.18rem;
+}
+
+.DocSearch-Button-Key,
+.aa-DetachedSearchButton kbd {
+  background: color-mix(in srgb, var(--ifm-background-surface-color) 74%, transparent) !important;
+  border: 1px solid var(--ifm-toc-border-color) !important;
+  border-radius: 6px !important;
+  box-shadow: none !important;
+  color: var(--ifm-font-color-base) !important;
+  font-size: 0.66rem !important;
+  font-weight: 600;
+  min-width: 1.1rem;
+  height: 1.1rem;
+  padding: 0 0.22rem;
+}
+
+[class*='colorModeToggle'] {
+  color: var(--ifm-heading-color);
+}
+
+[class*='colorModeToggle'] button,
+.navbar [class*='toggleButton'] {
+  width: 28px;
+  height: 28px;
+  border: 0;
+  background: transparent;
+  color: var(--ifm-heading-color);
+  box-shadow: none;
+  padding: 0;
+}
+
+[class*='colorModeToggle'] button:hover,
+.navbar [class*='toggleButton']:hover {
+  background: color-mix(in srgb, var(--ifm-color-primary) 14%, transparent);
+  border-radius: 999px;
+}
+
+.theme-doc-sidebar-container,
+.theme-doc-toc-desktop,
+.pagination-nav__link,
+.table-of-contents,
+.card {
+  background: var(--ifm-card-background-color);
+}
+
+.theme-doc-sidebar-container,
+.theme-doc-toc-desktop,
+.pagination-nav__link,
+.card {
+  border: 1px solid var(--ifm-toc-border-color);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+}
+
+.menu__link {
+  color: var(--ifm-font-color-base);
+}
+
+.menu__link:hover {
+  color: var(--ifm-heading-color);
+}
+
+.theme-doc-markdown,
+.theme-doc-markdown p,
+.theme-doc-markdown li,
+.theme-doc-markdown td,
+.theme-doc-markdown th {
+  color: var(--ifm-color-content);
+}
+
+.theme-doc-markdown h1,
+.theme-doc-markdown h2,
+.theme-doc-markdown h3,
+.theme-doc-markdown h4,
+.theme-doc-markdown h5,
+.theme-doc-markdown h6 {
+  color: var(--ifm-heading-color);
+}
+
+.table-of-contents,
+.table-of-contents__link {
+  color: var(--ifm-color-content-secondary);
+}
+
+.table-of-contents__link:hover,
+.table-of-contents__link--active {
+  color: var(--ifm-heading-color);
+}
+
+@media (max-width: 996px) {
+  .navbar__items--right {
+    display: none !important;
+  }
+
+  .navbar__items--left {
+    gap: 0.35rem;
+  }
+
+  .theme-doc-markdown iframe[title*='Diagram'] {
+    height: 52vh !important;
+    min-height: 320px;
+  }
+}

@@ -1,8 +1,75 @@
 # Governance Foundation Review Index
 
-This index is a review map for the public-facing content in `C:\projects\governance-foundation\governance.foundation`, with extra focus on the main site sections **Governance**, **GXP**, **Frameworks**, and **Blog**.
+This index is a review map for `C:\projects\governance-foundation\governance.foundation`.
 
-## 1) Site content map at a glance
+## Review intent
+
+**Primary review target:**
+- `assets/knowledgefund/`
+
+**Supporting/reference material:**
+- the rest of the repo, especially `index.md`, `_governance/`, `_gxp/`, `_frameworks/`, `_posts/`, `_pages/`, and `_data/`
+
+The current working assumption is that the **Knowledge Fund** material is the main subject, and the broader site content is supporting context for positioning, consistency, terminology, and follow-up refinement.
+
+## 1) Top-priority review target
+
+### `assets/knowledgefund/`
+
+Files currently present:
+- `Knowledge Fund.pdf`
+- `Knowledge Fund Pitch Deck.pptx`
+- `Knowledge Managment 4.0.pptx`
+- `Knowledge.Fund - Experiences.pptx`
+
+### Knowledge Fund review order
+
+1. `Knowledge Fund Pitch Deck.pptx`
+2. `Knowledge Fund.pdf`
+3. `Knowledge Managment 4.0.pptx`
+4. `Knowledge.Fund - Experiences.pptx`
+5. Cross-check terminology and positioning against the site content
+
+### Knowledge Fund working section map
+
+#### A. Core pitch / value proposition
+Primary sources:
+- `Knowledge Fund Pitch Deck.pptx`
+- `Knowledge Fund.pdf`
+
+Likely review concerns:
+- concept clarity
+- pitch coherence
+- problem framing
+- solution framing
+- audience fit
+- business model clarity
+- competition/positioning
+- grammar and polish
+
+#### B. Knowledge Management 4.0 model
+Primary source:
+- `Knowledge Managment 4.0.pptx`
+
+Likely review concerns:
+- conceptual clarity
+- model progression from KM 1.0 -> 4.0
+- terminology consistency
+- plausibility / rigor of AI vs synthetic intelligence framing
+- relationship to Governance / GXP / frameworks content
+
+#### C. Product experiences / module set
+Primary source:
+- `Knowledge.Fund - Experiences.pptx`
+
+Likely review concerns:
+- whether the experience set is concrete enough
+- naming consistency
+- overlap vs distinct modules
+- UX/productization clarity
+- which experiences are pitch-ready vs still placeholders
+
+## 2) Supporting repo content map
 
 | Area | Source | Public URL root | Item count | Notes |
 |---|---|---:|---:|---|
@@ -17,17 +84,18 @@ This index is a review map for the public-facing content in `C:\projects\governa
 | Layout / rendering support | `_layouts/`, `_includes/`, `_plugins/` | n/a | support | Templates and Jekyll rendering logic |
 | Assets | `assets/` | `/assets/` | many | Images, screenshots, styles, etc. |
 
-## 2) Priority review order
+## 3) Supporting review priority
 
-1. **Governance**
-2. **GXP**
-3. **Frameworks**
-4. **Blog**
-5. Home page
-6. About / supporting pages
-7. Navigation, metadata, and archive pages
+1. **Knowledge Fund assets**
+2. **Governance**
+3. **GXP**
+4. **Frameworks**
+5. **Blog**
+6. Home page
+7. About / supporting pages
+8. Navigation, metadata, and archive pages
 
-## 3) Primary section inventory
+## 4) Primary section inventory for supporting context
 
 ### Home
 
@@ -128,7 +196,7 @@ Supporting folder:
 - `2020-10-02-why-frameworks-fail.md` -> `/blog/2020/10/02/why-frameworks-fail` -> **Why Frameworks Fail?**
 - `2021-08-26-knowledge-management.md` -> `/blog/2021/08/26/knowledge-management` -> **Knowledge Management 4.0**
 
-## 4) Secondary public content
+## 5) Secondary public content
 
 ### About / policy pages (`_about/`)
 
@@ -151,60 +219,20 @@ Archive helpers (`_pages/archive/`):
 - `tag-archive.md` -> `/tags/` -> **Posts by Tag**
 - `year-archive.md` -> `/year-archive/` -> **Posts by Year**
 
-## 5) Supporting review surfaces
-
-These are not primary editorial sections, but they affect what users see and how content is organized.
-
-### Navigation and metadata
-
-- `_data/navigation.yml` - main menu and section side-navigation
-- `_data/authors.yml` - author metadata
-- `_data/config.yml` - site-level content/config data
-- `_data/ui-text.yml` - UI copy/text strings
-- `_data/advertising.yml` - ad configuration
-
-### Templates and rendering
-
-- `_layouts/` - page/layout templates
-- `_includes/` - reusable snippets and partials
-- `_plugins/` - Jekyll plugin extensions
-
-### Assets
-
-- `assets/` - images, screenshots, styles, and other front-end/static assets used by the content above
-
 ## 6) Suggested review worksheet
 
-For each page/post, capture:
+For each reviewed section, capture:
+- section name
+- source files
+- purpose
+- strengths
+- problems / risks
+- comment summary
+- recommended next actions
 
-- Title
-- URL
-- Section
-- Purpose
-- Current quality/status
-- Accuracy / outdated claims
-- Structural issues
-- Copy/edit issues
-- Link/image issues
-- Follow-up action
+## 7) Notes found while indexing
 
-## 7) First-pass review batches
-
-### Batch A: Governance
-Review all 11 files in `_governance/` from overview through systemic governance.
-
-### Batch B: GXP
-Review all 10 core pages in `_gxp/`, then separately review `_gxp/diagrams/` for consistency with the prose pages.
-
-### Batch C: Frameworks
-Review overview plus all 14 framework/ontology reference pages in `_frameworks/`.
-
-### Batch D: Blog
-Review all 5 posts in `_posts/` for freshness, positioning, and internal link opportunities.
-
-## 8) Notes found while indexing
-
-- The public navigation in `_data/navigation.yml` matches the four main sections you called out: **Governance**, **GXP**, **Frameworks**, and **Blog**.
+- The public navigation in `_data/navigation.yml` matches the major site sections **Governance**, **GXP**, **Frameworks**, and **Blog**.
 - `_frameworks/togaf/` exists but appears empty.
-- `_gxp/diagrams/` contains a substantial parallel diagram corpus that should probably be reviewed alongside the written GXP pages, not separately forgotten.
-- There are a few visible spelling/content nits in current metadata (for example `Infrastructre`, `Knoweldge`, `Purpouse`, and `SEON` file/title mismatch against `110-sean.md`) that are worth checking during the actual review pass.
+- `_gxp/diagrams/` contains a substantial parallel diagram corpus that should be reviewed alongside the written GXP pages when the time comes.
+- There are already visible naming/spelling nits in the repo metadata and filenames, for example `Knowledge Managment`, `Infrastructre`, `Knoweldge`, `Purpouse`, and `110-sean.md` vs `/frameworks/seon`.

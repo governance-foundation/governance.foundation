@@ -1,94 +1,121 @@
-name: build
+name: deploy
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
+      - develop
 
 jobs:
-  build:
+  detect_changes:
     if: "!contains(github.event.head_commit.message, 'skip ci')"
-
-    env:
-      NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-      GDRIVE_DIAGRAMS_FOLDER: "1eEIlz-qj75jd7TGKlkZ7S_pGt2OSQwIE"
-      GDRIVE_IMAGE: "gvfn/gdrive"
-      SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
-      SERVICE_ACCOUNT_NAME: "devops-gvfn"
-      SERVICE_ACCOUNT_EMAIL: "devops@governance.foundation"
-      ONLY_DIAGRAMS: "FALSE"
-
-
     runs-on: ubuntu-latest
+    outputs:
+      upload_diagrams: ${{ steps.detect.outputs.upload_diagrams }}
+      only_diagrams: ${{ steps.detect.outputs.only_diagrams }}
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
           fetch-depth: 0
-          lfs: true
 
-      - name: Check Update
+      - name: Detect changed files
+        id: detect
+        shell: bash
         run: |
-          export GIT_CHANGES=( $(git diff-tree --no-commit-id --name-only -r ${{ github.sha }}) )
-          echo $GIT_CHANGES
+          set -euo pipefail
 
-          diagramUpdateCount=0
-          for i in "${GIT_CHANGES[@]}"
-          do
-              if [[ $(echo $i | grep "\.drawio$") == "" ]]; then
-                echo "NOT DIAGRAM: $i"
-              else
-                ((diagramUpdateCount+=1));
-                echo "DIAGRAM: $i"
-                echo "UPLOAD_DIAGRAMS=TRUE" >> $GITHUB_ENV
-              fi
-          done
-          echo "diagramUpdateCount: $diagramUpdateCount"
-          echo "GIT_CHANGES: ${#GIT_CHANGES[@]}"
-          if [[ ${#GIT_CHANGES[@]} == $diagramUpdateCount ]]; then
-            echo "ONLY DIAGRAMS"
-                echo "UPLOAD_DIAGRAMS=TRUE" >> $GITHUB_ENV
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.sha }}"
+
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            mapfile -t CHANGED < <(git ls-files)
+          else
+            mapfile -t CHANGED < <(git diff --name-only "$BEFORE" "$AFTER")
           fi
 
-      - name: Upload to Diagrams to Google Drive
-        if: env.UPLOAD_DIAGRAMS == 'TRUE' || contains(github.event.head_commit.message, 'upload diagrams')
-        uses: docker://gvfn/gdrive
+          echo "Changed files:"
+          printf '%s\n' "${CHANGED[@]}"
+
+          upload=false
+          only=true
+
+          if [ ${#CHANGED[@]} -eq 0 ]; then
+            only=false
+          fi
+
+          for file in "${CHANGED[@]}"; do
+            if [[ "$file" == _gxp/diagrams/*.drawio ]]; then
+              upload=true
+            else
+              only=false
+            fi
+          done
+
+          echo "upload_diagrams=$upload" >> "$GITHUB_OUTPUT"
+          echo "only_diagrams=$only" >> "$GITHUB_OUTPUT"
+
+  upload_diagrams:
+    needs: detect_changes
+    if: needs.detect_changes.outputs.upload_diagrams == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          entrypoint: "/bin/sh"
-          args: |
-            -c "\
-            gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON sync upload /github/workspace/_gxp/diagrams ${GDRIVE_DIAGRAMS_FOLDER} && \
-            gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON list>/github/workspace/_gxp/diagrams/_gdrive_diagrams_list.txt && \
-            gdrive --config /gdrive --service-account-evar SERVICE_ACCOUNT_JSON about>>/github/workspace/_gxp/diagrams/_gdrive_diagrams_list.txt"
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push Google Drive Stats to Repo
-        if: env.UPLOAD_DIAGRAMS == 'TRUE' || contains(github.event.head_commit.message, 'upload diagrams')
-        continue-on-error: true
-        run: |
-          git config --global user.name "${SERVICE_ACCOUNT_NAME}"
-          git config --global user.email "${SERVICE_ACCOUNT_EMAIL}"
-
-          git add *_gdrive_diagrams_list.txt
-          git commit -m "update _gdrive_diagrams_list.txt [skip ci]"
-          git push
-
-      # IF ONLY_DIAGRAMS is set don't do other steps
-      - name: install dependencies
-        if: env.ONLY_DIAGRAMS == 'FALSE'
-        run: |
-          sudo apt-get update
-          sudo apt-get install libcurl4-openssl-dev libxslt-dev libxml2-dev
-      - uses: ruby/setup-ruby@v1
-        if: env.ONLY_DIAGRAMS == 'FALSE'
+      - name: Upload diagrams to Google Drive
+        uses: jannekem/run-python-script-action@v1
         with:
-          ruby-version: '3.2'
-      - name: build
-        if: env.ONLY_DIAGRAMS == 'FALSE'
+          script: |
+            from pathlib import Path
+            from mirror.drawio_to_gdrive import DrawioTransferService
+            from mirror.settings import settings
+
+            transfer_service = DrawioTransferService(settings)
+            transfer_service.process(Path('_gxp/diagrams'))
+
+      - name: Commit diagram metadata updates
         run: |
-          export LANG=en_US.UTF-8
-          export JEKYLL_ENV=production
-          bundle install
-          bundle exec jekyll build --future --profile --trace  --verbose
-      - name: deploy
-        if: env.ONLY_DIAGRAMS == 'FALSE'
+          set -euo pipefail
+          if [ -n "$(git status --porcelain _gxp/diagrams/)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add _gxp/diagrams/
+            git commit -m "chore: update gdrive diagram statistics [skip ci]"
+            git push
+          else
+            echo "No diagram metadata changes to commit"
+          fi
+
+  deploy_site:
+    needs: [detect_changes]
+    if: needs.detect_changes.outputs.only_diagrams != 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: docusaurus/package-lock.json
+
+      - name: Install Docusaurus dependencies
+        working-directory: docusaurus
+        run: npm ci
+
+      - name: Build Docusaurus
+        working-directory: docusaurus
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          publish_branch: gh-pages
+          publish_dir: ./docusaurus/build
+          cname: governance.foundation

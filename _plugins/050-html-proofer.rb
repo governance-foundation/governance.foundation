@@ -9,7 +9,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
     :assume_extension => ".html",
     :allow_hash_href => true,
     :verbose => true,
-    :internal_domains => ["localhost:8100","localhost:8111"],
+    :internal_domains => ["localhost:8100","localhost:8111","localhost:17600"],
     :root_dir => "_site",
     :ignore_urls => [
       /.*#data=.*/,
