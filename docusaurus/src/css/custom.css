@@ -280,34 +280,6 @@ body {
 }
 
 @media (max-width: 996px) {
-  .navbar__items--right {
-    display: none !important;
-  }
-
-  .navbar__toggle {
-    display: inline-flex !important;
-    align-items: center;
-    justify-content: center;
-    pointer-events: auto;
-    touch-action: manipulation;
-    z-index: 1201;
-  }
-
-  .navbar__items--left > .navbar__item {
-    display: none !important;
-  }
-
-  .navbar-sidebar,
-  .navbar-sidebar__backdrop {
-    z-index: 1200;
-  }
-
-  .navbar-sidebar--show {
-    transform: translate3d(0, 0, 0) !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-  }
-
   .theme-doc-markdown iframe[title*='Diagram'] {
     height: 52vh !important;
     min-height: 320px;
