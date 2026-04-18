@@ -7,7 +7,7 @@ slug: /gxp/diagrams/measurement/
 
 <iframe
   title="Measurement Diagram"
-  src="https://viewer.diagrams.net/?lightbox=1&layers=1&nav=1&title=Data-Modeling-Tech-Overview.drawio&url=https://raw.githubusercontent.com/governance-foundation/governance.foundation/develop/_gxp/diagrams/Data-Modeling-Tech-Overview.drawio"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=Data-Modeling-Tech-Overview.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FData-Modeling-Tech-Overview.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
@@ -15,4 +15,4 @@ slug: /gxp/diagrams/measurement/
 
 If the embedded viewer does not load, open directly:
 
-- https://raw.githubusercontent.com/governance-foundation/governance.foundation/develop/_gxp/diagrams/Data-Modeling-Tech-Overview.drawio
+- /assets/gxp/diagrams/Data-Modeling-Tech-Overview.drawio

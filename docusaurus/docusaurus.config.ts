@@ -4,7 +4,7 @@ import type {Config} from '@docusaurus/types';
 const config: Config = {
   title: 'Governance Foundation',
   tagline: 'Governance, AI-legible organisations, and KnowledgeFund.',
-  favicon: 'img/favicon.ico',
+  favicon: 'assets/icons/favicon.ico',
 
   future: {
     v4: true,
@@ -50,10 +50,37 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        indexDocs: true,
+        indexBlog: true,
+        indexPages: true,
+        docsRouteBasePath: '/',
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        searchResultLimits: 8,
+        searchBarShortcut: true,
+        searchBarShortcutHint: true,
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      defaultMode: 'dark',
+      respectPrefersColorScheme: false,
+    },
     navbar: {
-      title: 'Governance Foundation',
+      title: '',
+      logo: {
+        alt: 'Governance Foundation',
+        src: 'assets/icons/favicon-32x32.png',
+        srcDark: 'assets/icons/favicon-32x32.png',
+      },
       items: [
         {to: '/knowledgefund/', label: 'KnowledgeFund', position: 'left'},
         {to: '/governance/', label: 'Governance', position: 'left'},
@@ -62,9 +89,17 @@ const config: Config = {
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
         {
-          href: 'https://github.com/governance-foundation/governance.foundation',
-          label: 'GitHub',
+          href: 'https://github.com/governance-foundation/governance.foundation/issues/new/choose',
+          label: 'Open Issue ↗',
           position: 'right',
+          className: 'navbar-open-issue',
+        },
+        {type: 'search', position: 'right'},
+        {
+          href: 'https://github.com/governance-foundation/governance.foundation',
+          label: 'GitHub ↗',
+          position: 'right',
+          className: 'navbar-github-link',
         },
       ],
     },
@@ -72,7 +107,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Explore',
           items: [
             {label: 'KnowledgeFund', to: '/knowledgefund/'},
             {label: 'Governance', to: '/governance/'},
@@ -90,6 +125,10 @@ const config: Config = {
         {
           title: 'More',
           items: [
+            {
+              label: 'Open Issue',
+              href: 'https://github.com/governance-foundation/governance.foundation/issues/new/choose',
+            },
             {
               label: 'GitHub',
               href: 'https://github.com/governance-foundation/governance.foundation',

@@ -1,7 +1,7 @@
 import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
-  docs: [
+  docsSidebar: [
     {
       type: 'category',
       label: 'KnowledgeFund',
@@ -18,19 +18,59 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Governance',
       link: {type: 'doc', id: 'governance/overview'},
-      items: ['governance/overview'],
+      items: [
+        'governance/overview',
+        'governance/introduction',
+        'governance/governance-origin',
+        'governance/governance-paradigm',
+        'governance/governance-evolution',
+        'governance/perspectives',
+        'governance/governance-global',
+        'governance/governance-modern',
+        'governance/governance-corporate',
+        'governance/governance-enterprise',
+        'governance/governance-it',
+        'governance/governance-systemic',
+      ],
     },
     {
       type: 'category',
-      label: 'GXP',
+      label: 'Governance Experience Platform',
       link: {type: 'doc', id: 'gxp/overview'},
-      items: ['gxp/overview'],
+      items: [
+        'gxp/model-overview',
+        'gxp/model-layers',
+        'gxp/model-collaboration',
+        'gxp/model-business',
+        'gxp/model-service',
+        'gxp/model-application',
+        'gxp/model-deployment',
+        'gxp/model-data',
+        'gxp/model-infrastructure',
+        'gxp/tech-architecture',
+      ],
     },
     {
       type: 'category',
       label: 'Frameworks',
       link: {type: 'doc', id: 'frameworks/overview'},
-      items: ['frameworks/overview'],
+      items: [
+        'frameworks/overview',
+        'frameworks/architectural-thinking',
+        'frameworks/pragmaticea',
+        'frameworks/avancier-methods',
+        'frameworks/panorama360',
+        'frameworks/trak',
+        'frameworks/modaf',
+        'frameworks/dodaf',
+        'frameworks/ripose-casper',
+        'frameworks/archimate',
+        'frameworks/uaf',
+        'frameworks/updm',
+        'frameworks/ufo',
+        'frameworks/ontouml',
+        'frameworks/sean',
+      ],
     },
   ],
 };

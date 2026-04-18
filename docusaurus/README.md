@@ -14,9 +14,17 @@ From `docusaurus/`:
 
 ```bash
 npm install
-npm run start
+npm run start:local
 npm run build
 ```
+
+## Local development port
+
+- Local Governance Foundation preview must run on port `17600`.
+- Use `npm run start:local` inside `docusaurus/`, or run the repo-root helper script `serve-local.ps1` / `serve-local.sh`.
+- Local start must not open a browser window. It should stay in the terminal and keep hot-updating as content changes.
+- Do not use Docker for local development runtime.
+- Docker is acceptable for CI/pipeline or other non-local automation.
 
 ## Current migration shape
 

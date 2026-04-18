@@ -7,7 +7,7 @@ slug: /gxp/diagrams/overview/
 
 <iframe
   title="GXP Overview Diagram"
-  src="https://viewer.diagrams.net/?lightbox=1&layers=1&nav=1&title=GXP-Architecture.drawio&url=https://raw.githubusercontent.com/governance-foundation/governance.foundation/develop/_gxp/diagrams/GXP-Architecture.drawio"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Architecture.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FGXP-Architecture.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
@@ -15,4 +15,4 @@ slug: /gxp/diagrams/overview/
 
 If the embedded viewer does not load, open directly:
 
-- https://raw.githubusercontent.com/governance-foundation/governance.foundation/develop/_gxp/diagrams/GXP-Architecture.drawio
+- /assets/gxp/diagrams/GXP-Architecture.drawio
