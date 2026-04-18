@@ -40,3 +40,4 @@ npm run build
 - Old site remains at repo root (Jekyll) during migration.
 - Assets are mirrored under `static/assets` for Docusaurus rendering.
 - Mermaid is enabled via `@docusaurus/theme-mermaid` and `markdown.mermaid`.
+- Deploy validation note (2026-04-18): this README line was updated to force a fresh deploy run from `develop` after CI change-detection fixes.
