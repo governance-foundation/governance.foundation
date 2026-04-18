@@ -90,7 +90,7 @@ jobs:
           fi
 
   deploy_site:
-    needs: [detect_changes, upload_diagrams]
+    needs: [detect_changes]
     if: needs.detect_changes.outputs.only_diagrams != 'true'
     runs-on: ubuntu-latest
     steps:
