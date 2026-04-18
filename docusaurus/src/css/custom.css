@@ -245,8 +245,16 @@ body {
 }
 
 @media (max-width: 996px) {
-  .navbar__search {
-    max-width: none;
-    margin: 0;
+  .navbar__items--right {
+    display: none !important;
+  }
+
+  .navbar__items--left {
+    gap: 0.35rem;
+  }
+
+  .theme-doc-markdown iframe[title*='Diagram'] {
+    height: 52vh !important;
+    min-height: 320px;
   }
 }
