@@ -48,6 +48,17 @@ const sidebars: SidebarsConfig = {
         'gxp/model-data',
         'gxp/model-infrastructure',
         'gxp/tech-architecture',
+        {
+          type: 'category',
+          label: 'Diagrams',
+          items: [
+            'gxp/overview-diagram',
+            'gxp/terms',
+            'gxp/measurement',
+            'gxp/questions',
+            'gxp/viewpoints',
+          ],
+        },
       ],
     },
     {

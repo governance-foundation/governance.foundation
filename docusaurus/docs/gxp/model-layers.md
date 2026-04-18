@@ -15,4 +15,18 @@ Current perspective follows these levels:
 * Logical - logical definition of the physical layer into information domains.
 * Physical - tangible aspects of information used and consumed by the organisation.
 
+## Diagram preview
+
+<iframe
+  title="GXP Model Layers Diagram"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Layers.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FGXP-Model-Layers.drawio"
+  width="100%"
+  height="640"
+  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
+/>
+
+If the preview does not load, open directly:
+
+- /assets/gxp/diagrams/GXP-Model-Layers.drawio
+
 ![status](https://img.shields.io/badge/status-draft-red)

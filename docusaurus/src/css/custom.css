@@ -70,8 +70,22 @@ body {
   color: var(--ifm-heading-color);
 }
 
+.navbar__inner {
+  display: flex;
+  align-items: center;
+}
+
 .navbar__brand {
   margin-right: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.navbar__logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 0;
 }
 
 .navbar__logo img {
@@ -217,6 +231,27 @@ body {
   color: var(--ifm-heading-color);
 }
 
+.navbar-sidebar,
+.navbar-sidebar__brand,
+.navbar-sidebar__items,
+.navbar-sidebar__item {
+  background: var(--ifm-background-surface-color) !important;
+}
+
+.navbar-sidebar__brand {
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+}
+
+.navbar-sidebar .menu__link,
+.navbar-sidebar .menu__link--active {
+  color: var(--ifm-font-color-base) !important;
+}
+
+.navbar-sidebar .menu__link:hover {
+  color: var(--ifm-heading-color) !important;
+  background: var(--ifm-menu-color-background-hover);
+}
+
 .theme-doc-markdown,
 .theme-doc-markdown p,
 .theme-doc-markdown li,
@@ -247,10 +282,6 @@ body {
 @media (max-width: 996px) {
   .navbar__items--right {
     display: none !important;
-  }
-
-  .navbar__items--left {
-    gap: 0.35rem;
   }
 
   .theme-doc-markdown iframe[title*='Diagram'] {

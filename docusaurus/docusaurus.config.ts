@@ -90,14 +90,14 @@ const config: Config = {
         {to: '/about', label: 'About', position: 'left'},
         {
           href: 'https://github.com/governance-foundation/governance.foundation/issues/new/choose',
-          label: 'Open Issue ↗',
+          label: 'Open Issue',
           position: 'right',
           className: 'navbar-open-issue',
         },
         {type: 'search', position: 'right'},
         {
           href: 'https://github.com/governance-foundation/governance.foundation',
-          label: 'GitHub ↗',
+          label: 'GitHub',
           position: 'right',
           className: 'navbar-github-link',
         },

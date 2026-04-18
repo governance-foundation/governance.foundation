@@ -16,14 +16,14 @@ const primaryCards: Card[] = [
     title: 'KnowledgeFund',
     text: 'A methodology for building an AI-legible organisation.',
     to: '/knowledgefund/',
-    imagePath: '/assets/images/background/scaffold-ashkan-forouzani-v31lgBn5114-unsplash.webp',
+    imagePath: '/assets/images/background/scaffold-ashkan-forouzani-v31lgBn5114-unsplash.jpg',
     label: 'Methodology',
   },
   {
     title: 'Governance',
     text: 'Foundational writing on governance, its evolution, and systemic implications.',
     to: '/governance/',
-    imagePath: '/assets/images/background/compas-himesh-kumar-behera-t11oyf1K8kA-unsplash.webp',
+    imagePath: '/assets/images/background/compas-himesh-kumar-behera-t11oyf1K8kA-unsplash.jpg',
     label: 'Foundations',
   },
   {
@@ -37,7 +37,7 @@ const primaryCards: Card[] = [
     title: 'Frameworks',
     text: 'Browse supporting frameworks and reference material used across the site.',
     to: '/frameworks/',
-    imagePath: '/assets/images/background/appartments-danist-BgoDlqwqz_U-unsplash.webp',
+    imagePath: '/assets/images/background/appartments-danist-BgoDlqwqz_U-unsplash.jpg',
     label: 'Reference',
   },
 ];
@@ -47,14 +47,14 @@ const articleCards: Card[] = [
     title: 'What Git did for code',
     text: 'Why organisations may need a structural layer for knowledge, work, and change similar to what Git gave code.',
     to: '/blog/2026/04/16/what-git-did-for-code-knowledgefund-may-need-to-do-for-organisations/',
-    imagePath: '/assets/images/background/scaffold-ashkan-forouzani-v31lgBn5114-unsplash.webp',
+    imagePath: '/assets/images/background/scaffold-ashkan-forouzani-v31lgBn5114-unsplash.jpg',
     label: 'Featured article',
   },
   {
     title: 'Beyond harness engineering',
     text: 'Why AI success is not only an execution-environment problem, but a governance problem.',
     to: '/blog/2026/04/16/beyond-harness-engineering-why-ai-success-is-a-governance-problem/',
-    imagePath: '/assets/images/background/create-something-kelly-sikkema-Nlax2tu89bU-unsplash.webp',
+    imagePath: '/assets/images/background/create-something-kelly-sikkema-Nlax2tu89bU-unsplash.jpg',
     label: 'Featured article',
   },
   {
