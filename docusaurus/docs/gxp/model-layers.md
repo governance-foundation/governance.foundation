@@ -30,3 +30,4 @@ If the preview does not load, open directly:
 - /assets/gxp/diagrams/GXP-Model-Layers.drawio
 
 ![status](https://img.shields.io/badge/status-draft-red)
+

@@ -3,6 +3,20 @@ title: "Technical - Architecture"
 slug: /gxp/tech/architecture
 ---
 
+## Diagram preview
+
+<iframe
+  title="Data-Modeling-Tech-Overview.drawio Diagram"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=Data-Modeling-Tech-Overview.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FData-Modeling-Tech-Overview.drawio"
+  width="100%"
+  height="640"
+  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
+/>
+
+If the preview does not load, open directly:
+
+- /assets/gxp/diagrams/Data-Modeling-Tech-Overview.drawio
+
 This provides high level structure of technical architecture needed for the gxp.
 
 ![status](https://img.shields.io/badge/status-draft-red)
@@ -29,3 +43,5 @@ This diagram has the following layers for segregating perspectives
 
 - Experience - where not obvious call out experiences that are foundational
 - Architecture - major capability and matching technology stack
+
+
