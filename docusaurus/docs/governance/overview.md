@@ -3,10 +3,27 @@ title: "Governance"
 slug: /governance/
 ---
 
-These pages are dedicated to provide foundation aknowledge about concepts of Governance.
+These pages are dedicated to provide foundational knowledge about concepts of Governance.
 
 ## Table of Contents
 
+This section is the entry point into the Governance material migrated into Docusaurus.
+
+- [Introduction](./introduction.md)
+- [Governance Origin](./governance-origin.md)
+- [Governance Paradigm](./governance-paradigm.md)
+- [Governance Evolution](./governance-evolution.md)
+- [Governance Perspectives](./perspectives.md)
+- [Global Governance](./governance-global.md)
+- [Modern Governance](./governance-modern.md)
+- [Corporate Governance](./governance-corporate.md)
+- [Enterprise Governance](./governance-enterprise.md)
+- [Information Technology Governance](./governance-it.md)
+- [Systemic Governance](./governance-systemic.md)
+
+## What this section covers
+
+The Governance section traces the idea of governance from its origins through major paradigms, historical shifts, and practical applications. It is intended to help readers move from foundational concepts into more specific forms such as corporate, enterprise, information technology, and systemic governance.
 
 ## References
 
