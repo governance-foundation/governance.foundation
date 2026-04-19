@@ -231,27 +231,6 @@ body {
   color: var(--ifm-heading-color);
 }
 
-.navbar-sidebar,
-.navbar-sidebar__brand,
-.navbar-sidebar__items,
-.navbar-sidebar__item {
-  background: var(--ifm-background-surface-color) !important;
-}
-
-.navbar-sidebar__brand {
-  border-bottom: 1px solid var(--ifm-toc-border-color);
-}
-
-.navbar-sidebar .menu__link,
-.navbar-sidebar .menu__link--active {
-  color: var(--ifm-font-color-base) !important;
-}
-
-.navbar-sidebar .menu__link:hover {
-  color: var(--ifm-heading-color) !important;
-  background: var(--ifm-menu-color-background-hover);
-}
-
 .theme-doc-markdown,
 .theme-doc-markdown p,
 .theme-doc-markdown li,
@@ -280,36 +259,45 @@ body {
 }
 
 @media (max-width: 996px) {
-  .navbar__search {
-    display: none !important;
+  .navbar-sidebar {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 83vw;
+    max-width: 20rem;
+    height: 100dvh !important;
+    background: var(--ifm-background-surface-color) !important;
+    overflow: hidden !important;
   }
 
-  .navbar-sidebar {
-    background: var(--ifm-background-surface-color) !important;
+  .navbar-sidebar--show .navbar-sidebar {
+    transform: translate3d(0, 0, 0) !important;
   }
 
   .navbar-sidebar__brand {
+    flex: 0 0 auto;
     min-height: var(--ifm-navbar-height);
+    border-bottom: 1px solid var(--ifm-toc-border-color);
   }
 
   .navbar-sidebar__items {
     display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
+    flex: 1 1 auto !important;
+    min-height: 0;
+    height: auto !important;
     overflow-y: auto !important;
     -webkit-overflow-scrolling: touch;
-    max-height: calc(100dvh - var(--ifm-navbar-height));
+    background: var(--ifm-background-surface-color) !important;
     padding-bottom: max(1rem, env(safe-area-inset-bottom));
   }
 
-  .navbar-sidebar__item,
-  .navbar-sidebar .menu,
-  .navbar-sidebar .menu__list,
-  .navbar-sidebar .menu__list-item,
-  .navbar-sidebar .menu__link {
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
+  .navbar-sidebar__backdrop {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  .navbar-sidebar--show .navbar-sidebar__backdrop {
+    opacity: 1;
+    visibility: visible;
   }
 
   .theme-doc-markdown iframe[title*='Diagram'] {
