@@ -42,6 +42,8 @@ const config: Config = {
         blog: {
           showReadingTime: true,
           routeBasePath: 'blog',
+          blogSidebarTitle: 'Recent posts',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
