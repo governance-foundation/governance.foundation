@@ -280,6 +280,38 @@ body {
 }
 
 @media (max-width: 996px) {
+  .navbar__search {
+    display: none !important;
+  }
+
+  .navbar-sidebar {
+    background: var(--ifm-background-surface-color) !important;
+  }
+
+  .navbar-sidebar__brand {
+    min-height: var(--ifm-navbar-height);
+  }
+
+  .navbar-sidebar__items {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    overflow-y: auto !important;
+    -webkit-overflow-scrolling: touch;
+    max-height: calc(100dvh - var(--ifm-navbar-height));
+    padding-bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+
+  .navbar-sidebar__item,
+  .navbar-sidebar .menu,
+  .navbar-sidebar .menu__list,
+  .navbar-sidebar .menu__list-item,
+  .navbar-sidebar .menu__link {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
   .theme-doc-markdown iframe[title*='Diagram'] {
     height: 52vh !important;
     min-height: 320px;
