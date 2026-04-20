@@ -1,7 +1,7 @@
 ---
 title: "AI copilots without organisational context are limited"
-date: 2023-03-14 00:00:00 +1100
-slug: /2023/03/14/ai-copilots-without-organisational-context-are-limited
+date: 2014-03-14 00:00:00 +1100
+slug: /2014/03/14/ai-copilots-without-organisational-context-are-limited
 description: "Copilots can speed up local tasks, but without shared organisational context they cannot reliably improve system-level outcomes."
 ---
 
@@ -40,6 +40,6 @@ If context is strong, capability scales.
 
 ## Related reading
 
-- [Generative AI arrived, but organisations were not structurally ready](/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready)
-- [Why “AI adoption” is not the same as capability formation](/blog/2023/07/20/why-ai-adoption-is-not-the-same-as-capability-formation)
-- [What an AI-legible organisation actually needs](/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs)
+- [Generative AI arrived, but organisations were not structurally ready](/blog/2014/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready)
+- [Why “AI adoption” is not the same as capability formation](/blog/2014/07/20/why-ai-adoption-is-not-the-same-as-capability-formation)
+- [What an AI-legible organisation actually needs](/blog/2015/08/08/what-an-ai-legible-organisation-actually-needs)

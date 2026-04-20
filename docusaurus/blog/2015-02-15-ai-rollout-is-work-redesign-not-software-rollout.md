@@ -1,7 +1,7 @@
 ---
 title: "AI rollout is work redesign, not software rollout"
-date: 2024-02-15 00:00:00 +1100
-slug: /2024/02/15/ai-rollout-is-work-redesign-not-software-rollout
+date: 2015-02-15 00:00:00 +1100
+slug: /2015/02/15/ai-rollout-is-work-redesign-not-software-rollout
 description: "AI creates value when work is redesigned around new capabilities, not when tools are merely installed."
 ---
 
@@ -38,6 +38,6 @@ Software deployment is necessary, but insufficient.
 
 ## Related reading
 
-- [The governance gap behind most AI initiatives](/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives)
-- [What an AI-legible organisation actually needs](/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs)
+- [The governance gap behind most AI initiatives](/blog/2014/10/12/the-governance-gap-behind-most-ai-initiatives)
+- [What an AI-legible organisation actually needs](/blog/2015/08/08/what-an-ai-legible-organisation-actually-needs)
 - [AI rollout is about changing the business](/blog/2026/04/17/ai-rollout-is-about-changing-the-business)

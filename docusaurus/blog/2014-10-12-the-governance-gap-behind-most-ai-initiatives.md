@@ -1,7 +1,7 @@
 ---
 title: "The governance gap behind most AI initiatives"
-date: 2023-10-12 00:00:00 +1100
-slug: /2023/10/12/the-governance-gap-behind-most-ai-initiatives
+date: 2014-10-12 00:00:00 +1100
+slug: /2014/10/12/the-governance-gap-behind-most-ai-initiatives
 description: "Most AI programs have adoption plans and risk controls, but lack the governance structures needed for durable execution."
 ---
 
@@ -37,6 +37,6 @@ When governance is episodic, AI adoption stays noisy.
 
 ## Related reading
 
-- [Why “AI adoption” is not the same as capability formation](/blog/2023/07/20/why-ai-adoption-is-not-the-same-as-capability-formation)
-- [AI rollout is work redesign, not software rollout](/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout)
-- [Why freeform AI use finds value but also amplifies chaos](/blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos)
+- [Why “AI adoption” is not the same as capability formation](/blog/2014/07/20/why-ai-adoption-is-not-the-same-as-capability-formation)
+- [AI rollout is work redesign, not software rollout](/blog/2015/02/15/ai-rollout-is-work-redesign-not-software-rollout)
+- [Why freeform AI use finds value but also amplifies chaos](/blog/2015/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos)

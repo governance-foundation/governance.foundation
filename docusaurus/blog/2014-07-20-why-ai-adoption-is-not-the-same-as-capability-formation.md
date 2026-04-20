@@ -1,7 +1,7 @@
 ---
 title: "Why “AI adoption” is not the same as capability formation"
-date: 2023-07-20 00:00:00 +1000
-slug: /2023/07/20/why-ai-adoption-is-not-the-same-as-capability-formation
+date: 2014-07-20 00:00:00 +1000
+slug: /2014/07/20/why-ai-adoption-is-not-the-same-as-capability-formation
 description: "Tool adoption metrics are not the same as repeatable organisational competence."
 ---
 
@@ -39,6 +39,6 @@ Capability formation is the journey.
 
 ## Related reading
 
-- [AI copilots without organisational context are limited](/blog/2023/03/14/ai-copilots-without-organisational-context-are-limited)
-- [The governance gap behind most AI initiatives](/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives)
-- [AI rollout is work redesign, not software rollout](/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout)
+- [AI copilots without organisational context are limited](/blog/2014/03/14/ai-copilots-without-organisational-context-are-limited)
+- [The governance gap behind most AI initiatives](/blog/2014/10/12/the-governance-gap-behind-most-ai-initiatives)
+- [AI rollout is work redesign, not software rollout](/blog/2015/02/15/ai-rollout-is-work-redesign-not-software-rollout)

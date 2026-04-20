@@ -1,7 +1,7 @@
 ---
 title: "Generative AI arrived, but organisations were not structurally ready"
-date: 2023-11-28 00:00:00 +1100
-slug: /2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready
+date: 2014-11-28 00:00:00 +1100
+slug: /2014/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready
 description: "Generative AI moved faster than most organisations' ability to absorb it. The problem was not model access alone, but structural unreadiness."
 ---
 
