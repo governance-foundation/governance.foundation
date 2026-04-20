@@ -28,30 +28,30 @@ A working backlog of candidate articles to backfill the pre-2026 timeline and st
 ## 2022
 
 - [x] Hybrid work exposed the real organisational memory problem
-- [ ] Documentation is not knowledge
+- [x] Documentation is not knowledge
 - [x] Why most collaboration tools improve surfaces, not coherence
 - [x] The hidden cost of local optimisation between teams
 
 ## 2023
 
 - [x] Generative AI arrived, but organisations were not structurally ready
-- [ ] AI copilots without organisational context are limited
-- [ ] Why AI adoption is not the same as capability formation
-- [ ] The governance gap behind most AI initiatives
+- [x] AI copilots without organisational context are limited
+- [x] Why AI adoption is not the same as capability formation
+- [x] The governance gap behind most AI initiatives
 
 ## 2024
 
-- [ ] AI rollout is work redesign, not software rollout
-- [ ] Organisational memory as competitive infrastructure
-- [ ] What an AI-legible organisation actually needs
-- [ ] Why freeform AI use finds value but also amplifies chaos
+- [x] AI rollout is work redesign, not software rollout
+- [x] Organisational memory as competitive infrastructure
+- [x] What an AI-legible organisation actually needs
+- [x] Why freeform AI use finds value but also amplifies chaos
 
 ## 2025
 
-- [ ] From knowledge management to KnowledgeFund
-- [ ] What Git did for code, organisations may need for knowledge
-- [ ] Organisational AI centrification, what it means and what it risks
-- [ ] Contribution, reuse, and the idea of an organisational economy
+- [x] From knowledge management to KnowledgeFund
+- [x] What Git did for code, KnowledgeFund will do for organisations
+- [x] Organisational AI centrification, what it means and what it risks
+- [x] Contribution, reuse, and the idea of an organisational economy
 
 ## 2026
 
