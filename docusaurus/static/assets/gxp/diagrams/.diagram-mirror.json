@@ -1,0 +1,76 @@
+{
+  "source": "docusaurus/static/assets/gxp/diagrams",
+  "count": 14,
+  "files": [
+    {
+      "name": "Data-Modeling-Tech-Overview.drawio",
+      "sizeBytes": 2403,
+      "sha256": "157fb506003f954cf5bb2f555795112f8f31d6d5e012c3d5ea709cbaa0a391d6"
+    },
+    {
+      "name": "Data-Perspectives.drawio",
+      "sizeBytes": 6863,
+      "sha256": "d38ddca36271dcd5b6a7fb88d878330807bc129804c90e2cd5f0a3a6149d8b0e"
+    },
+    {
+      "name": "GXP-Architecture.drawio",
+      "sizeBytes": 60676,
+      "sha256": "044bbc446fe4dc9ccc0adeb1143c160a4ef48c32d3c7fc60784f7d2fe553ad35"
+    },
+    {
+      "name": "GXP-Collaboration.drawio",
+      "sizeBytes": 31582,
+      "sha256": "db6e8edcc0071754af1332f9218ffa06ccd42130b95f800d3888e37f245512ce"
+    },
+    {
+      "name": "GXP-Knoweldge-Collaboration.drawio",
+      "sizeBytes": 57895,
+      "sha256": "5538d9e41c9f923bf5f63d3c09bd7dbe8d143f696c06b04e2c87358ec9bea1a1"
+    },
+    {
+      "name": "GXP-Model-Canvas.drawio",
+      "sizeBytes": 4682,
+      "sha256": "da10edf4065c863b73de1a516338b7a594b29b5e04806e1a2d64c75d03b02a90"
+    },
+    {
+      "name": "GXP-Model-Data-Application.drawio",
+      "sizeBytes": 4564,
+      "sha256": "ca18fac5a39fb9f8f709fc52fc6f933c0d4900abfac1ed71d4bdc785e871fb8f"
+    },
+    {
+      "name": "GXP-Model-Data-Business.drawio",
+      "sizeBytes": 24589,
+      "sha256": "dac9024b0ef07de99e349103f3255f7361e7a5d130b0f5361ff7e0df7e15ad68"
+    },
+    {
+      "name": "GXP-Model-Data-Data.drawio",
+      "sizeBytes": 2713,
+      "sha256": "c2f35370636137ed731665c63ff5539acae257586f19154b4eb326037b9e7699"
+    },
+    {
+      "name": "GXP-Model-Data-Deployment.drawio",
+      "sizeBytes": 3037,
+      "sha256": "58040a25fe30f38d298bed47434cb769f1041bfb147d1aef70ac50e62171da86"
+    },
+    {
+      "name": "GXP-Model-Data-Infrastructure.drawio",
+      "sizeBytes": 2948,
+      "sha256": "38b4769b073bbb8a7fd09f7e623b3c9c7f81b77289a3281078bb0d53367abdb3"
+    },
+    {
+      "name": "GXP-Model-Data-Service.drawio",
+      "sizeBytes": 2425,
+      "sha256": "80a6e95924a6a8dd20555d92e3eb64f3d1174c495628bac3cd7fb7d9a1fc96d6"
+    },
+    {
+      "name": "GXP-Model-Layers.drawio",
+      "sizeBytes": 3732,
+      "sha256": "bed21ea7736debcd52ae14ed8d584488fb92510192d0fef7839b6eb9a6926231"
+    },
+    {
+      "name": "GXP-Model-Overview.drawio",
+      "sizeBytes": 1383,
+      "sha256": "2d3001bfc3a46db659716b023f8c926a59f20feb12364c9013d4e7eb75c478ad"
+    }
+  ]
+}
