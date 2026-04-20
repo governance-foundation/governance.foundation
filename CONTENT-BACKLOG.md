@@ -7,7 +7,7 @@ A working backlog of candidate articles to backfill the pre-2026 timeline and st
 - Prefer a small number of strong cornerstone posts over filler.
 - Treat 2020-2023 as the lead-up and problem-framing years.
 - Treat 2024-2026 as the transition into AI, organisational redesign, and KnowledgeFund.
-- When a post is drafted, move it into the repo `_posts/` / `docusaurus/blog/` flow and mark it done here.
+- When a post is drafted, add it to `docusaurus/blog/` and mark it done here.
 
 ---
 
@@ -27,14 +27,14 @@ A working backlog of candidate articles to backfill the pre-2026 timeline and st
 
 ## 2022
 
-- [ ] Hybrid work exposed the real organisational memory problem
+- [x] Hybrid work exposed the real organisational memory problem
 - [ ] Documentation is not knowledge
-- [ ] Why most collaboration tools improve surfaces, not coherence
-- [ ] The hidden cost of local optimisation between teams
+- [x] Why most collaboration tools improve surfaces, not coherence
+- [x] The hidden cost of local optimisation between teams
 
 ## 2023
 
-- [ ] Generative AI arrived, but organisations were not structurally ready
+- [x] Generative AI arrived, but organisations were not structurally ready
 - [ ] AI copilots without organisational context are limited
 - [ ] Why AI adoption is not the same as capability formation
 - [ ] The governance gap behind most AI initiatives

@@ -55,9 +55,9 @@ Rules:
 - local development/runtime: no Docker
 - CI/pipeline or other non-local automation: Docker is acceptable if useful
 
-### Legacy Jekyll/Docker path
+### Site path
 
-The old Jekyll site still exists at repo root during migration, but it is now a legacy path. Prefer the Docusaurus local flow above for normal development.
+Use the Docusaurus site for all active development and content work.
 
 ## Google Ads
 
@@ -65,16 +65,15 @@ Config is located in `_data/advertising.yml` html should not need to be changed 
 
 ## Project Structure Description
 
-Following is the description of important sections in the project. 
+Following is the description of important active sections in the project.
 
-* `assets` - folder for all assets that appear on the site
-* `_posts` - location for all Blog posts, add your markdown here and create a subfolder in `assests` for all your images etc
-* `_layouts` - templates for pages
-* `_pages` - admin pages for site
-* `_data` - data config for page modules
-* `_config.yml` - primary config for whole site
+* `docusaurus` - canonical site app, docs, blog, and homepage source
+* `assets` - shared assets used by the site
+* `_pages` - supporting repo pages still present at repo root
+* `_data` - supporting data/config still present at repo root
+* `_config.yml` - legacy root config still present in repo history/supporting files
 
 Additional Notes
 
-* all items with `_` (underscore) are essentially hidden.
-* to add new sections and items to navigation `_config.yml` and `_data/navigation.yml` should be updated
+* use `docusaurus/blog` for blog content
+* use the Docusaurus app/navigation as the active site surface

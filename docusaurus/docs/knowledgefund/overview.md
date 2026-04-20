@@ -108,5 +108,5 @@ The goal is to help each company create the starting KnowledgeFund that fits its
 - [Model](/knowledgefund/model/)
 - [Bootstrap](/knowledgefund/bootstrap/)
 - [Experiences](/knowledgefund/experiences/)
-- [What Git did for code, KnowledgeFund may need to do for organisations](/blog/2026/04/16/what-git-did-for-code-knowledgefund-may-need-to-do-for-organisations)
+- [What Git did for code, KnowledgeFund will do for organisations](/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations)
 - [Beyond harness engineering: why AI success is a governance problem](/blog/2026/04/16/beyond-harness-engineering-why-ai-success-is-a-governance-problem)

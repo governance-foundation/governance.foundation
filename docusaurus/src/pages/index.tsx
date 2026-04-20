@@ -46,7 +46,7 @@ const articleCards: Card[] = [
   {
     title: 'What Git did for code',
     text: 'Why organisations may need a structural layer for knowledge, work, and change similar to what Git gave code.',
-    to: '/blog/2026/04/16/what-git-did-for-code-knowledgefund-may-need-to-do-for-organisations/',
+    to: '/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/',
     imagePath: '/assets/images/background/scaffold-ashkan-forouzani-v31lgBn5114-unsplash.jpg',
     label: 'Featured article',
   },

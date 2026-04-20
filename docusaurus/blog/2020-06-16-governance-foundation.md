@@ -7,11 +7,16 @@ description: "Why Governance Foundation exists, what problem it is trying to sol
 
 Governance Foundation exists because too much work that matters gets built on weak foundations.
 
-Organisations create strategy, policy, projects, systems, controls, and frameworks, but they often do so without a clear shared understanding of what governance is actually for.
+Organisations create strategy, policy, projects, systems, controls, and frameworks all the time.
+But they often do so without a clear shared understanding of what governance is actually for.
 
 The result is familiar.
 
-Governance gets treated as bureaucracy. Frameworks get treated as paperwork. Controls get treated as friction. Transformation gets treated as a delivery exercise. And the deeper structural questions, how an organisation holds together, makes decisions, coordinates action, and adapts over time, are left underexplored.
+Governance gets treated as bureaucracy.
+Frameworks get treated as paperwork.
+Controls get treated as friction.
+Transformation gets treated as a delivery exercise.
+And the deeper structural questions, how an organisation holds together, makes decisions, coordinates action, moves knowledge, and adapts over time, are left underexplored.
 
 This site exists to work on those deeper questions.
 
@@ -19,12 +24,12 @@ This site exists to work on those deeper questions.
 
 Governance is often reduced to boards, compliance, review gates, or formal authority.
 
-Those things matter, but they are not the whole story.
+Those things matter.
+But they are not the whole story.
 
 Governance is also about the forces, structures, relationships, and mechanisms that shape how an entity behaves in its environment.
 
 That means governance is not only something an organisation writes down after the fact.
-
 It is something an organisation lives through every day.
 
 It shows up in:
@@ -35,7 +40,7 @@ It shows up in:
 - how change is controlled or allowed
 - how knowledge moves or gets trapped
 - how incentives shape behaviour
-- how systems reinforce or undermine the intended direction
+- how systems reinforce or undermine intended direction
 
 If these things are weak, unclear, or contradictory, no amount of polished documentation will save the organisation from drift.
 
@@ -43,7 +48,8 @@ If these things are weak, unclear, or contradictory, no amount of polished docum
 
 The word foundation matters here.
 
-A framework can be useful, but frameworks are often applied too early and too mechanically. People reach for a template before they understand the conditions it is meant to address.
+A framework can be useful, but frameworks are often applied too early and too mechanically.
+People reach for a template before they understand the conditions it is meant to address.
 
 A foundation is different.
 
@@ -69,26 +75,25 @@ This site is intended to bring together material that helps build a better found
 That includes:
 
 - foundational governance concepts
-- different governance paradigms and perspectives
+- governance paradigms and perspectives
 - governance-related frameworks
 - structural models such as GXP
 - thinking about knowledge, organisations, and system behaviour
-- practical ideas that can later inform better frameworks and methods
+- practical ideas that can later inform better methods
 
 The goal is not to collect material for its own sake.
 
 The goal is to make it easier to reason clearly about governance in a way that is useful, structural, and alive.
 
-## A long-term direction
+## A longer direction
 
-Over time, I expect this work to move beyond simply reviewing existing governance ideas.
+Over time, this work should move beyond simply reviewing existing governance ideas.
 
 It should also help develop new ones.
 
 That means exploring governance not just as a static body of institutional practice, but as something that interacts with organisational structure, knowledge systems, collaboration, technology, and eventually AI-supported ways of working.
 
 That broader direction will take time.
-
 But it needs a place to start.
 
 Governance Foundation is that starting point.
@@ -102,3 +107,8 @@ It is a statement of intent.
 Governance deserves to be treated as foundational work, not as an afterthought once the real decisions have already been made.
 
 If this site does its job, it will help make that foundation stronger.
+
+## Related reading
+
+- [A case for Governance Framework](/blog/2020/07/15/a-case-for-governance-foundation)
+- [Why Frameworks Fail?](/blog/2020/10/02/why-frameworks-fail)

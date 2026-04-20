@@ -2,55 +2,231 @@
 title: "Knowledge Management 4.0"
 date: 2021-08-26 00:00:00 +1100
 slug: /2021/08/26/knowledge-management
-description: "Definition of an organisation"
+description: "Why traditional knowledge management breaks down, and why organisations need a more living, connected, AI-legible approach to knowledge."
 ---
-A framework is an aggregation of knowledge, its a mechanism for converting knowledge into a repeatable pattern, productising knowledge and turning into a commodity product. A Framework aims to provide a way to make knowledge portable and accessible in a way that enables others without the immediate need to understand the underlying structure.
 
-Any given framework would typically provide a quicks pathway to adoption as to aid framework adoption. Additionally, it would provide a level of educational opportunities that would enable users to achieve better understanding and provide the skill to tailor the Framework as needed.
+Knowledge management has been trying to solve a real problem for a long time.
 
-Some of the reasons why frameworks fail:
+Organisations forget.
+They repeat themselves.
+They lose context.
+They trap critical knowledge in roles, teams, documents, and people.
+They create records without creating understanding.
 
-* Organisation and Framework icebergs are not understood
-* Organisation and Framework were not aligned
-* The social factors for rejection
-* Information governance as a Side-hustle
+So the instinct behind knowledge management was never wrong.
 
-Let's discuss these in some detail.
+The problem is that most knowledge management approaches captured only a thin and fragile version of what organisations actually know.
 
-## Knowledge Icebergs
+## Traditional knowledge management was mostly about capture
 
-Aggregated nature of a framework means that it's an iceberg of knowledge, and it represents the cumulative knowledge it's author's as well as knowledge of giants on which shoulders those authors stood. These knowledge icebergs if not approached correctly, will seal your faith which is an unfortunate nature of the unknown.
+In practice, knowledge management usually became a mix of:
 
-Organisations are also icebergs of knowledge and represent the cumulative knowledge of all their participants, and the more brilliant they appear, the more knowledge and data-hungry they are. Organisations leverage a multitude of structural societal frameworks and employ humans to add value and help to deal with exceptions. This means that essentially organisation leverages societal structures to achieve an exception that would be mutually beneficial.
+- document repositories
+- intranets and wikis
+- taxonomies and metadata
+- lessons learned registers
+- formal knowledge-owner roles
+- translation work between teams and functions
 
-Let's explore these concepts further when a new employee joins an organisation they bring with them a wealth of experience and unique perspective that is mutually helpful when integrated. This integration occurs slowly, which is the primary reason for success, as both organisation and employee explore alignment between their knowledge structures and have time to adjust. The best outcome is when both employee and organisational knowledge structures are similar and align without exceptions.
+That helped to a point.
 
-## Organisational Rejection
+But most of it was still built on the same assumption:
 
-Knowledge structure alignment exceptions occur when either of the structures does not align cleanly and in all cases employee would be in a position to decide their actions. An employee can either use their influence to alter the organisations or strive for other goals. Most mutually beneficial goals are when employees choose to influence the organisation as it provides growth not only to employee and organisation but also for other employees within the organisation.
+> if the organisation writes enough down, it will become knowable.
 
-The scope and incentives of the initiative by the employee mean that the alignment of changes would either be local or organisation-wide, and though this process moulding and enriching of both knowledge structures occur. Throughout this process, the employee plays the role of a change agent whose incentive is to ensure the Framework and their knowledge is tightly integrated into the organisation. This, in essence, provides a way for an employee to leave an imprint on the organisational knowledge structure.
+That is only partly true.
 
-When it comes to aligning frameworks to organisations, essentially the same process occurs. The biggest difference in alignment of a framework to an organisation comes from the scope of impact and implementation timelines. The scope of impact for Framework tends to always be organisation-wide, even if they are appear localised appreciation of the Framework and its purpose needs support from adjacent participants as in to support and encourage the change efforts.
+Writing things down matters.
+But capture is not the same as coherence.
+Storage is not the same as shared understanding.
+And documentation is not the same as living organisational knowledge.
 
-To join an organisation and a framework as knowledge icebergs intimate of both has to occur to ensure close alignment, any areas that don't align would create tension and friction that would long term reverse the alignment and organisation would reject the Framework. This is not a negative outcome as it would allow the organisation to grow and understand what in fact does not work so that the organisation can align to something that does.
+## The real problem was always fragmentation
 
-## Social Factors
+Most organisations do not lack information.
+They lack connectedness.
 
-In the majority of situations, the rejection is done at a social level as frameworks tend to prescribe a particular operational method. Technical systems can cause failures in operation models, but those reasons explicit, structurally evident and have a degree of predictability. Failures that stem from social rejection are much harder to identify, evaluate and predict. Passive aversion towards change is a catalyst for the slow erosion of progress, its undetectable until its too late and even in the retrospective are hard to identify.
+Knowledge gets spread across:
 
-The structural systems of an organisation once they are established do not have an ability self-change, social layer, on the other hand, is in a constant state of change. Within an organisation, the social layer is the sole mechanisms for dealing with the unknown and adjusting organisational structures to fit. This means attempts to introduce any frameworks into an organisation would need tangible social reasons for all participants.
+- policies
+- procedures
+- architecture diagrams
+- ticket systems
+- chats and emails
+- spreadsheets and slide decks
+- local workarounds
+- habits and unwritten rules
+- individual memory
 
-## Information Governance as a Side-hustle
+That means the organisation often has the pieces, but not the whole.
 
-Typically in an organisation, maintaining information is a role dedicated to a set of specialised roles that act as eyes and ears for the organisation, these roles are typically the translators between groups of people. Job for the roles that do translation is to package the knowledge and information from one side and make it relevant to another side and vice versa. These roles are typically supported with specific tools and enable some collaboration and presentation of their content to the greater community. These tools are either formal modelling suites that require foundational training and specialisation to use or could be a collection of ad-hoc material compiled overtime to provide input in a social context.
+One team knows why something exists.
+Another knows how to operate it.
+A third knows why it keeps failing.
+A fourth has already built a workaround.
+And none of that is held together cleanly.
 
-Even when roles are formally incentivised to maintain quality of information and data, they are still dependant on the organisational capacity to produce quality data that can be used as-is without translation. In the absence of that those roles are left extending the knowledge gap by filling in the blank, this done from conceptual, logical, exception handling and social where its no new reusable information is created.
+This is why so many organisations end up document-rich but knowledge-poor.
 
-Extending incentives beyond central authority in organisations are not feasible as it distracts others from their core activities. Furthermore, any form of generating and maintaining non-social information silos outside of main control function becomes a form of side-hustle. It's it a hard job to manage information without the support, and it's just easier to create social process gates to avoid the hassle.
+## Translation-heavy systems do not scale well
 
-## Conclusion
+A lot of classic knowledge management depended on translation.
 
-These and other factors place an organisation future at the mercy of social consequence, where its social selection of people that help along the journey defines its success. There is no quick solution; it means that organisations need to be very thorough when introducing frameworks into their organisations.
+Someone had to gather context from one place, interpret it, reshape it, and publish it in a form someone else could use.
+That might be an architect, analyst, manager, process owner, or subject matter expert.
 
-Organisations are like people; their ability to understand a framework depend on their historical experience and acquired knowledge, so "uploading" framework knowledge into an organisation does not work like in the Matrix. GXP will explore this "upload" notion and how this could be possible in organisations of the future.
+Sometimes that works.
+But it creates a bottleneck.
+
+The organisation becomes dependent on a relatively small number of people to:
+
+- interpret what matters
+- clean up contradictions
+- fill in missing context
+- explain how pieces connect
+- keep knowledge current
+
+That creates at least three problems.
+
+First, it does not scale.
+As complexity rises, the translation load rises faster.
+
+Second, it goes stale.
+By the time knowledge is translated, approved, and published, reality has often moved on.
+
+Third, it becomes political.
+When too much knowledge depends on a few intermediaries, those intermediaries become bottlenecks, filters, and points of control.
+
+## A lot of the important knowledge never gets captured properly
+
+Traditional knowledge systems also tend to favour the formal and visible layer.
+
+They capture things like:
+
+- official process
+- approved policy
+- designed architecture
+- final decisions
+- published standards
+
+What they often miss is the working layer:
+
+- why a decision was really made
+- what was tried and failed
+- which exceptions matter in practice
+- where the hidden dependencies sit
+- what local heuristics people rely on
+- which warnings experienced people carry around implicitly
+
+That is often the knowledge that makes the difference between smooth execution and expensive confusion.
+
+When it is not captured, the organisation keeps relying on human memory to bridge the gap.
+That makes continuity fragile and makes people harder to replace in knowledge terms.
+
+## Why this matters more now
+
+These weaknesses were already expensive before AI.
+
+AI just makes them harder to ignore.
+
+If organisational knowledge is fragmented, stale, contradictory, or trapped in people’s heads, AI will not magically fix it.
+It will operate on the fragments it can see.
+It may summarise the wrong thing beautifully.
+It may scale ambiguity faster.
+It may make incoherence more productive.
+
+That means the question is no longer just whether an organisation has knowledge assets.
+
+The question is whether the organisation has a knowledge system that is legible enough for both people and AI to work with.
+
+## Knowledge Management 4.0 should be about formation, not just storage
+
+The next stage of knowledge management should not just be a better library.
+
+It should be a better organisational memory system.
+
+That means shifting the goal from storing content to forming shared knowledge.
+
+A stronger model should help the organisation:
+
+- capture knowledge closer to where it is created
+- preserve reasoning, not just outputs
+- connect documents, decisions, work, and evidence
+- expose contradictions and stale areas
+- reduce dependence on isolated human memory
+- make knowledge more reusable across teams
+- keep context alive as work changes
+
+In other words, the aim is not just accumulation.
+It is intelligibility.
+
+## This is where AI changes the economics
+
+Older knowledge management approaches struggled partly because the interpretation work was expensive.
+
+Humans had to do most of the sorting, summarising, connecting, classifying, and cross-referencing by hand.
+So organisations cut corners.
+They documented the minimum.
+They centralised the burden.
+They tolerated drift.
+
+AI changes that.
+
+Not by removing the need for structure, but by making knowledge formation cheaper.
+
+AI can help:
+
+- interpret raw material
+- suggest where knowledge belongs
+- connect related fragments
+- surface conflicting versions of reality
+- preserve rationale while context is still fresh
+- turn scattered evidence into more usable knowledge objects
+- keep the knowledge body more current over time
+
+That does not remove the need for human judgment.
+But it does remove some of the old excuses.
+
+## From knowledge management to KnowledgeFund
+
+This is why I think the next step has to move beyond classic knowledge management.
+
+Knowledge management mostly treated knowledge as something to capture and administer.
+
+KnowledgeFund should treat organisational knowledge as something to actively structure, connect, trace, and grow.
+
+That means moving toward a system where knowledge is:
+
+- connected to purpose
+- connected to work
+- connected to decisions
+- connected to evidence
+- connected to gaps and risks
+- connected to contribution and reuse
+
+That is a different ambition.
+
+It is closer to building an organisational knowledge system than maintaining a document estate.
+It is closer to organisational memory than document management.
+It is closer to a living knowledge economy than a static archive.
+
+## The point is not more content
+
+A mature knowledge approach is not about producing more pages.
+
+It is about making the organisation more able to know what it knows, learn what it does not, and act with clearer shared context.
+
+That is the real promise behind a better knowledge model.
+
+Not just better storage.
+Better coherence.
+Better continuity.
+Better organisational learning.
+
+That is the direction Knowledge Management 4.0 should point toward.
+
+## Related reading
+
+- [Documentation is not knowledge](/blog/2022/05/12/documentation-is-not-knowledge)
+- [What Git did for code, KnowledgeFund will do for organisations](/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations)
+- [Governance Experience Platform](/blog/2020/07/15/governance-experience-platform)

@@ -11,11 +11,12 @@ But organisations keep making a costly mistake.
 
 They confuse documentation with knowledge.
 
-That sounds harmless at first. After all, documentation is one of the main ways organisations try to capture what they know.
+That sounds harmless at first.
+After all, documentation is one of the main ways organisations try to capture what they know.
 
 But the difference matters more than it appears.
 
-Because when documentation is treated as if it *is* knowledge, organisations start believing that writing something down is the same as making it usable, meaningful, connected, and alive.
+When documentation is treated as if it *is* knowledge, organisations start believing that writing something down is the same as making it usable, meaningful, connected, and alive.
 
 It is not.
 
@@ -23,7 +24,15 @@ It is not.
 
 Documentation is usually a record of something.
 
-A policy. A procedure. A decision. A requirement. A design. A lesson. A meeting outcome. A system configuration. A model.
+A policy.
+A procedure.
+A decision.
+A requirement.
+A design.
+A lesson.
+A meeting outcome.
+A system configuration.
+A model.
 
 That can be useful.
 
@@ -47,11 +56,18 @@ There are a few reasons this confusion is so persistent.
 
 First, documentation is visible.
 
-It creates the feeling that something has been captured. A file exists. A page exists. A repository exists. A knowledge base entry exists. Progress can be pointed at.
+It creates the feeling that something has been captured.
+A file exists.
+A page exists.
+A repository exists.
+A knowledge base entry exists.
+Progress can be pointed at.
 
 Second, documentation is easier to govern than knowledge.
 
-You can require templates. You can require sign-off. You can require naming conventions, review cycles, and publishing rules.
+You can require templates.
+You can require sign-off.
+You can require naming conventions, review cycles, and publishing rules.
 
 All of that can improve discipline, but it can also create a dangerous illusion:
 
@@ -77,7 +93,24 @@ That fragmentation shows up everywhere:
 - architecture diagrams that explain structure but not behaviour
 - project documents that explain intent but not outcome
 - tribal knowledge that never made it into shared form
-- “final” documents that nobody trusts
+- "final" documents that nobody trusts
+
+Traditional documentation usually captures only a small formal subset of what people actually know.
+It records the visible surface: setup, usage, procedures, interfaces, policies.
+But much of the real working knowledge sits outside those documents:
+
+- why a decision was made
+- what was tried and failed
+- hidden constraints and edge cases
+- heuristics, warnings, and shortcuts
+- the informal connections between systems and people
+
+That is why a knowledge page is not the same thing as documentation.
+Documentation explains how something works.
+A knowledge page should also preserve what has been learned, what matters, and what future contributors would otherwise have to rediscover.
+
+When that does not happen, critical knowledge stays person-bound instead of system-bound.
+And when the people carrying that knowledge are overloaded, interrupted, or working with fragmented attention, even more of it stays trapped in their heads instead of becoming durable organisational memory.
 
 When that happens, the organisation may be document-rich but knowledge-poor.
 
@@ -107,10 +140,16 @@ That is why two people can read the same document and come away with two differe
 Another reason the confusion is dangerous is that documentation ages badly.
 
 It does not usually fail dramatically.
-
 It drifts.
 
-A little outdated language here. A missing edge case there. An undocumented workaround. A renamed system. A changed approval path. A new dependency. A new exception. A silent role change.
+A little outdated language here.
+A missing edge case there.
+An undocumented workaround.
+A renamed system.
+A changed approval path.
+A new dependency.
+A new exception.
+A silent role change.
 
 Over time, the document remains while the organisational reality moves on.
 
@@ -151,11 +190,12 @@ The larger and faster-moving the organisation, the less it can rely on informal 
 
 That means the old pattern, create documents and assume the organisation now knows, becomes more dangerous over time, not less.
 
-And if organisations eventually want to make better use of AI-supported work, this problem becomes even sharper.
+And if organisations want to make better use of AI-supported work, this problem becomes even sharper.
 
 AI can process documents.
 
-But if the underlying knowledge body is fragmented, contradictory, stale, or politically distorted, then AI will not magically fix that. It may simply make the incoherence scale faster.
+But if the underlying knowledge body is fragmented, contradictory, stale, or politically distorted, AI will not magically fix that.
+It may simply make the incoherence scale faster.
 
 ## The point is not less documentation
 
@@ -173,3 +213,8 @@ But they also need humility.
 A document is not the same as shared knowledge.
 
 If an organisation wants stronger foundations, it has to move beyond the comfort of recorded fragments and toward the harder work of building knowledge that remains connected, interpretable, and alive.
+
+## Related reading
+
+- [Knowledge Management 4.0](/blog/2021/08/26/knowledge-management)
+- [Governance Experience Platform](/blog/2020/07/15/governance-experience-platform)
