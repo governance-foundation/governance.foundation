@@ -1,0 +1,21 @@
+The External Influence Architecture is concerned with the context of the organization in focus.  It supports the description and analysis of the external environment and is do doing, lays the foundation for defining strategic intent.
+
+The Transformation Program Architecture is concerned with the optimal coordination of both single and parallel projects throughout the organization in the context of strategic intent.
+
+The Strategic Intent Architecture is the organization’s management response to a sometimes-conflicting external demand.  It provides direction and sets targets for process.
+
+The Process Architecture covers the consolidation and optimization of the entire business process.  It describes the process in terms of inputs, outputs, governance and enablers and tracks timing and life-cycles of primary business objects.
+
+The Organization Architecture is the formal organization structure as defined by management in pursuit of the strategic intent.
+
+The Governance Architecture strives to create a sense of predictability and accountability by stipulation of different types of governances (e.g. laws policy, guidelines, standards, best practices, etc.).
+
+The Performance Architecture is a collection of criteria and metrics indicating process performance, resource evonomics and the achievement of overall strategic intent.
+
+The Financial Architecture is the framework for recording and tracking revenue, cost of sales and expenses.
+
+The Information Technology Architecture reflects the blueprint of information technology with regard to applications, information, platforms and networks in the context of the business process it supports.
+
+The Human Resource Architecture is concerned with the optimum staffing and utilization of skill sets within the organization.
+
+The Physical Asset Architecture tracks physical assets with a major impact on processes and identifies related dependencies.
