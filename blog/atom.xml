@@ -331,6 +331,311 @@ The other determines whether the execution belongs in a functioning system at al
 <p>Right up until the moment someone asks what actually got better.</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Contribution, reuse, and the idea of an organisational economy]]></title>
+        <id>https://governance.foundation/blog/2025/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/</id>
+        <link href="https://governance.foundation/blog/2025/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/"/>
+        <updated>2025-11-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When contribution and reuse are visible and governed, organisations can shift from isolated effort to compounding value.]]></summary>
+        <content type="html"><![CDATA[<p>Most organisations generate useful contribution constantly.
+Patterns, fixes, decisions, and insights are created every day.</p>
+<p>But much of that value stays local.
+Other teams repeat similar work because reuse pathways are weak.</p>
+<p>That is an internal economic problem.
+Effort is spent, value is created, but value flow is poor.</p>
+<p>An organisational economy perspective asks:</p>
+<ul>
+<li class="">how contribution is recognised</li>
+<li class="">how reuse is enabled</li>
+<li class="">how value flows across teams</li>
+</ul>
+<p>If contribution is invisible, reuse is accidental.
+If reuse is hard, the organisation keeps paying full price for partial novelty.</p>
+<p>To improve this, organisations need:</p>
+<ul>
+<li class="">contribution visibility</li>
+<li class="">quality signals for reusable assets</li>
+<li class="">traceable reuse events</li>
+<li class="">feedback loops to contributors</li>
+<li class="">governance that rewards compounding value</li>
+</ul>
+<p>In AI-era work this matters even more.
+AI can increase output volume quickly.
+Without reuse economics, that becomes noise.
+With reuse economics, that becomes momentum.</p>
+<p>This is how organisations move from local productivity to institutional compounding.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2025/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/">Organisational AI centrification, what it means and what it risks</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organisational AI centrification, what it means and what it risks]]></title>
+        <id>https://governance.foundation/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/</id>
+        <link href="https://governance.foundation/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/"/>
+        <updated>2025-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As AI capability concentrates in a few teams and platforms, organisations gain leverage but risk bottlenecks and fragility.]]></summary>
+        <content type="html"><![CDATA[<p>AI centrification is the concentration of AI capability into a small number of teams, platforms, and decision hubs.</p>
+<p>Some concentration is useful.
+It can improve standards, reduce duplication, and improve governance consistency.</p>
+<p>But over-concentration creates risks:</p>
+<ul>
+<li class="">delivery bottlenecks</li>
+<li class="">opaque decision pathways</li>
+<li class="">fragile dependence on a few owners</li>
+<li class="">suppressed local innovation</li>
+</ul>
+<p>So the objective is not pure centralisation or pure decentralisation.
+It is controlled distribution.</p>
+<p>That means:</p>
+<ul>
+<li class="">central standards for safety and interoperability</li>
+<li class="">local execution autonomy within guardrails</li>
+<li class="">transparent exception pathways</li>
+<li class="">active feedback from frontline use into central standards</li>
+</ul>
+<p>If centrification concentrates control without feedback, adaptability drops.
+If distribution happens without shared structure, coherence drops.</p>
+<p>The design problem is balancing both.</p>
+<p>In practice, mature AI governance will be defined by this balance.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/">The governance gap behind most AI initiatives</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2025/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/">Contribution, reuse, and the idea of an organisational economy</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Git did for code, KnowledgeFund will do for organisations]]></title>
+        <id>https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/</id>
+        <link href="https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/"/>
+        <updated>2025-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git made code change legible and coordinated. KnowledgeFund will do the same for organisational knowledge.]]></summary>
+        <content type="html"><![CDATA[<p>Git changed software by making change manageable.</p>
+<p>Teams gained version history, branching, merging, and accountability.
+Not just storage, but disciplined evolution.</p>
+<p>Organisations now face a similar gap with knowledge.</p>
+<p>They have documents and tools, but often lack coherent change control for knowledge itself.
+That produces recurring pain:</p>
+<ul>
+<li class="">conflicting truths</li>
+<li class="">repeated rediscovery</li>
+<li class="">fragile handoffs</li>
+<li class="">hidden rationale</li>
+</ul>
+<p>In low-velocity settings this is annoying.
+In AI-accelerated settings this is dangerous.</p>
+<p>What organisations may need is Git-like discipline for knowledge change:</p>
+<ul>
+<li class="">explicit versioning of key knowledge objects</li>
+<li class="">visible history of edits and rationale</li>
+<li class="">ownership and review pathways</li>
+<li class="">links between knowledge and execution</li>
+<li class="">structured reuse</li>
+</ul>
+<p>This is not about copying Git literally.
+It is about adopting equivalent operational rigor for knowledge.</p>
+<p>If done well, benefits compound:</p>
+<ul>
+<li class="">faster onboarding</li>
+<li class="">cleaner cross-team alignment</li>
+<li class="">better AI context quality</li>
+<li class="">less stale-knowledge rework</li>
+</ul>
+<p>That is likely to become a structural differentiator.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/05/23/organisational-memory-as-competitive-infrastructure/">Organisational memory as competitive infrastructure</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From knowledge management to KnowledgeFund]]></title>
+        <id>https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/</id>
+        <link href="https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Classic knowledge management focused on capture. KnowledgeFund focuses on connected, living, reusable organisational knowledge.]]></summary>
+        <content type="html"><![CDATA[<p>Classic knowledge management solved an important problem: capture.</p>
+<p>It gave organisations repositories and control.
+But in fast AI-era operations, capture alone is not enough.</p>
+<p>The harder problem is conversion.
+How does scattered information become usable, connected, and reusable organisational intelligence?</p>
+<p>That transition is from knowledge management to KnowledgeFund.</p>
+<p>KnowledgeFund is not just another storage layer.
+It is an operating model:</p>
+<ul>
+<li class="">from static documents to living knowledge objects</li>
+<li class="">from isolated records to connected context</li>
+<li class="">from periodic updates to continuous refinement</li>
+<li class="">from person-bound memory to system memory</li>
+</ul>
+<p>This shifts governance too.
+The question is no longer only, "is it documented?"
+It is, "is it legible, current, and reusable under change?"</p>
+<p>AI raises the stakes.
+Without coherent knowledge structure, AI scales ambiguity.
+With coherent structure, AI scales capability.</p>
+<p>The transition starts practically.
+Pick high-friction knowledge zones, connect them to work and decisions, and build reuse pathways.
+Then expand.</p>
+<p>That is how knowledge becomes compounding capital.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why freeform AI use finds value but also amplifies chaos]]></title>
+        <id>https://governance.foundation/blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos/</id>
+        <link href="https://governance.foundation/blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos/"/>
+        <updated>2024-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Freeform AI use discovers real value quickly, but without shared structure it also increases drift and inconsistency.]]></summary>
+        <content type="html"><![CDATA[<p>Freeform AI use spreads because it works.
+People find immediate gains in writing, planning, analysis, and communication.</p>
+<p>This experimentation is useful.
+It reveals where value is real.</p>
+<p>But freeform use can also amplify chaos.</p>
+<p>Each team creates local prompts, local checks, and local assumptions.
+Without shared structure, this leads to:</p>
+<ul>
+<li class="">inconsistent quality</li>
+<li class="">duplicated patterns</li>
+<li class="">conflicting risk interpretations</li>
+<li class="">outputs that are hard to trust across teams</li>
+</ul>
+<p>So freeform use is both discovery and risk.</p>
+<p>The right response is staged institutionalisation:</p>
+<ol>
+<li class="">allow exploration</li>
+<li class="">identify repeatable high-value patterns</li>
+<li class="">codify them</li>
+<li class="">add governance where needed</li>
+<li class="">keep refining</li>
+</ol>
+<p>Do not suppress learning.
+Do not leave it unstructured forever.</p>
+<p>Freeform use should be discovery infrastructure, not final operating model.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/03/14/ai-copilots-without-organisational-context-are-limited/">AI copilots without organisational context are limited</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/">The governance gap behind most AI initiatives</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What an AI-legible organisation actually needs]]></title>
+        <id>https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/</id>
+        <link href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/"/>
+        <updated>2024-08-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI-legibility means context, ownership, and decisions are structured clearly enough for reliable human and AI execution.]]></summary>
+        <content type="html"><![CDATA[<p>AI-legibility is practical, not abstract.</p>
+<p>It means the organisation expresses enough structure that people and AI can reason from the same reality.</p>
+<p>Most organisations are still partially illegible.
+They have content, but weak links between concepts, decisions, ownership, and current constraints.</p>
+<p>An AI-legible organisation needs five basics:</p>
+<ol>
+<li class="">shared language</li>
+<li class="">traceable decisions</li>
+<li class="">explicit ownership</li>
+<li class="">current context surfaces</li>
+<li class="">feedback loops into standards</li>
+</ol>
+<p>Without these, AI outputs can look fluent while drifting from operational truth.</p>
+<p>Legibility is also not a one-time platform task.
+It is an ongoing operating discipline.</p>
+<p>The goal is not rigidity.
+The goal is less avoidable ambiguity under speed.</p>
+<p>When legibility improves, AI shifts from novelty to dependable organisational capability.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/05/23/organisational-memory-as-competitive-infrastructure/">Organisational memory as competitive infrastructure</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos/">Why freeform AI use finds value but also amplifies chaos</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/16/beyond-harness-engineering-why-ai-success-is-a-governance-problem/">Beyond harness engineering, why AI success is a governance problem</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organisational memory as competitive infrastructure]]></title>
+        <id>https://governance.foundation/blog/2024/05/23/organisational-memory-as-competitive-infrastructure/</id>
+        <link href="https://governance.foundation/blog/2024/05/23/organisational-memory-as-competitive-infrastructure/"/>
+        <updated>2024-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the AI era, organisational memory is not a side project. It is infrastructure for speed, quality, and adaptation.]]></summary>
+        <content type="html"><![CDATA[<p>In many organisations, memory is treated as admin overhead.</p>
+<p>Documentation exists, but context is fragmented.
+Critical rationale lives in people, chats, and local habits.</p>
+<p>In fast AI cycles, that becomes a strategic disadvantage.</p>
+<p>Organisational memory is now competitive infrastructure.</p>
+<p>It determines how quickly teams can:</p>
+<ul>
+<li class="">reuse prior decisions</li>
+<li class="">avoid repeated mistakes</li>
+<li class="">align under change</li>
+<li class="">onboard into active context</li>
+</ul>
+<p>If memory is weak, adaptation slows and variance rises.
+If memory is strong, change becomes cheaper and safer.</p>
+<p>AI makes this gap larger.
+AI amplifies whichever context fabric exists.
+Coherent memory improves execution.
+Fragmented memory scales inconsistency.</p>
+<p>So the job is not "more docs".
+The job is durable legibility:</p>
+<ul>
+<li class="">connected decision history</li>
+<li class="">current versus stale clarity</li>
+<li class="">traceable links between work and knowledge</li>
+<li class="">ownership of memory quality</li>
+</ul>
+<p>Organisations that treat memory as infrastructure will compound capability.
+The rest will keep paying rediscovery tax.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2024/05/23/organisational-memory-as-competitive-infrastructure/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/">Hybrid work exposed the real organisational memory problem</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI rollout is work redesign, not software rollout]]></title>
+        <id>https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/</id>
+        <link href="https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/"/>
+        <updated>2024-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI creates value when work is redesigned around new capabilities, not when tools are merely installed.]]></summary>
+        <content type="html"><![CDATA[<p>Many organisations run AI using a software rollout playbook.</p>
+<p>Select tool, deploy tool, train users, track usage.
+That ships software.
+It does not automatically redesign work.</p>
+<p>AI value depends on redesigning decisions, context flow, and accountability.</p>
+<p>Work redesign asks:</p>
+<ul>
+<li class="">what stays human, what is AI-assisted, what is automated</li>
+<li class="">where context must be captured earlier</li>
+<li class="">where quality gates move</li>
+<li class="">how role boundaries change</li>
+</ul>
+<p>If those shifts are not made, organisations get a thin result.
+New tooling sits on top of old workflow logic.</p>
+<p>That is why some deployments show early wins but stall.
+They accelerated steps inside a system that was never rebuilt.</p>
+<p>AI rollout needs two streams:</p>
+<ol>
+<li class="">technology stream (models, integration, security)</li>
+<li class="">work-design stream (workflow, ownership, governance, standards)</li>
+</ol>
+<p>If only stream one is funded, value remains local and fragile.</p>
+<p>AI rollout is organisational design work.
+Software deployment is necessary, but insufficient.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/">The governance gap behind most AI initiatives</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/17/ai-rollout-is-about-changing-the-business/">AI rollout is about changing the business</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Generative AI arrived, but organisations were not structurally ready]]></title>
         <id>https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/</id>
         <link href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/"/>
@@ -488,6 +793,119 @@ The organisation cannot absorb it all at once.</p>
 <li class=""><a class="" href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/">Why digital transformation keeps disappointing</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2026/04/13/now-its-your-turn-what-have-you-done-differently-with-ai/">Now it's your turn: what have you changed for AI?</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2026/04/15/are-you-rolling-out-ai-with-the-same-old-playbook/">Same old AI playbook, same old results</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The governance gap behind most AI initiatives]]></title>
+        <id>https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/</id>
+        <link href="https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/"/>
+        <updated>2023-10-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most AI programs have adoption plans and risk controls, but lack the governance structures needed for durable execution.]]></summary>
+        <content type="html"><![CDATA[<p>Most AI initiatives split quickly into two lanes:</p>
+<ul>
+<li class="">acceleration, with pilots and adoption</li>
+<li class="">control, with policy and compliance</li>
+</ul>
+<p>Both lanes matter, but many programs still fail to scale.</p>
+<p>Why?
+Because the middle is weak.
+That middle is operational governance.</p>
+<p>Operational governance is not committee theatre.
+It is the structure that defines ownership, decision rights, quality thresholds, escalation paths, and feedback loops while work is happening.</p>
+<p>Without it, organisations get predictable symptoms:</p>
+<ul>
+<li class="">pilots that do not become operating standards</li>
+<li class="">local workarounds that bypass intent</li>
+<li class="">unclear accountability for AI-assisted outcomes</li>
+<li class="">repeated reinvention across teams</li>
+</ul>
+<p>The governance gap is expensive because it hides behind visible activity.
+Programs look busy while coherence stays fragile.</p>
+<p>The fix is to embed governance into delivery itself.
+Not after-action review, but in-workflow design.</p>
+<p>When governance is continuous, AI adoption becomes scalable.
+When governance is episodic, AI adoption stays noisy.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/07/20/why-ai-adoption-is-not-the-same-as-capability-formation/">Why “AI adoption” is not the same as capability formation</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/">AI rollout is work redesign, not software rollout</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos/">Why freeform AI use finds value but also amplifies chaos</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why “AI adoption” is not the same as capability formation]]></title>
+        <id>https://governance.foundation/blog/2023/07/20/why-ai-adoption-is-not-the-same-as-capability-formation/</id>
+        <link href="https://governance.foundation/blog/2023/07/20/why-ai-adoption-is-not-the-same-as-capability-formation/"/>
+        <updated>2023-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tool adoption metrics are not the same as repeatable organisational competence.]]></summary>
+        <content type="html"><![CDATA[<p>Most AI programs report adoption numbers:</p>
+<ul>
+<li class="">users onboarded</li>
+<li class="">licences issued</li>
+<li class="">pilots launched</li>
+<li class="">integrations completed</li>
+</ul>
+<p>These are useful signals, but they are not capability.</p>
+<p>Adoption means AI is present.
+Capability formation means the organisation can repeatedly produce better outcomes with quality, accountability, and learning that compounds.</p>
+<p>That requires more than tooling.
+It requires changes in work design, ownership, governance, and memory.</p>
+<p>If those changes do not happen, organisations get activity without conversion.
+There is visible motion, but little institutional gain.</p>
+<p>Capability formation shows up in different indicators:</p>
+<ul>
+<li class="">durable cycle-time gains</li>
+<li class="">lower rework in production</li>
+<li class="">reliable reuse of proven patterns</li>
+<li class="">faster onboarding into AI-enabled practice</li>
+<li class="">reduced dependence on heroic local experts</li>
+</ul>
+<p>So the key question is not just, "How much AI are we using?"
+It is, "What repeatable capability have we formed?"</p>
+<p>Adoption starts the journey.
+Capability formation is the journey.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2023/07/20/why-ai-adoption-is-not-the-same-as-capability-formation/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/03/14/ai-copilots-without-organisational-context-are-limited/">AI copilots without organisational context are limited</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/">The governance gap behind most AI initiatives</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/">AI rollout is work redesign, not software rollout</a></li>
+</ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI copilots without organisational context are limited]]></title>
+        <id>https://governance.foundation/blog/2023/03/14/ai-copilots-without-organisational-context-are-limited/</id>
+        <link href="https://governance.foundation/blog/2023/03/14/ai-copilots-without-organisational-context-are-limited/"/>
+        <updated>2023-03-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Copilots can speed up local tasks, but without shared organisational context they cannot reliably improve system-level outcomes.]]></summary>
+        <content type="html"><![CDATA[<p>AI copilots feel impressive because they help immediately.</p>
+<p>They draft faster, summarise faster, and unblock routine tasks.
+That value is real.</p>
+<p>But many organisations then assume local speed equals organisational capability.
+It does not.</p>
+<p>A copilot only sees what is in the prompt and nearby context.
+It usually does not see full decision history, cross-team constraints, ownership boundaries, or current exceptions.</p>
+<p>So the copilot can produce plausible output while still missing what matters operationally.</p>
+<p>That is why many teams report mixed results.
+Individuals feel faster, but cross-team coordination does not automatically improve.</p>
+<p>To move beyond local acceleration, organisations need stronger context structure:</p>
+<ul>
+<li class="">shared language</li>
+<li class="">clearer ownership</li>
+<li class="">traceable decisions</li>
+<li class="">current knowledge surfaces</li>
+<li class="">reusable workflow patterns</li>
+</ul>
+<p>Without that substrate, copilots help people execute faster inside fragmented systems.</p>
+<p>With that substrate, copilots become genuine capability multipliers.</p>
+<p>The practical lesson is simple.
+Deploy copilots, but treat them as context amplifiers.
+If context is weak, inconsistency scales.
+If context is strong, capability scales.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2023/03/14/ai-copilots-without-organisational-context-are-limited/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/">Generative AI arrived, but organisations were not structurally ready</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/07/20/why-ai-adoption-is-not-the-same-as-capability-formation/">Why “AI adoption” is not the same as capability formation</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
 </ul>]]></content>
     </entry>
     <entry>
@@ -780,1263 +1198,6 @@ If organisations want coherence, they have to build the structures underneath.</
 <li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/">Hybrid work exposed the real organisational memory problem</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Documentation is not knowledge]]></title>
-        <id>https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/</id>
-        <link href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/"/>
-        <updated>2022-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why organisations keep mistaking documentation for knowledge, and why that confusion weakens coherence, learning, and change.]]></summary>
-        <content type="html"><![CDATA[<p>Documentation matters.</p>
-<p>But organisations keep making a costly mistake.</p>
-<p>They confuse documentation with knowledge.</p>
-<p>That sounds harmless at first.
-After all, documentation is one of the main ways organisations try to capture what they know.</p>
-<p>But the difference matters more than it appears.</p>
-<p>When documentation is treated as if it <em>is</em> knowledge, organisations start believing that writing something down is the same as making it usable, meaningful, connected, and alive.</p>
-<p>It is not.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="documentation-is-a-record-not-the-whole-reality">Documentation is a record, not the whole reality<a href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/#documentation-is-a-record-not-the-whole-reality" class="hash-link" aria-label="Direct link to Documentation is a record, not the whole reality" title="Direct link to Documentation is a record, not the whole reality" translate="no">​</a></h2>
-<p>Documentation is usually a record of something.</p>
-<p>A policy.
-A procedure.
-A decision.
-A requirement.
-A design.
-A lesson.
-A meeting outcome.
-A system configuration.
-A model.</p>
-<p>That can be useful.</p>
-<p>But the existence of a record does not mean the organisation actually possesses the knowledge in a usable form.</p>
-<p>For knowledge to be real in practice, it has to be:</p>
-<ul>
-<li class="">understood</li>
-<li class="">interpreted in context</li>
-<li class="">connected to other things</li>
-<li class="">reachable when needed</li>
-<li class="">maintained over time</li>
-<li class="">usable by people other than the original author</li>
-<li class="">capable of informing real decisions and action</li>
-</ul>
-<p>A document on its own does none of that automatically.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-organisations-keep-confusing-the-two">Why organisations keep confusing the two<a href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/#why-organisations-keep-confusing-the-two" class="hash-link" aria-label="Direct link to Why organisations keep confusing the two" title="Direct link to Why organisations keep confusing the two" translate="no">​</a></h2>
-<p>There are a few reasons this confusion is so persistent.</p>
-<p>First, documentation is visible.</p>
-<p>It creates the feeling that something has been captured.
-A file exists.
-A page exists.
-A repository exists.
-A knowledge base entry exists.
-Progress can be pointed at.</p>
-<p>Second, documentation is easier to govern than knowledge.</p>
-<p>You can require templates.
-You can require sign-off.
-You can require naming conventions, review cycles, and publishing rules.</p>
-<p>All of that can improve discipline, but it can also create a dangerous illusion:</p>
-<p>that structured documents equal organisational understanding.</p>
-<p>Third, documentation lets organisations push interpretation work onto the reader.</p>
-<p>Instead of maintaining living coherence, the organisation stores fragments and assumes the next person will know how to assemble them into meaning.</p>
-<p>That is often where the real failure begins.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-problem-is-fragmentation">The real problem is fragmentation<a href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/#the-real-problem-is-fragmentation" class="hash-link" aria-label="Direct link to The real problem is fragmentation" title="Direct link to The real problem is fragmentation" translate="no">​</a></h2>
-<p>Most organisations do not suffer from a total absence of documentation.</p>
-<p>They suffer from fragmented, uneven, disconnected, poorly maintained documentation that has to stand in for a much richer body of knowledge.</p>
-<p>That fragmentation shows up everywhere:</p>
-<ul>
-<li class="">the same idea described differently across teams</li>
-<li class="">old policies left beside newer practices</li>
-<li class="">process documents that no longer match reality</li>
-<li class="">architecture diagrams that explain structure but not behaviour</li>
-<li class="">project documents that explain intent but not outcome</li>
-<li class="">tribal knowledge that never made it into shared form</li>
-<li class="">"final" documents that nobody trusts</li>
-</ul>
-<p>Traditional documentation usually captures only a small formal subset of what people actually know.
-It records the visible surface: setup, usage, procedures, interfaces, policies.
-But much of the real working knowledge sits outside those documents:</p>
-<ul>
-<li class="">why a decision was made</li>
-<li class="">what was tried and failed</li>
-<li class="">hidden constraints and edge cases</li>
-<li class="">heuristics, warnings, and shortcuts</li>
-<li class="">the informal connections between systems and people</li>
-</ul>
-<p>That is why a knowledge page is not the same thing as documentation.
-Documentation explains how something works.
-A knowledge page should also preserve what has been learned, what matters, and what future contributors would otherwise have to rediscover.</p>
-<p>When that does not happen, critical knowledge stays person-bound instead of system-bound.
-And when the people carrying that knowledge are overloaded, interrupted, or working with fragmented attention, even more of it stays trapped in their heads instead of becoming durable organisational memory.</p>
-<p>When that happens, the organisation may be document-rich but knowledge-poor.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-document-cannot-carry-all-the-context-by-itself">A document cannot carry all the context by itself<a href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/#a-document-cannot-carry-all-the-context-by-itself" class="hash-link" aria-label="Direct link to A document cannot carry all the context by itself" title="Direct link to A document cannot carry all the context by itself" translate="no">​</a></h2>
-<p>Knowledge is relational.</p>
-<p>A person understands a concept not just because they read a sentence, but because they can place it within a wider network of meaning.</p>
-<p>They know:</p>
-<ul>
-<li class="">why it exists</li>
-<li class="">what it depends on</li>
-<li class="">what changed before it</li>
-<li class="">what it affects after it</li>
-<li class="">where it conflicts with something else</li>
-<li class="">who uses it</li>
-<li class="">what exceptions matter</li>
-<li class="">where the real ambiguities are</li>
-</ul>
-<p>Most documentation strips away much of that surrounding structure.</p>
-<p>That is why two people can read the same document and come away with two different interpretations, while both feel they are following the documentation correctly.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="documentation-often-decays-faster-than-organisations-admit">Documentation often decays faster than organisations admit<a href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/#documentation-often-decays-faster-than-organisations-admit" class="hash-link" aria-label="Direct link to Documentation often decays faster than organisations admit" title="Direct link to Documentation often decays faster than organisations admit" translate="no">​</a></h2>
-<p>Another reason the confusion is dangerous is that documentation ages badly.</p>
-<p>It does not usually fail dramatically.
-It drifts.</p>
-<p>A little outdated language here.
-A missing edge case there.
-An undocumented workaround.
-A renamed system.
-A changed approval path.
-A new dependency.
-A new exception.
-A silent role change.</p>
-<p>Over time, the document remains while the organisational reality moves on.</p>
-<p>If the organisation still treats the document as the knowledge, then drift becomes invisible.</p>
-<p>People start operating inside a split reality:</p>
-<ul>
-<li class="">official knowledge in the documents</li>
-<li class="">practical knowledge in lived work</li>
-</ul>
-<p>That split is one of the most expensive forms of organisational incoherence.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-real-knowledge-work-requires">What real knowledge work requires<a href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/#what-real-knowledge-work-requires" class="hash-link" aria-label="Direct link to What real knowledge work requires" title="Direct link to What real knowledge work requires" translate="no">​</a></h2>
-<p>If documentation is not knowledge, then what should organisations do differently?</p>
-<p>They should treat documentation as one layer in a broader knowledge system.</p>
-<p>That means caring not only about whether something was documented, but whether the organisation can:</p>
-<ul>
-<li class="">find the right material quickly</li>
-<li class="">understand how pieces connect</li>
-<li class="">see what is current and what is stale</li>
-<li class="">identify conflicting interpretations</li>
-<li class="">preserve reasoning, not just outputs</li>
-<li class="">update shared knowledge as work evolves</li>
-<li class="">reduce dependence on isolated human memory</li>
-</ul>
-<p>In other words, the goal is not just to write things down.</p>
-<p>The goal is to maintain organisational intelligibility.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-matters-more-over-time">Why this matters more over time<a href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/#why-this-matters-more-over-time" class="hash-link" aria-label="Direct link to Why this matters more over time" title="Direct link to Why this matters more over time" translate="no">​</a></h2>
-<p>As organisations become more digital, more distributed, and more system-dependent, this distinction matters even more.</p>
-<p>The larger and faster-moving the organisation, the less it can rely on informal correction to keep meaning aligned.</p>
-<p>That means the old pattern, create documents and assume the organisation now knows, becomes more dangerous over time, not less.</p>
-<p>And if organisations want to make better use of AI-supported work, this problem becomes even sharper.</p>
-<p>AI can process documents.</p>
-<p>But if the underlying knowledge body is fragmented, contradictory, stale, or politically distorted, AI will not magically fix that.
-It may simply make the incoherence scale faster.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-point-is-not-less-documentation">The point is not less documentation<a href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/#the-point-is-not-less-documentation" class="hash-link" aria-label="Direct link to The point is not less documentation" title="Direct link to The point is not less documentation" translate="no">​</a></h2>
-<p>This is not an argument against documentation.</p>
-<p>It is an argument against overestimating what documentation alone can do.</p>
-<p>Organisations still need documentation.
-They need records.
-They need traceability.
-They need written structures.</p>
-<p>But they also need humility.</p>
-<p>A document is not the same as shared knowledge.</p>
-<p>If an organisation wants stronger foundations, it has to move beyond the comfort of recorded fragments and toward the harder work of building knowledge that remains connected, interpretable, and alive.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/">Governance Experience Platform</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid work exposed the real organisational memory problem]]></title>
-        <id>https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/</id>
-        <link href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/"/>
-        <updated>2022-02-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hybrid work did not create the organisational memory problem. It exposed how much coordination, context, and continuity were already being carried informally.]]></summary>
-        <content type="html"><![CDATA[<p>When hybrid work became normal for more organisations, a lot of people talked about culture, collaboration, productivity, and presence.</p>
-<p>Those were real issues.</p>
-<p>But another problem quietly became much more visible:</p>
-<p>many organisations did not actually have durable organisational memory.</p>
-<p>They had proximity.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-office-had-been-masking-the-problem">The office had been masking the problem<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#the-office-had-been-masking-the-problem" class="hash-link" aria-label="Direct link to The office had been masking the problem" title="Direct link to The office had been masking the problem" translate="no">​</a></h2>
-<p>In many organisations, knowledge did not move because it was well structured.
-It moved because people were near each other.</p>
-<p>Questions got answered in passing.
-Context was filled in through overheard conversations.
-Exceptions were explained informally.
-People learned who to ask, when to ask, and how things really worked by being physically present around the system.</p>
-<p>That created a kind of functional illusion.</p>
-<p>The organisation appeared to know itself.
-But a lot of what looked like shared knowledge was really just local memory supported by physical closeness.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="hybrid-work-made-missing-context-harder-to-hide">Hybrid work made missing context harder to hide<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#hybrid-work-made-missing-context-harder-to-hide" class="hash-link" aria-label="Direct link to Hybrid work made missing context harder to hide" title="Direct link to Hybrid work made missing context harder to hide" translate="no">​</a></h2>
-<p>Once work became more distributed, the gaps became harder to paper over.</p>
-<p>People could no longer rely as easily on:</p>
-<ul>
-<li class="">corridor clarification</li>
-<li class="">incidental observation</li>
-<li class="">background awareness of who was dealing with what</li>
-<li class="">informal access to experienced operators</li>
-<li class="">silent correction from nearby teammates</li>
-</ul>
-<p>That meant missing context stopped being a mild annoyance and started becoming an operational drag.</p>
-<p>People found themselves asking:</p>
-<ul>
-<li class="">Where does this knowledge actually live?</li>
-<li class="">Is there a current version of this process?</li>
-<li class="">Why was this decision made?</li>
-<li class="">Who owns this now?</li>
-<li class="">Is this exception normal or just habit?</li>
-<li class="">What changed since the last time we did this?</li>
-</ul>
-<p>The problem was not that hybrid work removed knowledge.
-It exposed how much of it had never been properly captured or connected in the first place.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="organisational-memory-is-more-than-documentation">Organisational memory is more than documentation<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#organisational-memory-is-more-than-documentation" class="hash-link" aria-label="Direct link to Organisational memory is more than documentation" title="Direct link to Organisational memory is more than documentation" translate="no">​</a></h2>
-<p>A lot of leaders responded by asking for more documentation.
-That helped in some places.
-But the deeper issue was not just missing pages.</p>
-<p>Organisational memory is not simply a document set.</p>
-<p>It includes:</p>
-<ul>
-<li class="">rationale</li>
-<li class="">history of change</li>
-<li class="">known exceptions</li>
-<li class="">informal dependencies</li>
-<li class="">recurring patterns</li>
-<li class="">trusted interpretations</li>
-<li class="">knowledge of who and what can be relied on</li>
-</ul>
-<p>That kind of memory often lives partly in systems, partly in documents, and partly in people.</p>
-<p>If too much of it lives only in people, the organisation becomes fragile.</p>
-<p>Hybrid work did not create that fragility.
-It made it visible.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="visibility-continuity-and-replaceability-are-linked">Visibility, continuity, and replaceability are linked<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#visibility-continuity-and-replaceability-are-linked" class="hash-link" aria-label="Direct link to Visibility, continuity, and replaceability are linked" title="Direct link to Visibility, continuity, and replaceability are linked" translate="no">​</a></h2>
-<p>One of the more uncomfortable lessons of hybrid work was that many teams depended heavily on specific people to keep continuity intact.</p>
-<p>Those people knew:</p>
-<ul>
-<li class="">where the gaps were</li>
-<li class="">how work actually flowed</li>
-<li class="">which system output could be trusted</li>
-<li class="">what the unofficial exceptions were</li>
-<li class="">which stakeholder really needed to be involved</li>
-</ul>
-<p>That knowledge often had never been turned into durable organisational memory.</p>
-<p>So when access to those people became less ambient and more deliberate, the system slowed down.</p>
-<p>This matters because replaceability is not just a staffing issue.
-It is also a knowledge issue.</p>
-<p>If an organisation cannot preserve enough context for others to continue the work coherently, it is not managing memory well.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="hybrid-work-also-exposed-weak-organisational-listening">Hybrid work also exposed weak organisational listening<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#hybrid-work-also-exposed-weak-organisational-listening" class="hash-link" aria-label="Direct link to Hybrid work also exposed weak organisational listening" title="Direct link to Hybrid work also exposed weak organisational listening" translate="no">​</a></h2>
-<p>There is another side to this.</p>
-<p>Organisational memory is not only about preserving what is already known.
-It is also about learning from what is happening now.</p>
-<p>Hybrid work made many organisations realise they had weak mechanisms for:</p>
-<ul>
-<li class="">surfacing emerging problems early</li>
-<li class="">capturing repeated friction patterns</li>
-<li class="">sharing local learning across teams</li>
-<li class="">turning lived experience into updated guidance</li>
-</ul>
-<p>In other words, they were not just weak at memory retention.
-They were weak at memory formation.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-lesson-was-structural">The real lesson was structural<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#the-real-lesson-was-structural" class="hash-link" aria-label="Direct link to The real lesson was structural" title="Direct link to The real lesson was structural" translate="no">​</a></h2>
-<p>It would be easy to frame all of this as a remote-work debate.
-That misses the point.</p>
-<p>The deeper lesson is structural.</p>
-<p>An organisation with strong organisational memory should be able to survive changes in proximity, location, and communication rhythm without losing basic coherence.</p>
-<p>If a shift to hybrid work creates major confusion, duplication, and context loss, that is not just a workplace-format issue.
-It is a sign that the organisation has been relying on informal human buffering instead of durable shared memory.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-stronger-organisational-memory-would-look-like">What stronger organisational memory would look like<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#what-stronger-organisational-memory-would-look-like" class="hash-link" aria-label="Direct link to What stronger organisational memory would look like" title="Direct link to What stronger organisational memory would look like" translate="no">​</a></h2>
-<p>A stronger approach would not just try to recreate office proximity through more meetings and more chat.</p>
-<p>It would try to make the organisation more legible.</p>
-<p>That means better ways to preserve:</p>
-<ul>
-<li class="">decisions and their rationale</li>
-<li class="">current operating knowledge</li>
-<li class="">links between work, ownership, and context</li>
-<li class="">patterns of exception and dependency</li>
-<li class="">reusable learning from delivery and operations</li>
-</ul>
-<p>That does not mean every detail needs to become formal documentation.</p>
-<p>But it does mean the organisation needs a more deliberate memory system than "someone nearby probably knows".</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="hybrid-work-was-a-stress-test-not-the-root-cause">Hybrid work was a stress test, not the root cause<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#hybrid-work-was-a-stress-test-not-the-root-cause" class="hash-link" aria-label="Direct link to Hybrid work was a stress test, not the root cause" title="Direct link to Hybrid work was a stress test, not the root cause" translate="no">​</a></h2>
-<p>Hybrid work was not the origin of the organisational memory problem.</p>
-<p>It was a stress test.</p>
-<p>It revealed how much continuity had been resting on physical presence, informal access, and local human memory.</p>
-<p>That is why the right response is not nostalgia for office adjacency.
-It is stronger organisational memory.</p>
-<p>The organisations that learn that lesson will become more coherent in any work format.
-The ones that do not will keep mistaking proximity for knowledge.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/">Generative AI arrived, but organisations were not structurally ready</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why digital transformation keeps disappointing]]></title>
-        <id>https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/</id>
-        <link href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/"/>
-        <updated>2021-11-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why so many digital transformations underperform, and why the problem is usually structural rather than purely technical.]]></summary>
-        <content type="html"><![CDATA[<p>Digital transformation is one of those phrases that sounds ambitious and inevitable at the same time.</p>
-<p>Organisations announce it with confidence. Programs are launched. Platforms are bought. Roadmaps are built. Teams are restructured. Dashboards are created. New delivery language arrives.</p>
-<p>And yet the outcome is often underwhelming.</p>
-<p>Not always a total failure.</p>
-<p>Often something more frustrating than that.</p>
-<p>A partial improvement. A nicer surface. A collection of expensive new systems. More reporting. More implementation activity. More architecture diagrams.</p>
-<p>But not the kind of deep organisational shift that the original rhetoric implied.</p>
-<p>So why does this keep happening?</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="because-technology-is-usually-treated-as-the-transformation">Because technology is usually treated as the transformation<a href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/#because-technology-is-usually-treated-as-the-transformation" class="hash-link" aria-label="Direct link to Because technology is usually treated as the transformation" title="Direct link to Because technology is usually treated as the transformation" translate="no">​</a></h2>
-<p>One of the most common mistakes is to confuse digital transformation with technology rollout.</p>
-<p>A new platform is introduced and called transformation.
-A new process is automated and called transformation.
-A customer journey is digitised and called transformation.
-A reporting layer is modernised and called transformation.</p>
-<p>Those changes may be useful, but they do not automatically transform the organisation.</p>
-<p>They only transform the organisation if they change the way the organisation actually coordinates work, shares knowledge, makes decisions, and adapts.</p>
-<p>If those deeper structures remain the same, then the organisation has often just added a new layer on top of old habits.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="because-organisations-keep-trying-to-modernise-the-surface-while-preserving-the-old-operating-logic">Because organisations keep trying to modernise the surface while preserving the old operating logic<a href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/#because-organisations-keep-trying-to-modernise-the-surface-while-preserving-the-old-operating-logic" class="hash-link" aria-label="Direct link to Because organisations keep trying to modernise the surface while preserving the old operating logic" title="Direct link to Because organisations keep trying to modernise the surface while preserving the old operating logic" translate="no">​</a></h2>
-<p>Many digital programs are designed with an implicit contradiction.</p>
-<p>They want new speed, new visibility, new flexibility, and new customer outcomes.</p>
-<p>But they also want to preserve the existing incentives, the existing silos, the existing approval patterns, the existing knowledge bottlenecks, and the existing comfort zones of power.</p>
-<p>That is not transformation.</p>
-<p>That is modernisation without reorganisation.</p>
-<p>And it tends to produce the same pattern repeatedly:</p>
-<ul>
-<li class="">better tools</li>
-<li class="">better interfaces</li>
-<li class="">more integration work</li>
-<li class="">more complexity underneath</li>
-<li class="">very limited change in actual organisational behaviour</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="because-the-hard-problem-is-not-delivery-it-is-coherence">Because the hard problem is not delivery, it is coherence<a href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/#because-the-hard-problem-is-not-delivery-it-is-coherence" class="hash-link" aria-label="Direct link to Because the hard problem is not delivery, it is coherence" title="Direct link to Because the hard problem is not delivery, it is coherence" translate="no">​</a></h2>
-<p>Organisations are usually better at launching initiatives than integrating them.</p>
-<p>They can fund projects.
-They can appoint owners.
-They can hire specialists.
-They can run transformation offices.</p>
-<p>What they struggle with is coherence.</p>
-<p>Coherence means the organisation can make parts move in a way that supports the whole.</p>
-<p>That depends on things like:</p>
-<ul>
-<li class="">shared context</li>
-<li class="">aligned incentives</li>
-<li class="">visible dependencies</li>
-<li class="">usable organisational memory</li>
-<li class="">real decision clarity</li>
-<li class="">feedback that arrives early enough to matter</li>
-</ul>
-<p>If those things are weak, digital transformation becomes a sequence of local improvements that do not add up.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="because-knowledge-stays-fragmented">Because knowledge stays fragmented<a href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/#because-knowledge-stays-fragmented" class="hash-link" aria-label="Direct link to Because knowledge stays fragmented" title="Direct link to Because knowledge stays fragmented" translate="no">​</a></h2>
-<p>A lot of transformation effort is lost because organisations do not actually know themselves well enough.</p>
-<p>Knowledge is spread across documents, systems, teams, habits, and individual people. Important context is often trapped in local workarounds, historical assumptions, or the heads of a few trusted operators.</p>
-<p>That means every major change has to fight through ambiguity.</p>
-<p>The organisation cannot clearly see:</p>
-<ul>
-<li class="">what it already knows</li>
-<li class="">what is duplicated</li>
-<li class="">where work really happens</li>
-<li class="">where decisions are actually made</li>
-<li class="">where the bottlenecks are</li>
-<li class="">what assumptions the current structure depends on</li>
-</ul>
-<p>Without that visibility, transformation tends to become optimistic program management layered over fragmented organisational reality.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="because-governance-is-often-brought-in-too-late-or-too-narrowly">Because governance is often brought in too late or too narrowly<a href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/#because-governance-is-often-brought-in-too-late-or-too-narrowly" class="hash-link" aria-label="Direct link to Because governance is often brought in too late or too narrowly" title="Direct link to Because governance is often brought in too late or too narrowly" translate="no">​</a></h2>
-<p>Governance is often treated as something that arrives after the real design decisions have already been made.</p>
-<p>It becomes a control layer.
-A review layer.
-A sign-off layer.
-A reporting layer.</p>
-<p>But if governance only appears at the end, then it is mostly supervising the consequences of earlier structural choices.</p>
-<p>Used properly, governance should help shape:</p>
-<ul>
-<li class="">how the organisation frames the change</li>
-<li class="">how responsibility is distributed</li>
-<li class="">how trade-offs are made</li>
-<li class="">how adaptation is allowed</li>
-<li class="">how knowledge is surfaced and maintained</li>
-<li class="">how coordination happens across functions and time</li>
-</ul>
-<p>That is a much deeper role than compliance theatre.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="because-transformation-is-social-before-it-is-technical">Because transformation is social before it is technical<a href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/#because-transformation-is-social-before-it-is-technical" class="hash-link" aria-label="Direct link to Because transformation is social before it is technical" title="Direct link to Because transformation is social before it is technical" translate="no">​</a></h2>
-<p>Even highly technical transformations are still social transformations.</p>
-<p>People need to interpret new systems.
-Teams need to change how they relate.
-Authority patterns get challenged.
-Local autonomy and central coherence come into tension.
-Legacy expertise can become either a bridge or a source of resistance.</p>
-<p>When organisations ignore that, they often produce a strange outcome:</p>
-<p>The new tools are live, but the old organisation is still in charge.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-would-a-better-approach-look-like">What would a better approach look like?<a href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/#what-would-a-better-approach-look-like" class="hash-link" aria-label="Direct link to What would a better approach look like?" title="Direct link to What would a better approach look like?" translate="no">​</a></h2>
-<p>A better approach would start by treating transformation as structural work.</p>
-<p>Not just software delivery.
-Not just architecture uplift.
-Not just process digitisation.</p>
-<p>It would ask:</p>
-<ul>
-<li class="">What kind of organisation are we trying to become?</li>
-<li class="">What behaviours need to change, not just what systems?</li>
-<li class="">Where is knowledge currently trapped?</li>
-<li class="">What coordination patterns are preventing improvement?</li>
-<li class="">What needs to become visible that currently is not?</li>
-<li class="">What should governance do during change, not just after it?</li>
-</ul>
-<p>That does not make transformation easier.</p>
-<p>But it makes it more honest.</p>
-<p>And honesty matters here, because the biggest cost in digital transformation is often not the technology itself. It is the repeated illusion that the next platform, the next delivery model, or the next operating rhythm will succeed without deeper organisational change.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-disappointment-is-a-clue">The disappointment is a clue<a href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/#the-disappointment-is-a-clue" class="hash-link" aria-label="Direct link to The disappointment is a clue" title="Direct link to The disappointment is a clue" translate="no">​</a></h2>
-<p>If digital transformation keeps disappointing, that should not just be filed away as execution noise.</p>
-<p>It is a signal.</p>
-<p>It suggests that the real challenge is not simply digital capability.
-It is organisational coherence.</p>
-<p>Until that becomes central, transformation programs will keep producing more movement than change.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knowledge Management 4.0]]></title>
-        <id>https://governance.foundation/blog/2021/08/26/knowledge-management/</id>
-        <link href="https://governance.foundation/blog/2021/08/26/knowledge-management/"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why traditional knowledge management breaks down, and why organisations need a more living, connected, AI-legible approach to knowledge.]]></summary>
-        <content type="html"><![CDATA[<p>Knowledge management has been trying to solve a real problem for a long time.</p>
-<p>Organisations forget.
-They repeat themselves.
-They lose context.
-They trap critical knowledge in roles, teams, documents, and people.
-They create records without creating understanding.</p>
-<p>So the instinct behind knowledge management was never wrong.</p>
-<p>The problem is that most knowledge management approaches captured only a thin and fragile version of what organisations actually know.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="traditional-knowledge-management-was-mostly-about-capture">Traditional knowledge management was mostly about capture<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#traditional-knowledge-management-was-mostly-about-capture" class="hash-link" aria-label="Direct link to Traditional knowledge management was mostly about capture" title="Direct link to Traditional knowledge management was mostly about capture" translate="no">​</a></h2>
-<p>In practice, knowledge management usually became a mix of:</p>
-<ul>
-<li class="">document repositories</li>
-<li class="">intranets and wikis</li>
-<li class="">taxonomies and metadata</li>
-<li class="">lessons learned registers</li>
-<li class="">formal knowledge-owner roles</li>
-<li class="">translation work between teams and functions</li>
-</ul>
-<p>That helped to a point.</p>
-<p>But most of it was still built on the same assumption:</p>
-<blockquote>
-<p>if the organisation writes enough down, it will become knowable.</p>
-</blockquote>
-<p>That is only partly true.</p>
-<p>Writing things down matters.
-But capture is not the same as coherence.
-Storage is not the same as shared understanding.
-And documentation is not the same as living organisational knowledge.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-problem-was-always-fragmentation">The real problem was always fragmentation<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#the-real-problem-was-always-fragmentation" class="hash-link" aria-label="Direct link to The real problem was always fragmentation" title="Direct link to The real problem was always fragmentation" translate="no">​</a></h2>
-<p>Most organisations do not lack information.
-They lack connectedness.</p>
-<p>Knowledge gets spread across:</p>
-<ul>
-<li class="">policies</li>
-<li class="">procedures</li>
-<li class="">architecture diagrams</li>
-<li class="">ticket systems</li>
-<li class="">chats and emails</li>
-<li class="">spreadsheets and slide decks</li>
-<li class="">local workarounds</li>
-<li class="">habits and unwritten rules</li>
-<li class="">individual memory</li>
-</ul>
-<p>That means the organisation often has the pieces, but not the whole.</p>
-<p>One team knows why something exists.
-Another knows how to operate it.
-A third knows why it keeps failing.
-A fourth has already built a workaround.
-And none of that is held together cleanly.</p>
-<p>This is why so many organisations end up document-rich but knowledge-poor.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="translation-heavy-systems-do-not-scale-well">Translation-heavy systems do not scale well<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#translation-heavy-systems-do-not-scale-well" class="hash-link" aria-label="Direct link to Translation-heavy systems do not scale well" title="Direct link to Translation-heavy systems do not scale well" translate="no">​</a></h2>
-<p>A lot of classic knowledge management depended on translation.</p>
-<p>Someone had to gather context from one place, interpret it, reshape it, and publish it in a form someone else could use.
-That might be an architect, analyst, manager, process owner, or subject matter expert.</p>
-<p>Sometimes that works.
-But it creates a bottleneck.</p>
-<p>The organisation becomes dependent on a relatively small number of people to:</p>
-<ul>
-<li class="">interpret what matters</li>
-<li class="">clean up contradictions</li>
-<li class="">fill in missing context</li>
-<li class="">explain how pieces connect</li>
-<li class="">keep knowledge current</li>
-</ul>
-<p>That creates at least three problems.</p>
-<p>First, it does not scale.
-As complexity rises, the translation load rises faster.</p>
-<p>Second, it goes stale.
-By the time knowledge is translated, approved, and published, reality has often moved on.</p>
-<p>Third, it becomes political.
-When too much knowledge depends on a few intermediaries, those intermediaries become bottlenecks, filters, and points of control.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-lot-of-the-important-knowledge-never-gets-captured-properly">A lot of the important knowledge never gets captured properly<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#a-lot-of-the-important-knowledge-never-gets-captured-properly" class="hash-link" aria-label="Direct link to A lot of the important knowledge never gets captured properly" title="Direct link to A lot of the important knowledge never gets captured properly" translate="no">​</a></h2>
-<p>Traditional knowledge systems also tend to favour the formal and visible layer.</p>
-<p>They capture things like:</p>
-<ul>
-<li class="">official process</li>
-<li class="">approved policy</li>
-<li class="">designed architecture</li>
-<li class="">final decisions</li>
-<li class="">published standards</li>
-</ul>
-<p>What they often miss is the working layer:</p>
-<ul>
-<li class="">why a decision was really made</li>
-<li class="">what was tried and failed</li>
-<li class="">which exceptions matter in practice</li>
-<li class="">where the hidden dependencies sit</li>
-<li class="">what local heuristics people rely on</li>
-<li class="">which warnings experienced people carry around implicitly</li>
-</ul>
-<p>That is often the knowledge that makes the difference between smooth execution and expensive confusion.</p>
-<p>When it is not captured, the organisation keeps relying on human memory to bridge the gap.
-That makes continuity fragile and makes people harder to replace in knowledge terms.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-matters-more-now">Why this matters more now<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#why-this-matters-more-now" class="hash-link" aria-label="Direct link to Why this matters more now" title="Direct link to Why this matters more now" translate="no">​</a></h2>
-<p>These weaknesses were already expensive before AI.</p>
-<p>AI just makes them harder to ignore.</p>
-<p>If organisational knowledge is fragmented, stale, contradictory, or trapped in people’s heads, AI will not magically fix it.
-It will operate on the fragments it can see.
-It may summarise the wrong thing beautifully.
-It may scale ambiguity faster.
-It may make incoherence more productive.</p>
-<p>That means the question is no longer just whether an organisation has knowledge assets.</p>
-<p>The question is whether the organisation has a knowledge system that is legible enough for both people and AI to work with.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="knowledge-management-40-should-be-about-formation-not-just-storage">Knowledge Management 4.0 should be about formation, not just storage<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#knowledge-management-40-should-be-about-formation-not-just-storage" class="hash-link" aria-label="Direct link to Knowledge Management 4.0 should be about formation, not just storage" title="Direct link to Knowledge Management 4.0 should be about formation, not just storage" translate="no">​</a></h2>
-<p>The next stage of knowledge management should not just be a better library.</p>
-<p>It should be a better organisational memory system.</p>
-<p>That means shifting the goal from storing content to forming shared knowledge.</p>
-<p>A stronger model should help the organisation:</p>
-<ul>
-<li class="">capture knowledge closer to where it is created</li>
-<li class="">preserve reasoning, not just outputs</li>
-<li class="">connect documents, decisions, work, and evidence</li>
-<li class="">expose contradictions and stale areas</li>
-<li class="">reduce dependence on isolated human memory</li>
-<li class="">make knowledge more reusable across teams</li>
-<li class="">keep context alive as work changes</li>
-</ul>
-<p>In other words, the aim is not just accumulation.
-It is intelligibility.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-is-where-ai-changes-the-economics">This is where AI changes the economics<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#this-is-where-ai-changes-the-economics" class="hash-link" aria-label="Direct link to This is where AI changes the economics" title="Direct link to This is where AI changes the economics" translate="no">​</a></h2>
-<p>Older knowledge management approaches struggled partly because the interpretation work was expensive.</p>
-<p>Humans had to do most of the sorting, summarising, connecting, classifying, and cross-referencing by hand.
-So organisations cut corners.
-They documented the minimum.
-They centralised the burden.
-They tolerated drift.</p>
-<p>AI changes that.</p>
-<p>Not by removing the need for structure, but by making knowledge formation cheaper.</p>
-<p>AI can help:</p>
-<ul>
-<li class="">interpret raw material</li>
-<li class="">suggest where knowledge belongs</li>
-<li class="">connect related fragments</li>
-<li class="">surface conflicting versions of reality</li>
-<li class="">preserve rationale while context is still fresh</li>
-<li class="">turn scattered evidence into more usable knowledge objects</li>
-<li class="">keep the knowledge body more current over time</li>
-</ul>
-<p>That does not remove the need for human judgment.
-But it does remove some of the old excuses.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="from-knowledge-management-to-knowledgefund">From knowledge management to KnowledgeFund<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#from-knowledge-management-to-knowledgefund" class="hash-link" aria-label="Direct link to From knowledge management to KnowledgeFund" title="Direct link to From knowledge management to KnowledgeFund" translate="no">​</a></h2>
-<p>This is why I think the next step has to move beyond classic knowledge management.</p>
-<p>Knowledge management mostly treated knowledge as something to capture and administer.</p>
-<p>KnowledgeFund should treat organisational knowledge as something to actively structure, connect, trace, and grow.</p>
-<p>That means moving toward a system where knowledge is:</p>
-<ul>
-<li class="">connected to purpose</li>
-<li class="">connected to work</li>
-<li class="">connected to decisions</li>
-<li class="">connected to evidence</li>
-<li class="">connected to gaps and risks</li>
-<li class="">connected to contribution and reuse</li>
-</ul>
-<p>That is a different ambition.</p>
-<p>It is closer to building an organisational knowledge system than maintaining a document estate.
-It is closer to organisational memory than document management.
-It is closer to a living knowledge economy than a static archive.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-point-is-not-more-content">The point is not more content<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#the-point-is-not-more-content" class="hash-link" aria-label="Direct link to The point is not more content" title="Direct link to The point is not more content" translate="no">​</a></h2>
-<p>A mature knowledge approach is not about producing more pages.</p>
-<p>It is about making the organisation more able to know what it knows, learn what it does not, and act with clearer shared context.</p>
-<p>That is the real promise behind a better knowledge model.</p>
-<p>Not just better storage.
-Better coherence.
-Better continuity.
-Better organisational learning.</p>
-<p>That is the direction Knowledge Management 4.0 should point toward.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/">Governance Experience Platform</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Frameworks Fail?]]></title>
-        <id>https://governance.foundation/blog/2020/10/02/why-frameworks-fail/</id>
-        <link href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/"/>
-        <updated>2020-10-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why frameworks that look sensible on paper still fail inside living organisations with their own history, incentives, and knowledge structure.]]></summary>
-        <content type="html"><![CDATA[<p>Frameworks often arrive with a promise.</p>
-<p>They will create clarity.
-They will improve consistency.
-They will make good practice portable.
-They will reduce guesswork.
-They will help the organisation mature faster.</p>
-<p>Sometimes they do help.</p>
-<p>But many frameworks that look intelligent, well-structured, and battle-tested on paper still fail in practice.</p>
-<p>That failure is often misunderstood.
-It gets blamed on poor rollout, weak training, bad tooling, or resistant people.</p>
-<p>Those things can matter.</p>
-<p>But they are not the whole story.</p>
-<p>Frameworks often fail because they are dropped into living organisations as if they were neutral upgrades, when in reality they are entering systems with their own history, incentives, language, tensions, and knowledge structure.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-framework-is-an-iceberg-of-compressed-knowledge">A framework is an iceberg of compressed knowledge<a href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/#a-framework-is-an-iceberg-of-compressed-knowledge" class="hash-link" aria-label="Direct link to A framework is an iceberg of compressed knowledge" title="Direct link to A framework is an iceberg of compressed knowledge" translate="no">​</a></h2>
-<p>A framework is not just a checklist.</p>
-<p>It is packaged judgment.
-It carries assumptions.
-It reflects tradeoffs.
-It contains a way of seeing problems, organising action, and deciding what matters.</p>
-<p>In that sense, a framework is a compressed knowledge structure.</p>
-<p>It represents:</p>
-<ul>
-<li class="">accumulated lessons</li>
-<li class="">embedded concepts</li>
-<li class="">hidden assumptions</li>
-<li class="">preferred patterns</li>
-<li class="">views about coordination and control</li>
-<li class="">expectations about roles, timing, and behaviour</li>
-</ul>
-<p>That is why frameworks can be powerful.</p>
-<p>But it is also why they can fail.</p>
-<p>When people import a framework, they are not just importing a process.
-They are importing a whole way of interpreting organisational reality.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="organisations-are-also-knowledge-icebergs">Organisations are also knowledge icebergs<a href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/#organisations-are-also-knowledge-icebergs" class="hash-link" aria-label="Direct link to Organisations are also knowledge icebergs" title="Direct link to Organisations are also knowledge icebergs" translate="no">​</a></h2>
-<p>The problem is that organisations are not blank surfaces waiting to receive a better pattern.</p>
-<p>They are already full of structure.</p>
-<p>An organisation carries its own:</p>
-<ul>
-<li class="">history</li>
-<li class="">politics</li>
-<li class="">incentives</li>
-<li class="">language</li>
-<li class="">local habits</li>
-<li class="">system dependencies</li>
-<li class="">power arrangements</li>
-<li class="">institutional memory</li>
-<li class="">missing memory</li>
-<li class="">workarounds and exceptions</li>
-</ul>
-<p>A lot of that structure is visible.
-A lot of it is not.</p>
-<p>That is why I think it helps to treat organisations as knowledge icebergs too.</p>
-<p>What is written down is only part of the picture.
-A much larger part sits below the visible line, in habits, social expectations, unwritten constraints, and fragmented local understanding.</p>
-<p>When a framework meets an organisation, it is really one knowledge iceberg colliding with another.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="framework-failure-is-often-an-alignment-failure">Framework failure is often an alignment failure<a href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/#framework-failure-is-often-an-alignment-failure" class="hash-link" aria-label="Direct link to Framework failure is often an alignment failure" title="Direct link to Framework failure is often an alignment failure" translate="no">​</a></h2>
-<p>Framework advocates often talk as if good practice should transfer cleanly.</p>
-<p>But even a strong framework can fail if it does not align with:</p>
-<ul>
-<li class="">how the organisation actually makes decisions</li>
-<li class="">what incentives people are operating under</li>
-<li class="">what knowledge is shared versus trapped</li>
-<li class="">how much local variation already exists</li>
-<li class="">how much translation the system can sustain</li>
-<li class="">what kind of social change the framework is really asking for</li>
-</ul>
-<p>This is why framework adoption is never only technical.</p>
-<p>A framework may specify a workflow, a role model, a planning cycle, a governance method, or a way to classify work.
-But underneath that, it is also asking people to:</p>
-<ul>
-<li class="">reinterpret their work</li>
-<li class="">trust a new structure</li>
-<li class="">change local habits</li>
-<li class="">accept new tradeoffs</li>
-<li class="">expose hidden ambiguity</li>
-<li class="">surrender some familiar autonomy</li>
-<li class="">learn a new language for coordination</li>
-</ul>
-<p>That is a much bigger ask than many implementation plans admit.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="social-rejection-is-real-even-when-nobody-says-it-out-loud">Social rejection is real, even when nobody says it out loud<a href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/#social-rejection-is-real-even-when-nobody-says-it-out-loud" class="hash-link" aria-label="Direct link to Social rejection is real, even when nobody says it out loud" title="Direct link to Social rejection is real, even when nobody says it out loud" translate="no">​</a></h2>
-<p>One of the hardest things about framework failure is that rejection is often quiet.</p>
-<p>People do not always openly oppose a framework.
-They route around it.
-They half-adopt it.
-They comply in visible places and ignore it in real work.
-They keep local spreadsheets, local rules, local workarounds, and local interpretations.</p>
-<p>From a distance, the framework looks present.</p>
-<p>In reality, the organisation is slowly absorbing only the pieces it can tolerate and shedding the rest.</p>
-<p>That is why passive rejection is so common.
-It does not look dramatic.
-It looks like drift.</p>
-<p>A little inconsistency here.
-A local exception there.
-A role that never quite behaves as intended.
-A review step that becomes theatre.
-A standard that nobody trusts enough to rely on.</p>
-<p>Over time, the framework remains as surface structure while the organisation continues to run on older logics underneath.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="translation-burden-kills-a-lot-of-frameworks">Translation burden kills a lot of frameworks<a href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/#translation-burden-kills-a-lot-of-frameworks" class="hash-link" aria-label="Direct link to Translation burden kills a lot of frameworks" title="Direct link to Translation burden kills a lot of frameworks" translate="no">​</a></h2>
-<p>Many frameworks also assume the organisation can sustain a lot of interpretation work.</p>
-<p>Someone has to:</p>
-<ul>
-<li class="">explain the framework</li>
-<li class="">translate it into local context</li>
-<li class="">resolve conflicts between it and existing practice</li>
-<li class="">keep guidance current</li>
-<li class="">answer edge cases</li>
-<li class="">maintain quality of interpretation across teams</li>
-</ul>
-<p>That work usually falls onto a small number of people.
-Architects. Analysts. Managers. Transformation leads. Coaches. Governance specialists.</p>
-<p>That creates a fragile dependence on translators.</p>
-<p>If the framework only works when a few people continually interpret it for everyone else, then the framework has not really become part of the organisation.
-It has become a side-hustle held together by intermediaries.</p>
-<p>That does not scale well.
-And it becomes even harder as the organisation grows more complex.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="frameworks-fail-when-they-are-treated-as-uploads">Frameworks fail when they are treated as uploads<a href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/#frameworks-fail-when-they-are-treated-as-uploads" class="hash-link" aria-label="Direct link to Frameworks fail when they are treated as uploads" title="Direct link to Frameworks fail when they are treated as uploads" translate="no">​</a></h2>
-<p>A lot of failed adoption efforts share one bad assumption:</p>
-<p>that framework knowledge can simply be uploaded into the organisation.</p>
-<p>As if the organisation were just waiting for a better operating system.</p>
-<p>But organisations do not change like software patches.
-They change through social integration.
-Through interpretation.
-Through tension.
-Through adaptation.
-Through repeated encounters between existing structure and new structure.</p>
-<p>That means the question is not just:</p>
-<blockquote>
-<p>Is this framework good?</p>
-</blockquote>
-<p>It is also:</p>
-<blockquote>
-<p>What kind of organisational change is this framework actually demanding?</p>
-</blockquote>
-<p>If the answer is not understood, the framework will often fail regardless of its quality.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ai-will-not-magically-solve-this">AI will not magically solve this<a href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/#ai-will-not-magically-solve-this" class="hash-link" aria-label="Direct link to AI will not magically solve this" title="Direct link to AI will not magically solve this" translate="no">​</a></h2>
-<p>It might be tempting to think AI will make framework adoption easier.</p>
-<p>In some ways it will help.
-AI can explain frameworks, summarise guidance, compare practices, and reduce some translation overhead.</p>
-<p>But AI does not remove the underlying alignment problem.</p>
-<p>If the organisation is fragmented, politically distorted, weakly connected, or dependent on tacit local knowledge, AI will not make framework adoption automatically coherent.
-It may simply scale the interpretation problem faster.</p>
-<p>The deeper challenge remains the same.
-A framework has to be absorbed by a living system.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-lesson">The real lesson<a href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/#the-real-lesson" class="hash-link" aria-label="Direct link to The real lesson" title="Direct link to The real lesson" translate="no">​</a></h2>
-<p>Frameworks do not fail only because they are badly designed.</p>
-<p>They fail because organisations are living, uneven, historically shaped systems that cannot be remade by importing a neat pattern and expecting clean compliance.</p>
-<p>That does not mean frameworks are useless.</p>
-<p>It means they should be treated with more realism.</p>
-<p>A framework is not a shortcut around organisational complexity.
-It is another structured knowledge body entering that complexity.</p>
-<p>If it is going to help, it has to align with the organisation, adapt to it, and become socially and operationally integrated into real work.</p>
-<p>Otherwise it will survive only as surface structure.
-And surface structure is where a lot of failed frameworks go to live.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/">A case for Governance Framework</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/">Governance Experience Platform</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/06/16/governance-foundation/">Why Governance Foundation?</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Governance Experience Platform]]></title>
-        <id>https://governance.foundation/blog/2020/07/15/governance-experience-platform/</id>
-        <link href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/"/>
-        <updated>2020-07-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why organisations need shared governance experiences, not just abstract models, documents, and after-the-fact oversight.]]></summary>
-        <content type="html"><![CDATA[<p>Most organisations do not fail because nobody cares.</p>
-<p>They fail because shared intent breaks apart on the way to lived work.</p>
-<p>Leadership says one thing.
-Teams hear different things.
-Systems enforce something else.
-Local habits fill the gaps.
-And the organisation slowly drifts into a patchwork of partial understandings.</p>
-<p>That is not just a communication problem.
-It is a governance problem.</p>
-<p>And it points to something most organisations still do not have:</p>
-<p>a practical way to turn shared governance into usable day-to-day experience.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="governance-usually-arrives-too-late">Governance usually arrives too late<a href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/#governance-usually-arrives-too-late" class="hash-link" aria-label="Direct link to Governance usually arrives too late" title="Direct link to Governance usually arrives too late" translate="no">​</a></h2>
-<p>In many organisations, governance shows up as:</p>
-<ul>
-<li class="">policy documents</li>
-<li class="">review gates</li>
-<li class="">committees</li>
-<li class="">escalations</li>
-<li class="">controls</li>
-<li class="">compliance checks</li>
-<li class="">post-incident corrections</li>
-</ul>
-<p>Some of that is necessary.</p>
-<p>But it is mostly after-the-fact governance.
-It reacts once misalignment, risk, or drift has already become visible.</p>
-<p>That means the organisation is often trying to correct behaviour downstream instead of shaping experience upstream.</p>
-<p>By the time governance appears, teams have already improvised their own ways of working.
-The result is familiar:</p>
-<ul>
-<li class="">rules that feel detached from reality</li>
-<li class="">local workarounds that quietly become standard practice</li>
-<li class="">fragmented interpretation between teams</li>
-<li class="">slow coordination across boundaries</li>
-<li class="">recurring confusion about purpose, ownership, and priority</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-breakdown-is-in-lived-organisational-experience">The real breakdown is in lived organisational experience<a href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/#the-real-breakdown-is-in-lived-organisational-experience" class="hash-link" aria-label="Direct link to The real breakdown is in lived organisational experience" title="Direct link to The real breakdown is in lived organisational experience" translate="no">​</a></h2>
-<p>Organisations are socio-technical systems.</p>
-<p>People do not experience them as diagrams.
-They experience them as work.
-As tools.
-As process.
-As permissions.
-As friction.
-As signals.
-As incentives.
-As what gets noticed, rewarded, blocked, escalated, and ignored.</p>
-<p>That is why governance cannot stay abstract.</p>
-<p>If governance is supposed to shape behaviour, coordination, and adaptation, it has to become something people can actually experience in context.</p>
-<p>Not just something written down somewhere else.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="most-organisations-are-full-of-misaligned-local-realities">Most organisations are full of misaligned local realities<a href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/#most-organisations-are-full-of-misaligned-local-realities" class="hash-link" aria-label="Direct link to Most organisations are full of misaligned local realities" title="Direct link to Most organisations are full of misaligned local realities" translate="no">​</a></h2>
-<p>At scale, every team develops its own local view of the system.</p>
-<p>That is understandable.
-People optimise for the work in front of them.
-They simplify complexity to stay productive.
-They rely on local language, local priorities, and local workarounds.</p>
-<p>But over time that creates an organisational split.</p>
-<p>The official organisation says it has one purpose, one set of standards, one set of decisions, one operating model.
-The lived organisation behaves as a federation of partially connected realities.</p>
-<p>That fragmentation shows up in basic organisational failures:</p>
-<ul>
-<li class="">communication without shared meaning</li>
-<li class="">collaboration without shared context</li>
-<li class="">cooperation without mutual trust</li>
-<li class="">coordination without stable alignment</li>
-</ul>
-<p>The organisation does not just need more messages.
-It needs better shared experience.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-governance-experience-platform-should-make-governance-usable">A Governance Experience Platform should make governance usable<a href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/#a-governance-experience-platform-should-make-governance-usable" class="hash-link" aria-label="Direct link to A Governance Experience Platform should make governance usable" title="Direct link to A Governance Experience Platform should make governance usable" translate="no">​</a></h2>
-<p>This is where the idea of a Governance Experience Platform matters.</p>
-<p>A GXP should not be understood as a dashboard, portal, or software category first.</p>
-<p>It is a way of organising governance so that shared structures become usable through local experience.</p>
-<p>In plain terms, it should help an organisation do something hard:</p>
-<p>maintain a common knowledge and governance core while presenting relevant, contextual, actionable experiences to different people and teams.</p>
-<p>That means a GXP should help turn governance into something people can actually work with.</p>
-<p>Not just read about.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="shared-core-tailored-experience">Shared core, tailored experience<a href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/#shared-core-tailored-experience" class="hash-link" aria-label="Direct link to Shared core, tailored experience" title="Direct link to Shared core, tailored experience" translate="no">​</a></h2>
-<p>This is the crucial pattern.</p>
-<p>A healthy organisation needs both:</p>
-<ul>
-<li class="">a shared core</li>
-<li class="">tailored experience</li>
-</ul>
-<p>The shared core provides common structure:</p>
-<ul>
-<li class="">purpose</li>
-<li class="">concepts</li>
-<li class="">standards</li>
-<li class="">decisions</li>
-<li class="">dependencies</li>
-<li class="">traceability</li>
-<li class="">knowledge relationships</li>
-<li class="">governance patterns</li>
-</ul>
-<p>The tailored experience provides local usability:</p>
-<ul>
-<li class="">what this team needs to know now</li>
-<li class="">what this role is responsible for</li>
-<li class="">what matters for this workflow</li>
-<li class="">what options, constraints, and signals apply here</li>
-<li class="">what actions make sense in this context</li>
-</ul>
-<p>If an organisation only has the shared core, it becomes abstract and hard to use.
-If it only has local tailoring, it fragments into silos.</p>
-<p>A GXP should hold both together.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-is-really-about-organisational-listening">This is really about organisational listening<a href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/#this-is-really-about-organisational-listening" class="hash-link" aria-label="Direct link to This is really about organisational listening" title="Direct link to This is really about organisational listening" translate="no">​</a></h2>
-<p>One of the deepest problems in large organisations is that they do not listen well.</p>
-<p>Not because nobody speaks.
-Because too much signal gets lost, filtered, translated late, or drowned out by noise.</p>
-<p>Important knowledge sits in:</p>
-<ul>
-<li class="">frontline observations</li>
-<li class="">local delivery pain</li>
-<li class="">repeated workaround patterns</li>
-<li class="">recurring exceptions</li>
-<li class="">near misses</li>
-<li class="">hidden dependencies</li>
-<li class="">good ideas that never get connected upward</li>
-</ul>
-<p>Most organisations do not have a good way to absorb all of that and turn it into shared learning.</p>
-<p>That creates what I think of as organisational deafness.</p>
-<p>A Governance Experience Platform should improve organisational listening by making it easier to:</p>
-<ul>
-<li class="">capture meaningful signals closer to where they arise</li>
-<li class="">connect them to shared structures</li>
-<li class="">route them into useful context</li>
-<li class="">reflect them back as better guidance, decisions, and experiences</li>
-</ul>
-<p>That is one reason GXP matters.
-It is not just about publishing governance.
-It is about helping governance learn.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-matters-even-more-with-ai">Why this matters even more with AI<a href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/#why-this-matters-even-more-with-ai" class="hash-link" aria-label="Direct link to Why this matters even more with AI" title="Direct link to Why this matters even more with AI" translate="no">​</a></h2>
-<p>AI increases the value of this kind of platform because AI works best when the surrounding organisation is legible.</p>
-<p>If knowledge is fragmented, if context is trapped, if teams are operating from incompatible local realities, AI will not create coherence.
-It will amplify whatever structure already exists.</p>
-<p>That means an organisation that wants useful AI support needs more than model access.
-It needs a way to connect:</p>
-<ul>
-<li class="">knowledge</li>
-<li class="">work</li>
-<li class="">roles</li>
-<li class="">decisions</li>
-<li class="">signals</li>
-<li class="">constraints</li>
-<li class="">feedback</li>
-</ul>
-<p>A Governance Experience Platform can help provide that connective layer.</p>
-<p>It can make shared governance more operationally visible and more locally usable.</p>
-<p>And once that happens, AI has something better to work with than disconnected fragments.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="gxp-is-not-centralised-control">GXP is not centralised control<a href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/#gxp-is-not-centralised-control" class="hash-link" aria-label="Direct link to GXP is not centralised control" title="Direct link to GXP is not centralised control" translate="no">​</a></h2>
-<p>This matters.</p>
-<p>The point is not to create a giant command console where one part of the organisation dictates every other part.</p>
-<p>That would just create a different kind of brittleness.</p>
-<p>The point is to create stronger coherence without erasing local context.</p>
-<p>A good GXP should help an organisation:</p>
-<ul>
-<li class="">keep shared purpose visible</li>
-<li class="">make dependencies easier to understand</li>
-<li class="">reduce translation burdens</li>
-<li class="">support cross-team alignment</li>
-<li class="">preserve contribution visibility</li>
-<li class="">make governance more participatory and less theatrical</li>
-</ul>
-<p>It should strengthen coordination without flattening everything into one generic experience.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="toward-organisational-experiences-that-reinforce-the-whole">Toward organisational experiences that reinforce the whole<a href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/#toward-organisational-experiences-that-reinforce-the-whole" class="hash-link" aria-label="Direct link to Toward organisational experiences that reinforce the whole" title="Direct link to Toward organisational experiences that reinforce the whole" translate="no">​</a></h2>
-<p>This is why I think the word experience matters.</p>
-<p>Governance becomes real when it is encountered through meaningful interactions.
-Not just through policy statements.</p>
-<p>A team experience.
-A delivery experience.
-A decision experience.
-A contribution experience.
-A risk experience.
-A learning experience.</p>
-<p>If those experiences are built on top of a shared knowledge and governance core, the organisation becomes more coherent over time.</p>
-<p>If they are not, the organisation becomes harder to understand, harder to align, and harder to improve.</p>
-<p>That is the real role of a Governance Experience Platform.</p>
-<p>Not to decorate governance.
-To operationalise it through experiences that help the organisation hold together while it changes.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/">Why Frameworks Fail?</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A case for Governance Framework]]></title>
-        <id>https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/</id>
-        <link href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/"/>
-        <updated>2020-07-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why governance patterns cannot simply be copied between organisations, and why organisations need scaffolding that matches their own maturity and structure.]]></summary>
-        <content type="html"><![CDATA[<p>One of the most common mistakes in governance work is to assume that a pattern that worked somewhere else can simply be transplanted here.</p>
-<p>A committee model, a delivery method, a risk structure, a control pattern, a maturity framework, a decision process.</p>
-<p>The reasoning is always understandable.</p>
-<p>If another organisation solved a similar problem, why not copy what worked?</p>
-<p>Because governance patterns are not plug-ins.</p>
-<p>They are the visible expression of a much deeper organisational history.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="copy-paste-governance-does-not-transfer-cleanly">Copy-paste governance does not transfer cleanly<a href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/#copy-paste-governance-does-not-transfer-cleanly" class="hash-link" aria-label="Direct link to Copy-paste governance does not transfer cleanly" title="Direct link to Copy-paste governance does not transfer cleanly" translate="no">​</a></h2>
-<p>When people talk about adopting a governance model, they often talk as if the model exists independently of the organisation that produced it.</p>
-<p>But most governance patterns are evolutionary.</p>
-<p>They are not just designed.
-They are accumulated.
-They emerge through years of:</p>
-<ul>
-<li class="">tradeoffs</li>
-<li class="">failures</li>
-<li class="">adaptations</li>
-<li class="">local incentives</li>
-<li class="">historical constraints</li>
-<li class="">technical realities</li>
-<li class="">social compromise</li>
-</ul>
-<p>That means a governance pattern is never just a method.
-It is also a record of the conditions that shaped it.</p>
-<p>If those conditions are not present in the organisation trying to adopt it, the pattern will not behave the same way.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="governance-is-shaped-by-organisational-maturity">Governance is shaped by organisational maturity<a href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/#governance-is-shaped-by-organisational-maturity" class="hash-link" aria-label="Direct link to Governance is shaped by organisational maturity" title="Direct link to Governance is shaped by organisational maturity" translate="no">​</a></h2>
-<p>Every organisation has its own maturity path.</p>
-<p>Not just in a generic scorecard sense, but in the more practical sense of what it can currently absorb.</p>
-<p>An organisation’s governance pattern reflects things like:</p>
-<ul>
-<li class="">how decisions are made</li>
-<li class="">how authority is distributed</li>
-<li class="">how much trust exists between groups</li>
-<li class="">how much shared language exists</li>
-<li class="">how much operational discipline is already present</li>
-<li class="">how well information moves through the system</li>
-<li class="">how adaptable the social and technical layers are</li>
-</ul>
-<p>That is why governance cannot be separated from the maturity of the organisation carrying it.</p>
-<p>A pattern that works in one place may depend on capabilities, norms, or shared structures that do not exist somewhere else yet.</p>
-<p>If you import the surface pattern without the underlying conditions, you usually get ceremony without effect.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="oversight-heavy-governance-is-often-a-symptom-of-the-older-model">Oversight-heavy governance is often a symptom of the older model<a href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/#oversight-heavy-governance-is-often-a-symptom-of-the-older-model" class="hash-link" aria-label="Direct link to Oversight-heavy governance is often a symptom of the older model" title="Direct link to Oversight-heavy governance is often a symptom of the older model" translate="no">​</a></h2>
-<p>Across many industries, governance is still treated mainly as oversight.</p>
-<p>Something that intervenes after the fact.
-Something that checks, reviews, escalates, approves, or corrects once events have already unfolded.</p>
-<p>That approach can work in simpler environments or when experienced central authority can still keep up with complexity.</p>
-<p>But as organisations become more socio-technical, more distributed, and more interdependent, reactive oversight stops scaling well.</p>
-<p>The organisation becomes too complex for central correction alone to keep it coherent.</p>
-<p>That is one reason so many governance models feel heavy but still fail to prevent drift.</p>
-<p>They are trying to solve structural problems too late in the process.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-organisations-need-is-scaffolding-not-imitation">What organisations need is scaffolding, not imitation<a href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/#what-organisations-need-is-scaffolding-not-imitation" class="hash-link" aria-label="Direct link to What organisations need is scaffolding, not imitation" title="Direct link to What organisations need is scaffolding, not imitation" translate="no">​</a></h2>
-<p>This is why I think the better approach is not to copy a finished governance pattern.</p>
-<p>It is to provide a stronger governance foundation.</p>
-<p>A governance foundation is closer to scaffolding than a rigid template.</p>
-<p>It gives the organisation:</p>
-<ul>
-<li class="">concepts it can use to understand itself</li>
-<li class="">distinctions that clarify what actually needs governing</li>
-<li class="">reference models that can be adapted rather than copied</li>
-<li class="">a shared area for knowledge and contribution</li>
-<li class="">a way to grow governance as the organisation matures</li>
-</ul>
-<p>That is a very different ambition from handing over a fixed model.</p>
-<p>The point is not to force an organisation through someone else’s history.
-The point is to help it build its own more deliberately.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-useful-framework-should-unlock-selectively-not-impose-all-at-once">A useful framework should unlock selectively, not impose all at once<a href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/#a-useful-framework-should-unlock-selectively-not-impose-all-at-once" class="hash-link" aria-label="Direct link to A useful framework should unlock selectively, not impose all at once" title="Direct link to A useful framework should unlock selectively, not impose all at once" translate="no">​</a></h2>
-<p>A mature governance approach should not assume that every part of the model needs to appear on day one.</p>
-<p>Different organisations need different levels of structure at different stages.</p>
-<p>Some need clearer language and shared concepts first.
-Some need better decision traceability.
-Some need stronger cross-team coordination.
-Some need more legible risk and control structure.</p>
-<p>That means a useful governance framework should act more like progressive scaffolding.</p>
-<p>As the organisation develops, it should be able to unlock and use the parts that match its actual maturity and needs.</p>
-<p>That is far more realistic than expecting wholesale adoption of an externally conceived pattern.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="shared-knowledge-matters-here-too">Shared knowledge matters here too<a href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/#shared-knowledge-matters-here-too" class="hash-link" aria-label="Direct link to Shared knowledge matters here too" title="Direct link to Shared knowledge matters here too" translate="no">​</a></h2>
-<p>Another reason imitation fails is that governance depends on knowledge flow.</p>
-<p>If governance knowledge is fragmented, trapped in specialists, or poorly shared, then even a sensible model will become brittle.</p>
-<p>A stronger governance foundation should help create:</p>
-<ul>
-<li class="">a shared knowledge area</li>
-<li class="">clearer visibility into patterns and rationale</li>
-<li class="">better contribution pathways</li>
-<li class="">less dependence on a small number of intermediaries</li>
-</ul>
-<p>That matters because governance is not just structure.
-It is also an organisational learning problem.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-case-for-governance-foundation">The real case for Governance Foundation<a href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/#the-real-case-for-governance-foundation" class="hash-link" aria-label="Direct link to The real case for Governance Foundation" title="Direct link to The real case for Governance Foundation" translate="no">​</a></h2>
-<p>So the case is not really for another generic governance framework.</p>
-<p>It is for a governance foundation that helps organisations develop governance that fits their own structure, maturity, and trajectory.</p>
-<p>That means moving away from copy-paste governance and toward something more adaptive.</p>
-<p>Something that:</p>
-<ul>
-<li class="">supports growth without pretending every organisation starts in the same place</li>
-<li class="">helps people share and evolve governance knowledge</li>
-<li class="">reduces unnecessary deviation without crushing local context</li>
-<li class="">provides common reference points without forcing mechanical imitation</li>
-</ul>
-<p>That is the real value.</p>
-<p>Not importing governance as a finished product.
-But helping organisations build stronger governance from foundations that can actually live inside them.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/06/16/governance-foundation/">Why Governance Foundation?</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/">Why Frameworks Fail?</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/">Governance Experience Platform</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Governance Foundation?]]></title>
-        <id>https://governance.foundation/blog/2020/06/16/governance-foundation/</id>
-        <link href="https://governance.foundation/blog/2020/06/16/governance-foundation/"/>
-        <updated>2020-06-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why Governance Foundation exists, what problem it is trying to solve, and why governance needs to be treated as a living foundation rather than a compliance afterthought.]]></summary>
-        <content type="html"><![CDATA[<p>Governance Foundation exists because too much work that matters gets built on weak foundations.</p>
-<p>Organisations create strategy, policy, projects, systems, controls, and frameworks all the time.
-But they often do so without a clear shared understanding of what governance is actually for.</p>
-<p>The result is familiar.</p>
-<p>Governance gets treated as bureaucracy.
-Frameworks get treated as paperwork.
-Controls get treated as friction.
-Transformation gets treated as a delivery exercise.
-And the deeper structural questions, how an organisation holds together, makes decisions, coordinates action, moves knowledge, and adapts over time, are left underexplored.</p>
-<p>This site exists to work on those deeper questions.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="governance-is-not-just-oversight">Governance is not just oversight<a href="https://governance.foundation/blog/2020/06/16/governance-foundation/#governance-is-not-just-oversight" class="hash-link" aria-label="Direct link to Governance is not just oversight" title="Direct link to Governance is not just oversight" translate="no">​</a></h2>
-<p>Governance is often reduced to boards, compliance, review gates, or formal authority.</p>
-<p>Those things matter.
-But they are not the whole story.</p>
-<p>Governance is also about the forces, structures, relationships, and mechanisms that shape how an entity behaves in its environment.</p>
-<p>That means governance is not only something an organisation writes down after the fact.
-It is something an organisation lives through every day.</p>
-<p>It shows up in:</p>
-<ul>
-<li class="">how decisions are made</li>
-<li class="">how work is coordinated</li>
-<li class="">how responsibilities are distributed</li>
-<li class="">how change is controlled or allowed</li>
-<li class="">how knowledge moves or gets trapped</li>
-<li class="">how incentives shape behaviour</li>
-<li class="">how systems reinforce or undermine intended direction</li>
-</ul>
-<p>If these things are weak, unclear, or contradictory, no amount of polished documentation will save the organisation from drift.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-a-foundation-matters">Why a foundation matters<a href="https://governance.foundation/blog/2020/06/16/governance-foundation/#why-a-foundation-matters" class="hash-link" aria-label="Direct link to Why a foundation matters" title="Direct link to Why a foundation matters" translate="no">​</a></h2>
-<p>The word foundation matters here.</p>
-<p>A framework can be useful, but frameworks are often applied too early and too mechanically.
-People reach for a template before they understand the conditions it is meant to address.</p>
-<p>A foundation is different.</p>
-<p>A foundation is the body of concepts, distinctions, models, questions, and reference points that help us understand what governance needs to do before we decide how to formalise it.</p>
-<p>That includes questions like:</p>
-<ul>
-<li class="">What is being governed?</li>
-<li class="">In what environment?</li>
-<li class="">Toward what purpose?</li>
-<li class="">With what constraints?</li>
-<li class="">Through what structures?</li>
-<li class="">By whom?</li>
-<li class="">With what information?</li>
-<li class="">At what level of adaptability?</li>
-</ul>
-<p>Without that foundation, governance easily becomes theatre.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-site-exists">Why this site exists<a href="https://governance.foundation/blog/2020/06/16/governance-foundation/#why-this-site-exists" class="hash-link" aria-label="Direct link to Why this site exists" title="Direct link to Why this site exists" translate="no">​</a></h2>
-<p>This site is intended to bring together material that helps build a better foundation for governance work.</p>
-<p>That includes:</p>
-<ul>
-<li class="">foundational governance concepts</li>
-<li class="">governance paradigms and perspectives</li>
-<li class="">governance-related frameworks</li>
-<li class="">structural models such as GXP</li>
-<li class="">thinking about knowledge, organisations, and system behaviour</li>
-<li class="">practical ideas that can later inform better methods</li>
-</ul>
-<p>The goal is not to collect material for its own sake.</p>
-<p>The goal is to make it easier to reason clearly about governance in a way that is useful, structural, and alive.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-longer-direction">A longer direction<a href="https://governance.foundation/blog/2020/06/16/governance-foundation/#a-longer-direction" class="hash-link" aria-label="Direct link to A longer direction" title="Direct link to A longer direction" translate="no">​</a></h2>
-<p>Over time, this work should move beyond simply reviewing existing governance ideas.</p>
-<p>It should also help develop new ones.</p>
-<p>That means exploring governance not just as a static body of institutional practice, but as something that interacts with organisational structure, knowledge systems, collaboration, technology, and eventually AI-supported ways of working.</p>
-<p>That broader direction will take time.
-But it needs a place to start.</p>
-<p>Governance Foundation is that starting point.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="welcome-to-the-work">Welcome to the work<a href="https://governance.foundation/blog/2020/06/16/governance-foundation/#welcome-to-the-work" class="hash-link" aria-label="Direct link to Welcome to the work" title="Direct link to Welcome to the work" translate="no">​</a></h2>
-<p>So this is not just a welcome post.</p>
-<p>It is a statement of intent.</p>
-<p>Governance deserves to be treated as foundational work, not as an afterthought once the real decisions have already been made.</p>
-<p>If this site does its job, it will help make that foundation stronger.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2020/06/16/governance-foundation/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/">A case for Governance Framework</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/">Why Frameworks Fail?</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contribution, reuse, and the idea of an organisational economy]]></title>
-        <id>https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/</id>
-        <link href="https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/"/>
-        <updated>2016-11-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When contribution and reuse are visible and governed, organisations can shift from isolated effort to compounding value.]]></summary>
-        <content type="html"><![CDATA[<p>Most organisations generate useful contribution constantly.
-Patterns, fixes, decisions, and insights are created every day.</p>
-<p>But much of that value stays local.
-Other teams repeat similar work because reuse pathways are weak.</p>
-<p>That is an internal economic problem.
-Effort is spent, value is created, but value flow is poor.</p>
-<p>An organisational economy perspective asks:</p>
-<ul>
-<li class="">how contribution is recognised</li>
-<li class="">how reuse is enabled</li>
-<li class="">how value flows across teams</li>
-</ul>
-<p>If contribution is invisible, reuse is accidental.
-If reuse is hard, the organisation keeps paying full price for partial novelty.</p>
-<p>To improve this, organisations need:</p>
-<ul>
-<li class="">contribution visibility</li>
-<li class="">quality signals for reusable assets</li>
-<li class="">traceable reuse events</li>
-<li class="">feedback loops to contributors</li>
-<li class="">governance that rewards compounding value</li>
-</ul>
-<p>In AI-era work this matters even more.
-AI can increase output volume quickly.
-Without reuse economics, that becomes noise.
-With reuse economics, that becomes momentum.</p>
-<p>This is how organisations move from local productivity to institutional compounding.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/02/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/">Organisational AI centrification, what it means and what it risks</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organisational AI centrification, what it means and what it risks]]></title>
-        <id>https://governance.foundation/blog/2016/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/</id>
-        <link href="https://governance.foundation/blog/2016/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/"/>
-        <updated>2016-08-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As AI capability concentrates in a few teams and platforms, organisations gain leverage but risk bottlenecks and fragility.]]></summary>
-        <content type="html"><![CDATA[<p>AI centrification is the concentration of AI capability into a small number of teams, platforms, and decision hubs.</p>
-<p>Some concentration is useful.
-It can improve standards, reduce duplication, and improve governance consistency.</p>
-<p>But over-concentration creates risks:</p>
-<ul>
-<li class="">delivery bottlenecks</li>
-<li class="">opaque decision pathways</li>
-<li class="">fragile dependence on a few owners</li>
-<li class="">suppressed local innovation</li>
-</ul>
-<p>So the objective is not pure centralisation or pure decentralisation.
-It is controlled distribution.</p>
-<p>That means:</p>
-<ul>
-<li class="">central standards for safety and interoperability</li>
-<li class="">local execution autonomy within guardrails</li>
-<li class="">transparent exception pathways</li>
-<li class="">active feedback from frontline use into central standards</li>
-</ul>
-<p>If centrification concentrates control without feedback, adaptability drops.
-If distribution happens without shared structure, coherence drops.</p>
-<p>The design problem is balancing both.</p>
-<p>In practice, mature AI governance will be defined by this balance.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2014/10/12/the-governance-gap-behind-most-ai-initiatives/">The governance gap behind most AI initiatives</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2015/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/">Contribution, reuse, and the idea of an organisational economy</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Git did for code, KnowledgeFund will do for organisations]]></title>
-        <id>https://governance.foundation/blog/2016/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/</id>
-        <link href="https://governance.foundation/blog/2016/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/"/>
-        <updated>2016-05-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Git made code change legible and coordinated. KnowledgeFund will do the same for organisational knowledge.]]></summary>
-        <content type="html"><![CDATA[<p>Git changed software by making change manageable.</p>
-<p>Teams gained version history, branching, merging, and accountability.
-Not just storage, but disciplined evolution.</p>
-<p>Organisations now face a similar gap with knowledge.</p>
-<p>They have documents and tools, but often lack coherent change control for knowledge itself.
-That produces recurring pain:</p>
-<ul>
-<li class="">conflicting truths</li>
-<li class="">repeated rediscovery</li>
-<li class="">fragile handoffs</li>
-<li class="">hidden rationale</li>
-</ul>
-<p>In low-velocity settings this is annoying.
-In AI-accelerated settings this is dangerous.</p>
-<p>What organisations may need is Git-like discipline for knowledge change:</p>
-<ul>
-<li class="">explicit versioning of key knowledge objects</li>
-<li class="">visible history of edits and rationale</li>
-<li class="">ownership and review pathways</li>
-<li class="">links between knowledge and execution</li>
-<li class="">structured reuse</li>
-</ul>
-<p>This is not about copying Git literally.
-It is about adopting equivalent operational rigor for knowledge.</p>
-<p>If done well, benefits compound:</p>
-<ul>
-<li class="">faster onboarding</li>
-<li class="">cleaner cross-team alignment</li>
-<li class="">better AI context quality</li>
-<li class="">less stale-knowledge rework</li>
-</ul>
-<p>That is likely to become a structural differentiator.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/02/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2015/05/23/organisational-memory-as-competitive-infrastructure/">Organisational memory as competitive infrastructure</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
 </ul>]]></content>
     </entry>
 </feed>
