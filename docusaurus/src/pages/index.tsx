@@ -103,15 +103,16 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title="Governance Foundation"
-      description="Governance, AI-legible organisations, and KnowledgeFund.">
+      description="Foundations for AI-legible organisations.">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <div className={styles.heroInner}>
             <div className={styles.heroCopy}>
+              <img className={styles.heroLogo} src="/assets/branding/governance-foundation-logo.jpg" alt="Governance Foundation logo" />
               <div className={styles.heroEyebrow}>Governance Foundation</div>
-              <h1 className="hero__title">Governance, AI-legible organisations, and KnowledgeFund.</h1>
+              <h1 className="hero__title">Foundations for AI-legible organisations.</h1>
               <p className="hero__subtitle">
-                A living site for governance foundations, organisational structure, KnowledgeFund, and the models that make AI more useful inside real organisations.
+                Governance Foundation explores the structures, knowledge, and governance models that help organisations become legible enough for reliable human and AI execution.
               </p>
               <div className={styles.buttons}>
                 <Link className="button button--primary button--lg" to="/knowledgefund/">

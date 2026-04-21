@@ -27,6 +27,17 @@
   gap: 1rem;
 }
 
+.heroLogo {
+  width: min(170px, 36vw);
+  height: auto;
+  display: block;
+  margin-bottom: 0.5rem;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.98);
+  padding: 0.35rem;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.18);
+}
+
 .heroEyebrow {
   color: rgba(231, 220, 199, 0.8);
   font-size: 0.85rem;

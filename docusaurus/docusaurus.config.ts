@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 
 const config: Config = {
   title: 'Governance Foundation',
-  tagline: 'Governance, AI-legible organisations, and KnowledgeFund.',
-  favicon: 'assets/icons/favicon.ico',
+  tagline: 'Foundations for AI-legible organisations.',
+  favicon: 'assets/icons/favicon-32x32.png',
 
   future: {
     v4: true,
@@ -80,8 +80,8 @@ const config: Config = {
       title: '',
       logo: {
         alt: 'Governance Foundation',
-        src: 'assets/icons/favicon-32x32.png',
-        srcDark: 'assets/icons/favicon-32x32.png',
+        src: 'assets/branding/governance-foundation-logo.jpg',
+        srcDark: 'assets/branding/governance-foundation-logo.jpg',
       },
       items: [
         {to: '/knowledgefund/', label: 'KnowledgeFund', position: 'left'},
