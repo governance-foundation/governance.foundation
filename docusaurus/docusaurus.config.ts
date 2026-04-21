@@ -71,7 +71,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'assets/screenshots/homepage.png',
+    image: 'assets/screenshots/homepage-og.jpg',
     colorMode: {
       defaultMode: 'dark',
       respectPrefersColorScheme: false,
