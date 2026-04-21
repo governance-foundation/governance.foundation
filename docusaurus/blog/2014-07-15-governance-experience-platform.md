@@ -246,5 +246,5 @@ To operationalise it through experiences that help the organisation hold togethe
 ## Related reading
 
 - [Why Frameworks Fail?](/blog/2014/10/02/why-frameworks-fail)
-- [Documentation is not knowledge](/blog/2014/05/12/documentation-is-not-knowledge)
-- [Knowledge Management 4.0](/blog/2021/08/26/knowledge-management)
+- [Documentation is not knowledge](/blog/2015/05/12/documentation-is-not-knowledge)
+- [Knowledge Management 4.0](/blog/2016/02/26/knowledge-management)

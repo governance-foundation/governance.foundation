@@ -1,7 +1,7 @@
 ---
 title: "Why digital transformation keeps disappointing"
-date: 2014-11-18 00:00:00 +1100
-slug: /2014/11/18/why-digital-transformation-keeps-disappointing
+date: 2015-11-18 00:00:00 +1100
+slug: /2015/11/18/why-digital-transformation-keeps-disappointing
 description: "Why so many digital transformations underperform, and why the problem is usually structural rather than purely technical."
 ---
 

@@ -165,6 +165,6 @@ The ones that do not will keep mistaking proximity for knowledge.
 
 ## Related reading
 
-- [Documentation is not knowledge](/blog/2014/05/12/documentation-is-not-knowledge)
-- [Knowledge Management 4.0](/blog/2021/08/26/knowledge-management)
+- [Documentation is not knowledge](/blog/2015/05/12/documentation-is-not-knowledge)
+- [Knowledge Management 4.0](/blog/2016/02/26/knowledge-management)
 - [Generative AI arrived, but organisations were not structurally ready](/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready)

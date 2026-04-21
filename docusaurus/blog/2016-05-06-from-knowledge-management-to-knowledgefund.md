@@ -1,7 +1,7 @@
 ---
 title: "From knowledge management to KnowledgeFund"
-date: 2025-02-06 00:00:00 +1100
-slug: /2025/02/06/from-knowledge-management-to-knowledgefund
+date: 2016-05-06 00:00:00 +1100
+slug: /2016/05/06/from-knowledge-management-to-knowledgefund
 description: "Classic knowledge management focused on capture. KnowledgeFund focuses on connected, living, reusable organisational knowledge."
 ---
 
@@ -39,6 +39,6 @@ That is how knowledge becomes compounding capital.
 
 ## Related reading
 
-- [Knowledge Management 4.0](/blog/2021/08/26/knowledge-management)
-- [Documentation is not knowledge](/blog/2014/05/12/documentation-is-not-knowledge)
-- [What Git did for code, KnowledgeFund will do for organisations](/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations)
+- [Knowledge Management 4.0](/blog/2016/02/26/knowledge-management)
+- [Documentation is not knowledge](/blog/2015/05/12/documentation-is-not-knowledge)
+- [What Git did for code, KnowledgeFund will do for organisations](/blog/2016/08/15/what-git-did-for-code-knowledgefund-will-do-for-organisations)
