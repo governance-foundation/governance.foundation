@@ -1,7 +1,7 @@
 ---
 title: "Why freeform AI use finds value but also amplifies chaos"
-date: 2015-11-14 00:00:00 +1100
-slug: /2015/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos
+date: 2024-11-14 00:00:00 +1100
+slug: /2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos
 description: "Freeform AI use discovers real value quickly, but without shared structure it also increases drift and inconsistency."
 ---
 
@@ -38,6 +38,6 @@ Freeform use should be discovery infrastructure, not final operating model.
 
 ## Related reading
 
-- [AI copilots without organisational context are limited](/blog/2014/03/14/ai-copilots-without-organisational-context-are-limited)
-- [The governance gap behind most AI initiatives](/blog/2014/10/12/the-governance-gap-behind-most-ai-initiatives)
-- [What an AI-legible organisation actually needs](/blog/2015/08/08/what-an-ai-legible-organisation-actually-needs)
+- [AI copilots without organisational context are limited](/blog/2023/03/14/ai-copilots-without-organisational-context-are-limited)
+- [The governance gap behind most AI initiatives](/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives)
+- [What an AI-legible organisation actually needs](/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs)

@@ -1,7 +1,7 @@
 ---
 title: "Organisational memory as competitive infrastructure"
-date: 2015-05-23 00:00:00 +1000
-slug: /2015/05/23/organisational-memory-as-competitive-infrastructure
+date: 2024-05-23 00:00:00 +1000
+slug: /2024/05/23/organisational-memory-as-competitive-infrastructure
 description: "In the AI era, organisational memory is not a side project. It is infrastructure for speed, quality, and adaptation."
 ---
 
@@ -44,4 +44,4 @@ The rest will keep paying rediscovery tax.
 
 - [Hybrid work exposed the real organisational memory problem](/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem)
 - [Documentation is not knowledge](/blog/2022/05/12/documentation-is-not-knowledge)
-- [What an AI-legible organisation actually needs](/blog/2015/08/08/what-an-ai-legible-organisation-actually-needs)
+- [What an AI-legible organisation actually needs](/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs)
