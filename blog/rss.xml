@@ -332,46 +332,6 @@ The other determines whether the execution belongs in a functioning system at al
 <p>Right up until the moment someone asks what actually got better.</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Contribution, reuse, and the idea of an organisational economy]]></title>
-            <link>https://governance.foundation/blog/2025/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/</link>
-            <guid>https://governance.foundation/blog/2025/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/</guid>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[When contribution and reuse are visible and governed, organisations can shift from isolated effort to compounding value.]]></description>
-            <content:encoded><![CDATA[<p>Most organisations generate useful contribution constantly.
-Patterns, fixes, decisions, and insights are created every day.</p>
-<p>But much of that value stays local.
-Other teams repeat similar work because reuse pathways are weak.</p>
-<p>That is an internal economic problem.
-Effort is spent, value is created, but value flow is poor.</p>
-<p>An organisational economy perspective asks:</p>
-<ul>
-<li class="">how contribution is recognised</li>
-<li class="">how reuse is enabled</li>
-<li class="">how value flows across teams</li>
-</ul>
-<p>If contribution is invisible, reuse is accidental.
-If reuse is hard, the organisation keeps paying full price for partial novelty.</p>
-<p>To improve this, organisations need:</p>
-<ul>
-<li class="">contribution visibility</li>
-<li class="">quality signals for reusable assets</li>
-<li class="">traceable reuse events</li>
-<li class="">feedback loops to contributors</li>
-<li class="">governance that rewards compounding value</li>
-</ul>
-<p>In AI-era work this matters even more.
-AI can increase output volume quickly.
-Without reuse economics, that becomes noise.
-With reuse economics, that becomes momentum.</p>
-<p>This is how organisations move from local productivity to institutional compounding.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2025/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/">Organisational AI centrification, what it means and what it risks</a></li>
-</ul>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Organisational AI centrification, what it means and what it risks]]></title>
             <link>https://governance.foundation/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/</link>
             <guid>https://governance.foundation/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/</guid>
@@ -404,89 +364,7 @@ If distribution happens without shared structure, coherence drops.</p>
 <ul>
 <li class=""><a class="" href="https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/">The governance gap behind most AI initiatives</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2025/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/">Contribution, reuse, and the idea of an organisational economy</a></li>
-</ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What Git did for code, KnowledgeFund will do for organisations]]></title>
-            <link>https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/</link>
-            <guid>https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/</guid>
-            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Git made code change legible and coordinated. KnowledgeFund will do the same for organisational knowledge.]]></description>
-            <content:encoded><![CDATA[<p>Git changed software by making change manageable.</p>
-<p>Teams gained version history, branching, merging, and accountability.
-Not just storage, but disciplined evolution.</p>
-<p>Organisations now face a similar gap with knowledge.</p>
-<p>They have documents and tools, but often lack coherent change control for knowledge itself.
-That produces recurring pain:</p>
-<ul>
-<li class="">conflicting truths</li>
-<li class="">repeated rediscovery</li>
-<li class="">fragile handoffs</li>
-<li class="">hidden rationale</li>
-</ul>
-<p>In low-velocity settings this is annoying.
-In AI-accelerated settings this is dangerous.</p>
-<p>What organisations may need is Git-like discipline for knowledge change:</p>
-<ul>
-<li class="">explicit versioning of key knowledge objects</li>
-<li class="">visible history of edits and rationale</li>
-<li class="">ownership and review pathways</li>
-<li class="">links between knowledge and execution</li>
-<li class="">structured reuse</li>
-</ul>
-<p>This is not about copying Git literally.
-It is about adopting equivalent operational rigor for knowledge.</p>
-<p>If done well, benefits compound:</p>
-<ul>
-<li class="">faster onboarding</li>
-<li class="">cleaner cross-team alignment</li>
-<li class="">better AI context quality</li>
-<li class="">less stale-knowledge rework</li>
-</ul>
-<p>That is likely to become a structural differentiator.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2024/05/23/organisational-memory-as-competitive-infrastructure/">Organisational memory as competitive infrastructure</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
-</ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[From knowledge management to KnowledgeFund]]></title>
-            <link>https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/</link>
-            <guid>https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/</guid>
-            <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Classic knowledge management focused on capture. KnowledgeFund focuses on connected, living, reusable organisational knowledge.]]></description>
-            <content:encoded><![CDATA[<p>Classic knowledge management solved an important problem: capture.</p>
-<p>It gave organisations repositories and control.
-But in fast AI-era operations, capture alone is not enough.</p>
-<p>The harder problem is conversion.
-How does scattered information become usable, connected, and reusable organisational intelligence?</p>
-<p>That transition is from knowledge management to KnowledgeFund.</p>
-<p>KnowledgeFund is not just another storage layer.
-It is an operating model:</p>
-<ul>
-<li class="">from static documents to living knowledge objects</li>
-<li class="">from isolated records to connected context</li>
-<li class="">from periodic updates to continuous refinement</li>
-<li class="">from person-bound memory to system memory</li>
-</ul>
-<p>This shifts governance too.
-The question is no longer only, "is it documented?"
-It is, "is it legible, current, and reusable under change?"</p>
-<p>AI raises the stakes.
-Without coherent knowledge structure, AI scales ambiguity.
-With coherent structure, AI scales capability.</p>
-<p>The transition starts practically.
-Pick high-friction knowledge zones, connect them to work and decisions, and build reuse pathways.
-Then expand.</p>
-<p>That is how knowledge becomes compounding capital.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2014/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/">Contribution, reuse, and the idea of an organisational economy</a></li>
 </ul>]]></content:encoded>
         </item>
         <item>
@@ -595,7 +473,7 @@ The rest will keep paying rediscovery tax.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2024/05/23/organisational-memory-as-competitive-infrastructure/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
 <ul>
 <li class=""><a class="" href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/">Hybrid work exposed the real organisational memory problem</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2014/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2015/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
 </ul>]]></content:encoded>
         </item>
@@ -791,7 +669,7 @@ The organisation cannot absorb it all at once.</p>
 <p>But it is the one that matters.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
 <ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2014/11/18/why-digital-transformation-keeps-disappointing/">Why digital transformation keeps disappointing</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2015/11/18/why-digital-transformation-keeps-disappointing/">Why digital transformation keeps disappointing</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2026/04/13/now-its-your-turn-what-have-you-done-differently-with-ai/">Now it's your turn: what have you changed for AI?</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2026/04/15/are-you-rolling-out-ai-with-the-same-old-playbook/">Same old AI playbook, same old results</a></li>
 </ul>]]></content:encoded>
@@ -1029,16 +907,138 @@ It is stronger organisational memory.</p>
 The ones that do not will keep mistaking proximity for knowledge.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
 <ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2014/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2015/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2016/02/26/knowledge-management/">Knowledge Management 4.0</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/">Generative AI arrived, but organisations were not structurally ready</a></li>
 </ul>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Contribution, reuse, and the idea of an organisational economy]]></title>
+            <link>https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/</link>
+            <guid>https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/</guid>
+            <pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[When contribution and reuse are visible and governed, organisations can shift from isolated effort to compounding value.]]></description>
+            <content:encoded><![CDATA[<p>Most organisations generate useful contribution constantly.
+Patterns, fixes, decisions, and insights are created every day.</p>
+<p>But much of that value stays local.
+Other teams repeat similar work because reuse pathways are weak.</p>
+<p>That is an internal economic problem.
+Effort is spent, value is created, but value flow is poor.</p>
+<p>An organisational economy perspective asks:</p>
+<ul>
+<li class="">how contribution is recognised</li>
+<li class="">how reuse is enabled</li>
+<li class="">how value flows across teams</li>
+</ul>
+<p>If contribution is invisible, reuse is accidental.
+If reuse is hard, the organisation keeps paying full price for partial novelty.</p>
+<p>To improve this, organisations need:</p>
+<ul>
+<li class="">contribution visibility</li>
+<li class="">quality signals for reusable assets</li>
+<li class="">traceable reuse events</li>
+<li class="">feedback loops to contributors</li>
+<li class="">governance that rewards compounding value</li>
+</ul>
+<p>In AI-era work this matters even more.
+AI can increase output volume quickly.
+Without reuse economics, that becomes noise.
+With reuse economics, that becomes momentum.</p>
+<p>This is how organisations move from local productivity to institutional compounding.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2016/05/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2016/08/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/">Organisational AI centrification, what it means and what it risks</a></li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[What Git did for code, KnowledgeFund will do for organisations]]></title>
+            <link>https://governance.foundation/blog/2016/08/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/</link>
+            <guid>https://governance.foundation/blog/2016/08/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/</guid>
+            <pubDate>Mon, 15 Aug 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[Git made code change legible and coordinated. KnowledgeFund will do the same for organisational knowledge.]]></description>
+            <content:encoded><![CDATA[<p>Git changed software by making change manageable.</p>
+<p>Teams gained version history, branching, merging, and accountability.
+Not just storage, but disciplined evolution.</p>
+<p>Organisations now face a similar gap with knowledge.</p>
+<p>They have documents and tools, but often lack coherent change control for knowledge itself.
+That produces recurring pain:</p>
+<ul>
+<li class="">conflicting truths</li>
+<li class="">repeated rediscovery</li>
+<li class="">fragile handoffs</li>
+<li class="">hidden rationale</li>
+</ul>
+<p>In low-velocity settings this is annoying.
+In AI-accelerated settings this is dangerous.</p>
+<p>What organisations may need is Git-like discipline for knowledge change:</p>
+<ul>
+<li class="">explicit versioning of key knowledge objects</li>
+<li class="">visible history of edits and rationale</li>
+<li class="">ownership and review pathways</li>
+<li class="">links between knowledge and execution</li>
+<li class="">structured reuse</li>
+</ul>
+<p>This is not about copying Git literally.
+It is about adopting equivalent operational rigor for knowledge.</p>
+<p>If done well, benefits compound:</p>
+<ul>
+<li class="">faster onboarding</li>
+<li class="">cleaner cross-team alignment</li>
+<li class="">better AI context quality</li>
+<li class="">less stale-knowledge rework</li>
+</ul>
+<p>That is likely to become a structural differentiator.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/08/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2016/05/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/05/23/organisational-memory-as-competitive-infrastructure/">Organisational memory as competitive infrastructure</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[From knowledge management to KnowledgeFund]]></title>
+            <link>https://governance.foundation/blog/2016/05/06/from-knowledge-management-to-knowledgefund/</link>
+            <guid>https://governance.foundation/blog/2016/05/06/from-knowledge-management-to-knowledgefund/</guid>
+            <pubDate>Fri, 06 May 2016 00:00:00 GMT</pubDate>
+            <description><![CDATA[Classic knowledge management focused on capture. KnowledgeFund focuses on connected, living, reusable organisational knowledge.]]></description>
+            <content:encoded><![CDATA[<p>Classic knowledge management solved an important problem: capture.</p>
+<p>It gave organisations repositories and control.
+But in fast AI-era operations, capture alone is not enough.</p>
+<p>The harder problem is conversion.
+How does scattered information become usable, connected, and reusable organisational intelligence?</p>
+<p>That transition is from knowledge management to KnowledgeFund.</p>
+<p>KnowledgeFund is not just another storage layer.
+It is an operating model:</p>
+<ul>
+<li class="">from static documents to living knowledge objects</li>
+<li class="">from isolated records to connected context</li>
+<li class="">from periodic updates to continuous refinement</li>
+<li class="">from person-bound memory to system memory</li>
+</ul>
+<p>This shifts governance too.
+The question is no longer only, "is it documented?"
+It is, "is it legible, current, and reusable under change?"</p>
+<p>AI raises the stakes.
+Without coherent knowledge structure, AI scales ambiguity.
+With coherent structure, AI scales capability.</p>
+<p>The transition starts practically.
+Pick high-friction knowledge zones, connect them to work and decisions, and build reuse pathways.
+Then expand.</p>
+<p>That is how knowledge becomes compounding capital.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/05/06/from-knowledge-management-to-knowledgefund/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2016/02/26/knowledge-management/">Knowledge Management 4.0</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2015/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2016/08/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Knowledge Management 4.0]]></title>
-            <link>https://governance.foundation/blog/2021/08/26/knowledge-management/</link>
-            <guid>https://governance.foundation/blog/2021/08/26/knowledge-management/</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <link>https://governance.foundation/blog/2016/02/26/knowledge-management/</link>
+            <guid>https://governance.foundation/blog/2016/02/26/knowledge-management/</guid>
+            <pubDate>Fri, 26 Feb 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[Why traditional knowledge management breaks down, and why organisations need a more living, connected, AI-legible approach to knowledge.]]></description>
             <content:encoded><![CDATA[<p>Knowledge management has been trying to solve a real problem for a long time.</p>
 <p>Organisations forget.
@@ -1048,7 +1048,7 @@ They trap critical knowledge in roles, teams, documents, and people.
 They create records without creating understanding.</p>
 <p>So the instinct behind knowledge management was never wrong.</p>
 <p>The problem is that most knowledge management approaches captured only a thin and fragile version of what organisations actually know.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="traditional-knowledge-management-was-mostly-about-capture">Traditional knowledge management was mostly about capture<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#traditional-knowledge-management-was-mostly-about-capture" class="hash-link" aria-label="Direct link to Traditional knowledge management was mostly about capture" title="Direct link to Traditional knowledge management was mostly about capture" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="traditional-knowledge-management-was-mostly-about-capture">Traditional knowledge management was mostly about capture<a href="https://governance.foundation/blog/2016/02/26/knowledge-management/#traditional-knowledge-management-was-mostly-about-capture" class="hash-link" aria-label="Direct link to Traditional knowledge management was mostly about capture" title="Direct link to Traditional knowledge management was mostly about capture" translate="no">​</a></h2>
 <p>In practice, knowledge management usually became a mix of:</p>
 <ul>
 <li class="">document repositories</li>
@@ -1068,7 +1068,7 @@ They create records without creating understanding.</p>
 But capture is not the same as coherence.
 Storage is not the same as shared understanding.
 And documentation is not the same as living organisational knowledge.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-problem-was-always-fragmentation">The real problem was always fragmentation<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#the-real-problem-was-always-fragmentation" class="hash-link" aria-label="Direct link to The real problem was always fragmentation" title="Direct link to The real problem was always fragmentation" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-problem-was-always-fragmentation">The real problem was always fragmentation<a href="https://governance.foundation/blog/2016/02/26/knowledge-management/#the-real-problem-was-always-fragmentation" class="hash-link" aria-label="Direct link to The real problem was always fragmentation" title="Direct link to The real problem was always fragmentation" translate="no">​</a></h2>
 <p>Most organisations do not lack information.
 They lack connectedness.</p>
 <p>Knowledge gets spread across:</p>
@@ -1090,7 +1090,7 @@ A third knows why it keeps failing.
 A fourth has already built a workaround.
 And none of that is held together cleanly.</p>
 <p>This is why so many organisations end up document-rich but knowledge-poor.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="translation-heavy-systems-do-not-scale-well">Translation-heavy systems do not scale well<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#translation-heavy-systems-do-not-scale-well" class="hash-link" aria-label="Direct link to Translation-heavy systems do not scale well" title="Direct link to Translation-heavy systems do not scale well" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="translation-heavy-systems-do-not-scale-well">Translation-heavy systems do not scale well<a href="https://governance.foundation/blog/2016/02/26/knowledge-management/#translation-heavy-systems-do-not-scale-well" class="hash-link" aria-label="Direct link to Translation-heavy systems do not scale well" title="Direct link to Translation-heavy systems do not scale well" translate="no">​</a></h2>
 <p>A lot of classic knowledge management depended on translation.</p>
 <p>Someone had to gather context from one place, interpret it, reshape it, and publish it in a form someone else could use.
 That might be an architect, analyst, manager, process owner, or subject matter expert.</p>
@@ -1111,7 +1111,7 @@ As complexity rises, the translation load rises faster.</p>
 By the time knowledge is translated, approved, and published, reality has often moved on.</p>
 <p>Third, it becomes political.
 When too much knowledge depends on a few intermediaries, those intermediaries become bottlenecks, filters, and points of control.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-lot-of-the-important-knowledge-never-gets-captured-properly">A lot of the important knowledge never gets captured properly<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#a-lot-of-the-important-knowledge-never-gets-captured-properly" class="hash-link" aria-label="Direct link to A lot of the important knowledge never gets captured properly" title="Direct link to A lot of the important knowledge never gets captured properly" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-lot-of-the-important-knowledge-never-gets-captured-properly">A lot of the important knowledge never gets captured properly<a href="https://governance.foundation/blog/2016/02/26/knowledge-management/#a-lot-of-the-important-knowledge-never-gets-captured-properly" class="hash-link" aria-label="Direct link to A lot of the important knowledge never gets captured properly" title="Direct link to A lot of the important knowledge never gets captured properly" translate="no">​</a></h2>
 <p>Traditional knowledge systems also tend to favour the formal and visible layer.</p>
 <p>They capture things like:</p>
 <ul>
@@ -1133,7 +1133,7 @@ When too much knowledge depends on a few intermediaries, those intermediaries be
 <p>That is often the knowledge that makes the difference between smooth execution and expensive confusion.</p>
 <p>When it is not captured, the organisation keeps relying on human memory to bridge the gap.
 That makes continuity fragile and makes people harder to replace in knowledge terms.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-matters-more-now">Why this matters more now<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#why-this-matters-more-now" class="hash-link" aria-label="Direct link to Why this matters more now" title="Direct link to Why this matters more now" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-matters-more-now">Why this matters more now<a href="https://governance.foundation/blog/2016/02/26/knowledge-management/#why-this-matters-more-now" class="hash-link" aria-label="Direct link to Why this matters more now" title="Direct link to Why this matters more now" translate="no">​</a></h2>
 <p>These weaknesses were already expensive before AI.</p>
 <p>AI just makes them harder to ignore.</p>
 <p>If organisational knowledge is fragmented, stale, contradictory, or trapped in people’s heads, AI will not magically fix it.
@@ -1143,7 +1143,7 @@ It may scale ambiguity faster.
 It may make incoherence more productive.</p>
 <p>That means the question is no longer just whether an organisation has knowledge assets.</p>
 <p>The question is whether the organisation has a knowledge system that is legible enough for both people and AI to work with.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="knowledge-management-40-should-be-about-formation-not-just-storage">Knowledge Management 4.0 should be about formation, not just storage<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#knowledge-management-40-should-be-about-formation-not-just-storage" class="hash-link" aria-label="Direct link to Knowledge Management 4.0 should be about formation, not just storage" title="Direct link to Knowledge Management 4.0 should be about formation, not just storage" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="knowledge-management-40-should-be-about-formation-not-just-storage">Knowledge Management 4.0 should be about formation, not just storage<a href="https://governance.foundation/blog/2016/02/26/knowledge-management/#knowledge-management-40-should-be-about-formation-not-just-storage" class="hash-link" aria-label="Direct link to Knowledge Management 4.0 should be about formation, not just storage" title="Direct link to Knowledge Management 4.0 should be about formation, not just storage" translate="no">​</a></h2>
 <p>The next stage of knowledge management should not just be a better library.</p>
 <p>It should be a better organisational memory system.</p>
 <p>That means shifting the goal from storing content to forming shared knowledge.</p>
@@ -1159,7 +1159,7 @@ It may make incoherence more productive.</p>
 </ul>
 <p>In other words, the aim is not just accumulation.
 It is intelligibility.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-is-where-ai-changes-the-economics">This is where AI changes the economics<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#this-is-where-ai-changes-the-economics" class="hash-link" aria-label="Direct link to This is where AI changes the economics" title="Direct link to This is where AI changes the economics" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-is-where-ai-changes-the-economics">This is where AI changes the economics<a href="https://governance.foundation/blog/2016/02/26/knowledge-management/#this-is-where-ai-changes-the-economics" class="hash-link" aria-label="Direct link to This is where AI changes the economics" title="Direct link to This is where AI changes the economics" translate="no">​</a></h2>
 <p>Older knowledge management approaches struggled partly because the interpretation work was expensive.</p>
 <p>Humans had to do most of the sorting, summarising, connecting, classifying, and cross-referencing by hand.
 So organisations cut corners.
@@ -1180,7 +1180,7 @@ They tolerated drift.</p>
 </ul>
 <p>That does not remove the need for human judgment.
 But it does remove some of the old excuses.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="from-knowledge-management-to-knowledgefund">From knowledge management to KnowledgeFund<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#from-knowledge-management-to-knowledgefund" class="hash-link" aria-label="Direct link to From knowledge management to KnowledgeFund" title="Direct link to From knowledge management to KnowledgeFund" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="from-knowledge-management-to-knowledgefund">From knowledge management to KnowledgeFund<a href="https://governance.foundation/blog/2016/02/26/knowledge-management/#from-knowledge-management-to-knowledgefund" class="hash-link" aria-label="Direct link to From knowledge management to KnowledgeFund" title="Direct link to From knowledge management to KnowledgeFund" translate="no">​</a></h2>
 <p>This is why I think the next step has to move beyond classic knowledge management.</p>
 <p>Knowledge management mostly treated knowledge as something to capture and administer.</p>
 <p>KnowledgeFund should treat organisational knowledge as something to actively structure, connect, trace, and grow.</p>
@@ -1197,7 +1197,7 @@ But it does remove some of the old excuses.</p>
 <p>It is closer to building an organisational knowledge system than maintaining a document estate.
 It is closer to organisational memory than document management.
 It is closer to a living knowledge economy than a static archive.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-point-is-not-more-content">The point is not more content<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#the-point-is-not-more-content" class="hash-link" aria-label="Direct link to The point is not more content" title="Direct link to The point is not more content" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-point-is-not-more-content">The point is not more content<a href="https://governance.foundation/blog/2016/02/26/knowledge-management/#the-point-is-not-more-content" class="hash-link" aria-label="Direct link to The point is not more content" title="Direct link to The point is not more content" translate="no">​</a></h2>
 <p>A mature knowledge approach is not about producing more pages.</p>
 <p>It is about making the organisation more able to know what it knows, learn what it does not, and act with clearer shared context.</p>
 <p>That is the real promise behind a better knowledge model.</p>
@@ -1206,9 +1206,9 @@ Better coherence.
 Better continuity.
 Better organisational learning.</p>
 <p>That is the direction Knowledge Management 4.0 should point toward.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/02/26/knowledge-management/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
 <ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2014/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2015/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2014/07/15/governance-experience-platform/">Governance Experience Platform</a></li>
 </ul>]]></content:encoded>
