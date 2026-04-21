@@ -183,4 +183,86 @@ Something with:
 
 ### Typography feel
 
-This section is intentionally left open for refinement as the visual system matures.
+- headings: confident and clear
+- body: calm and readable
+- avoid fonts that feel too futuristic or too institutional
+
+A good pairing would be:
+
+- a modern sans for everything, or
+- a subtle serif only as an accent if you want more editorial depth
+
+## Imagery direction
+
+Use imagery that feels:
+
+- architectural
+- structural
+- thoughtful
+- minimal
+- conceptual
+- grounded in real organisations and systems
+
+Good visual themes:
+
+- roots, branching, connected structure
+- diagrams, layers, networks
+- calm editorial compositions
+- knowledge architecture
+- organisational systems made visible
+
+Avoid:
+
+- cliché office stock photography
+- glowing AI brains
+- random handshake/business images
+- overly abstract gradients with no meaning
+
+## Messaging direction
+
+### Key messaging themes
+
+1. Governance as enablement  
+   Good governance enables growth rather than limiting it.
+
+2. Structure creates legibility  
+   Organisations become more coherent when their structure is understandable.
+
+3. Foundations matter  
+   Sustainable progress comes from grounded practices.
+
+4. AI needs legible organisations  
+   AI works best where knowledge, structure, and responsibility are visible.
+
+5. Growth in many directions  
+   Strong foundations allow different organisational forms and futures.
+
+## Short brand statement
+
+Governance Foundation explores the structures, models, and grounded practices that help organisations become coherent, governable, and AI-legible.
+
+## Homepage / bio style lines
+
+### Short version
+
+Governance Foundation explores how grounded governance, knowledge structures, and organisational models create AI-legible organisations.
+
+### Slightly broader version
+
+Governance Foundation is a space for exploring the foundations of governance: the models, structures, and practices that help organisations grow with clarity, coherence, and adaptability.
+
+## Direction summary
+
+If you want the simplest articulation of the brand:
+
+**Governance Foundation**  
+**Foundations for AI-legible organisations**
+
+**Direction:**  
+A calm, intelligent, grounded brand built around the idea that strong foundations enable healthy, legible organisational growth.
+
+**Tone:**  
+Clear, thoughtful, modern, and quietly authoritative.
+
+**Visual world:**  
+Structured growth, grounded forms, branching systems, warm restraint.
