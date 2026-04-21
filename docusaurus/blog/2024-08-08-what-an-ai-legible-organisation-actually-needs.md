@@ -1,7 +1,7 @@
 ---
 title: "What an AI-legible organisation actually needs"
-date: 2015-08-08 00:00:00 +1000
-slug: /2015/08/08/what-an-ai-legible-organisation-actually-needs
+date: 2024-08-08 00:00:00 +1000
+slug: /2024/08/08/what-an-ai-legible-organisation-actually-needs
 description: "AI-legibility means context, ownership, and decisions are structured clearly enough for reliable human and AI execution."
 ---
 
@@ -32,6 +32,6 @@ When legibility improves, AI shifts from novelty to dependable organisational ca
 
 ## Related reading
 
-- [Organisational memory as competitive infrastructure](/blog/2015/05/23/organisational-memory-as-competitive-infrastructure)
-- [Why freeform AI use finds value but also amplifies chaos](/blog/2015/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos)
+- [Organisational memory as competitive infrastructure](/blog/2024/05/23/organisational-memory-as-competitive-infrastructure)
+- [Why freeform AI use finds value but also amplifies chaos](/blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos)
 - [Beyond harness engineering, why AI success is a governance problem](/blog/2026/04/16/beyond-harness-engineering-why-ai-success-is-a-governance-problem)

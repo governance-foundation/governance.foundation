@@ -1,7 +1,7 @@
 ---
 title: "Contribution, reuse, and the idea of an organisational economy"
-date: 2016-11-13 00:00:00 +1100
-slug: /2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy
+date: 2025-11-13 00:00:00 +1100
+slug: /2025/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy
 description: "When contribution and reuse are visible and governed, organisations can shift from isolated effort to compounding value."
 ---
 
@@ -40,6 +40,6 @@ This is how organisations move from local productivity to institutional compound
 
 ## Related reading
 
-- [From knowledge management to KnowledgeFund](/blog/2016/02/06/from-knowledge-management-to-knowledgefund)
-- [What Git did for code, KnowledgeFund will do for organisations](/blog/2016/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations)
-- [Organisational AI centrification, what it means and what it risks](/blog/2016/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks)
+- [From knowledge management to KnowledgeFund](/blog/2025/02/06/from-knowledge-management-to-knowledgefund)
+- [What Git did for code, KnowledgeFund will do for organisations](/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations)
+- [Organisational AI centrification, what it means and what it risks](/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks)
