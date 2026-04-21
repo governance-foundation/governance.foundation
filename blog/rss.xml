@@ -332,6 +332,166 @@ The other determines whether the execution belongs in a functioning system at al
 <p>Right up until the moment someone asks what actually got better.</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Generative AI arrived, but organisations were not structurally ready]]></title>
+            <link>https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/</link>
+            <guid>https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Generative AI moved faster than most organisations' ability to absorb it. The problem was not model access alone, but structural unreadiness.]]></description>
+            <content:encoded><![CDATA[<p>Generative AI arrived fast.</p>
+<p>Faster than most planning cycles.
+Faster than most governance updates.
+Faster than most capability-building programs.
+Faster than most organisations' ability to decide what the technology actually meant for work.</p>
+<p>That speed made the moment feel unusual.</p>
+<p>But the deeper problem was not just the speed of the tools.
+It was the unreadiness of the organisations trying to adopt them.</p>
+<p>Many organisations were not structurally ready.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-tools-arrived-before-the-organisation-had-an-answer">The tools arrived before the organisation had an answer<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#the-tools-arrived-before-the-organisation-had-an-answer" class="hash-link" aria-label="Direct link to The tools arrived before the organisation had an answer" title="Direct link to The tools arrived before the organisation had an answer" translate="no">​</a></h2>
+<p>When generative AI broke into mainstream organisational attention, many leaders did what leaders usually do when a major new technology appears.</p>
+<p>They asked:</p>
+<ul>
+<li class="">Which tools should we use?</li>
+<li class="">What is the policy?</li>
+<li class="">Where are the risks?</li>
+<li class="">What are competitors doing?</li>
+<li class="">Which pilots should we run?</li>
+<li class="">How quickly can we show movement?</li>
+</ul>
+<p>Those are understandable questions.</p>
+<p>But they are not enough.</p>
+<p>They mostly assume that the organisation already knows how to absorb the technology once the right selection, policy, and rollout approach are chosen.</p>
+<p>In many cases, that was exactly what was missing.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="generative-ai-did-not-enter-a-clean-system">Generative AI did not enter a clean system<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#generative-ai-did-not-enter-a-clean-system" class="hash-link" aria-label="Direct link to Generative AI did not enter a clean system" title="Direct link to Generative AI did not enter a clean system" translate="no">​</a></h2>
+<p>It entered organisations that were already fragmented.</p>
+<p>Knowledge was already trapped.
+Context was already uneven.
+Governance was already often reactive.
+Workflows were already partially opaque.
+Decision rights were already unclear in places.
+Transformation fatigue was already present.</p>
+<p>In other words, generative AI did not arrive in a well-aligned operating environment.
+It arrived inside organisations that were already carrying unresolved structural problems.</p>
+<p>That matters, because the value of generative AI depends heavily on the coherence of the system around it.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="access-is-not-the-same-as-absorption">Access is not the same as absorption<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#access-is-not-the-same-as-absorption" class="hash-link" aria-label="Direct link to Access is not the same as absorption" title="Direct link to Access is not the same as absorption" translate="no">​</a></h2>
+<p>A lot of early AI adoption was framed as access.</p>
+<p>Who has a licence?
+Who can use which model?
+What prompt guidance should be issued?
+What use cases are allowed?</p>
+<p>Again, those are necessary questions.
+But access is not the same as absorption.</p>
+<p>An organisation absorbs a capability only when it can actually integrate that capability into:</p>
+<ul>
+<li class="">work design</li>
+<li class="">decision-making</li>
+<li class="">responsibility boundaries</li>
+<li class="">knowledge flow</li>
+<li class="">quality expectations</li>
+<li class="">feedback loops</li>
+<li class="">governance at the point of work</li>
+</ul>
+<p>Without that, AI tends to remain one of three things:</p>
+<ul>
+<li class="">an isolated productivity trick</li>
+<li class="">a local experimentation layer</li>
+<li class="">a symbolic innovation signal</li>
+</ul>
+<p>Useful sometimes, but not yet structural.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-unreadiness-was-organisational-not-just-technical">The unreadiness was organisational, not just technical<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#the-unreadiness-was-organisational-not-just-technical" class="hash-link" aria-label="Direct link to The unreadiness was organisational, not just technical" title="Direct link to The unreadiness was organisational, not just technical" translate="no">​</a></h2>
+<p>A lot of commentary treated the early AI challenge as if the main issue were technical maturity.</p>
+<p>Model quality.
+Security.
+Accuracy.
+Vendor choice.
+Integration pathways.</p>
+<p>Those mattered.
+They still matter.</p>
+<p>But even if the tools had been better, many organisations would still have struggled.</p>
+<p>Because the deeper unreadiness was organisational.</p>
+<p>For example:</p>
+<ul>
+<li class="">many organisations did not know where their critical knowledge actually lived</li>
+<li class="">many could not clearly trace how work moved across teams</li>
+<li class="">many still depended on tacit operator knowledge more than shared systems</li>
+<li class="">many had weak mechanisms for translating learning into updated operating practice</li>
+<li class="">many had governance that supervised risk after the fact rather than shaping work as it changed</li>
+</ul>
+<p>Generative AI exposed those weaknesses quickly.
+It did not create all of them.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-the-moment-felt-both-exciting-and-chaotic">Why the moment felt both exciting and chaotic<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#why-the-moment-felt-both-exciting-and-chaotic" class="hash-link" aria-label="Direct link to Why the moment felt both exciting and chaotic" title="Direct link to Why the moment felt both exciting and chaotic" translate="no">​</a></h2>
+<p>This is why the early generative-AI wave felt so contradictory.</p>
+<p>People could see real value.
+Tasks sped up.
+Drafting improved.
+Exploration became cheaper.
+Individuals found leverage.
+New possibilities appeared almost immediately.</p>
+<p>At the same time, organisations felt uncertain, noisy, and uneven.</p>
+<p>Different teams moved at different speeds.
+Policies lagged reality.
+Leaders wanted benefits without redesign.
+Some people experimented heavily while others were told to wait.
+Risk conversations often focused on containment more than capability formation.</p>
+<p>So the experience became a mix of genuine discovery and structural confusion.</p>
+<p>That was not an accident.
+It was the natural result of introducing a highly general-purpose capability into organisations that were not yet legible enough to absorb it well.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ai-exposes-the-difference-between-having-tools-and-having-organisational-capability">AI exposes the difference between having tools and having organisational capability<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#ai-exposes-the-difference-between-having-tools-and-having-organisational-capability" class="hash-link" aria-label="Direct link to AI exposes the difference between having tools and having organisational capability" title="Direct link to AI exposes the difference between having tools and having organisational capability" translate="no">​</a></h2>
+<p>This is the real distinction.</p>
+<p>A company can buy tools quickly.
+It can issue guidance quickly.
+It can launch pilots quickly.
+It can announce strategy quickly.</p>
+<p>But organisational capability develops more slowly.</p>
+<p>It depends on things like:</p>
+<ul>
+<li class="">shared context</li>
+<li class="">practice at the point of work</li>
+<li class="">institutional learning</li>
+<li class="">visible patterns of contribution and reuse</li>
+<li class="">management adaptation</li>
+<li class="">clearer responsibility boundaries</li>
+<li class="">stronger knowledge systems</li>
+</ul>
+<p>That is why AI adoption should not be confused with AI capability.</p>
+<p>One is about presence.
+The other is about organisational change.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="structural-readiness-is-now-a-competitive-issue">Structural readiness is now a competitive issue<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#structural-readiness-is-now-a-competitive-issue" class="hash-link" aria-label="Direct link to Structural readiness is now a competitive issue" title="Direct link to Structural readiness is now a competitive issue" translate="no">​</a></h2>
+<p>The organisations that benefit most from AI will probably not just be the ones with the earliest access.</p>
+<p>They will be the ones that become more structurally ready.</p>
+<p>That means organisations that can:</p>
+<ul>
+<li class="">make their knowledge more legible</li>
+<li class="">connect work to context more clearly</li>
+<li class="">reduce dependence on hidden memory</li>
+<li class="">support experimentation without dissolving coherence</li>
+<li class="">update governance as work changes</li>
+<li class="">turn local learning into shared capability</li>
+</ul>
+<p>Those things are not side issues.
+They are the real adoption substrate.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-lesson-was-never-just-move-faster">The lesson was never just "move faster"<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#the-lesson-was-never-just-move-faster" class="hash-link" aria-label="Direct link to The lesson was never just &quot;move faster&quot;" title="Direct link to The lesson was never just &quot;move faster&quot;" translate="no">​</a></h2>
+<p>If there is one thing the early generative-AI moment should have made obvious, it is this:</p>
+<p>speed of technological arrival and speed of organisational adaptation are not the same thing.</p>
+<p>The technology can arrive all at once.
+The organisation cannot absorb it all at once.</p>
+<p>That means the real strategic question is not just:</p>
+<blockquote>
+<p>How fast can we adopt AI?</p>
+</blockquote>
+<p>It is:</p>
+<blockquote>
+<p>How ready is our organisation to absorb what AI changes?</p>
+</blockquote>
+<p>That is a much harder question.</p>
+<p>But it is the one that matters.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/">Why digital transformation keeps disappointing</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/13/now-its-your-turn-what-have-you-done-differently-with-ai/">Now it's your turn: what have you changed for AI?</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/15/are-you-rolling-out-ai-with-the-same-old-playbook/">Same old AI playbook, same old results</a></li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[The hidden cost of local optimisation between teams]]></title>
             <link>https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/</link>
             <guid>https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/</guid>
@@ -905,7 +1065,7 @@ The ones that do not will keep mistaking proximity for knowledge.</p>
 <ul>
 <li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2014/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/">Generative AI arrived, but organisations were not structurally ready</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/">Generative AI arrived, but organisations were not structurally ready</a></li>
 </ul>]]></content:encoded>
         </item>
         <item>
@@ -1878,43 +2038,6 @@ It is about adopting equivalent operational rigor for knowledge.</p>
 <li class=""><a class="" href="https://governance.foundation/blog/2016/02/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2015/05/23/organisational-memory-as-competitive-infrastructure/">Organisational memory as competitive infrastructure</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
-</ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[From knowledge management to KnowledgeFund]]></title>
-            <link>https://governance.foundation/blog/2016/02/06/from-knowledge-management-to-knowledgefund/</link>
-            <guid>https://governance.foundation/blog/2016/02/06/from-knowledge-management-to-knowledgefund/</guid>
-            <pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[Classic knowledge management focused on capture. KnowledgeFund focuses on connected, living, reusable organisational knowledge.]]></description>
-            <content:encoded><![CDATA[<p>Classic knowledge management solved an important problem: capture.</p>
-<p>It gave organisations repositories and control.
-But in fast AI-era operations, capture alone is not enough.</p>
-<p>The harder problem is conversion.
-How does scattered information become usable, connected, and reusable organisational intelligence?</p>
-<p>That transition is from knowledge management to KnowledgeFund.</p>
-<p>KnowledgeFund is not just another storage layer.
-It is an operating model:</p>
-<ul>
-<li class="">from static documents to living knowledge objects</li>
-<li class="">from isolated records to connected context</li>
-<li class="">from periodic updates to continuous refinement</li>
-<li class="">from person-bound memory to system memory</li>
-</ul>
-<p>This shifts governance too.
-The question is no longer only, "is it documented?"
-It is, "is it legible, current, and reusable under change?"</p>
-<p>AI raises the stakes.
-Without coherent knowledge structure, AI scales ambiguity.
-With coherent structure, AI scales capability.</p>
-<p>The transition starts practically.
-Pick high-friction knowledge zones, connect them to work and decisions, and build reuse pathways.
-Then expand.</p>
-<p>That is how knowledge becomes compounding capital.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/02/06/from-knowledge-management-to-knowledgefund/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
 </ul>]]></content:encoded>
         </item>
     </channel>
