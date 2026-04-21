@@ -18,7 +18,7 @@
 .heroInner {
   position: relative;
   z-index: 1;
-  max-width: 56rem;
+  max-width: 64rem;
 }
 
 .heroCopy {
@@ -61,14 +61,14 @@
 
 .heroCopy :global(.hero__title) {
   color: #f1eadf;
-  max-width: 14ch;
+  max-width: 20ch;
   letter-spacing: -0.03em;
   margin: 0;
 }
 
 .heroCopy :global(.hero__subtitle) {
   color: #d4cbbe;
-  max-width: 44rem;
+  max-width: 52rem;
   font-size: 1.08rem;
   line-height: 1.75;
 }
