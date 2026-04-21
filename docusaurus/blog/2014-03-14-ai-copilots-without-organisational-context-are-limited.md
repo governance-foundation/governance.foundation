@@ -40,6 +40,6 @@ If context is strong, capability scales.
 
 ## Related reading
 
-- [Generative AI arrived, but organisations were not structurally ready](/blog/2014/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready)
+- [Generative AI arrived, but organisations were not structurally ready](/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready)
 - [Why “AI adoption” is not the same as capability formation](/blog/2014/07/20/why-ai-adoption-is-not-the-same-as-capability-formation)
 - [What an AI-legible organisation actually needs](/blog/2015/08/08/what-an-ai-legible-organisation-actually-needs)
