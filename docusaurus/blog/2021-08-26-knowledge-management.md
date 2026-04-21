@@ -227,6 +227,6 @@ That is the direction Knowledge Management 4.0 should point toward.
 
 ## Related reading
 
-- [Documentation is not knowledge](/blog/2022/05/12/documentation-is-not-knowledge)
+- [Documentation is not knowledge](/blog/2014/05/12/documentation-is-not-knowledge)
 - [What Git did for code, KnowledgeFund will do for organisations](/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations)
-- [Governance Experience Platform](/blog/2020/07/15/governance-experience-platform)
+- [Governance Experience Platform](/blog/2014/07/15/governance-experience-platform)

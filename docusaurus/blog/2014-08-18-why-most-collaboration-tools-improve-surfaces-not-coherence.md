@@ -1,7 +1,7 @@
 ---
 title: "Why most collaboration tools improve surfaces, not coherence"
-date: 2022-08-18 00:00:00 +1000
-slug: /2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence
+date: 2014-08-18 00:00:00 +1000
+slug: /2014/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence
 description: "Many collaboration tools make interaction easier, faster, and more visible. That is not the same as creating real organisational coherence."
 ---
 
@@ -187,6 +187,6 @@ If organisations want coherence, they have to build the structures underneath.
 
 ## Related reading
 
-- [Documentation is not knowledge](/blog/2022/05/12/documentation-is-not-knowledge)
+- [Documentation is not knowledge](/blog/2014/05/12/documentation-is-not-knowledge)
 - [Hybrid work exposed the real organisational memory problem](/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem)
 - [Knowledge Management 4.0](/blog/2021/08/26/knowledge-management)

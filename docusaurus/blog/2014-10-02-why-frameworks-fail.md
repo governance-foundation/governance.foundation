@@ -1,7 +1,7 @@
 ---
 title: "Why Frameworks Fail?"
-date: 2020-10-02 00:00:00 +1100
-slug: /2020/10/02/why-frameworks-fail
+date: 2014-10-02 00:00:00 +1100
+slug: /2014/10/02/why-frameworks-fail
 description: "Why frameworks that look sensible on paper still fail inside living organisations with their own history, incentives, and knowledge structure."
 ---
 
@@ -221,5 +221,5 @@ And surface structure is where a lot of failed frameworks go to live.
 ## Related reading
 
 - [A case for Governance Framework](/blog/2020/07/15/a-case-for-governance-foundation)
-- [Governance Experience Platform](/blog/2020/07/15/governance-experience-platform)
-- [Why Governance Foundation?](/blog/2020/06/16/governance-foundation)
+- [Governance Experience Platform](/blog/2014/07/15/governance-experience-platform)
+- [Why Governance Foundation?](/blog/2014/06/16/governance-foundation)

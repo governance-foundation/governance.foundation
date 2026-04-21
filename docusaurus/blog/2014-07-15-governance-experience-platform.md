@@ -1,7 +1,7 @@
 ---
 title: "Governance Experience Platform"
-date: 2020-07-15 00:00:00 +1100
-slug: /2020/07/15/governance-experience-platform
+date: 2014-07-15 00:00:00 +1100
+slug: /2014/07/15/governance-experience-platform
 description: "Why organisations need shared governance experiences, not just abstract models, documents, and after-the-fact oversight."
 ---
 
@@ -245,6 +245,6 @@ To operationalise it through experiences that help the organisation hold togethe
 
 ## Related reading
 
-- [Why Frameworks Fail?](/blog/2020/10/02/why-frameworks-fail)
-- [Documentation is not knowledge](/blog/2022/05/12/documentation-is-not-knowledge)
+- [Why Frameworks Fail?](/blog/2014/10/02/why-frameworks-fail)
+- [Documentation is not knowledge](/blog/2014/05/12/documentation-is-not-knowledge)
 - [Knowledge Management 4.0](/blog/2021/08/26/knowledge-management)

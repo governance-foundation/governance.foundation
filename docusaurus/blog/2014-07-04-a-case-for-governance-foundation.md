@@ -1,6 +1,6 @@
 ---
 title: "A case for Governance Framework"
-date: 2020-07-04 00:00:00 +1100
+date: 2014-07-04 00:00:00 +1100
 slug: /2020/07/15/a-case-for-governance-foundation
 description: "Why governance patterns cannot simply be copied between organisations, and why organisations need scaffolding that matches their own maturity and structure."
 ---
@@ -155,6 +155,6 @@ But helping organisations build stronger governance from foundations that can ac
 
 ## Related reading
 
-- [Why Governance Foundation?](/blog/2020/06/16/governance-foundation)
-- [Why Frameworks Fail?](/blog/2020/10/02/why-frameworks-fail)
-- [Governance Experience Platform](/blog/2020/07/15/governance-experience-platform)
+- [Why Governance Foundation?](/blog/2014/06/16/governance-foundation)
+- [Why Frameworks Fail?](/blog/2014/10/02/why-frameworks-fail)
+- [Governance Experience Platform](/blog/2014/07/15/governance-experience-platform)

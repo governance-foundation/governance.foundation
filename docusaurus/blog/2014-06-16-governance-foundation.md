@@ -1,7 +1,7 @@
 ---
 title: "Why Governance Foundation?"
-date: 2020-06-16 00:00:00 +1100
-slug: /2020/06/16/governance-foundation
+date: 2014-06-16 00:00:00 +1100
+slug: /2014/06/16/governance-foundation
 description: "Why Governance Foundation exists, what problem it is trying to solve, and why governance needs to be treated as a living foundation rather than a compliance afterthought."
 ---
 
@@ -111,4 +111,4 @@ If this site does its job, it will help make that foundation stronger.
 ## Related reading
 
 - [A case for Governance Framework](/blog/2020/07/15/a-case-for-governance-foundation)
-- [Why Frameworks Fail?](/blog/2020/10/02/why-frameworks-fail)
+- [Why Frameworks Fail?](/blog/2014/10/02/why-frameworks-fail)

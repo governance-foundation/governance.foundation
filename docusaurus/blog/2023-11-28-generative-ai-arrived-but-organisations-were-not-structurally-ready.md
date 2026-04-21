@@ -205,6 +205,6 @@ But it is the one that matters.
 
 ## Related reading
 
-- [Why digital transformation keeps disappointing](/blog/2021/11/18/why-digital-transformation-keeps-disappointing)
+- [Why digital transformation keeps disappointing](/blog/2014/11/18/why-digital-transformation-keeps-disappointing)
 - [Now it's your turn: what have you changed for AI?](/blog/2026/04/13/now-its-your-turn-what-have-you-done-differently-with-ai)
 - [Same old AI playbook, same old results](/blog/2026/04/15/are-you-rolling-out-ai-with-the-same-old-playbook)

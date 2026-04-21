@@ -1,7 +1,7 @@
 ---
 title: "The hidden cost of local optimisation between teams"
-date: 2022-11-10 00:00:00 +1100
-slug: /2022/11/10/the-hidden-cost-of-local-optimisation-between-teams
+date: 2014-11-10 00:00:00 +1100
+slug: /2014/11/10/the-hidden-cost-of-local-optimisation-between-teams
 description: "Teams often optimise sensibly for their own local constraints. The hidden cost appears when the organisation loses coherence across boundaries."
 ---
 
@@ -191,6 +191,6 @@ It needs teams whose local intelligence can still live inside a coherent whole.
 
 ## Related reading
 
-- [Why most collaboration tools improve surfaces, not coherence](/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence)
-- [Why Frameworks Fail?](/blog/2020/10/02/why-frameworks-fail)
-- [Governance Experience Platform](/blog/2020/07/15/governance-experience-platform)
+- [Why most collaboration tools improve surfaces, not coherence](/blog/2014/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence)
+- [Why Frameworks Fail?](/blog/2014/10/02/why-frameworks-fail)
+- [Governance Experience Platform](/blog/2014/07/15/governance-experience-platform)

@@ -1,7 +1,7 @@
 ---
 title: "Documentation is not knowledge"
-date: 2022-05-12 00:00:00 +1000
-slug: /2022/05/12/documentation-is-not-knowledge
+date: 2014-05-12 00:00:00 +1000
+slug: /2014/05/12/documentation-is-not-knowledge
 description: "Why organisations keep mistaking documentation for knowledge, and why that confusion weakens coherence, learning, and change."
 ---
 
@@ -217,4 +217,4 @@ If an organisation wants stronger foundations, it has to move beyond the comfort
 ## Related reading
 
 - [Knowledge Management 4.0](/blog/2021/08/26/knowledge-management)
-- [Governance Experience Platform](/blog/2020/07/15/governance-experience-platform)
+- [Governance Experience Platform](/blog/2014/07/15/governance-experience-platform)
