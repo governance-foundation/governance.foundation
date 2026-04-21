@@ -81,7 +81,7 @@ const config: Config = {
       logo: {
         alt: 'Governance Foundation',
         src: 'assets/branding/governance-foundation-logo.jpg',
-        srcDark: 'assets/branding/governance-foundation-logo.jpg',
+        srcDark: 'assets/branding/governance-foundation-logo-dark.jpg',
       },
       items: [
         {to: '/knowledgefund/', label: 'KnowledgeFund', position: 'left'},
