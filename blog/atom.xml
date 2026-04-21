@@ -484,7 +484,7 @@ Then expand.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2025/02/06/from-knowledge-management-to-knowledgefund/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
 <ul>
 <li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2014/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2025/05/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
 </ul>]]></content>
     </entry>
@@ -594,7 +594,7 @@ The rest will keep paying rediscovery tax.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2024/05/23/organisational-memory-as-competitive-infrastructure/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
 <ul>
 <li class=""><a class="" href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/">Hybrid work exposed the real organisational memory problem</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2014/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
 </ul>]]></content>
     </entry>
@@ -790,7 +790,7 @@ The organisation cannot absorb it all at once.</p>
 <p>But it is the one that matters.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
 <ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2021/11/18/why-digital-transformation-keeps-disappointing/">Why digital transformation keeps disappointing</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2014/11/18/why-digital-transformation-keeps-disappointing/">Why digital transformation keeps disappointing</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2026/04/13/now-its-your-turn-what-have-you-done-differently-with-ai/">Now it's your turn: what have you changed for AI?</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2026/04/15/are-you-rolling-out-ai-with-the-same-old-playbook/">Same old AI playbook, same old results</a></li>
 </ul>]]></content>
@@ -909,295 +909,307 @@ If context is strong, capability scales.</p>
 </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The hidden cost of local optimisation between teams]]></title>
-        <id>https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/</id>
-        <link href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/"/>
-        <updated>2022-11-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Teams often optimise sensibly for their own local constraints. The hidden cost appears when the organisation loses coherence across boundaries.]]></summary>
-        <content type="html"><![CDATA[<p>Most local optimisation does not begin as sabotage.</p>
-<p>It begins as competence.</p>
-<p>A team sees pressure, constraints, deadlines, dependencies, and performance expectations.
-It adapts its own work to survive.
-It creates local rules.
-It simplifies handoffs.
-It protects itself from uncertainty.
-It builds workflows that make sense from where it sits.</p>
-<p>That is normal.
-Often it is necessary.</p>
-<p>But when too many teams optimise locally without enough shared structure, the organisation starts paying hidden costs.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="local-optimisation-is-rational-from-the-inside">Local optimisation is rational from the inside<a href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/#local-optimisation-is-rational-from-the-inside" class="hash-link" aria-label="Direct link to Local optimisation is rational from the inside" title="Direct link to Local optimisation is rational from the inside" translate="no">​</a></h2>
-<p>From inside a team, local optimisation often looks like good management.</p>
-<p>The team is trying to:</p>
+        <title type="html"><![CDATA[Hybrid work exposed the real organisational memory problem]]></title>
+        <id>https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/</id>
+        <link href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/"/>
+        <updated>2022-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hybrid work did not create the organisational memory problem. It exposed how much coordination, context, and continuity were already being carried informally.]]></summary>
+        <content type="html"><![CDATA[<p>When hybrid work became normal for more organisations, a lot of people talked about culture, collaboration, productivity, and presence.</p>
+<p>Those were real issues.</p>
+<p>But another problem quietly became much more visible:</p>
+<p>many organisations did not actually have durable organisational memory.</p>
+<p>They had proximity.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-office-had-been-masking-the-problem">The office had been masking the problem<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#the-office-had-been-masking-the-problem" class="hash-link" aria-label="Direct link to The office had been masking the problem" title="Direct link to The office had been masking the problem" translate="no">​</a></h2>
+<p>In many organisations, knowledge did not move because it was well structured.
+It moved because people were near each other.</p>
+<p>Questions got answered in passing.
+Context was filled in through overheard conversations.
+Exceptions were explained informally.
+People learned who to ask, when to ask, and how things really worked by being physically present around the system.</p>
+<p>That created a kind of functional illusion.</p>
+<p>The organisation appeared to know itself.
+But a lot of what looked like shared knowledge was really just local memory supported by physical closeness.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="hybrid-work-made-missing-context-harder-to-hide">Hybrid work made missing context harder to hide<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#hybrid-work-made-missing-context-harder-to-hide" class="hash-link" aria-label="Direct link to Hybrid work made missing context harder to hide" title="Direct link to Hybrid work made missing context harder to hide" translate="no">​</a></h2>
+<p>Once work became more distributed, the gaps became harder to paper over.</p>
+<p>People could no longer rely as easily on:</p>
 <ul>
-<li class="">reduce delay</li>
-<li class="">remove friction</li>
-<li class="">protect quality</li>
-<li class="">manage risk</li>
-<li class="">keep delivery moving</li>
-<li class="">avoid unnecessary dependence on other groups</li>
+<li class="">corridor clarification</li>
+<li class="">incidental observation</li>
+<li class="">background awareness of who was dealing with what</li>
+<li class="">informal access to experienced operators</li>
+<li class="">silent correction from nearby teammates</li>
 </ul>
-<p>None of that is irrational.</p>
-<p>The problem is that every team is solving from a partial view.</p>
-<p>What makes one team's work easier may:</p>
+<p>That meant missing context stopped being a mild annoyance and started becoming an operational drag.</p>
+<p>People found themselves asking:</p>
 <ul>
-<li class="">increase complexity downstream</li>
-<li class="">create translation burden for another team</li>
-<li class="">duplicate effort elsewhere</li>
-<li class="">hide knowledge in local conventions</li>
-<li class="">make system-wide traceability worse</li>
-<li class="">shift risk into a place that is less visible</li>
+<li class="">Where does this knowledge actually live?</li>
+<li class="">Is there a current version of this process?</li>
+<li class="">Why was this decision made?</li>
+<li class="">Who owns this now?</li>
+<li class="">Is this exception normal or just habit?</li>
+<li class="">What changed since the last time we did this?</li>
 </ul>
-<p>That is how rational local optimisation can still produce organisational incoherence.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="teams-do-not-feel-the-whole-system-cost-equally">Teams do not feel the whole-system cost equally<a href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/#teams-do-not-feel-the-whole-system-cost-equally" class="hash-link" aria-label="Direct link to Teams do not feel the whole-system cost equally" title="Direct link to Teams do not feel the whole-system cost equally" translate="no">​</a></h2>
-<p>One reason this problem persists is that the costs are unevenly distributed.</p>
-<p>The benefits of local optimisation are usually immediate and visible to the team doing it.
-The wider costs are often delayed, dispersed, or absorbed by someone else.</p>
-<p>That means the organisation can end up with:</p>
+<p>The problem was not that hybrid work removed knowledge.
+It exposed how much of it had never been properly captured or connected in the first place.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="organisational-memory-is-more-than-documentation">Organisational memory is more than documentation<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#organisational-memory-is-more-than-documentation" class="hash-link" aria-label="Direct link to Organisational memory is more than documentation" title="Direct link to Organisational memory is more than documentation" translate="no">​</a></h2>
+<p>A lot of leaders responded by asking for more documentation.
+That helped in some places.
+But the deeper issue was not just missing pages.</p>
+<p>Organisational memory is not simply a document set.</p>
+<p>It includes:</p>
 <ul>
-<li class="">one team that feels efficient</li>
-<li class="">another that becomes a translation buffer</li>
-<li class="">another that keeps resolving recurring exceptions</li>
-<li class="">another that loses visibility into why things are happening</li>
+<li class="">rationale</li>
+<li class="">history of change</li>
+<li class="">known exceptions</li>
+<li class="">informal dependencies</li>
+<li class="">recurring patterns</li>
+<li class="">trusted interpretations</li>
+<li class="">knowledge of who and what can be relied on</li>
 </ul>
-<p>From the inside, nobody feels entirely irrational.
-From the whole-system view, the organisation becomes harder to coordinate.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-is-how-silos-become-operational-logic">This is how silos become operational logic<a href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/#this-is-how-silos-become-operational-logic" class="hash-link" aria-label="Direct link to This is how silos become operational logic" title="Direct link to This is how silos become operational logic" translate="no">​</a></h2>
-<p>A silo is not only a social problem.
-It is often the accumulated result of repeated local optimisation.</p>
-<p>Each team builds the shortcuts, classifications, workarounds, and control habits that best fit its own world.
-Over time those local choices harden into different operational realities.</p>
-<p>Now the organisation does not just have multiple teams.
-It has multiple overlapping systems of meaning.</p>
-<p>The same term means different things in different places.
-The same status carries different implications.
-The same process step gets interpreted differently depending on who is involved.</p>
-<p>That is when cross-team work starts becoming expensive.
-Not because people refuse to collaborate, but because they are no longer working from the same structure.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="hidden-costs-show-up-as-friction-rework-and-memory-loss">Hidden costs show up as friction, rework, and memory loss<a href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/#hidden-costs-show-up-as-friction-rework-and-memory-loss" class="hash-link" aria-label="Direct link to Hidden costs show up as friction, rework, and memory loss" title="Direct link to Hidden costs show up as friction, rework, and memory loss" translate="no">​</a></h2>
-<p>The cost of local optimisation often does not appear as one obvious failure.</p>
-<p>It appears as:</p>
+<p>That kind of memory often lives partly in systems, partly in documents, and partly in people.</p>
+<p>If too much of it lives only in people, the organisation becomes fragile.</p>
+<p>Hybrid work did not create that fragility.
+It made it visible.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="visibility-continuity-and-replaceability-are-linked">Visibility, continuity, and replaceability are linked<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#visibility-continuity-and-replaceability-are-linked" class="hash-link" aria-label="Direct link to Visibility, continuity, and replaceability are linked" title="Direct link to Visibility, continuity, and replaceability are linked" translate="no">​</a></h2>
+<p>One of the more uncomfortable lessons of hybrid work was that many teams depended heavily on specific people to keep continuity intact.</p>
+<p>Those people knew:</p>
 <ul>
-<li class="">repeated clarification</li>
-<li class="">duplicated analysis</li>
-<li class="">inconsistent reporting</li>
-<li class="">exceptions that keep resurfacing</li>
-<li class="">extra coordination overhead</li>
-<li class="">brittle handoffs</li>
-<li class="">knowledge trapped in specific teams</li>
-<li class="">slower adaptation when change crosses boundaries</li>
+<li class="">where the gaps were</li>
+<li class="">how work actually flowed</li>
+<li class="">which system output could be trusted</li>
+<li class="">what the unofficial exceptions were</li>
+<li class="">which stakeholder really needed to be involved</li>
 </ul>
-<p>These are easy costs to normalise.
-They become "just how things are".</p>
-<p>But over time they add up to a serious drag on organisational performance.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-local-optimisation-gets-worse-under-pressure">Why local optimisation gets worse under pressure<a href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/#why-local-optimisation-gets-worse-under-pressure" class="hash-link" aria-label="Direct link to Why local optimisation gets worse under pressure" title="Direct link to Why local optimisation gets worse under pressure" translate="no">​</a></h2>
-<p>Pressure usually makes this pattern stronger.</p>
-<p>When deadlines tighten or change accelerates, teams become even more likely to protect local throughput first.
-They standardise locally.
-They minimise external dependencies.
-They keep more context inside the team.
-They narrow what they are willing to interpret from outside.</p>
-<p>That can help in the short term.</p>
-<p>But it often makes the whole organisation less adaptable in the medium term, because it reduces the amount of shared structure available across the system.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-issue-is-not-local-autonomy-itself">The issue is not local autonomy itself<a href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/#the-issue-is-not-local-autonomy-itself" class="hash-link" aria-label="Direct link to The issue is not local autonomy itself" title="Direct link to The issue is not local autonomy itself" translate="no">​</a></h2>
-<p>This is important.</p>
-<p>The answer is not to eliminate local judgment or force every team into one generic way of working.</p>
-<p>Local context matters.
-Teams do need room to adapt.</p>
-<p>The real issue is whether local optimisation happens on top of enough shared coherence.</p>
-<p>That means enough shared:</p>
+<p>That knowledge often had never been turned into durable organisational memory.</p>
+<p>So when access to those people became less ambient and more deliberate, the system slowed down.</p>
+<p>This matters because replaceability is not just a staffing issue.
+It is also a knowledge issue.</p>
+<p>If an organisation cannot preserve enough context for others to continue the work coherently, it is not managing memory well.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="hybrid-work-also-exposed-weak-organisational-listening">Hybrid work also exposed weak organisational listening<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#hybrid-work-also-exposed-weak-organisational-listening" class="hash-link" aria-label="Direct link to Hybrid work also exposed weak organisational listening" title="Direct link to Hybrid work also exposed weak organisational listening" translate="no">​</a></h2>
+<p>There is another side to this.</p>
+<p>Organisational memory is not only about preserving what is already known.
+It is also about learning from what is happening now.</p>
+<p>Hybrid work made many organisations realise they had weak mechanisms for:</p>
 <ul>
-<li class="">language</li>
-<li class="">traceability</li>
-<li class="">knowledge structure</li>
-<li class="">governance patterns</li>
-<li class="">visibility into dependencies</li>
-<li class="">mechanisms for resolving cross-boundary tension</li>
+<li class="">surfacing emerging problems early</li>
+<li class="">capturing repeated friction patterns</li>
+<li class="">sharing local learning across teams</li>
+<li class="">turning lived experience into updated guidance</li>
 </ul>
-<p>Without those things, local autonomy becomes local divergence.
-With them, local adaptation can remain useful without dissolving the whole.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="strong-organisations-make-cross-team-cost-visible">Strong organisations make cross-team cost visible<a href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/#strong-organisations-make-cross-team-cost-visible" class="hash-link" aria-label="Direct link to Strong organisations make cross-team cost visible" title="Direct link to Strong organisations make cross-team cost visible" translate="no">​</a></h2>
-<p>If an organisation wants to reduce the hidden cost of local optimisation, it has to get better at seeing the cross-boundary effects of local decisions.</p>
-<p>That means being able to notice things like:</p>
+<p>In other words, they were not just weak at memory retention.
+They were weak at memory formation.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-lesson-was-structural">The real lesson was structural<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#the-real-lesson-was-structural" class="hash-link" aria-label="Direct link to The real lesson was structural" title="Direct link to The real lesson was structural" translate="no">​</a></h2>
+<p>It would be easy to frame all of this as a remote-work debate.
+That misses the point.</p>
+<p>The deeper lesson is structural.</p>
+<p>An organisation with strong organisational memory should be able to survive changes in proximity, location, and communication rhythm without losing basic coherence.</p>
+<p>If a shift to hybrid work creates major confusion, duplication, and context loss, that is not just a workplace-format issue.
+It is a sign that the organisation has been relying on informal human buffering instead of durable shared memory.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-stronger-organisational-memory-would-look-like">What stronger organisational memory would look like<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#what-stronger-organisational-memory-would-look-like" class="hash-link" aria-label="Direct link to What stronger organisational memory would look like" title="Direct link to What stronger organisational memory would look like" translate="no">​</a></h2>
+<p>A stronger approach would not just try to recreate office proximity through more meetings and more chat.</p>
+<p>It would try to make the organisation more legible.</p>
+<p>That means better ways to preserve:</p>
 <ul>
-<li class="">where one team's efficiency creates another team's recurring friction</li>
-<li class="">where shared concepts have drifted apart</li>
-<li class="">where translation roles are absorbing too much hidden complexity</li>
-<li class="">where local workarounds have become shadow process</li>
-<li class="">where important knowledge is no longer portable across teams</li>
+<li class="">decisions and their rationale</li>
+<li class="">current operating knowledge</li>
+<li class="">links between work, ownership, and context</li>
+<li class="">patterns of exception and dependency</li>
+<li class="">reusable learning from delivery and operations</li>
 </ul>
-<p>Those are governance and knowledge problems as much as they are delivery problems.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-goal-is-coordinated-local-intelligence">The goal is coordinated local intelligence<a href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/#the-goal-is-coordinated-local-intelligence" class="hash-link" aria-label="Direct link to The goal is coordinated local intelligence" title="Direct link to The goal is coordinated local intelligence" translate="no">​</a></h2>
-<p>The best outcome is not central control or unbounded local freedom.</p>
-<p>It is coordinated local intelligence.</p>
-<p>Teams should be able to optimise locally while remaining legible to the rest of the organisation.
-They should be able to adapt without creating invisible system debt.
-They should be able to move fast without making cross-team coordination harder every month.</p>
-<p>That requires stronger foundations underneath the teams.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-hidden-cost-becomes-obvious-later">The hidden cost becomes obvious later<a href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/#the-hidden-cost-becomes-obvious-later" class="hash-link" aria-label="Direct link to The hidden cost becomes obvious later" title="Direct link to The hidden cost becomes obvious later" translate="no">​</a></h2>
-<p>Local optimisation often feels cheap at first.</p>
-<p>The real bill arrives later, when the organisation tries to:</p>
+<p>That does not mean every detail needs to become formal documentation.</p>
+<p>But it does mean the organisation needs a more deliberate memory system than "someone nearby probably knows".</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="hybrid-work-was-a-stress-test-not-the-root-cause">Hybrid work was a stress test, not the root cause<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#hybrid-work-was-a-stress-test-not-the-root-cause" class="hash-link" aria-label="Direct link to Hybrid work was a stress test, not the root cause" title="Direct link to Hybrid work was a stress test, not the root cause" translate="no">​</a></h2>
+<p>Hybrid work was not the origin of the organisational memory problem.</p>
+<p>It was a stress test.</p>
+<p>It revealed how much continuity had been resting on physical presence, informal access, and local human memory.</p>
+<p>That is why the right response is not nostalgia for office adjacency.
+It is stronger organisational memory.</p>
+<p>The organisations that learn that lesson will become more coherent in any work format.
+The ones that do not will keep mistaking proximity for knowledge.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
 <ul>
-<li class="">change direction quickly</li>
-<li class="">scale a capability across teams</li>
-<li class="">integrate a new technology</li>
-<li class="">transfer work between groups</li>
-<li class="">replace key people</li>
-<li class="">understand where risk is really sitting</li>
-</ul>
-<p>That is when the hidden cost becomes visible.</p>
-<p>By then, what looked like healthy pragmatism can turn out to be accumulated incoherence.</p>
-<p>That is why the issue matters.</p>
-<p>The organisation does not just need productive teams.
-It needs teams whose local intelligence can still live inside a coherent whole.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2022/11/10/the-hidden-cost-of-local-optimisation-between-teams/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/">Why most collaboration tools improve surfaces, not coherence</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/10/02/why-frameworks-fail/">Why Frameworks Fail?</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2020/07/15/governance-experience-platform/">Governance Experience Platform</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2014/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/">Generative AI arrived, but organisations were not structurally ready</a></li>
 </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why most collaboration tools improve surfaces, not coherence]]></title>
-        <id>https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/</id>
-        <link href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/"/>
-        <updated>2022-08-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many collaboration tools make interaction easier, faster, and more visible. That is not the same as creating real organisational coherence.]]></summary>
-        <content type="html"><![CDATA[<p>Most collaboration tools arrive with a familiar promise.</p>
-<p>They will make teams faster.
-They will improve visibility.
-They will reduce friction.
-They will connect people better.</p>
-<p>And to be fair, many of them do improve something.</p>
-<p>Messages move faster.
-Work becomes easier to track.
-Files become easier to share.
-Meetings become easier to schedule.
-Notifications become more immediate.</p>
-<p>But organisations often mistake these surface gains for deeper coherence.</p>
-<p>That is the mistake.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="better-interaction-is-not-the-same-as-better-alignment">Better interaction is not the same as better alignment<a href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/#better-interaction-is-not-the-same-as-better-alignment" class="hash-link" aria-label="Direct link to Better interaction is not the same as better alignment" title="Direct link to Better interaction is not the same as better alignment" translate="no">​</a></h2>
-<p>A collaboration tool can make it easier for people to talk.
-That does not mean they share the same context.</p>
-<p>It can make work more visible.
-That does not mean the work is better connected to purpose.</p>
-<p>It can make discussion more fluid.
-That does not mean the organisation is learning more effectively.</p>
-<p>Interaction quality and organisational coherence are related, but they are not the same thing.</p>
-<p>Coherence depends on things like:</p>
+        <title type="html"><![CDATA[Knowledge Management 4.0]]></title>
+        <id>https://governance.foundation/blog/2021/08/26/knowledge-management/</id>
+        <link href="https://governance.foundation/blog/2021/08/26/knowledge-management/"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why traditional knowledge management breaks down, and why organisations need a more living, connected, AI-legible approach to knowledge.]]></summary>
+        <content type="html"><![CDATA[<p>Knowledge management has been trying to solve a real problem for a long time.</p>
+<p>Organisations forget.
+They repeat themselves.
+They lose context.
+They trap critical knowledge in roles, teams, documents, and people.
+They create records without creating understanding.</p>
+<p>So the instinct behind knowledge management was never wrong.</p>
+<p>The problem is that most knowledge management approaches captured only a thin and fragile version of what organisations actually know.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="traditional-knowledge-management-was-mostly-about-capture">Traditional knowledge management was mostly about capture<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#traditional-knowledge-management-was-mostly-about-capture" class="hash-link" aria-label="Direct link to Traditional knowledge management was mostly about capture" title="Direct link to Traditional knowledge management was mostly about capture" translate="no">​</a></h2>
+<p>In practice, knowledge management usually became a mix of:</p>
 <ul>
-<li class="">shared concepts</li>
-<li class="">clear ownership</li>
-<li class="">stable context</li>
-<li class="">legible decision pathways</li>
-<li class="">usable organisational memory</li>
-<li class="">aligned incentives across teams</li>
+<li class="">document repositories</li>
+<li class="">intranets and wikis</li>
+<li class="">taxonomies and metadata</li>
+<li class="">lessons learned registers</li>
+<li class="">formal knowledge-owner roles</li>
+<li class="">translation work between teams and functions</li>
 </ul>
-<p>Most collaboration tools do not create those conditions.
-They operate on top of them.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-better-surface-can-hide-a-weak-structure">A better surface can hide a weak structure<a href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/#a-better-surface-can-hide-a-weak-structure" class="hash-link" aria-label="Direct link to A better surface can hide a weak structure" title="Direct link to A better surface can hide a weak structure" translate="no">​</a></h2>
-<p>One reason collaboration tooling can be misleading is that it improves the visible layer.</p>
-<p>People see:</p>
+<p>That helped to a point.</p>
+<p>But most of it was still built on the same assumption:</p>
+<blockquote>
+<p>if the organisation writes enough down, it will become knowable.</p>
+</blockquote>
+<p>That is only partly true.</p>
+<p>Writing things down matters.
+But capture is not the same as coherence.
+Storage is not the same as shared understanding.
+And documentation is not the same as living organisational knowledge.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-problem-was-always-fragmentation">The real problem was always fragmentation<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#the-real-problem-was-always-fragmentation" class="hash-link" aria-label="Direct link to The real problem was always fragmentation" title="Direct link to The real problem was always fragmentation" translate="no">​</a></h2>
+<p>Most organisations do not lack information.
+They lack connectedness.</p>
+<p>Knowledge gets spread across:</p>
 <ul>
-<li class="">cleaner interfaces</li>
-<li class="">faster conversation</li>
-<li class="">richer notifications</li>
-<li class="">easier handoff mechanics</li>
-<li class="">better search</li>
-<li class="">nicer shared workspaces</li>
+<li class="">policies</li>
+<li class="">procedures</li>
+<li class="">architecture diagrams</li>
+<li class="">ticket systems</li>
+<li class="">chats and emails</li>
+<li class="">spreadsheets and slide decks</li>
+<li class="">local workarounds</li>
+<li class="">habits and unwritten rules</li>
+<li class="">individual memory</li>
 </ul>
-<p>Those improvements feel like modernisation.
-And sometimes they are.</p>
-<p>But a better surface can make a weak structure feel temporarily healthier than it really is.</p>
-<p>The organisation may still have:</p>
+<p>That means the organisation often has the pieces, but not the whole.</p>
+<p>One team knows why something exists.
+Another knows how to operate it.
+A third knows why it keeps failing.
+A fourth has already built a workaround.
+And none of that is held together cleanly.</p>
+<p>This is why so many organisations end up document-rich but knowledge-poor.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="translation-heavy-systems-do-not-scale-well">Translation-heavy systems do not scale well<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#translation-heavy-systems-do-not-scale-well" class="hash-link" aria-label="Direct link to Translation-heavy systems do not scale well" title="Direct link to Translation-heavy systems do not scale well" translate="no">​</a></h2>
+<p>A lot of classic knowledge management depended on translation.</p>
+<p>Someone had to gather context from one place, interpret it, reshape it, and publish it in a form someone else could use.
+That might be an architect, analyst, manager, process owner, or subject matter expert.</p>
+<p>Sometimes that works.
+But it creates a bottleneck.</p>
+<p>The organisation becomes dependent on a relatively small number of people to:</p>
 <ul>
-<li class="">fragmented knowledge</li>
-<li class="">unclear decision rights</li>
-<li class="">duplicated work across teams</li>
-<li class="">local optimisation conflicts</li>
-<li class="">stale operational memory</li>
-<li class="">heavy dependence on informal human translators</li>
+<li class="">interpret what matters</li>
+<li class="">clean up contradictions</li>
+<li class="">fill in missing context</li>
+<li class="">explain how pieces connect</li>
+<li class="">keep knowledge current</li>
 </ul>
-<p>If those conditions remain, the tool may help people move around the mess faster without resolving the mess itself.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="most-collaboration-tools-optimise-communication-not-meaning">Most collaboration tools optimise communication, not meaning<a href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/#most-collaboration-tools-optimise-communication-not-meaning" class="hash-link" aria-label="Direct link to Most collaboration tools optimise communication, not meaning" title="Direct link to Most collaboration tools optimise communication, not meaning" translate="no">​</a></h2>
-<p>This is the deeper limitation.</p>
-<p>Most collaboration tools are built to optimise communication events:</p>
+<p>That creates at least three problems.</p>
+<p>First, it does not scale.
+As complexity rises, the translation load rises faster.</p>
+<p>Second, it goes stale.
+By the time knowledge is translated, approved, and published, reality has often moved on.</p>
+<p>Third, it becomes political.
+When too much knowledge depends on a few intermediaries, those intermediaries become bottlenecks, filters, and points of control.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-lot-of-the-important-knowledge-never-gets-captured-properly">A lot of the important knowledge never gets captured properly<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#a-lot-of-the-important-knowledge-never-gets-captured-properly" class="hash-link" aria-label="Direct link to A lot of the important knowledge never gets captured properly" title="Direct link to A lot of the important knowledge never gets captured properly" translate="no">​</a></h2>
+<p>Traditional knowledge systems also tend to favour the formal and visible layer.</p>
+<p>They capture things like:</p>
 <ul>
-<li class="">sending</li>
-<li class="">receiving</li>
-<li class="">tagging</li>
-<li class="">sharing</li>
-<li class="">responding</li>
-<li class="">tracking</li>
+<li class="">official process</li>
+<li class="">approved policy</li>
+<li class="">designed architecture</li>
+<li class="">final decisions</li>
+<li class="">published standards</li>
 </ul>
-<p>Those things matter.</p>
-<p>But coherence is not just a communication problem.
-It is also a meaning problem.</p>
-<p>Do people understand the same thing by the same term?
-Do they see how their work relates to adjacent work?
-Do they know which version of reality is current?
-Do they understand why a decision was made and what it changed?
-Do they share enough structure to interpret signals the same way?</p>
-<p>A chat stream, work board, wiki, or meeting platform does not answer those questions by default.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tool-sprawl-often-makes-the-problem-worse">Tool sprawl often makes the problem worse<a href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/#tool-sprawl-often-makes-the-problem-worse" class="hash-link" aria-label="Direct link to Tool sprawl often makes the problem worse" title="Direct link to Tool sprawl often makes the problem worse" translate="no">​</a></h2>
-<p>There is another issue.</p>
-<p>As organisations adopt more collaboration tools, they often create a new kind of fragmentation.</p>
-<p>One conversation happens in chat.
-Another in email.
-Another in tickets.
-Another in docs.
-Another in meeting notes.
-Another in slide decks.
-Another in an unofficial team channel.</p>
-<p>Now the organisation is not just dealing with missing coherence.
-It is dealing with distributed fragments of partial coherence.</p>
-<p>People start spending more energy locating context than using it.</p>
-<p>That is not a collaboration victory.
-It is an organisational tax.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="collaboration-without-shared-memory-becomes-repetitive">Collaboration without shared memory becomes repetitive<a href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/#collaboration-without-shared-memory-becomes-repetitive" class="hash-link" aria-label="Direct link to Collaboration without shared memory becomes repetitive" title="Direct link to Collaboration without shared memory becomes repetitive" translate="no">​</a></h2>
-<p>When organisations lack strong shared memory, collaboration starts repeating itself.</p>
-<p>The same questions get re-answered.
-The same context gets re-explained.
-The same decision history gets reconstructed.
-The same dependencies get rediscovered.</p>
-<p>This is one reason teams can feel busy, responsive, and highly collaborative while still failing to build compounding organisational intelligence.</p>
-<p>They are collaborating around gaps.
-Not resolving them structurally.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-issue-is-underneath-the-tools">The real issue is underneath the tools<a href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/#the-real-issue-is-underneath-the-tools" class="hash-link" aria-label="Direct link to The real issue is underneath the tools" title="Direct link to The real issue is underneath the tools" translate="no">​</a></h2>
-<p>If an organisation wants stronger coherence, it has to work below the collaboration-tool layer.</p>
-<p>It has to improve things like:</p>
+<p>What they often miss is the working layer:</p>
 <ul>
-<li class="">organisational memory</li>
-<li class="">shared ontology and language</li>
-<li class="">traceability of decisions and work</li>
-<li class="">clearer ownership and role boundaries</li>
-<li class="">cross-team visibility into dependencies</li>
-<li class="">better pathways for updating shared knowledge</li>
+<li class="">why a decision was really made</li>
+<li class="">what was tried and failed</li>
+<li class="">which exceptions matter in practice</li>
+<li class="">where the hidden dependencies sit</li>
+<li class="">what local heuristics people rely on</li>
+<li class="">which warnings experienced people carry around implicitly</li>
 </ul>
-<p>Collaboration tools may help express those structures.
-But they do not create them automatically.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="a-collaboration-layer-still-matters">A collaboration layer still matters<a href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/#a-collaboration-layer-still-matters" class="hash-link" aria-label="Direct link to A collaboration layer still matters" title="Direct link to A collaboration layer still matters" translate="no">​</a></h2>
-<p>This is not an argument against collaboration tools.</p>
-<p>They matter a lot.
-Poor tooling absolutely creates unnecessary friction.
-Bad search, bad handoff mechanics, bad notification design, and bad workspace design can make organisations slower and more painful than they need to be.</p>
-<p>But the right way to think about collaboration tools is as an enabling layer, not a substitute for coherence.</p>
-<p>They can make a coherent organisation work better.
-They can make an incoherent organisation move faster without understanding itself.</p>
-<p>Those are very different outcomes.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-real-goal-is-not-more-collaboration-events">The real goal is not more collaboration events<a href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/#the-real-goal-is-not-more-collaboration-events" class="hash-link" aria-label="Direct link to The real goal is not more collaboration events" title="Direct link to The real goal is not more collaboration events" translate="no">​</a></h2>
-<p>An organisation does not win by creating more messages, more meetings, more visibility, or more shared spaces.</p>
-<p>It wins when people can coordinate with less guesswork.
-When context compounds instead of evaporating.
-When learning becomes reusable.
-When work stays connected to shared meaning.</p>
-<p>That is coherence.</p>
-<p>Most collaboration tools improve surfaces.
-If organisations want coherence, they have to build the structures underneath.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2022/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<p>That is often the knowledge that makes the difference between smooth execution and expensive confusion.</p>
+<p>When it is not captured, the organisation keeps relying on human memory to bridge the gap.
+That makes continuity fragile and makes people harder to replace in knowledge terms.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-matters-more-now">Why this matters more now<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#why-this-matters-more-now" class="hash-link" aria-label="Direct link to Why this matters more now" title="Direct link to Why this matters more now" translate="no">​</a></h2>
+<p>These weaknesses were already expensive before AI.</p>
+<p>AI just makes them harder to ignore.</p>
+<p>If organisational knowledge is fragmented, stale, contradictory, or trapped in people’s heads, AI will not magically fix it.
+It will operate on the fragments it can see.
+It may summarise the wrong thing beautifully.
+It may scale ambiguity faster.
+It may make incoherence more productive.</p>
+<p>That means the question is no longer just whether an organisation has knowledge assets.</p>
+<p>The question is whether the organisation has a knowledge system that is legible enough for both people and AI to work with.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="knowledge-management-40-should-be-about-formation-not-just-storage">Knowledge Management 4.0 should be about formation, not just storage<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#knowledge-management-40-should-be-about-formation-not-just-storage" class="hash-link" aria-label="Direct link to Knowledge Management 4.0 should be about formation, not just storage" title="Direct link to Knowledge Management 4.0 should be about formation, not just storage" translate="no">​</a></h2>
+<p>The next stage of knowledge management should not just be a better library.</p>
+<p>It should be a better organisational memory system.</p>
+<p>That means shifting the goal from storing content to forming shared knowledge.</p>
+<p>A stronger model should help the organisation:</p>
 <ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2022/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/">Hybrid work exposed the real organisational memory problem</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2021/08/26/knowledge-management/">Knowledge Management 4.0</a></li>
+<li class="">capture knowledge closer to where it is created</li>
+<li class="">preserve reasoning, not just outputs</li>
+<li class="">connect documents, decisions, work, and evidence</li>
+<li class="">expose contradictions and stale areas</li>
+<li class="">reduce dependence on isolated human memory</li>
+<li class="">make knowledge more reusable across teams</li>
+<li class="">keep context alive as work changes</li>
+</ul>
+<p>In other words, the aim is not just accumulation.
+It is intelligibility.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-is-where-ai-changes-the-economics">This is where AI changes the economics<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#this-is-where-ai-changes-the-economics" class="hash-link" aria-label="Direct link to This is where AI changes the economics" title="Direct link to This is where AI changes the economics" translate="no">​</a></h2>
+<p>Older knowledge management approaches struggled partly because the interpretation work was expensive.</p>
+<p>Humans had to do most of the sorting, summarising, connecting, classifying, and cross-referencing by hand.
+So organisations cut corners.
+They documented the minimum.
+They centralised the burden.
+They tolerated drift.</p>
+<p>AI changes that.</p>
+<p>Not by removing the need for structure, but by making knowledge formation cheaper.</p>
+<p>AI can help:</p>
+<ul>
+<li class="">interpret raw material</li>
+<li class="">suggest where knowledge belongs</li>
+<li class="">connect related fragments</li>
+<li class="">surface conflicting versions of reality</li>
+<li class="">preserve rationale while context is still fresh</li>
+<li class="">turn scattered evidence into more usable knowledge objects</li>
+<li class="">keep the knowledge body more current over time</li>
+</ul>
+<p>That does not remove the need for human judgment.
+But it does remove some of the old excuses.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="from-knowledge-management-to-knowledgefund">From knowledge management to KnowledgeFund<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#from-knowledge-management-to-knowledgefund" class="hash-link" aria-label="Direct link to From knowledge management to KnowledgeFund" title="Direct link to From knowledge management to KnowledgeFund" translate="no">​</a></h2>
+<p>This is why I think the next step has to move beyond classic knowledge management.</p>
+<p>Knowledge management mostly treated knowledge as something to capture and administer.</p>
+<p>KnowledgeFund should treat organisational knowledge as something to actively structure, connect, trace, and grow.</p>
+<p>That means moving toward a system where knowledge is:</p>
+<ul>
+<li class="">connected to purpose</li>
+<li class="">connected to work</li>
+<li class="">connected to decisions</li>
+<li class="">connected to evidence</li>
+<li class="">connected to gaps and risks</li>
+<li class="">connected to contribution and reuse</li>
+</ul>
+<p>That is a different ambition.</p>
+<p>It is closer to building an organisational knowledge system than maintaining a document estate.
+It is closer to organisational memory than document management.
+It is closer to a living knowledge economy than a static archive.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-point-is-not-more-content">The point is not more content<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#the-point-is-not-more-content" class="hash-link" aria-label="Direct link to The point is not more content" title="Direct link to The point is not more content" translate="no">​</a></h2>
+<p>A mature knowledge approach is not about producing more pages.</p>
+<p>It is about making the organisation more able to know what it knows, learn what it does not, and act with clearer shared context.</p>
+<p>That is the real promise behind a better knowledge model.</p>
+<p>Not just better storage.
+Better coherence.
+Better continuity.
+Better organisational learning.</p>
+<p>That is the direction Knowledge Management 4.0 should point toward.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2021/08/26/knowledge-management/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2014/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2014/07/15/governance-experience-platform/">Governance Experience Platform</a></li>
 </ul>]]></content>
     </entry>
 </feed>
