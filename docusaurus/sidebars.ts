@@ -83,6 +83,12 @@ const sidebars: SidebarsConfig = {
         'frameworks/sean',
       ],
     },
+    {
+      type: 'category',
+      label: 'Brand',
+      link: {type: 'doc', id: 'brand/brand-guidelines'},
+      items: ['brand/brand-guidelines'],
+    },
   ],
 };
 
