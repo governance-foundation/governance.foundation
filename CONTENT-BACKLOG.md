@@ -35,8 +35,8 @@ A working backlog of candidate articles to backfill the pre-2026 timeline and st
 ## 2023
 
 - [x] Generative AI arrived, but organisations were not structurally ready
-- [x] AI copilots without organisational context are limited
-- [x] Why AI adoption is not the same as capability formation
+- [x] AI exposes broken organisational context
+- [x] AI adoption is not the same as capability formation
 - [x] The governance gap behind most AI initiatives
 
 ## 2024

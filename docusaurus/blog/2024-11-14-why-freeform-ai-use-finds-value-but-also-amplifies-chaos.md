@@ -38,6 +38,6 @@ Freeform use should be discovery infrastructure, not final operating model.
 
 ## Related reading
 
-- [AI copilots without organisational context are limited](/blog/2023/03/14/ai-copilots-without-organisational-context-are-limited)
+- [AI exposes broken organisational context](/blog/2023/03/14/ai-exposes-broken-organisational-context)
 - [The governance gap behind most AI initiatives](/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives)
 - [What an AI-legible organisation actually needs](/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs)

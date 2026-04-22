@@ -37,6 +37,6 @@ When governance is episodic, AI adoption stays noisy.
 
 ## Related reading
 
-- [Why “AI adoption” is not the same as capability formation](/blog/2023/07/20/why-ai-adoption-is-not-the-same-as-capability-formation)
+- [AI adoption is not the same as capability formation](/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation)
 - [AI rollout is work redesign, not software rollout](/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout)
 - [Why freeform AI use finds value but also amplifies chaos](/blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos)

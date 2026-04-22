@@ -20,8 +20,8 @@ Into:
 
 ### 2023 bridge articles
 1. **Generative AI arrived, but organisations were not structurally ready**
-2. **AI copilots without organisational context are limited**
-3. **Why AI adoption is not the same as capability formation**
+2. **AI exposes broken organisational context**
+3. **AI adoption is not the same as capability formation**
 4. **The governance gap behind most AI initiatives**
 
 ### 2024 bridge articles
