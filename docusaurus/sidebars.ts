@@ -11,6 +11,7 @@ const sidebars: SidebarsConfig = {
         'knowledgefund/model',
         'knowledgefund/diagram',
         'knowledgefund/bootstrap',
+        'knowledgefund/consulting',
         'knowledgefund/experiences',
       ],
     },

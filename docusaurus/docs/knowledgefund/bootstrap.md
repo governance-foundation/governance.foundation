@@ -7,78 +7,204 @@ Every company needs its own KnowledgeFund.
 
 Most companies will not build that cleanly from scratch on their own.
 
-KnowledgeFund Bootstrap is the practical starting offer for organisations that want help establishing the first structure, ontology, and working methods they need.
+KnowledgeFund Bootstrap is the practical starting sequence for organisations that want to establish the first structure, ontology, and working methods they need.
 
 ## Table of Contents
 
 
-## The problem
+## The goal
 
-Companies rarely start with a clean, legible organisational knowledge system.
+The goal is not to model the whole company in one go.
 
-They usually start with fragmentation, hidden dependencies, uneven documentation, stale context, duplicated work, and knowledge trapped in systems and people.
+The goal is to create the first viable KnowledgeFund slice that helps the organisation:
 
-That makes AI adoption shallow, uneven, and often disappointing.
+- make real work more legible
+- extract trapped knowledge
+- connect decisions, workflows, and context
+- reduce dependence on hidden memory
+- create a structure AI and people can both work with
 
-## The offer
+## Start with a bounded scope
 
-KnowledgeFund Bootstrap helps an organisation create its first viable KnowledgeFund.
+Do not start with the entire enterprise.
 
-That typically includes:
+Start with one useful territory:
 
-- assessing fragmentation, silos, and knowledge debt
-- identifying the core domains, actors, systems, and knowledge flows
-- establishing a starting ontology
-- creating early structure for knowledge, work, and decisions
-- connecting important systems and sources of context
-- defining contribution, traceability, and governance patterns
-- producing a practical roadmap for continued growth
+- a team
+- a service line
+- a capability area
+- a workflow family
+- or a messy cross-functional process
 
-## What you get
+Good starting examples include:
 
-A bootstrap engagement should leave the company with:
+- sales to delivery handoff
+- tender or RFP response
+- onboarding
+- support escalation
+- timesheets and compliance drag
+- recurring delivery workflows
 
-- a clearer picture of its current fragmentation and knowledge structure
-- a starting KnowledgeFund model suited to its context
-- an initial ontology and organising logic
-- a first set of priority knowledge domains and flows
-- practical recommendations for systems, contribution patterns, and governance
-- a roadmap for the next phase of implementation
+The point is to begin where fragmentation is already costly and where improvement will be visible.
 
-## What it is not
+## Step 1: map the real work
 
-Bootstrap is not a universal off-the-shelf solution.
+Capture what actually happens, not just the official process.
 
-It is not a promise to solve the whole organisation in one step.
+That means understanding:
 
-It is not about forcing every company into the same final shape.
+- what work is really being done
+- who does it
+- which systems are involved
+- where decisions are made
+- where handoffs break down
+- where delays and rework appear
+- where people rely on memory, chat, or "ask the person who knows"
 
-It is about giving each organisation a viable starting structure it can build on.
+This produces the first real workflow map.
 
-## Who it is for
+## Step 2: extract tacit knowledge
 
-KnowledgeFund Bootstrap is most useful for organisations that:
+Most organisations already have the knowledge they need.
+It is just trapped.
 
-- believe AI will matter across the business, not just in isolated tools
-- know their knowledge and context are fragmented
-- want to build an internal structure they can grow over time
-- need a practical starting point rather than a giant abstract transformation program
+Pull out:
 
-## Engagement shape
+- rules of thumb
+- hidden exceptions
+- local workarounds
+- quality heuristics
+- dependency knowledge
+- recurring failure patterns
+- what experienced staff know that newcomers cannot see
 
-A typical bootstrap offer could be framed as:
+This is one of the most important parts of bootstrap.
+Without it, the KnowledgeFund becomes another surface-level model.
 
-1. **Discovery**
-   - understand the organisation, systems, current pain, and priorities
-2. **Mapping**
-   - identify domains, actors, flows, dependencies, and gaps
-3. **Structuring**
-   - define a starting ontology and KnowledgeFund shape
-4. **Recommendations**
-   - define next actions, governance patterns, and implementation priorities
+## Step 3: define the initial ontology
 
-## Commercial logic
+A KnowledgeFund needs structure, not just storage.
 
-This is the most realistic first commercial model for KnowledgeFund.
+Create an initial ontology that can describe things such as:
 
-Each organisation will need its own KnowledgeFund, but they do not need to invent the methodology from scratch. Governance Foundation can help them bootstrap the first version, then support deeper implementation, tooling, and ongoing evolution over time.
+- goals
+- teams
+- roles
+- workflows
+- tasks
+- systems
+- clients
+- artefacts
+- decisions
+- policies
+- dependencies
+- risks
+- reusable assets
+- gaps
+
+This is the backbone that prevents the organisation from creating another document pile.
+
+## Step 4: build the first shared knowledge layer
+
+Now start connecting things.
+
+For example:
+
+- workflows to roles
+- roles to systems
+- systems to artefacts
+- artefacts to decisions
+- decisions to goals
+- gaps to owners
+- reusable patterns to the situations where they apply
+
+This is where a repository starts becoming a living organisational model.
+
+## Step 5: embed the KnowledgeFund into live work
+
+A KnowledgeFund cannot survive as an extra documentation burden.
+
+It needs to sit inside real work.
+
+That means:
+
+- people update it through delivery
+- decisions leave traces in it
+- new patterns are added through use
+- repeated work draws context from it
+- gaps become visible in the flow of work
+
+If it lives off to the side, it will decay.
+
+## Step 6: introduce AI assistance carefully
+
+AI should help the system become easier to use and maintain.
+
+Useful early roles include:
+
+- classifying knowledge
+- suggesting where new material belongs
+- summarising raw inputs
+- surfacing related context
+- detecting duplication and conflict
+- highlighting likely gaps
+- helping staff contribute with less friction
+
+AI should assist interpretation and exchange.
+It should not be treated as a substitute for organisational design.
+
+## Step 7: create contribution and reuse loops
+
+A KnowledgeFund becomes real when contribution and reuse are made visible.
+
+Track and encourage:
+
+- useful knowledge contribution
+- reusable assets and patterns
+- gap discovery
+- reduced repeated questions
+- reduced dependence on hidden experts
+- improved handoffs
+- stronger onboarding
+- better traceability of decisions and changes
+
+This is how the system starts becoming an operating asset rather than a static archive.
+
+## Step 8: expand gradually
+
+Once the first slice works, expand outward.
+
+- add adjacent workflows
+- deepen the ontology
+- connect more systems
+- improve governance and ownership
+- standardise the method for the next area
+
+Do not expand by copying a static template everywhere.
+Expand by reapplying the method while preserving local reality.
+
+## What a bootstrap engagement should leave behind
+
+A strong bootstrap should leave the organisation with:
+
+- a bounded pilot domain
+- a real workflow map
+- initial tacit knowledge extraction
+- a starting ontology
+- the first connected knowledge layer
+- a clear contribution model
+- early AI assistance opportunities
+- a roadmap for the next expansion wave
+
+## The commercial logic
+
+This is the most realistic first KnowledgeFund offer.
+
+Each organisation will need its own KnowledgeFund, but it does not need to invent the method from scratch. Governance Foundation can help a company create the first viable structure, prove the value in one domain, and then support expansion over time.
+
+## Related reading
+
+- [Overview](/knowledgefund/)
+- [Model](/knowledgefund/model/)
+- [Consulting](/knowledgefund/consulting/)
+- [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)
