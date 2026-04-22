@@ -4,10 +4,174 @@
         <title>Governance Foundation Blog</title>
         <link>https://governance.foundation/blog/</link>
         <description>Governance Foundation Blog</description>
-        <lastBuildDate>Fri, 17 Apr 2026 09:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 09:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[How an organisation would build its own KnowledgeFund]]></title>
+            <link>https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/</link>
+            <guid>https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/</guid>
+            <pubDate>Thu, 23 Apr 2026 09:55:00 GMT</pubDate>
+            <description><![CDATA[A KnowledgeFund is not a document repository or a tool purchase. It is a practical organisational method for making work, decisions, and knowledge more legible, connected, and reusable over time.]]></description>
+            <content:encoded><![CDATA[<p>Most organisations do not have a technology problem when it comes to AI.</p>
+<p>They have a context problem.</p>
+<p>The knowledge of how the organisation really works is scattered across people, systems, habits, exceptions, workarounds, and fragments of documentation. Important decisions are often poorly connected to the workflows they affect. Teams compensate socially. They ask around. They rely on memory. They improvise.</p>
+<p>That is survivable in a human-only organisation.
+It becomes much more visible when AI enters the picture.</p>
+<p>AI quickly exposes whether the organisation has a coherent enough internal structure to support shared understanding, guided action, and repeatable improvement.</p>
+<p>That is why more organisations will need to build something like a KnowledgeFund for themselves.</p>
+<!-- -->
+<p>Not as a document repository.
+Not as a wiki with a new name.
+Not as a one-off architecture exercise.</p>
+<p>But as a structured, living organisational knowledge system that helps the company learn, guide work, reuse what it knows, and become more capable over time.</p>
+<p>So how would an organisation actually do it?</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="start-smaller-than-your-ambition">Start smaller than your ambition<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#start-smaller-than-your-ambition" class="hash-link" aria-label="Direct link to Start smaller than your ambition" title="Direct link to Start smaller than your ambition" translate="no">​</a></h2>
+<p>The first mistake would be trying to model the whole company at once.
+That sounds strategic, but it usually produces abstraction before usefulness.</p>
+<p>A KnowledgeFund should begin in a bounded domain where real work is already happening and where the pain of fragmentation is visible.</p>
+<p>That might be:</p>
+<ul>
+<li class="">a delivery workflow</li>
+<li class="">a client onboarding process</li>
+<li class="">a sales-to-delivery handoff</li>
+<li class="">a tender response process</li>
+<li class="">a recurring operational area where too much knowledge currently lives in people's heads</li>
+</ul>
+<p>The point is not to create a perfect enterprise model on day one.
+The point is to start where real work, real dependency, and real ambiguity already exist.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="map-the-work-as-it-actually-happens">Map the work as it actually happens<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#map-the-work-as-it-actually-happens" class="hash-link" aria-label="Direct link to Map the work as it actually happens" title="Direct link to Map the work as it actually happens" translate="no">​</a></h2>
+<p>Once a starting territory is chosen, the organisation has to map the work as it really happens.</p>
+<p>Not the cleaned-up version.
+Not the process slide.
+Not the compliance version.</p>
+<p>The real version.</p>
+<p>What steps are actually taken?
+Who is involved?
+Which systems are touched?
+Where are decisions made?
+Where are delays introduced?
+Where do people rely on hidden knowledge, informal chat, memory, or "ask the person who knows"?</p>
+<p>This matters because the raw material of a KnowledgeFund is not abstract theory.
+It is the lived operational reality of the organisation.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="extract-tacit-knowledge">Extract tacit knowledge<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#extract-tacit-knowledge" class="hash-link" aria-label="Direct link to Extract tacit knowledge" title="Direct link to Extract tacit knowledge" translate="no">​</a></h2>
+<p>This is one of the most important parts.</p>
+<p>Most organisations run on a huge amount of unwritten judgement:</p>
+<ul>
+<li class="">rules of thumb</li>
+<li class="">exceptions</li>
+<li class="">escalation instincts</li>
+<li class="">quality heuristics</li>
+<li class="">client-specific knowledge</li>
+<li class="">system quirks</li>
+<li class="">local workarounds</li>
+</ul>
+<p>Often the most important knowledge is not absent, it is trapped.
+It exists, but only in forms that do not travel well.</p>
+<p>Building a KnowledgeFund means pulling that knowledge into a more shareable and structured form.</p>
+<p>Not flattening it.
+Not pretending everything is simple.
+But making it more visible, more connected, and less dependent on individual memory.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="create-an-ontology">Create an ontology<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#create-an-ontology" class="hash-link" aria-label="Direct link to Create an ontology" title="Direct link to Create an ontology" translate="no">​</a></h2>
+<p>That word can sound heavier than it needs to be.</p>
+<p>In practice it means creating a structured way to describe what exists in the business and how those things relate.</p>
+<p>For example:</p>
+<ul>
+<li class="">goals</li>
+<li class="">roles</li>
+<li class="">workflows</li>
+<li class="">clients</li>
+<li class="">systems</li>
+<li class="">artefacts</li>
+<li class="">decisions</li>
+<li class="">risks</li>
+<li class="">dependencies</li>
+<li class="">reusable assets</li>
+<li class="">gaps</li>
+</ul>
+<p>A KnowledgeFund needs this kind of backbone so that knowledge does not just accumulate as another pile of disconnected content.</p>
+<p>This is one of the key distinctions.</p>
+<p>A normal knowledge repository stores information.
+A KnowledgeFund gives the organisation a way to place knowledge into a meaningful structure.</p>
+<p>That structure is what makes the company more legible to itself.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="build-a-shared-knowledge-layer">Build a shared knowledge layer<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#build-a-shared-knowledge-layer" class="hash-link" aria-label="Direct link to Build a shared knowledge layer" title="Direct link to Build a shared knowledge layer" translate="no">​</a></h2>
+<p>Once the ontology exists, even in early form, the organisation can start building a shared knowledge layer around it.</p>
+<p>This means connecting:</p>
+<ul>
+<li class="">workflows to roles</li>
+<li class="">roles to systems</li>
+<li class="">systems to artefacts</li>
+<li class="">artefacts to decisions</li>
+<li class="">decisions to goals</li>
+<li class="">gaps to owners and actions</li>
+<li class="">reusable patterns to where they should be applied</li>
+</ul>
+<p>Now the KnowledgeFund starts becoming more than documentation.
+It becomes an organisational model.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="embed-it-into-live-work">Embed it into live work<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#embed-it-into-live-work" class="hash-link" aria-label="Direct link to Embed it into live work" title="Direct link to Embed it into live work" translate="no">​</a></h2>
+<p>This is where many attempts fail.</p>
+<p>If contributing to the system feels like extra admin work after the "real work" is done, it will slowly die.</p>
+<p>A KnowledgeFund has to be embedded into live work.</p>
+<p>People should update it through delivery, not through a separate clerical ritual. Decisions should leave traces in it. New patterns should be added through use. Reuse should pull from it naturally. Gaps should become visible at the moment they matter.</p>
+<p>The system has to participate in the work of the organisation, not sit outside it.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="use-ai-to-help-interpret-and-connect">Use AI to help interpret and connect<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#use-ai-to-help-interpret-and-connect" class="hash-link" aria-label="Direct link to Use AI to help interpret and connect" title="Direct link to Use AI to help interpret and connect" translate="no">​</a></h2>
+<p>This is also where AI starts becoming genuinely useful.</p>
+<p>Not because AI magically solves organisational design, but because it can help interpret, classify, connect, summarise, and surface knowledge at much greater scale than traditional manual systems.</p>
+<p>Used well, AI can:</p>
+<ul>
+<li class="">help staff contribute with less friction</li>
+<li class="">suggest where new knowledge belongs</li>
+<li class="">point to missing context</li>
+<li class="">detect duplicated patterns</li>
+<li class="">highlight stale logic</li>
+<li class="">surface likely gaps</li>
+<li class="">bring relevant context forward when work is happening</li>
+</ul>
+<p>Used badly, AI just accelerates confusion.</p>
+<p>The difference is whether the organisation has built enough structure for AI to work with.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="reward-contribution-and-reuse">Reward contribution and reuse<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#reward-contribution-and-reuse" class="hash-link" aria-label="Direct link to Reward contribution and reuse" title="Direct link to Reward contribution and reuse" translate="no">​</a></h2>
+<p>If the organisation wants the KnowledgeFund to grow into something real, it has to value more than visible frontline performance.</p>
+<p>It has to reward people who:</p>
+<ul>
+<li class="">make the business more legible</li>
+<li class="">identify gaps</li>
+<li class="">improve shared clarity</li>
+<li class="">create reusable assets</li>
+<li class="">strengthen handoffs</li>
+<li class="">reduce dependence on hidden expertise</li>
+</ul>
+<p>Many organisations accidentally reward local heroics while under-rewarding the work that makes the whole system better.</p>
+<p>A KnowledgeFund only works if the organisation starts treating shared intelligence as part of the job.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="expand-gradually">Expand gradually<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#expand-gradually" class="hash-link" aria-label="Direct link to Expand gradually" title="Direct link to Expand gradually" translate="no">​</a></h2>
+<p>Once the first slice is working, the organisation can extend the model into adjacent workflows, teams, and knowledge domains.</p>
+<p>The ontology gets richer.
+The reuse patterns get clearer.
+The contribution model matures.
+AI assistance improves because the surrounding context improves.</p>
+<p>Over time, the company builds not just a better knowledge base, but a stronger ability to learn, adapt, and act with shared context.</p>
+<p>That is the deeper point.</p>
+<p>A KnowledgeFund is not just a repository of what the company knows.
+It is a way for the company to become more coherent, more teachable, more reusable, and more capable of working with AI without becoming dependent on chaos, tribal memory, or vendor narratives alone.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-right-first-question">The right first question<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#the-right-first-question" class="hash-link" aria-label="Direct link to The right first question" title="Direct link to The right first question" translate="no">​</a></h2>
+<p>So if an organisation wants to create a KnowledgeFund for itself, it should not ask, "What platform should we buy?"</p>
+<p>It should ask:</p>
+<ul>
+<li class="">where does our real work currently depend on trapped knowledge</li>
+<li class="">where are we least legible to ourselves</li>
+<li class="">what would it take to make that part of the organisation more structured, shared, and reusable</li>
+<li class="">how do we turn that into a living system, not just a documentation exercise</li>
+</ul>
+<p>That is where the work begins.
+And that is probably the right place to start.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/knowledgefund/">KnowledgeFund</a></li>
+<li class=""><a class="" href="https://governance.foundation/knowledgefund/bootstrap/">KnowledgeFund Bootstrap</a></li>
+<li class=""><a class="" href="https://governance.foundation/knowledgefund/consulting/">KnowledgeFund Consulting</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
+</ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[AI rollout is business change]]></title>
             <link>https://governance.foundation/blog/2026/04/17/ai-rollout-is-about-changing-the-business/</link>
@@ -1410,132 +1574,6 @@ It becomes smarter when useful knowledge, patterns, decisions, and structures ca
 <ul>
 <li class=""><a class="" href="https://governance.foundation/blog/2016/03/22/knowledge-as-a-living-network-not-a-document-set/">Knowledge as a living network, not a document set</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/">Contribution as governance, not just compliance</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/">Contribution, reuse, and the idea of an organisational economy</a></li>
-</ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Contribution as governance, not just compliance]]></title>
-            <link>https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/</link>
-            <guid>https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/</guid>
-            <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[Why organisations should treat useful contribution to shared knowledge and structure as part of governance, not only as optional good citizenship.]]></description>
-            <content:encoded><![CDATA[<p>Governance is often imagined as something that constrains.</p>
-<p>It sets rules.
-Defines controls.
-Approves exceptions.
-Assigns accountability.
-Checks whether people complied.</p>
-<p>Some of that is necessary.
-But it leaves out something important.</p>
-<p>A functioning organisation also depends on contribution.
-People notice gaps.
-Clarify ambiguity.
-Capture lessons.
-Improve shared structures.
-Connect useful knowledge back into the whole.</p>
-<p>That is not separate from governance.
-It is part of governance.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="most-governance-models-overemphasise-restraint-and-underemphasise-contribution">Most governance models overemphasise restraint and underemphasise contribution<a href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/#most-governance-models-overemphasise-restraint-and-underemphasise-contribution" class="hash-link" aria-label="Direct link to Most governance models overemphasise restraint and underemphasise contribution" title="Direct link to Most governance models overemphasise restraint and underemphasise contribution" translate="no">​</a></h2>
-<p>Traditional governance language is strongest around prevention.
-Prevent risk.
-Prevent drift.
-Prevent non-compliance.
-Prevent failure.</p>
-<p>That matters.
-But if governance only acts as restraint, it becomes too dependent on a static view of the organisation.</p>
-<p>Real organisations do not stay static.
-They change through ongoing work.
-And shared structure only remains healthy if people contribute back into it.</p>
-<p>That means governance should care not only about whether people followed the existing structure, but whether the structure itself is being improved by what people learn.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="every-organisation-depends-on-invisible-contributors">Every organisation depends on invisible contributors<a href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/#every-organisation-depends-on-invisible-contributors" class="hash-link" aria-label="Direct link to Every organisation depends on invisible contributors" title="Direct link to Every organisation depends on invisible contributors" translate="no">​</a></h2>
-<p>Most organisations already run on contribution.
-They just fail to see it clearly.</p>
-<p>Someone updates a process after spotting the real failure mode.
-Someone documents the hidden dependency everyone kept tripping over.
-Someone clarifies a concept that was causing repeated confusion.
-Someone builds a reusable pattern that saves three other teams time.
-Someone captures the warning that stops the next expensive mistake.</p>
-<p>These acts often look small.
-But they are part of how the organisation keeps becoming more workable.</p>
-<p>When those contributions remain invisible or optional, the organisation underinvests in one of its most important governance mechanisms.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="compliance-preserves-structure-contribution-improves-structure">Compliance preserves structure, contribution improves structure<a href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/#compliance-preserves-structure-contribution-improves-structure" class="hash-link" aria-label="Direct link to Compliance preserves structure, contribution improves structure" title="Direct link to Compliance preserves structure, contribution improves structure" translate="no">​</a></h2>
-<p>This is the distinction.</p>
-<p>Compliance asks:</p>
-<ul>
-<li class="">did you follow the current rule</li>
-<li class="">did you use the approved process</li>
-<li class="">did you satisfy the required control</li>
-</ul>
-<p>Contribution asks:</p>
-<ul>
-<li class="">what did you learn that the organisation should keep</li>
-<li class="">what recurring friction did you expose</li>
-<li class="">what shared asset became stronger because of this work</li>
-<li class="">what can now be reused by someone else</li>
-<li class="">what gap in the shared model was discovered and improved</li>
-</ul>
-<p>A healthy organisation needs both.</p>
-<p>Without compliance, it can become chaotic.
-Without contribution, it becomes brittle, stale, and dependent on periodic rescue.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="contribution-is-one-way-organisations-listen-to-themselves">Contribution is one way organisations listen to themselves<a href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/#contribution-is-one-way-organisations-listen-to-themselves" class="hash-link" aria-label="Direct link to Contribution is one way organisations listen to themselves" title="Direct link to Contribution is one way organisations listen to themselves" translate="no">​</a></h2>
-<p>This is one reason contribution matters so much.</p>
-<p>A contribution is not only a gift to future readers.
-It is also a signal about how the organisation is actually functioning.</p>
-<p>Repeated contributions can reveal:</p>
-<ul>
-<li class="">where the same ambiguity keeps appearing</li>
-<li class="">where official knowledge is not enough</li>
-<li class="">where the model is missing something important</li>
-<li class="">where reuse pathways are weak</li>
-<li class="">where local work is carrying hidden organisational learning</li>
-</ul>
-<p>When the organisation treats that signal seriously, governance becomes more adaptive.
-It starts learning from contribution instead of merely checking behaviour against static expectation.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="if-contribution-is-optional-shared-structure-decays">If contribution is optional, shared structure decays<a href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/#if-contribution-is-optional-shared-structure-decays" class="hash-link" aria-label="Direct link to If contribution is optional, shared structure decays" title="Direct link to If contribution is optional, shared structure decays" translate="no">​</a></h2>
-<p>Many organisations say they value knowledge sharing, but treat it as discretionary.
-People are expected to contribute when they have time, energy, or unusual generosity.</p>
-<p>That sounds polite.
-It is structurally weak.</p>
-<p>If shared structure depends mainly on volunteerism, then the most overloaded parts of the organisation contribute the least, even when they are closest to the most valuable knowledge.</p>
-<p>The result is familiar:</p>
-<ul>
-<li class="">knowledge stays local</li>
-<li class="">the same lessons are re-learned</li>
-<li class="">gaps stay visible but unresolved</li>
-<li class="">governance becomes increasingly detached from real work</li>
-</ul>
-<p>That is not just a cultural issue.
-It is a governance design issue.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="contribution-should-be-made-visible-and-valuable">Contribution should be made visible and valuable<a href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/#contribution-should-be-made-visible-and-valuable" class="hash-link" aria-label="Direct link to Contribution should be made visible and valuable" title="Direct link to Contribution should be made visible and valuable" translate="no">​</a></h2>
-<p>If contribution matters, the organisation should make it more visible.</p>
-<p>Not in a performative way.
-In a structural way.</p>
-<p>It should be easier to see:</p>
-<ul>
-<li class="">what was contributed</li>
-<li class="">what it improved</li>
-<li class="">who reused it</li>
-<li class="">what it prevented or clarified</li>
-<li class="">where it changed shared understanding</li>
-</ul>
-<p>That visibility helps the organisation understand where value is actually being created inside the knowledge system.
-It also helps people see that improving the shared whole is real work, not side work.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-becomes-even-more-important-in-ai-supported-environments">This becomes even more important in AI-supported environments<a href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/#this-becomes-even-more-important-in-ai-supported-environments" class="hash-link" aria-label="Direct link to This becomes even more important in AI-supported environments" title="Direct link to This becomes even more important in AI-supported environments" translate="no">​</a></h2>
-<p>AI can increase output quickly.
-That makes contribution quality and reuse pathways even more important.</p>
-<p>If people and machines are producing more material, but little of it strengthens the shared structure, the organisation will generate noise faster.</p>
-<p>If contribution is connected to governance, then the organisation has a better chance of turning increased output into compounding capability.</p>
-<p>That means governance should ask not only whether work complied with standards, but whether work left the organisation stronger, clearer, and more reusable than before.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-point">The point<a href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/#the-point" class="hash-link" aria-label="Direct link to The point" title="Direct link to The point" translate="no">​</a></h2>
-<p>Governance should not be understood only as the system that checks whether people stayed inside the lines.</p>
-<p>It should also be understood as part of the system that helps the organisation improve its own shared structure over time.</p>
-<p>That is why contribution matters.</p>
-<p>When people help strengthen shared meaning, shared knowledge, and shared reuse pathways, they are not just being helpful.
-They are participating in governance.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2015/02/17/organisational-listening-as-infrastructure/">Organisational listening as infrastructure</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/05/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/">Contribution, reuse, and the idea of an organisational economy</a></li>
 </ul>]]></content:encoded>
         </item>
