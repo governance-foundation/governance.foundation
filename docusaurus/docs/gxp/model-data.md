@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Ontology Model - Data"
+title: "Model Data"
 slug: /knowledgefund/ontology/model/data
 ---
 

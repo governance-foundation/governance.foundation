@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Ontology Model - Infrastructure"
+title: "Model Infrastructure"
 slug: /knowledgefund/ontology/model/infrastructure
 ---
 

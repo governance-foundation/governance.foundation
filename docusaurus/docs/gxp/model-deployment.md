@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Ontology Model - Deployment"
+title: "Model Deployment"
 slug: /knowledgefund/ontology/model/deployment
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Ontology Model - Layers"
+title: "Model Layers"
 slug: /knowledgefund/ontology/model/layers
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Ontology Model - Business"
+title: "Model Business"
 slug: /knowledgefund/ontology/model/business
 ---
 

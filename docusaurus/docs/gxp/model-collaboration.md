@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Ontology Model - Collaboration"
+title: "Model Collaboration"
 slug: /knowledgefund/ontology/model/collaboration
 ---
 
