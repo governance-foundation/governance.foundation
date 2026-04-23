@@ -206,5 +206,5 @@ Each organisation will need its own KnowledgeFund, but it does not need to inven
 
 - [Overview](/knowledgefund/)
 - [Model](/knowledgefund/model/)
-- [Consulting](/knowledgefund/consulting/)
+- [Build Your Own KnowledgeFund](/knowledgefund/build-your-own/)
 - [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)

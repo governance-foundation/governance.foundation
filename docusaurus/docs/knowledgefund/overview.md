@@ -107,7 +107,7 @@ The goal is to help each company create the starting KnowledgeFund that fits its
 
 - [Model](/knowledgefund/model/)
 - [Bootstrap](/knowledgefund/bootstrap/)
-- [Consulting](/knowledgefund/consulting/)
+- [Build Your Own KnowledgeFund](/knowledgefund/build-your-own/)
 - [Experiences](/knowledgefund/experiences/)
 - [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)
 - [What Git did for code, KnowledgeFund will do for organisations](/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations)

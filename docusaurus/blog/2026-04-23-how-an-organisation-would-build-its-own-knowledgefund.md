@@ -218,5 +218,5 @@ And that is probably the right place to start.
 
 - [KnowledgeFund](/knowledgefund/)
 - [KnowledgeFund Bootstrap](/knowledgefund/bootstrap/)
-- [KnowledgeFund Consulting](/knowledgefund/consulting/)
+- [Build Your Own KnowledgeFund](/knowledgefund/build-your-own/)
 - [What Git did for code, KnowledgeFund will do for organisations](/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations)
