@@ -1346,6 +1346,7 @@ Still to be added:
 
 - [Ontology Architecture](/knowledgefund/ontology-architecture/)
 - [Ontology Principles](/knowledgefund/ontology-principles/)
+- [UFO Essentials](/knowledgefund/ufo-essentials/)
 - [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
 - [Knowledge Fog](/knowledgefund/knowledge-fog/)
