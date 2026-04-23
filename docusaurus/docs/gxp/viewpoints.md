@@ -1,6 +1,6 @@
 ---
-title: "Viewpoints diagram"
-slug: /gxp/diagrams/viewpoints/
+title: "Knowledge Ontology - Viewpoints Diagram"
+slug: /knowledgefund/ontology/diagrams/viewpoints/
 ---
 
 ## Viewpoints diagram

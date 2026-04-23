@@ -1,6 +1,6 @@
 ---
-title: "Technical - Architecture"
-slug: /gxp/tech/architecture
+title: "Knowledge Ontology - Technical Architecture"
+slug: /knowledgefund/ontology/tech/architecture
 ---
 
 ## Diagram preview

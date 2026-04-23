@@ -1,6 +1,6 @@
 ---
-title: "Model - Data"
-slug: /gxp/model/data
+title: "Knowledge Ontology Model - Data"
+slug: /knowledgefund/ontology/model/data
 ---
 
 ## Diagram preview

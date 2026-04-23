@@ -83,16 +83,15 @@ A mature KnowledgeFund can help an organisation:
 - provide AI with context that is structured enough to support useful action
 - create more visible, traceable, and reusable contribution across the business
 
-## How it relates to Governance and GXP
+## How it relates to Governance and Knowledge Ontology
 
 KnowledgeFund sits naturally inside the broader Governance Foundation worldview.
 
 - **Governance** describes the wider forces, structures, constraints, and feedback that shape behaviour in a system.
-- **GXP** provides an important structural model for thinking about domains, layers, collaboration, and system organisation.
-- **KnowledgeFund** applies that thinking to the practical problem of building an AI-legible organisational knowledge structure.
+- **Knowledge Ontology** provides the structural model for thinking about domains, layers, relationships, and system organisation.
+- **KnowledgeFund** applies that structural thinking to the practical problem of building an AI-legible organisational knowledge structure.
 
 In that sense, KnowledgeFund is not separate from governance. It is one practical path for making governance more real, more participatory, and more actionable inside an organisation.
-
 ## Bootstrap
 
 Each organisation will need to build its own KnowledgeFund.

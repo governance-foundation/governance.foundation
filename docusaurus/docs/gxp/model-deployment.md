@@ -1,6 +1,6 @@
 ---
-title: "Model - Deployment"
-slug: /gxp/model/deployment
+title: "Knowledge Ontology Model - Deployment"
+slug: /knowledgefund/ontology/model/deployment
 ---
 
 ## Diagram preview

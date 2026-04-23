@@ -43,8 +43,8 @@ An organisation becomes more AI-legible when its knowledge is structured enough 
 
 That does not mean reducing the organisation to a database. It means making enough of the organisation legible that AI can assist with real work, guidance, gap-finding, and learning.
 
-## Governance and GXP
+## Governance and Knowledge Ontology
 
 The KnowledgeFund model sits within a wider Governance Foundation frame.
 
-Governance describes the forces and structures shaping behaviour. GXP provides important structural thinking about domains, layers, and collaboration. KnowledgeFund applies that thinking to the practical problem of organisational knowledge, action, and adaptation.
+Governance describes the forces and structures shaping behaviour. Knowledge Ontology provides the structural thinking about domains, layers, and collaboration that helps represent organisational knowledge coherently. KnowledgeFund applies that thinking to the practical problem of organisational knowledge, action, and adaptation.

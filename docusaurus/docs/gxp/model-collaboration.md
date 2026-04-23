@@ -1,6 +1,6 @@
 ---
-title: "Model - Collaboration"
-slug: /gxp/model/collaboration
+title: "Knowledge Ontology Model - Collaboration"
+slug: /knowledgefund/ontology/model/collaboration
 ---
 
 ## Diagram preview

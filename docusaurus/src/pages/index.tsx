@@ -27,9 +27,9 @@ const primaryCards: Card[] = [
     label: 'Foundations',
   },
   {
-    title: 'GXP',
-    text: 'A structural model for domains, layers, collaboration, and organisational systems.',
-    to: '/gxp/',
+    title: 'Knowledge Ontology',
+    text: 'The structural model inside KnowledgeFund for domains, layers, collaboration, and organisational systems.',
+    to: '/knowledgefund/ontology/',
     imagePath: '/assets/images/background/core-ricardo-gomez-angel-HXBP4Nud8PQ-unsplash.jpg',
     label: 'Model',
   },
@@ -67,7 +67,7 @@ const articleCards: Card[] = [
 ];
 
 const quickLinks = [
-  {title: 'Browse docs', text: 'Open the full docs sidebar and move through Governance, GXP, Frameworks, and KnowledgeFund.', to: '/governance/'},
+  {title: 'Browse docs', text: 'Open the full docs sidebar and move through Governance, KnowledgeFund, Knowledge Ontology, and Frameworks.', to: '/governance/'},
   {title: 'Read the blog', text: 'Follow longer-form writing on governance, AI, organisational structure, and KnowledgeFund.', to: '/blog'},
   {title: 'About Governance Foundation', text: 'See the intent behind the site and how the work fits together.', to: '/about'},
   {title: 'Open an issue', text: 'Send feedback or suggest fixes directly through the repo issue templates.', to: 'https://github.com/governance-foundation/governance.foundation/issues/new/choose'},

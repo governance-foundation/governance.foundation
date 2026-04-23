@@ -1,6 +1,6 @@
 ---
-title: "Measurement diagram"
-slug: /gxp/diagrams/measurement/
+title: "Knowledge Ontology - Measurement Diagram"
+slug: /knowledgefund/ontology/diagrams/measurement/
 ---
 
 ## Measurement diagram

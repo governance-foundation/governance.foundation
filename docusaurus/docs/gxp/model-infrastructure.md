@@ -1,6 +1,6 @@
 ---
-title: "Model - Infrastructre"
-slug: /gxp/model/infrastructure
+title: "Knowledge Ontology Model - Infrastructure"
+slug: /knowledgefund/ontology/model/infrastructure
 ---
 
 ## Diagram preview

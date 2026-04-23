@@ -1,6 +1,6 @@
 ---
-title: "Terms diagram"
-slug: /gxp/diagrams/terms/
+title: "Knowledge Ontology - Terms Diagram"
+slug: /knowledgefund/ontology/diagrams/terms/
 ---
 
 ## Terms diagram

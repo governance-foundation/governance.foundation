@@ -1,6 +1,6 @@
 ---
-title: "Overview diagram"
-slug: /gxp/diagrams/overview/
+title: "Knowledge Ontology - Overview Diagram"
+slug: /knowledgefund/ontology/diagrams/overview/
 ---
 
 ## GXP overview diagram

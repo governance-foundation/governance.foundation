@@ -1,6 +1,6 @@
 ---
-title: "Model - Layers"
-slug: /gxp/model/layers
+title: "Knowledge Ontology Model - Layers"
+slug: /knowledgefund/ontology/model/layers
 ---
 
 Each of the high-level structure of information domains needs to be viewed with an information quality perspective. This would allow linking data in each domain to underlying information and would enable assessment of quality for each structure.

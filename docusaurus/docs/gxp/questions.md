@@ -1,6 +1,6 @@
 ---
-title: "Questions diagram"
-slug: /gxp/diagrams/questions/
+title: "Knowledge Ontology - Questions Diagram"
+slug: /knowledgefund/ontology/diagrams/questions/
 ---
 
 ## Questions diagram

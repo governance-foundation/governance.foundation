@@ -1,6 +1,6 @@
 ---
-title: "Model - Service"
-slug: /gxp/model/service
+title: "Knowledge Ontology Model - Service"
+slug: /knowledgefund/ontology/model/service
 ---
 
 ## Diagram preview

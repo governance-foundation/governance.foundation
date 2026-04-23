@@ -1,6 +1,6 @@
 ---
-title: "Model - Business"
-slug: /gxp/model/business
+title: "Knowledge Ontology Model - Business"
+slug: /knowledgefund/ontology/model/business
 ---
 
 ## Diagram preview
