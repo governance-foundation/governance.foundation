@@ -7,8 +7,8 @@ This page is a living working guide for OntoUML and its relevance to the Knowled
 
 It is being built as a synthesis of source material, especially the thesis *An Ontological Approach to Security Modeling* by Ítalo Oliveira, so that Governance Foundation does not need to keep returning to the source thesis just to recover the main ideas.
 
-This is not intended to replace the primary literature in every detail.
-It is intended to preserve the important structure, concepts, and implications in practical language.
+This is intended to become a durable working reference, not just a loose summary.
+The aim is to preserve the strongest ideas, distinctions, patterns, and implications in practical language.
 
 ## Why this page exists
 
@@ -22,6 +22,58 @@ OntoUML matters here because Governance Foundation is moving toward:
 That means we need more than a fashionable enterprise modeling notation.
 We need a grounded conceptual modeling approach.
 
+## What OntoUML is
+
+OntoUML is an **ontology-driven conceptual modeling language**.
+
+In simple terms, it is a way of modeling domains that tries to be careful about what kinds of things really exist, what makes them the kinds of things they are, and how they can validly relate and change.
+
+It is:
+
+- based on UML profiling/extending, not a completely separate visual world
+- grounded in **UFO**, the Unified Foundational Ontology
+- designed to express ontological distinctions explicitly
+- useful when semantic precision matters more than diagram convenience alone
+
+## What OntoUML is not
+
+OntoUML is not:
+
+- the foundational ontology itself
+- a finished enterprise architecture framework like TOGAF
+- mainly a presentation notation for business stakeholders
+- a guarantee that a model is good just because the boxes have the right stereotypes
+
+The real stack is:
+
+- **UFO** provides the foundational ontology
+- **OntoUML** provides the ontology-driven conceptual modeling language
+- **reference/domain ontologies** are built using that grounding
+- **framework views** and application models sit above that layer
+
+This matters because OntoUML is not itself the foundational ontology.
+It is the modeling language that carries foundational distinctions into conceptual models.
+
+## Why Governance Foundation cares
+
+Governance Foundation is not trying to create diagrams for their own sake.
+It is trying to create:
+
+- a canonical organisational ontology
+- agent-usable semantics
+- durable structured memory
+- ontology-based validation and testing
+- framework-independent continuity
+
+That makes OntoUML relevant because it helps separate things that enterprise models often blur together, such as:
+
+- kind vs role
+- type vs state
+- object vs relationship
+- capability vs event
+- quality vs disposition
+- stable identity vs temporary condition
+
 ## The stack, in simple terms
 
 The thesis reinforces a layered stack:
@@ -31,8 +83,13 @@ The thesis reinforces a layered stack:
 - **reference/domain ontologies** are built using that grounding
 - **framework views** and application models sit above that layer
 
-This matters because OntoUML is not itself the foundational ontology.
-It is the modeling language that carries foundational distinctions into conceptual models.
+A good working interpretation for Governance Foundation is:
+
+- **UFO-style foundational distinctions** provide the grounding layer
+- **OntoUML** provides the modeling discipline
+- **Knowledge Ontology** becomes the canonical organisational ontology
+- **agent memory and persistence** should be structured using those distinctions
+- **frameworks such as TOGAF, BMC, or other governance models** should be treated as derived views or translations
 
 ## Thesis chapter map
 
@@ -73,6 +130,192 @@ To keep synthesis manageable, this guide is being built in batches:
 
 - Chapter 9, Final considerations
 - Appendix material
+
+## Core OntoUML and UFO concepts in plain English
+
+This section is the working semantic core of the guide.
+
+### Individual vs type
+
+An **individual** is a particular thing.
+A **type** is the kind of thing something can be.
+
+Examples:
+
+- individual: `Max Barrass`
+- type: `Person`
+
+### Endurant vs perdurant
+
+This is one of the most important distinctions.
+
+- an **endurant** is something that is wholly present whenever it exists, such as a person, organisation, system, contract, or device
+- a **perdurant** is something that unfolds in time, such as an event, process occurrence, deployment, hiring, or decision meeting
+
+Very roughly:
+
+- objects endure
+- events happen
+
+### Substantial vs moment
+
+A **substantial** is an entity that exists in its own right.
+A **moment** depends on something else.
+
+Examples:
+
+- substantial: person, organisation, system
+- moment: colour, commitment, capability, vulnerability, obligation, trust level
+
+This matters because many enterprise models incorrectly treat dependent properties as if they were standalone things.
+
+### Kind
+
+A **kind** is a fundamental sort of thing that supplies identity and persistence.
+
+Examples:
+
+- Person
+- Organisation
+- System
+- Contract, if modeled as a substantial social object
+
+A kind is rigid, meaning if something is that thing, it is that thing in every situation in which it exists.
+
+### Subkind
+
+A **subkind** is a more specific rigid type under a kind.
+
+Examples:
+
+- Human Person under Person
+- Nonprofit Organisation under Organisation
+
+### Role
+
+A **role** is a context-dependent type something can take on without changing what it fundamentally is.
+
+Examples:
+
+- Customer
+- Employee
+- Supplier
+- Regulator
+- Product Owner
+
+A person can cease to be a Customer and still remain a Person.
+This is exactly why role distinctions matter.
+
+### Phase
+
+A **phase** is a temporary condition of the same underlying thing.
+
+Examples:
+
+- Draft / Published
+- Active / Suspended
+- Child / Adult
+
+A phase is not a new fundamental type.
+It is a temporary state-like classification.
+
+### Relator
+
+A **relator** is one of the most useful OntoUML ideas.
+It is a thing that grounds or makes a relation real.
+
+Examples:
+
+- Employment
+- Membership
+- Contract
+- Subscription
+- Agreement
+
+Instead of modeling `Person works for Organisation` as just a loose edge, OntoUML often wants you to model the underlying relation-making entity, such as Employment.
+
+This is extremely relevant for Governance Foundation because many important organisational relationships are not just simple links.
+They are structured arrangements with conditions, obligations, rights, and time.
+
+### Quality
+
+A **quality** is a dependent property that can vary and often has measurable values.
+
+Examples:
+
+- temperature
+- latency
+- reliability score
+- risk score
+- confidence level
+
+### Disposition
+
+A **disposition** is a dependent property involving potentiality, tendency, power, capability, vulnerability, liability, or readiness to manifest in certain conditions.
+
+Examples:
+
+- capability
+- vulnerability
+- ability
+- tendency
+- fragility
+- deterrent capability
+
+This is one of the most important concepts in the thesis.
+The thesis treats dispositions as central to understanding how events happen and how prevention works.
+
+### Situation
+
+A **situation** is a configuration of reality that can satisfy conditions, activate dispositions, or be brought about by events.
+
+In the prevention theory, situations are critical because events can be prevented by bringing about situations incompatible with their activation conditions.
+
+### Event
+
+An **event** is a perdurant, something that unfolds in time.
+
+Examples:
+
+- approval
+- attack
+- deployment
+- breach
+- policy enactment
+- meeting
+- incident
+
+In the thesis, events are manifestations of dispositions under certain situations.
+
+### Intentional and social entities
+
+UFO-C brings in intentional and social entities, which matters for organisations.
+This covers things like:
+
+- goals
+- intentions
+- commitments
+- obligations
+- agents
+- social roles
+- normative structures
+
+This is one reason UFO/OntoUML are interesting for Governance Foundation, because governance and organisations are full of social and normative reality, not just technical assets.
+
+## Why these distinctions matter so much
+
+These distinctions stop the model from collapsing into a muddle.
+
+They help prevent common mistakes such as:
+
+- treating a role as if it were a kind
+- treating a state as if it were a permanent type
+- treating a relationship as a bare line when it is actually a structured relator
+- treating a capability as if it were the same thing as an event
+- treating a score as if it were the same thing as the risk itself
+
+For agents, these distinctions are not academic.
+They determine whether the stored knowledge can be reasoned over coherently.
 
 ## Batch 1 synthesis
 
@@ -256,15 +499,186 @@ For Governance Foundation, Batch 2 strongly suggests that a good ontology should
 - event-chain reasoning
 - prevention patterns that agents can reason over
 
-## Current Governance Foundation implications
+## Best OntoUML ideas to carry forward
 
-So far, the thesis reinforces these architectural positions:
+These are the strongest reusable ideas so far.
 
-1. **The canonical knowledge layer should sit below framework views**
-2. **OntoUML is useful because it carries foundational distinctions into conceptual models**
-3. **Frameworks should be views over the ontology, not the ontology itself**
-4. **Agents need access to ontological distinctions such as role, disposition, event, state, capability, and relationship**
-5. **Controls, interventions, and policies should be modeled as structured causal mechanisms, not just labels**
+### 1. Model the world, not just the reporting framework
+
+This is the deepest lesson.
+The model should aim to capture what is there, not just how one framework wants to talk about it.
+
+### 2. Identity matters
+
+The model has to distinguish what gives something its identity from the temporary contexts it enters.
+This is why kind, role, and phase distinctions matter.
+
+### 3. Relationships often deserve ontological substance
+
+Many important organisational relationships are not just lines.
+They are structured social or normative arrangements.
+This is why relators matter.
+
+### 4. Capabilities, vulnerabilities, and liabilities are not the same as events
+
+They are dispositions that may manifest under certain conditions.
+This gives a much better basis for reasoning about risk, opportunity, governance, and change.
+
+### 5. Interventions should be modeled causally
+
+Controls, policies, security mechanisms, and governance mechanisms should be modeled in terms of what they change in the causal and dispositional setup of the world.
+
+### 6. Frameworks should be views over the ontology
+
+This aligns strongly with the Governance Foundation position that TOGAF, BMC, and similar models should be layered as presentations/translations rather than treated as the canonical storage structure.
+
+## What this likely means for Knowledge Ontology
+
+At this stage, the strongest working interpretation is:
+
+### Canonical ontology layer
+
+The canonical layer should likely model things such as:
+
+- organisations
+- people
+- teams
+- roles
+- capabilities
+- services
+- products
+- applications
+- data objects
+- infrastructure elements
+- decisions
+- policies
+- risks
+- vulnerabilities
+- dependencies
+- controls
+- workflows
+- events
+- evidence
+- obligations
+- agreements
+
+### Not all of these are the same ontological kind of thing
+
+Some are likely:
+
+- kinds
+- roles
+- phases
+- relators
+- qualities
+- dispositions
+- events
+- situations
+
+That is exactly why OntoUML is useful.
+
+### Agents should not just store notes
+
+Agents should be able to persist knowledge into this ontology as:
+
+- typed entities
+- typed relationships
+- structured relators
+- dispositions and qualities
+- event records
+- state/phase changes
+- evidence and provenance
+- confidence and contradiction markers
+
+### Rules should follow ontological distinctions
+
+Examples:
+
+- a role should depend on an appropriate context
+- a phase should not be modeled as a permanent kind
+- a control should connect to what it is capable of preventing
+- a risk score should not be confused with the risk event type itself
+- a contract-like relation may need a relator rather than a bare link
+
+## Governance Foundation working heuristics
+
+Until a fuller formal model exists, these are good working heuristics.
+
+### Treat these as likely different
+
+Do not casually collapse:
+
+- organisation vs organisational role
+- capability vs process
+- process vs event occurrence
+- vulnerability vs incident
+- control mechanism vs control event
+- goal vs policy
+- contract vs relationship line
+- confidence score vs evidence
+
+### Prefer structure over convenience when it matters
+
+If the ontology will be used by agents and rules, convenience modeling shortcuts become future problems.
+
+### Separate canonical semantics from presentation semantics
+
+A framework may present:
+
+- capability map
+- value stream
+- application inventory
+- governance structure
+
+But those presentations should be derived from the canonical ontology where possible.
+
+## Common modeling mistakes to watch for
+
+These are exactly the kinds of problems OntoUML helps catch.
+
+### Role as kind mistake
+
+Bad pattern:
+- model `Customer` as if it were a permanent kind of person
+
+Better:
+- `Person` as kind
+- `Customer` as role
+
+### State as kind mistake
+
+Bad pattern:
+- model `Draft Document` and `Published Document` as unrelated kinds
+
+Better:
+- underlying thing persists
+- draft/published are phase-like distinctions
+
+### Relationship flattening mistake
+
+Bad pattern:
+- `Person` linked to `Organisation` with a simple line when the real thing is employment, appointment, membership, or contract
+
+Better:
+- model the underlying relator where the semantics matter
+
+### Event-disposition confusion
+
+Bad pattern:
+- capability treated as if it were the same thing as the behavior/event itself
+
+Better:
+- capability is a disposition
+- event is its manifestation under certain conditions
+
+### Score-reality confusion
+
+Bad pattern:
+- risk score treated as if it were the same thing as the risk structure itself
+
+Better:
+- score is a quality/assessment artifact
+- risk setup is a broader ontological configuration
 
 ## What still needs to be synthesized
 
@@ -275,15 +689,33 @@ The next batches should capture:
 - how it redesigns ArchiMate risk and security modeling
 - what final general lessons it draws for ontology-driven modeling
 
-## Working interpretation for Knowledge Ontology
+## Current Governance Foundation implications
 
-At this stage, the strongest working interpretation is:
+So far, the thesis reinforces these architectural positions:
 
-- **UFO-style foundational distinctions** provide the grounding layer
-- **OntoUML** provides the modeling discipline
-- **Knowledge Ontology** becomes the canonical organisational ontology
-- **agent memory and persistence** should be structured using those distinctions
-- **frameworks such as TOGAF, BMC, or other governance models** should be treated as derived views or translations
+1. **The canonical knowledge layer should sit below framework views**
+2. **OntoUML is useful because it carries foundational distinctions into conceptual models**
+3. **Frameworks should be views over the ontology, not the ontology itself**
+4. **Agents need access to ontological distinctions such as role, disposition, event, state, capability, and relationship**
+5. **Controls, interventions, and policies should be modeled as structured causal mechanisms, not just labels**
+
+## Current synthesis status
+
+This guide currently includes:
+
+- thesis structure
+- the grounding stack
+- plain-English concept notes
+- Batch 1 synthesis
+- Batch 2 synthesis
+- practical Governance Foundation interpretation
+
+Still to be added:
+
+- Batch 3 synthesis
+- Batch 4 synthesis
+- a more explicit mapping from current Knowledge Ontology concepts to OntoUML-style categories
+- a first-cut OntoUML-informed runtime object model for agents
 
 ## Related reading
 
