@@ -109,6 +109,7 @@ The goal is to help each company create the starting KnowledgeFund that fits its
 - [Build Your Own KnowledgeFund](/knowledgefund/build-your-own/)
 - [Ontology Architecture](/knowledgefund/ontology-architecture/)
 - [Ontology Principles](/knowledgefund/ontology-principles/)
+- [OntoUML Guide](/knowledgefund/ontouml-guide/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
 - [Knowledge Fog](/knowledgefund/knowledge-fog/)
 - [Agent Discovery Workflow](/knowledgefund/agent-discovery/)

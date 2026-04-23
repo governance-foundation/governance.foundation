@@ -42,6 +42,7 @@ const sidebars: SidebarsConfig = {
         'knowledgefund/consulting',
         'knowledgefund/ontology-architecture',
         'knowledgefund/ontology-principles',
+        'knowledgefund/ontouml-guide',
         'knowledgefund/frameworks-as-views',
         'knowledgefund/knowledge-fog',
         'knowledgefund/agent-discovery',
