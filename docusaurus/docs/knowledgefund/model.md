@@ -48,3 +48,9 @@ That does not mean reducing the organisation to a database. It means making enou
 The KnowledgeFund model sits within a wider Governance Foundation frame.
 
 Governance describes the forces and structures shaping behaviour. Knowledge Ontology provides the structural thinking about domains, layers, and collaboration that helps represent organisational knowledge coherently. KnowledgeFund applies that thinking to the practical problem of organisational knowledge, action, and adaptation.
+
+## Related reading
+
+- [Ontology Architecture](/knowledgefund/ontology-architecture/)
+- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [Frameworks as Views](/knowledgefund/frameworks-as-views/)
