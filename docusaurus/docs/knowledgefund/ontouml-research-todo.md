@@ -17,8 +17,8 @@ The goal of this research list is to move from:
 
 ## Priority order
 
-1. UFO core foundations (first pass underway via [UFO Essentials](/knowledgefund/ufo-essentials/))
-2. Types and taxonomic structures
+1. UFO core foundations (first pass captured in [UFO Essentials](/knowledgefund/ufo-essentials/))
+2. Types and taxonomic structures (first pass captured in [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/))
 3. Relationships and relators
 4. Events, occurrents, and time
 5. Prevention vs interference / mitigation
@@ -229,6 +229,7 @@ The best immediate next step is probably:
 ## Related reading
 
 - [UFO Essentials](/knowledgefund/ufo-essentials/)
+- [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
 - [OntoUML Guide](/knowledgefund/ontouml-guide/)
 - [Ontology Architecture](/knowledgefund/ontology-architecture/)
 - [Ontology Principles](/knowledgefund/ontology-principles/)

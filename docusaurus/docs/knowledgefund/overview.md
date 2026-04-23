@@ -110,6 +110,7 @@ The goal is to help each company create the starting KnowledgeFund that fits its
 - [Ontology Architecture](/knowledgefund/ontology-architecture/)
 - [Ontology Principles](/knowledgefund/ontology-principles/)
 - [UFO Essentials](/knowledgefund/ufo-essentials/)
+- [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
 - [OntoUML Guide](/knowledgefund/ontouml-guide/)
 - [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)

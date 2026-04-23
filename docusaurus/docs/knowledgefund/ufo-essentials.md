@@ -589,7 +589,7 @@ This UFO pass suggests that the runtime model will likely need explicit support 
 This page is only the first pass.
 The next research passes should deepen:
 
-- taxonomy and rigidity rules in more detail
+- taxonomy and rigidity rules in more detail, now captured in [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
 - relationship/relator theory in more detail
 - events and occurrents in more detail
 - enterprise architecture mapping

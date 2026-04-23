@@ -43,6 +43,7 @@ const sidebars: SidebarsConfig = {
         'knowledgefund/ontology-architecture',
         'knowledgefund/ontology-principles',
         'knowledgefund/ufo-essentials',
+        'knowledgefund/taxonomy-type-rules',
         'knowledgefund/ontouml-guide',
         'knowledgefund/ontouml-research-todo',
         'knowledgefund/frameworks-as-views',
