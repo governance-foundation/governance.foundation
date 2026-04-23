@@ -40,6 +40,8 @@ const sidebars: SidebarsConfig = {
         'knowledgefund/diagram',
         'knowledgefund/bootstrap',
         'knowledgefund/consulting',
+        'knowledgefund/knowledge-fog',
+        'knowledgefund/agent-discovery',
         'knowledgefund/experiences',
       ],
     },

@@ -18,7 +18,7 @@ That may include diagnostic, modelling, discovery, assistance, and contribution 
 
 Some of the experience areas already hinted at in the deck material include:
 
-- **Knowledge Fog** for surfacing ambiguity, fragmentation, or uncertainty
+- **Knowledge Fog** for measuring ambiguity, fragmentation, uncertainty, and ontology gaps across organisational domains
 - **Knowledge Architect** for shaping the structure and relationships of organisational knowledge
 - **Knowledge Finder** for discovering relevant knowledge and context
 - **Knowledge Assistant** for helping people navigate and act within the structure
@@ -34,3 +34,8 @@ The challenge is to ensure the experiences are not disconnected features. They s
 ## What comes next
 
 The next step is to turn these named experiences into clearer product definitions with users, triggers, actions, outputs, and value.
+
+## Related reading
+
+- [Knowledge Fog](/knowledgefund/knowledge-fog/)
+- [Agent Discovery Workflow](/knowledgefund/agent-discovery/)
