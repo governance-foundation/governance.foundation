@@ -1,79 +1,123 @@
 ---
-title: "Overview"
+title: "Diagram README"
 slug: /knowledgefund/ontology/diagrams/overview/
 ---
 
-These pages are not just a folder of diagrams.
+This page explains how to add and maintain diagrams for the Knowledge Ontology section and for other documentation areas that use the same diagram workflow.
 
-They are supporting instruments for the Knowledge Ontology.
-Together they help describe how the ontology can be explored, questioned, measured, interpreted, and communicated.
+## What this page is for
 
-## What this section is for
+The diagrams in this section are supporting artefacts for ontology and KnowledgeFund pages.
+They can also be used elsewhere across the docs when a page needs a maintained visual model.
 
-The Knowledge Ontology is not only a static model.
-It needs practical tools that help people and agents work with it.
+This page is the working README for:
 
-This section brings together five kinds of support material:
+- creating diagrams
+- editing diagrams
+- storing them in the repo
+- embedding them into docs pages
+- understanding the older Google Drive based workflow that existed around them
 
-- **Overview** , how to think about the diagram and support set as a whole
-- **Measurement** , ways of assessing products, capabilities, and organisational knowledge
-- **Questions** , the discovery questions the organisation should be able to ask and answer
-- **Terms** , the core concepts and vocabulary that give the ontology semantic clarity
-- **Viewpoints** , the different lenses that can be used to interpret the same underlying structure
+## Editing diagrams
 
-## Why these pages matter
+To edit diagrams, use one of these tools:
 
-A useful ontology needs more than boxes and lines.
-It needs:
+- [app.diagrams.net](https://app.diagrams.net/)
+- [Draw.io Desktop](https://github.com/jgraph/drawio-desktop/releases)
 
-- language
-- questions
-- measures
-- perspectives
-- interpretive discipline
+The original workflow note recommended using diagrams.net with GitHub as the file source so diagrams can be opened, edited, and versioned directly in git.
 
-Without those, diagrams stay decorative.
-With them, the ontology becomes something people and agents can actually use.
+## Where diagrams live
 
-## How to use these pages
+The current docs pages reference diagrams from the repo under:
 
-These pages should be read as a working set:
+- `/assets/gxp/diagrams/`
 
-1. use **Terms** to clarify core meaning
-2. use **Questions** to guide discovery and inquiry
-3. use **Measurement** to assess capability, products, and knowledge quality
-4. use **Viewpoints** to look at the same organisation through different lenses
-5. use the underlying diagrams as supporting visual artefacts, not as the whole explanation
+A typical embedded page points at a `.drawio` file in that folder through the local diagram viewer.
 
-## Relation to the wider ontology direction
+## How to embed a diagram in a docs page
 
-These pages now sit inside a broader direction where:
+The current recommended pattern is to embed diagrams with the local `diagram-viewer.html` page.
 
-- the ontology is the canonical source of truth
-- agents use the ontology to persist and test knowledge
-- Knowledge Fog helps show where understanding is weak
-- opinionated frameworks are treated as views over the ontology rather than as the canonical storage structure
+Example:
 
-That means these diagram pages should support ontology use, not distract from it.
-
-## Diagram
-
+```mdx
 <iframe
-  title="Knowledge Ontology Overview Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Architecture.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FGXP-Architecture.drawio"
+  title="My Diagram"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=My-Diagram.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FMy-Diagram.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
 />
+```
 
+Then include a direct fallback link below it:
+
+```md
 If the embedded viewer does not load, open directly:
 
-- /assets/gxp/diagrams/GXP-Architecture.drawio
+- /assets/gxp/diagrams/My-Diagram.drawio
+```
+
+## Recommended page pattern
+
+When adding a diagram page, do not leave it as only an embed unless the page is intentionally just a raw diagram reference.
+
+Prefer this structure:
+
+1. short explanation of what the diagram is for
+2. any important interpretation notes
+3. the embedded diagram
+4. a direct fallback link
+5. related reading where useful
+
+That keeps the diagram connected to the ontology rather than becoming an orphaned visual.
+
+## Older Google Drive workflow
+
+The original source material described an older workflow where diagrams were uploaded to a public Google Drive folder and embedded via a diagrams.net viewer URL.
+
+That older model used:
+
+- a public diagrams folder in Google Drive
+- generated file IDs
+- iframe embeds that referenced Google Drive hosted files
+- container commands for listing, syncing, and sharing files
+
+Example legacy embed pattern:
+
+```html
+<iframe
+ frameborder="0"
+ style="width:100%;height:973px;"
+ src="https://viewer.diagrams.net/#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D<YOU_DIAGRAM_ID>">
+</iframe>
+```
+
+That is useful historical context, but the current repo pages are now using local repo-hosted assets instead.
+
+## Legacy operational notes from the original README
+
+The original file also recorded that:
+
+- diagrams were uploaded after commit through a pipeline
+- a service account owned the public diagrams folder
+- file IDs could be looked up from a generated listing file
+- helper container commands were used for list, delete, sync, share, and status operations
+
+Those notes are still useful if that legacy publishing path still exists somewhere in infrastructure, but they should be treated as operational history unless actively confirmed as current.
+
+## Practical rule
+
+If you are adding a diagram anywhere in docs:
+
+- keep the `.drawio` source in the repo
+- embed it from the local assets path
+- include a fallback link
+- add enough explanation that the page still makes sense without opening the diagram editor
 
 ## Related reading
 
+- [Knowledge Ontology](/knowledgefund/ontology/)
 - [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
-- [Knowledge Fog](/knowledgefund/knowledge-fog/)
-- [Agent Discovery Workflow](/knowledgefund/agent-discovery/)
