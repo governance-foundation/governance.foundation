@@ -1,9 +1,9 @@
 ---
-title: "Knowledge Ontology - Questions Diagram"
+title: "Questions"
 slug: /knowledgefund/ontology/diagrams/questions/
 ---
 
-## Questions diagram
+## Knowledge Ontology questions diagram
 
 <iframe
   title="Questions Diagram"

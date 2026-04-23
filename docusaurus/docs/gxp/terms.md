@@ -1,9 +1,9 @@
 ---
-title: "Knowledge Ontology - Terms Diagram"
+title: "Terms"
 slug: /knowledgefund/ontology/diagrams/terms/
 ---
 
-## Terms diagram
+## Knowledge Ontology terms diagram
 
 <iframe
   title="Terms Diagram"

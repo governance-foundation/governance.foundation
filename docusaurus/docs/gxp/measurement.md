@@ -1,9 +1,9 @@
 ---
-title: "Knowledge Ontology - Measurement Diagram"
+title: "Measurement"
 slug: /knowledgefund/ontology/diagrams/measurement/
 ---
 
-## Measurement diagram
+## Knowledge Ontology measurement diagram
 
 <iframe
   title="Measurement Diagram"

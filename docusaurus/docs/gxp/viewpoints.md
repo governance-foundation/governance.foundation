@@ -1,9 +1,9 @@
 ---
-title: "Knowledge Ontology - Viewpoints Diagram"
+title: "Viewpoints"
 slug: /knowledgefund/ontology/diagrams/viewpoints/
 ---
 
-## Viewpoints diagram
+## Knowledge Ontology viewpoints diagram
 
 <iframe
   title="Viewpoints Diagram"
