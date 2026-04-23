@@ -1,43 +1,94 @@
 ---
-title: "Diagram README"
+title: "Contributing"
 slug: /knowledgefund/ontology/diagrams/overview/
 ---
 
-This page explains how to add and maintain diagrams for the Knowledge Ontology section and for other documentation areas that use the same diagram workflow.
+This page explains how to add and maintain diagrams for the Knowledge Ontology section and anywhere else in docs that uses our local diagram renderer.
 
 ## What this page is for
 
-The diagrams in this section are supporting artefacts for ontology and KnowledgeFund pages.
-They can also be used elsewhere across the docs when a page needs a maintained visual model.
+Use this page as the working guide for:
 
-This page is the working README for:
+- creating or updating `.drawio` diagrams
+- storing diagram source files in the repo
+- embedding diagrams into docs pages with our local renderer
+- keeping diagram pages consistent with the current docs setup
 
-- creating diagrams
-- editing diagrams
-- storing them in the repo
-- embedding them into docs pages
-- understanding the older Google Drive based workflow that existed around them
+## Current renderer setup
 
-## Editing diagrams
+The current site does **not** rely on the older Google Drive embed flow for normal diagram pages.
 
-To edit diagrams, use one of these tools:
+Our current pattern is:
+
+- store `.drawio` files in the repo under `/assets/gxp/diagrams/`
+- embed them from docs pages through `/diagram-viewer.html`
+- pass the diagram file path in the `file` query parameter
+- usually enable `lightbox=1`, `layers=1`, and `nav=1`
+
+A typical live embed in this repo looks like this:
+
+```mdx
+<iframe
+  title="My Diagram"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=My-Diagram.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FMy-Diagram.drawio"
+  width="100%"
+  height="700"
+  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
+/>
+```
+
+## Where files go
+
+### Diagram source files
+
+Put the `.drawio` file here:
+
+- `docusaurus/static/assets/gxp/diagrams/`
+
+That makes it available on the site at:
+
+- `/assets/gxp/diagrams/<filename>.drawio`
+
+### Docs pages
+
+For the Knowledge Ontology diagram pages, the current docs live here:
+
+- `docusaurus/docs/gxp/`
+
+Those pages currently map to routes like:
+
+- `/knowledgefund/ontology/diagrams/overview/`
+- `/knowledgefund/ontology/diagrams/measurement/`
+- `/knowledgefund/ontology/diagrams/questions/`
+- `/knowledgefund/ontology/diagrams/terms/`
+- `/knowledgefund/ontology/diagrams/viewpoints/`
+
+You can also reuse the same renderer pattern in other docs sections when needed.
+
+## How to add a new diagram
+
+### 1. Create or update the `.drawio` file
+
+Use one of these tools:
 
 - [app.diagrams.net](https://app.diagrams.net/)
 - [Draw.io Desktop](https://github.com/jgraph/drawio-desktop/releases)
 
-The original workflow note recommended using diagrams.net with GitHub as the file source so diagrams can be opened, edited, and versioned directly in git.
+If using diagrams.net in the browser, GitHub-backed editing is a good fit because it keeps the diagram source versioned directly in git.
 
-## Where diagrams live
+### 2. Save the file into the repo
 
-The current docs pages reference diagrams from the repo under:
+Add the source file under:
 
-- `/assets/gxp/diagrams/`
+- `docusaurus/static/assets/gxp/diagrams/`
 
-A typical embedded page points at a `.drawio` file in that folder through the local diagram viewer.
+Example:
 
-## How to embed a diagram in a docs page
+- `docusaurus/static/assets/gxp/diagrams/My-Diagram.drawio`
 
-The current recommended pattern is to embed diagrams with the local `diagram-viewer.html` page.
+### 3. Create or update the docs page
+
+In the relevant docs markdown or MDX page, embed the diagram with our local viewer.
 
 Example:
 
@@ -51,7 +102,7 @@ Example:
 />
 ```
 
-Then include a direct fallback link below it:
+### 4. Add a fallback link below the embed
 
 ```md
 If the embedded viewer does not load, open directly:
@@ -59,32 +110,53 @@ If the embedded viewer does not load, open directly:
 - /assets/gxp/diagrams/My-Diagram.drawio
 ```
 
-## Recommended page pattern
+### 5. Add explanation, not just the iframe
 
-When adding a diagram page, do not leave it as only an embed unless the page is intentionally just a raw diagram reference.
+Do not leave a docs page as only a raw embed unless that is truly intentional.
 
-Prefer this structure:
+Prefer this pattern:
 
 1. short explanation of what the diagram is for
-2. any important interpretation notes
-3. the embedded diagram
-4. a direct fallback link
+2. any interpretation notes
+3. the iframe embed
+4. fallback direct link
 5. related reading where useful
 
-That keeps the diagram connected to the ontology rather than becoming an orphaned visual.
+## Copy-paste template
 
-## Older Google Drive workflow
+```md
+## Diagram
 
-The original source material described an older workflow where diagrams were uploaded to a public Google Drive folder and embedded via a diagrams.net viewer URL.
+<iframe
+  title="My Diagram"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=My-Diagram.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FMy-Diagram.drawio"
+  width="100%"
+  height="700"
+  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
+/>
 
-That older model used:
+If the embedded viewer does not load, open directly:
 
-- a public diagrams folder in Google Drive
-- generated file IDs
-- iframe embeds that referenced Google Drive hosted files
-- container commands for listing, syncing, and sharing files
+- /assets/gxp/diagrams/My-Diagram.drawio
+```
 
-Example legacy embed pattern:
+## Notes on the query params we currently use
+
+The current embeds in this repo usually include:
+
+- `lightbox=1`
+- `layers=1`
+- `nav=1`
+- `title=<filename>.drawio`
+- `file=%2Fassets%2Fgxp%2Fdiagrams%2F<filename>.drawio`
+
+So if you are matching the current site style, keep those parameters unless there is a reason to change them.
+
+## Legacy Google Drive workflow
+
+The original source material described an older flow where diagrams were uploaded to a public Google Drive folder and embedded through a diagrams.net viewer URL.
+
+That older pattern looked like this:
 
 ```html
 <iframe
@@ -94,27 +166,18 @@ Example legacy embed pattern:
 </iframe>
 ```
 
-That is useful historical context, but the current repo pages are now using local repo-hosted assets instead.
-
-## Legacy operational notes from the original README
-
-The original file also recorded that:
-
-- diagrams were uploaded after commit through a pipeline
-- a service account owned the public diagrams folder
-- file IDs could be looked up from a generated listing file
-- helper container commands were used for list, delete, sync, share, and status operations
-
-Those notes are still useful if that legacy publishing path still exists somewhere in infrastructure, but they should be treated as operational history unless actively confirmed as current.
+That is useful historical context, but the current repo pages use local repo-hosted assets and the local renderer instead.
 
 ## Practical rule
 
 If you are adding a diagram anywhere in docs:
 
 - keep the `.drawio` source in the repo
-- embed it from the local assets path
+- put it under `docusaurus/static/assets/gxp/diagrams/`
+- embed it through `/diagram-viewer.html`
+- use the local `/assets/...` path in the `file` parameter
 - include a fallback link
-- add enough explanation that the page still makes sense without opening the diagram editor
+- include enough explanation that the page is still useful without opening the diagram source
 
 ## Related reading
 
