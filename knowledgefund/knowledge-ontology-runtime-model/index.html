@@ -1,0 +1,451 @@
+<!doctype html><html lang=en dir=ltr class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-knowledgefund/knowledge-ontology-runtime-model" data-has-hydrated=false><head><meta charset=UTF-8><meta name=generator content="Docusaurus v3.10.0"><title data-rh=true>Knowledge Ontology Runtime Model | Governance Foundation</title><meta data-rh=true name=viewport content="width=device-width, initial-scale=1.0"/><meta data-rh=true name=twitter:card content=summary_large_image /><meta data-rh=true property=og:image content=https://governance.foundation/assets/screenshots/homepage-og.jpg /><meta data-rh=true name=twitter:image content=https://governance.foundation/assets/screenshots/homepage-og.jpg /><meta data-rh=true property=og:url content=https://governance.foundation/knowledgefund/knowledge-ontology-runtime-model/ /><meta data-rh=true property=og:locale content=en /><meta data-rh=true name=docusaurus_locale content=en /><meta data-rh=true name=docsearch:language content=en /><meta data-rh=true name=docusaurus_version content=current /><meta data-rh=true name=docusaurus_tag content=docs-default-current /><meta data-rh=true name=docsearch:version content=current /><meta data-rh=true name=docsearch:docusaurus_tag content=docs-default-current /><meta data-rh=true property=og:title content="Knowledge Ontology Runtime Model | Governance Foundation"/><meta data-rh=true name=description content="This page defines a first-pass runtime model for Governance Foundation's Knowledge Ontology work."/><meta data-rh=true property=og:description content="This page defines a first-pass runtime model for Governance Foundation's Knowledge Ontology work."/><link data-rh=true rel=icon href=/assets/icons/favicon-32x32.png /><link data-rh=true rel=canonical href=https://governance.foundation/knowledgefund/knowledge-ontology-runtime-model/ /><link data-rh=true rel=alternate href=https://governance.foundation/knowledgefund/knowledge-ontology-runtime-model/ hreflang=en /><link data-rh=true rel=alternate href=https://governance.foundation/knowledgefund/knowledge-ontology-runtime-model/ hreflang=x-default /><script data-rh=true type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://governance.foundation/knowledgefund/","name":"KnowledgeFund","position":1},{"@type":"ListItem","item":"https://governance.foundation/knowledgefund/knowledge-ontology-runtime-model/","name":"Knowledge Ontology Runtime Model","position":2}]}</script><link rel=alternate type=application/rss+xml href=/blog/rss.xml title="Governance Foundation RSS Feed"><link rel=alternate type=application/atom+xml href=/blog/atom.xml title="Governance Foundation Atom Feed"><link rel=stylesheet href=/assets/css/styles.e631a4bf.css /><script src=/assets/js/runtime~main.b493a909.js defer></script><script src=/assets/js/main.d6e408f1.js defer></script></head><body><svg style="display: none;"><defs>
+<symbol id=theme-svg-external-link viewBox="0 0 24 24"><path fill=currentColor d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme-03b")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||"dark"),document.documentElement.setAttribute("data-theme-choice",t||"dark")}(),function(){try{for(var[t,e]of new URLSearchParams(window.location.search).entries())if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id=__docusaurus><link rel=preload as=image href=/assets/branding/governance-foundation-logo.jpg /><link rel=preload as=image href=/assets/branding/governance-foundation-logo-dark.png /><div role=region aria-label="Skip to main content"><a class=skipToContent_fXgn href=#__docusaurus_skipToContent_fallback>Skip to main content</a></div><nav aria-label=Main class="theme-layout-navbar navbar navbar--fixed-top"><div class=navbar__inner><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded=false class="navbar__toggle clean-btn" type=button><svg width=30 height=30 viewBox="0 0 30 30" aria-hidden=true><path stroke=currentColor stroke-linecap=round stroke-miterlimit=10 stroke-width=2 d="M4 7h22M4 15h22M4 23h22"/></svg></button><a class=navbar__brand href=/><div class=navbar__logo><img src=/assets/branding/governance-foundation-logo.jpg alt="Governance Foundation" class="themedComponent_mlkZ themedComponent--light_NVdE"/><img src=/assets/branding/governance-foundation-logo-dark.png alt="Governance Foundation" class="themedComponent_mlkZ themedComponent--dark_xIcU"/></div><b class="navbar__title text--truncate"></b></a><a aria-current=page class="navbar__item navbar__link navbar__link--active" href=/knowledgefund/>KnowledgeFund</a><a class="navbar__item navbar__link" href=/governance/>Governance</a><a class="navbar__item navbar__link" href=/knowledgefund/ontology/>Knowledge Ontology</a><a class="navbar__item navbar__link" href=/frameworks/>Frameworks</a><a class="navbar__item navbar__link" href=/blog/>Blog</a><a class="navbar__item navbar__link" href=/about/>About</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href=https://github.com/governance-foundation/governance.foundation/issues/new/choose target=_blank rel="noopener noreferrer" class="navbar__item navbar__link navbar-open-issue">Open Issue<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><div class=navbarSearchContainer_Bca1><div class="navbar__search searchBarContainer_NW3z" dir=ltr><input placeholder=Search aria-label=Search class="navbar__search-input searchInput_YFbd" value="" /><div class="loadingRing_RJI3 searchBarLoadingRing_YnHq"><div></div><div></div><div></div><div></div></div></div></div><a href=https://github.com/governance-foundation/governance.foundation target=_blank rel="noopener noreferrer" class="navbar__item navbar__link navbar-github-link">GitHub<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type=button disabled title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill=currentColor d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill=currentColor d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill=currentColor d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"/></svg></button></div></div></div><div role=presentation class=navbar-sidebar__backdrop></div></nav><div id=__docusaurus_skipToContent_fallback class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class=docsWrapper_hBAB><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type=button></button><div class=docRoot_UBD9><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class=sidebarViewport_aRkj><div class=sidebar_njMd><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" href=/knowledgefund/><span title=KnowledgeFund class=categoryLinkLabel_W154>KnowledgeFund</span></a><button aria-label="Collapse sidebar category 'KnowledgeFund'" aria-expanded=true type=button class="clean-btn menu__caret"></button></div><ul class=menu__list><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/><span title=Experiences class=linkLabel_WmDU>Experiences</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/model/><span title="KnowledgeFund Model" class=linkLabel_WmDU>KnowledgeFund Model</span></a><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" tabindex=0 href=/knowledgefund/ontology/><span title="Knowledge Ontology" class=categoryLinkLabel_W154>Knowledge Ontology</span></a><button aria-label="Expand sidebar category 'Knowledge Ontology'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/diagram/><span title="KnowledgeFund Diagram" class=linkLabel_WmDU>KnowledgeFund Diagram</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/bootstrap/><span title="KnowledgeFund Bootstrap" class=linkLabel_WmDU>KnowledgeFund Bootstrap</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/build-your-own/><span title="Build Your Own KnowledgeFund" class=linkLabel_WmDU>Build Your Own KnowledgeFund</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/ontology-architecture/><span title="Ontology Architecture" class=linkLabel_WmDU>Ontology Architecture</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/ontology-principles/><span title="Ontology Principles" class=linkLabel_WmDU>Ontology Principles</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/ufo-essentials/><span title="UFO Essentials" class=linkLabel_WmDU>UFO Essentials</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/taxonomy-type-rules/><span title="Taxonomy and Type Rules" class=linkLabel_WmDU>Taxonomy and Type Rules</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/relationships-relators-guide/><span title="Relationships and Relators Guide" class=linkLabel_WmDU>Relationships and Relators Guide</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/events-and-temporal-change/><span title="Events and Temporal Change Guide" class=linkLabel_WmDU>Events and Temporal Change Guide</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/mitigation-and-interference-extension/><span title="Mitigation and Interference Extension Note" class=linkLabel_WmDU>Mitigation and Interference Extension Note</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/enterprise-architecture-ontology-mapping/><span title="Enterprise Architecture Ontology Mapping" class=linkLabel_WmDU>Enterprise Architecture Ontology Mapping</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link menu__link--active" aria-current=page tabindex=0 href=/knowledgefund/knowledge-ontology-runtime-model/><span title="Knowledge Ontology Runtime Model" class=linkLabel_WmDU>Knowledge Ontology Runtime Model</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/ontouml-guide/><span title="OntoUML Guide" class=linkLabel_WmDU>OntoUML Guide</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/ontouml-research-todo/><span title="OntoUML Research TODO" class=linkLabel_WmDU>OntoUML Research TODO</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/frameworks-as-views/><span title="Frameworks as Views" class=linkLabel_WmDU>Frameworks as Views</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/knowledge-fog/><span title="Knowledge Fog" class=linkLabel_WmDU>Knowledge Fog</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/agent-discovery/><span title="Agent Discovery Workflow" class=linkLabel_WmDU>Agent Discovery Workflow</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgefund/experiences/><span title="KnowledgeFund Experiences" class=linkLabel_WmDU>KnowledgeFund Experiences</span></a></ul><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/governance/><span title=Governance class=categoryLinkLabel_W154>Governance</span></a><button aria-label="Expand sidebar category 'Governance'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/frameworks/><span title=Frameworks class=categoryLinkLabel_W154>Frameworks</span></a><button aria-label="Expand sidebar category 'Frameworks'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/brand/brand-guidelines/><span title=Brand class=categoryLinkLabel_W154>Brand</span></a><button aria-label="Expand sidebar category 'Brand'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div></ul></nav></div></div></aside><main class=docMainContainer_TBSr><div class="container padding-top--md padding-bottom--lg"><div class=row><div class="col docItemCol_VOVn"><div class=docItemContainer_Djhp><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label=Breadcrumbs><ul class=breadcrumbs><li class=breadcrumbs__item><a aria-label="Home page" class=breadcrumbs__link href=/><svg viewBox="0 0 24 24" class=breadcrumbHomeIcon_YNFT><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill=currentColor /></svg></a><li class=breadcrumbs__item><a class=breadcrumbs__link href=/knowledgefund/><span>KnowledgeFund</span></a><li class="breadcrumbs__item breadcrumbs__item--active"><span class=breadcrumbs__link>Knowledge Ontology Runtime Model</span></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type=button class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Knowledge Ontology Runtime Model</h1></header><p>This page defines a first-pass <strong>runtime model</strong> for Governance Foundation's Knowledge Ontology work.</p>
+<p>It is the practical follow-through from the OntoUML/UFO research passes.
+The goal is not to turn the ontology into academic decoration.
+The goal is to define a machine-usable semantic backbone for:</p>
+<ul>
+<li class="">agent memory</li>
+<li class="">durable organisational knowledge</li>
+<li class="">traceable relationships</li>
+<li class="">structured change history</li>
+<li class="">framework-independent storage</li>
+<li class="">validation and contradiction handling</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=why-this-page-exists>Why this page exists<a href=#why-this-page-exists class=hash-link aria-label="Direct link to Why this page exists" title="Direct link to Why this page exists" translate=no>​</a></h2>
+<p>The earlier OntoUML work clarified several things:</p>
+<ul>
+<li class="">identity-bearing things must be separated from roles, phases, qualities, relators, and events</li>
+<li class="">relationships with terms, obligations, or lifecycle need first-class relator treatment</li>
+<li class="">plans, commitments, schedules, situations, and occurrences must not be collapsed into one blob</li>
+<li class="">enterprise frameworks should be treated as views over canonical semantics, not as the semantics themselves</li>
+</ul>
+<p>That means Governance Foundation needs a runtime model that preserves those distinctions directly.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=core-runtime-stance>Core runtime stance<a href=#core-runtime-stance class=hash-link aria-label="Direct link to Core runtime stance" title="Direct link to Core runtime stance" translate=no>​</a></h2>
+<p>The runtime model should be:</p>
+<ul>
+<li class=""><strong>ontology-first</strong> rather than UI-first</li>
+<li class=""><strong>event-aware</strong> rather than snapshot-only</li>
+<li class=""><strong>evidence-bearing</strong> rather than assertion-only</li>
+<li class=""><strong>contradiction-tolerant</strong> rather than assuming one clean truth source</li>
+<li class=""><strong>projection-friendly</strong> so frameworks and applications can render views without redefining meaning</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=the-minimum-canonical-runtime-categories>The minimum canonical runtime categories<a href=#the-minimum-canonical-runtime-categories class=hash-link aria-label="Direct link to The minimum canonical runtime categories" title="Direct link to The minimum canonical runtime categories" translate=no>​</a></h2>
+<p>The runtime should treat the following as distinct categories.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=1-entity>1. Entity<a href=#1-entity class=hash-link aria-label="Direct link to 1. Entity" title="Direct link to 1. Entity" translate=no>​</a></h3>
+<p>Identity-bearing endurants.
+These are the core things that persist.</p>
+<p>Examples:</p>
+<ul>
+<li class="">Person</li>
+<li class="">Organisation</li>
+<li class="">Team</li>
+<li class="">System</li>
+<li class="">Application</li>
+<li class="">Dataset</li>
+<li class="">Policy</li>
+<li class="">Document</li>
+<li class="">Capability definition, if treated as a stable social/object artifact rather than a mere label</li>
+</ul>
+<p>Useful first-pass fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>kind</code></li>
+<li class=""><code>subkind?</code></li>
+<li class=""><code>label</code></li>
+<li class=""><code>description?</code></li>
+<li class=""><code>statusPhase?</code></li>
+<li class=""><code>validFrom?</code></li>
+<li class=""><code>validTo?</code></li>
+<li class=""><code>sourceRefs[]</code></li>
+<li class=""><code>evidenceRefs[]</code></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=2-role-assignment>2. Role assignment<a href=#2-role-assignment class=hash-link aria-label="Direct link to 2. Role assignment" title="Direct link to 2. Role assignment" translate=no>​</a></h3>
+<p>Context-dependent classifications played by entities.</p>
+<p>Examples:</p>
+<ul>
+<li class="">Person as Employee</li>
+<li class="">Organisation as Supplier</li>
+<li class="">Team as Service Owner</li>
+<li class="">System as System of Record</li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>roleType</code></li>
+<li class=""><code>playerEntityId</code></li>
+<li class=""><code>contextRelatorId?</code></li>
+<li class=""><code>contextEntityId?</code></li>
+<li class=""><code>validFrom?</code></li>
+<li class=""><code>validTo?</code></li>
+<li class=""><code>evidenceRefs[]</code></li>
+</ul>
+<p>Important rule:
+A role assignment is not the same as the underlying entity.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=3-phase-state>3. Phase state<a href=#3-phase-state class=hash-link aria-label="Direct link to 3. Phase state" title="Direct link to 3. Phase state" translate=no>​</a></h3>
+<p>Temporary condition of the same underlying thing.</p>
+<p>Examples:</p>
+<ul>
+<li class="">Draft</li>
+<li class="">Active</li>
+<li class="">Suspended</li>
+<li class="">Deprecated</li>
+<li class="">Deleted</li>
+<li class="">Archived</li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>phaseType</code></li>
+<li class=""><code>entityId</code></li>
+<li class=""><code>enteredAt</code></li>
+<li class=""><code>leftAt?</code></li>
+<li class=""><code>causedByEventId?</code></li>
+<li class=""><code>evidenceRefs[]</code></li>
+</ul>
+<p>Important rule:
+A phase change should usually be backed by an event.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=4-relator>4. Relator<a href=#4-relator class=hash-link aria-label="Direct link to 4. Relator" title="Direct link to 4. Relator" translate=no>​</a></h3>
+<p>First-class relationship-bearing entities that ground material relations.</p>
+<p>Examples:</p>
+<ul>
+<li class="">Employment</li>
+<li class="">Membership</li>
+<li class="">Contract</li>
+<li class="">Mandate</li>
+<li class="">Service Agreement</li>
+<li class="">Delegation</li>
+<li class="">Compliance Obligation</li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>relatorType</code></li>
+<li class=""><code>phaseState</code></li>
+<li class=""><code>terms?</code></li>
+<li class=""><code>effectiveFrom?</code></li>
+<li class=""><code>effectiveTo?</code></li>
+<li class=""><code>governingSourceId?</code></li>
+<li class=""><code>evidenceRefs[]</code></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=5-participation--mediation-link>5. Participation / mediation link<a href=#5-participation--mediation-link class=hash-link aria-label="Direct link to 5. Participation / mediation link" title="Direct link to 5. Participation / mediation link" translate=no>​</a></h3>
+<p>Explicit links that show how entities take part in relators, situations, and events.</p>
+<p>Examples:</p>
+<ul>
+<li class="">Person participates in Employment as Employee</li>
+<li class="">Organisation participates in Employment as Employer</li>
+<li class="">Team participates in Review Event as Reviewer</li>
+<li class="">System participates in Deployment Event as Deployment Target</li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>linkType</code></li>
+<li class=""><code>subjectId</code></li>
+<li class=""><code>objectId</code></li>
+<li class=""><code>participantRole</code></li>
+<li class=""><code>validFrom?</code></li>
+<li class=""><code>validTo?</code></li>
+<li class=""><code>evidenceRefs[]</code></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=6-disposition>6. Disposition<a href=#6-disposition class=hash-link aria-label="Direct link to 6. Disposition" title="Direct link to 6. Disposition" translate=no>​</a></h3>
+<p>Latent capacities, liabilities, vulnerabilities, powers, or tendencies.</p>
+<p>Examples:</p>
+<ul>
+<li class="">capability</li>
+<li class="">permission</li>
+<li class="">authority</li>
+<li class="">resilience capability</li>
+<li class="">vulnerability</li>
+<li class="">dependency risk</li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>dispositionType</code></li>
+<li class=""><code>bearerEntityId</code></li>
+<li class=""><code>basisRef?</code></li>
+<li class=""><code>activationCondition?</code></li>
+<li class=""><code>manifestsAsEventType?</code></li>
+<li class=""><code>qualityRefs[]</code></li>
+<li class=""><code>evidenceRefs[]</code></li>
+</ul>
+<p>Important rule:
+A capability is usually not an event and not just a document.
+It is a dependent potential borne by something.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=7-quality>7. Quality<a href=#7-quality class=hash-link aria-label="Direct link to 7. Quality" title="Direct link to 7. Quality" translate=no>​</a></h3>
+<p>Measured or assessable dependent properties.</p>
+<p>Examples:</p>
+<ul>
+<li class="">confidence score</li>
+<li class="">risk level</li>
+<li class="">availability</li>
+<li class="">completeness</li>
+<li class="">freshness</li>
+<li class="">trust rating</li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>qualityType</code></li>
+<li class=""><code>bearerId</code></li>
+<li class=""><code>value</code></li>
+<li class=""><code>scale?</code></li>
+<li class=""><code>measuredAt</code></li>
+<li class=""><code>measuredBy?</code></li>
+<li class=""><code>evidenceRefs[]</code></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=8-situation>8. Situation<a href=#8-situation class=hash-link aria-label="Direct link to 8. Situation" title="Direct link to 8. Situation" translate=no>​</a></h3>
+<p>A state of affairs that holds at a time and can justify action, concern, or interpretation.</p>
+<p>Examples:</p>
+<ul>
+<li class="">policy conflict exists</li>
+<li class="">system is in degraded state</li>
+<li class="">approval is blocked</li>
+<li class="">evidence is contradictory</li>
+<li class="">service continuity is at risk</li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>situationType</code></li>
+<li class=""><code>participantRefs[]</code></li>
+<li class=""><code>detectedAt</code></li>
+<li class=""><code>resolvedAt?</code></li>
+<li class=""><code>supportingEvidenceRefs[]</code></li>
+<li class=""><code>confidence</code></li>
+</ul>
+<p>Important rule:
+Situations are not just labels on events.
+They often summarize the meaningful state that events reveal.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=9-event>9. Event<a href=#9-event class=hash-link aria-label="Direct link to 9. Event" title="Direct link to 9. Event" translate=no>​</a></h3>
+<p>Occurrents that unfold in time and create, change, or terminate runtime state.</p>
+<p>Examples:</p>
+<ul>
+<li class="">hiring</li>
+<li class="">approval</li>
+<li class="">deployment</li>
+<li class="">incident</li>
+<li class="">migration</li>
+<li class="">review</li>
+<li class="">revocation</li>
+<li class="">restore</li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>eventType</code></li>
+<li class=""><code>startedAt</code></li>
+<li class=""><code>endedAt?</code></li>
+<li class=""><code>participantRefs[]</code></li>
+<li class=""><code>preSituationRefs[]</code></li>
+<li class=""><code>postSituationRefs[]</code></li>
+<li class=""><code>causalPredecessorRefs[]</code></li>
+<li class=""><code>evidenceRefs[]</code></li>
+</ul>
+<p>Important rule:
+Events should carry history and transition semantics.
+They should not be used as a substitute for the persistent entities or relators they affect.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=10-normative-artifact>10. Normative artifact<a href=#10-normative-artifact class=hash-link aria-label="Direct link to 10. Normative artifact" title="Direct link to 10. Normative artifact" translate=no>​</a></h3>
+<p>Descriptions that guide or constrain reality but are not themselves the runtime occurrences.</p>
+<p>Examples:</p>
+<ul>
+<li class="">policy</li>
+<li class="">process definition</li>
+<li class="">workflow definition</li>
+<li class="">standard</li>
+<li class="">contract template</li>
+<li class="">role definition</li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>artifactType</code></li>
+<li class=""><code>version</code></li>
+<li class=""><code>issuerId?</code></li>
+<li class=""><code>effectiveFrom?</code></li>
+<li class=""><code>effectiveTo?</code></li>
+<li class=""><code>supersedesId?</code></li>
+<li class=""><code>evidenceRefs[]</code></li>
+</ul>
+<p>Important rule:
+Do not collapse definition, commitment, schedule, and execution into one record.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=11-claim--assertion>11. Claim / assertion<a href=#11-claim--assertion class=hash-link aria-label="Direct link to 11. Claim / assertion" title="Direct link to 11. Claim / assertion" translate=no>​</a></h3>
+<p>Explicit machine-usable statements the system believes, suspects, or is testing.</p>
+<p>Examples:</p>
+<ul>
+<li class=""><code>System X is system-of-record for Client Y billing data</code></li>
+<li class=""><code>Person P currently plays Role R in Team T</code></li>
+<li class=""><code>Contract C governs service S</code></li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>claimType</code></li>
+<li class=""><code>subjectRef</code></li>
+<li class=""><code>predicate</code></li>
+<li class=""><code>objectRef</code></li>
+<li class=""><code>qualifiers?</code></li>
+<li class=""><code>confidence</code></li>
+<li class=""><code>status</code><br/>
+<!-- -->(<code>proposed</code>, <code>supported</code>, <code>contested</code>, <code>superseded</code>, <code>retracted</code>)</li>
+<li class=""><code>evidenceRefs[]</code></li>
+<li class=""><code>contradictionRefs[]</code></li>
+</ul>
+<p>This layer is useful because real organisational knowledge often arrives as claims before it is cleanly normalized.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=12-evidence--provenance-record>12. Evidence / provenance record<a href=#12-evidence--provenance-record class=hash-link aria-label="Direct link to 12. Evidence / provenance record" title="Direct link to 12. Evidence / provenance record" translate=no>​</a></h3>
+<p>The runtime must preserve where knowledge came from and why it is believed.</p>
+<p>Examples:</p>
+<ul>
+<li class="">document excerpt</li>
+<li class="">message thread</li>
+<li class="">API payload</li>
+<li class="">user assertion</li>
+<li class="">observed event log</li>
+<li class="">imported spreadsheet row</li>
+</ul>
+<p>Useful fields:</p>
+<ul>
+<li class=""><code>id</code></li>
+<li class=""><code>evidenceType</code></li>
+<li class=""><code>sourceSystem</code></li>
+<li class=""><code>sourceLocator</code></li>
+<li class=""><code>capturedAt</code></li>
+<li class=""><code>capturedBy</code></li>
+<li class=""><code>hash?</code></li>
+<li class=""><code>excerpt?</code></li>
+<li class=""><code>confidenceContribution?</code></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=relationship-categories-the-runtime-should-support>Relationship categories the runtime should support<a href=#relationship-categories-the-runtime-should-support class=hash-link aria-label="Direct link to Relationship categories the runtime should support" title="Direct link to Relationship categories the runtime should support" translate=no>​</a></h2>
+<p>At minimum, the runtime should support these canonical link patterns:</p>
+<ol>
+<li class=""><strong>classification</strong><br/>
+<!-- -->entity -> kind/subkind</li>
+<li class=""><strong>role playing</strong><br/>
+<!-- -->entity -> role assignment</li>
+<li class=""><strong>phase membership</strong><br/>
+<!-- -->entity -> phase state</li>
+<li class=""><strong>mediation</strong><br/>
+<!-- -->relator -> participating entities</li>
+<li class=""><strong>participation</strong><br/>
+<!-- -->entity -> event</li>
+<li class=""><strong>bearing</strong><br/>
+<!-- -->entity -> quality / disposition</li>
+<li class=""><strong>aboutness</strong><br/>
+<!-- -->artifact/evidence/claim -> entity, relator, event, or situation</li>
+<li class=""><strong>causal linkage</strong><br/>
+<!-- -->event -> event / situation</li>
+<li class=""><strong>governance linkage</strong><br/>
+<!-- -->policy/standard/contract -> governed entity, relator, role, or event</li>
+<li class=""><strong>projection linkage</strong><br/>
+<!-- -->canonical object -> framework/view representation</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=first-pass-runtime-modeling-rules>First-pass runtime modeling rules<a href=#first-pass-runtime-modeling-rules class=hash-link aria-label="Direct link to First-pass runtime modeling rules" title="Direct link to First-pass runtime modeling rules" translate=no>​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-1-keep-identity-role-and-phase-separate>Rule 1: keep identity, role, and phase separate<a href=#rule-1-keep-identity-role-and-phase-separate class=hash-link aria-label="Direct link to Rule 1: keep identity, role, and phase separate" title="Direct link to Rule 1: keep identity, role, and phase separate" translate=no>​</a></h3>
+<p>Do not model <code>Employee</code>, <code>SuspendedEmployee</code>, and <code>FormerEmployee</code> as if they were all the same kind of thing.
+Usually:</p>
+<ul>
+<li class="">Person = entity kind</li>
+<li class="">Employee = role</li>
+<li class="">Suspended / Former = phase or relator state</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-2-if-a-relationship-has-terms-or-obligations-use-a-relator>Rule 2: if a relationship has terms or obligations, use a relator<a href=#rule-2-if-a-relationship-has-terms-or-obligations-use-a-relator class=hash-link aria-label="Direct link to Rule 2: if a relationship has terms or obligations, use a relator" title="Direct link to Rule 2: if a relationship has terms or obligations, use a relator" translate=no>​</a></h3>
+<p>A bare edge is not enough when the relationship has:</p>
+<ul>
+<li class="">lifecycle</li>
+<li class="">obligations</li>
+<li class="">rights</li>
+<li class="">terms</li>
+<li class="">scope</li>
+<li class="">evidence</li>
+<li class="">amendments</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-3-definitions-are-not-commitments-and-commitments-are-not-occurrences>Rule 3: definitions are not commitments, and commitments are not occurrences<a href=#rule-3-definitions-are-not-commitments-and-commitments-are-not-occurrences class=hash-link aria-label="Direct link to Rule 3: definitions are not commitments, and commitments are not occurrences" title="Direct link to Rule 3: definitions are not commitments, and commitments are not occurrences" translate=no>​</a></h3>
+<p>Keep distinct:</p>
+<ul>
+<li class="">process/policy/contract definition</li>
+<li class="">actual commitment or agreement</li>
+<li class="">scheduled appointment</li>
+<li class="">real occurrence</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-4-events-should-explain-change>Rule 4: events should explain change<a href=#rule-4-events-should-explain-change class=hash-link aria-label="Direct link to Rule 4: events should explain change" title="Direct link to Rule 4: events should explain change" translate=no>​</a></h3>
+<p>If a runtime fact changed materially, the model should usually be able to point to an event or imported observation explaining why.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-5-every-important-runtime-fact-should-be-evidence-bearing>Rule 5: every important runtime fact should be evidence-bearing<a href=#rule-5-every-important-runtime-fact-should-be-evidence-bearing class=hash-link aria-label="Direct link to Rule 5: every important runtime fact should be evidence-bearing" title="Direct link to Rule 5: every important runtime fact should be evidence-bearing" translate=no>​</a></h3>
+<p>Important state without provenance should be treated as weak knowledge.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-6-contradiction-is-normal>Rule 6: contradiction is normal<a href=#rule-6-contradiction-is-normal class=hash-link aria-label="Direct link to Rule 6: contradiction is normal" title="Direct link to Rule 6: contradiction is normal" translate=no>​</a></h3>
+<p>The runtime should not assume that all sources agree.
+Different claims may coexist while:</p>
+<ul>
+<li class="">confidence differs</li>
+<li class="">source authority differs</li>
+<li class="">one claim supersedes another</li>
+<li class="">a contradiction remains unresolved</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-7-views-must-not-overwrite-canonical-semantics>Rule 7: views must not overwrite canonical semantics<a href=#rule-7-views-must-not-overwrite-canonical-semantics class=hash-link aria-label="Direct link to Rule 7: views must not overwrite canonical semantics" title="Direct link to Rule 7: views must not overwrite canonical semantics" translate=no>​</a></h3>
+<p>Framework representations such as service maps, capability maps, accountability charts, or EA layers should be derived projections.
+They should not redefine ontology categories silently.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=suggested-persistence-shape>Suggested persistence shape<a href=#suggested-persistence-shape class=hash-link aria-label="Direct link to Suggested persistence shape" title="Direct link to Suggested persistence shape" translate=no>​</a></h2>
+<p>A practical first pass could use a mixed model:</p>
+<ul>
+<li class=""><strong>typed object records</strong> for entities, relators, events, situations, artifacts</li>
+<li class=""><strong>typed link records</strong> for mediation, participation, role playing, causal links</li>
+<li class=""><strong>claim/evidence tables</strong> for uncertain or source-bound assertions</li>
+<li class=""><strong>projection tables</strong> for framework-specific renderings</li>
+</ul>
+<p>A minimal object family could look like:</p>
+<div class="language-json codeBlockContainer_Ckt0 theme-code-block" style=--prism-color:#F8F8F2;--prism-background-color:#282A36><div class=codeBlockContent_QJqH><pre tabindex=0 class="prism-code language-json codeBlock_bY9V thin-scrollbar" style=color:#F8F8F2;background-color:#282A36><code class=codeBlockLines_e6Vv><div class=token-line style=color:#F8F8F2><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"id"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"evt_approval_123"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"category"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"event"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"type"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"ApprovalEvent"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"startedAt"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"2026-04-25T09:00:00Z"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"endedAt"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"2026-04-25T09:03:00Z"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"participants"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">[</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">    </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token property">"entityId"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"person_max"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> </span><span class="token property">"role"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"approver"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">    </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token property">"entityId"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"doc_policy_7"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> </span><span class="token property">"role"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"approvedArtifact"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token punctuation" style="color:rgb(248, 248, 242)">]</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"postSituationRefs"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">[</span><span class="token string" style="color:rgb(255, 121, 198)">"sit_policy_active"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">]</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"evidenceRefs"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">[</span><span class="token string" style="color:rgb(255, 121, 198)">"ev_msg_998"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"ev_api_445"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">]</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><br/></div></code></pre></div></div>
+<p>And a relator record could look like:</p>
+<div class="language-json codeBlockContainer_Ckt0 theme-code-block" style=--prism-color:#F8F8F2;--prism-background-color:#282A36><div class=codeBlockContent_QJqH><pre tabindex=0 class="prism-code language-json codeBlock_bY9V thin-scrollbar" style=color:#F8F8F2;background-color:#282A36><code class=codeBlockLines_e6Vv><div class=token-line style=color:#F8F8F2><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"id"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"rel_employment_44"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"category"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"relator"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"type"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"Employment"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"phaseState"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"active"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"participants"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">[</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">    </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token property">"entityId"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"person_1"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> </span><span class="token property">"role"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"employee"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">    </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token property">"entityId"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"org_9"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> </span><span class="token property">"role"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"employer"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token punctuation" style="color:rgb(248, 248, 242)">]</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"effectiveFrom"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">"2026-01-10"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain">  </span><span class="token property">"evidenceRefs"</span><span class="token operator">:</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">[</span><span class="token string" style="color:rgb(255, 121, 198)">"ev_contract_12"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">]</span><span class="token plain"></span><br/></div><div class=token-line style=color:#F8F8F2><span class="token plain"></span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><br/></div></code></pre></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=what-agents-should-be-able-to-do-with-this-model>What agents should be able to do with this model<a href=#what-agents-should-be-able-to-do-with-this-model class=hash-link aria-label="Direct link to What agents should be able to do with this model" title="Direct link to What agents should be able to do with this model" translate=no>​</a></h2>
+<p>A useful runtime model is not just for storage.
+It should allow agents to:</p>
+<ul>
+<li class="">ask what something fundamentally is</li>
+<li class="">distinguish role from identity and state</li>
+<li class="">trace who/what participates in a relationship or event</li>
+<li class="">explain why the system believes a fact</li>
+<li class="">detect missing evidence or contradictory claims</li>
+<li class="">reconstruct change history</li>
+<li class="">generate framework views without flattening the underlying semantics</li>
+<li class="">suggest ontology mistakes or anti-patterns in newly added knowledge</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=high-value-automatic-validations>High-value automatic validations<a href=#high-value-automatic-validations class=hash-link aria-label="Direct link to High-value automatic validations" title="Direct link to High-value automatic validations" translate=no>​</a></h2>
+<p>The runtime should eventually validate rules such as:</p>
+<ol>
+<li class="">a role assignment must point to a compatible entity kind</li>
+<li class="">a phase state must apply to a valid bearer category</li>
+<li class="">a relator must mediate at least two participants where the relator type requires it</li>
+<li class="">an event should not be the only representation of a persistent relationship</li>
+<li class="">contradictory active claims on the same fact should be flagged</li>
+<li class="">important claims without evidence should be downgraded or queued for review</li>
+<li class="">framework projections must map back to canonical objects</li>
+<li class="">deleted/deprecated/superseded states should preserve history rather than erase it</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=the-most-important-practical-implication>The most important practical implication<a href=#the-most-important-practical-implication class=hash-link aria-label="Direct link to The most important practical implication" title="Direct link to The most important practical implication" translate=no>​</a></h2>
+<p>Governance Foundation should not try to jump straight from documents into a giant clean enterprise graph.</p>
+<p>A better path is:</p>
+<ol>
+<li class="">capture source-bound claims and evidence</li>
+<li class="">normalize stable entities, relators, events, situations, and artifacts</li>
+<li class="">track roles, phases, qualities, and dispositions explicitly</li>
+<li class="">let framework views render from that canonical base</li>
+<li class="">keep contradiction and provenance visible instead of pretending they do not exist</li>
+</ol>
+<p>That is what makes the runtime model agent-usable instead of merely diagrammable.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=recommended-next-step>Recommended next step<a href=#recommended-next-step class=hash-link aria-label="Direct link to Recommended next step" title="Direct link to Recommended next step" translate=no>​</a></h2>
+<p>The next strong follow-through after this page is to build the companion <strong>Ontology Glossary</strong> so the runtime categories and OntoUML terms have stable local definitions.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=related-reading>Related reading<a href=#related-reading class=hash-link aria-label="Direct link to Related reading" title="Direct link to Related reading" translate=no>​</a></h2>
+<ul>
+<li class=""><a class="" href=/knowledgefund/ufo-essentials/>UFO Essentials</a></li>
+<li class=""><a class="" href=/knowledgefund/taxonomy-type-rules/>Taxonomy and Type Rules</a></li>
+<li class=""><a class="" href=/knowledgefund/relationships-relators-guide/>Relationships and Relators Guide</a></li>
+<li class=""><a class="" href=/knowledgefund/events-and-temporal-change/>Events and Temporal Change Guide</a></li>
+<li class=""><a class="" href=/knowledgefund/mitigation-and-interference-extension/>Mitigation and Interference Extension Note</a></li>
+<li class=""><a class="" href=/knowledgefund/enterprise-architecture-ontology-mapping/>Enterprise Architecture Ontology Mapping</a></li>
+<li class=""><a class="" href=/knowledgefund/ontouml-guide/>OntoUML Guide</a></li>
+<li class=""><a class="" href=/knowledgefund/ontouml-research-todo/>OntoUML Research TODO</a></li>
+<li class=""><a class="" href=/knowledgefund/ontology-architecture/>Ontology Architecture</a></li>
+<li class=""><a class="" href=/knowledgefund/ontology-principles/>Ontology Principles</a></li>
+<li class=""><a class="" href=/knowledgefund/frameworks-as-views/>Frameworks as Views</a></li>
+</ul></div></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href=/knowledgefund/enterprise-architecture-ontology-mapping/><div class=pagination-nav__sublabel>Previous</div><div class=pagination-nav__label>Enterprise Architecture Ontology Mapping</div></a><a class="pagination-nav__link pagination-nav__link--next" href=/knowledgefund/ontouml-guide/><div class=pagination-nav__sublabel>Next</div><div class=pagination-nav__label>OntoUML Guide</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href=#why-this-page-exists class="table-of-contents__link toc-highlight">Why this page exists</a><li><a href=#core-runtime-stance class="table-of-contents__link toc-highlight">Core runtime stance</a><li><a href=#the-minimum-canonical-runtime-categories class="table-of-contents__link toc-highlight">The minimum canonical runtime categories</a><ul><li><a href=#1-entity class="table-of-contents__link toc-highlight">1. Entity</a><li><a href=#2-role-assignment class="table-of-contents__link toc-highlight">2. Role assignment</a><li><a href=#3-phase-state class="table-of-contents__link toc-highlight">3. Phase state</a><li><a href=#4-relator class="table-of-contents__link toc-highlight">4. Relator</a><li><a href=#5-participation--mediation-link class="table-of-contents__link toc-highlight">5. Participation / mediation link</a><li><a href=#6-disposition class="table-of-contents__link toc-highlight">6. Disposition</a><li><a href=#7-quality class="table-of-contents__link toc-highlight">7. Quality</a><li><a href=#8-situation class="table-of-contents__link toc-highlight">8. Situation</a><li><a href=#9-event class="table-of-contents__link toc-highlight">9. Event</a><li><a href=#10-normative-artifact class="table-of-contents__link toc-highlight">10. Normative artifact</a><li><a href=#11-claim--assertion class="table-of-contents__link toc-highlight">11. Claim / assertion</a><li><a href=#12-evidence--provenance-record class="table-of-contents__link toc-highlight">12. Evidence / provenance record</a></ul><li><a href=#relationship-categories-the-runtime-should-support class="table-of-contents__link toc-highlight">Relationship categories the runtime should support</a><li><a href=#first-pass-runtime-modeling-rules class="table-of-contents__link toc-highlight">First-pass runtime modeling rules</a><ul><li><a href=#rule-1-keep-identity-role-and-phase-separate class="table-of-contents__link toc-highlight">Rule 1: keep identity, role, and phase separate</a><li><a href=#rule-2-if-a-relationship-has-terms-or-obligations-use-a-relator class="table-of-contents__link toc-highlight">Rule 2: if a relationship has terms or obligations, use a relator</a><li><a href=#rule-3-definitions-are-not-commitments-and-commitments-are-not-occurrences class="table-of-contents__link toc-highlight">Rule 3: definitions are not commitments, and commitments are not occurrences</a><li><a href=#rule-4-events-should-explain-change class="table-of-contents__link toc-highlight">Rule 4: events should explain change</a><li><a href=#rule-5-every-important-runtime-fact-should-be-evidence-bearing class="table-of-contents__link toc-highlight">Rule 5: every important runtime fact should be evidence-bearing</a><li><a href=#rule-6-contradiction-is-normal class="table-of-contents__link toc-highlight">Rule 6: contradiction is normal</a><li><a href=#rule-7-views-must-not-overwrite-canonical-semantics class="table-of-contents__link toc-highlight">Rule 7: views must not overwrite canonical semantics</a></ul><li><a href=#suggested-persistence-shape class="table-of-contents__link toc-highlight">Suggested persistence shape</a><li><a href=#what-agents-should-be-able-to-do-with-this-model class="table-of-contents__link toc-highlight">What agents should be able to do with this model</a><li><a href=#high-value-automatic-validations class="table-of-contents__link toc-highlight">High-value automatic validations</a><li><a href=#the-most-important-practical-implication class="table-of-contents__link toc-highlight">The most important practical implication</a><li><a href=#recommended-next-step class="table-of-contents__link toc-highlight">Recommended next step</a><li><a href=#related-reading class="table-of-contents__link toc-highlight">Related reading</a></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="theme-layout-footer-column col footer__col"><div class=footer__title>Explore</div><ul class="footer__items clean-list"><li class=footer__item><a class=footer__link-item href=/knowledgefund/>KnowledgeFund</a><li class=footer__item><a class=footer__link-item href=/governance/>Governance</a><li class=footer__item><a class=footer__link-item href=/knowledgefund/ontology/>Knowledge Ontology</a><li class=footer__item><a class=footer__link-item href=/frameworks/>Frameworks</a></ul></div><div class="theme-layout-footer-column col footer__col"><div class=footer__title>Content</div><ul class="footer__items clean-list"><li class=footer__item><a class=footer__link-item href=/blog/>Blog</a><li class=footer__item><a class=footer__link-item href=/about/>About</a></ul></div><div class="theme-layout-footer-column col footer__col"><div class=footer__title>More</div><ul class="footer__items clean-list"><li class=footer__item><a href=https://github.com/governance-foundation/governance.foundation/issues/new/choose target=_blank rel="noopener noreferrer" class=footer__link-item>Open Issue<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><li class=footer__item><a href=https://github.com/governance-foundation/governance.foundation target=_blank rel="noopener noreferrer" class=footer__link-item>GitHub<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a></ul></div></div><div class="footer__bottom text--center"><div class=footer__copyright>Copyright © 2026 Governance Foundation.</div></div></div></footer></div></body>
