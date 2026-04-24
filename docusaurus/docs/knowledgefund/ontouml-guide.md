@@ -1347,7 +1347,9 @@ Still to be added:
 - [Ontology Architecture](/knowledgefund/ontology-architecture/)
 - [Ontology Principles](/knowledgefund/ontology-principles/)
 - [UFO Essentials](/knowledgefund/ufo-essentials/)
+- [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
 - [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
 - [Knowledge Fog](/knowledgefund/knowledge-fog/)
 - [Agent Discovery Workflow](/knowledgefund/agent-discovery/)
+

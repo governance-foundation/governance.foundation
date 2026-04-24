@@ -44,6 +44,7 @@ const sidebars: SidebarsConfig = {
         'knowledgefund/ontology-principles',
         'knowledgefund/ufo-essentials',
         'knowledgefund/taxonomy-type-rules',
+        'knowledgefund/relationships-relators-guide',
         'knowledgefund/ontouml-guide',
         'knowledgefund/ontouml-research-todo',
         'knowledgefund/frameworks-as-views',
@@ -103,3 +104,4 @@ const sidebars: SidebarsConfig = {
 };
 
 export default sidebars;
+
