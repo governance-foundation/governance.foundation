@@ -114,6 +114,7 @@ The goal is to help each company create the starting KnowledgeFund that fits its
 - [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
 - [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
 - [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
+- [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/)
 - [OntoUML Guide](/knowledgefund/ontouml-guide/)
 - [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
@@ -123,6 +124,7 @@ The goal is to help each company create the starting KnowledgeFund that fits its
 - [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)
 - [What Git did for code, KnowledgeFund will do for organisations](/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations)
 - [Beyond harness engineering: why AI success is a governance problem](/blog/2026/04/16/beyond-harness-engineering-why-ai-success-is-a-governance-problem)
+
 
 
 

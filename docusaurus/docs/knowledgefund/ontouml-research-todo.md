@@ -135,7 +135,7 @@ Governance and organisational design need more than binary prevention.
 - a note on where the prevention model is sufficient and where Governance Foundation must extend it
 - candidate concepts for mitigation, resilience, and recovery ontology work
 
-### 6. Research well-founded enterprise architecture modeling
+### 6. Research well-founded enterprise architecture modeling (first pass captured in [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/))
 
 **Why:**
 The ArchiMate chapter is useful, but Governance Foundation needs broader enterprise architecture mapping.
@@ -233,10 +233,12 @@ The best immediate next step is probably:
 - [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
 - [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
 - [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
+- [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/)
 - [OntoUML Guide](/knowledgefund/ontouml-guide/)
 - [Ontology Architecture](/knowledgefund/ontology-architecture/)
 - [Ontology Principles](/knowledgefund/ontology-principles/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
+
 
 
 
