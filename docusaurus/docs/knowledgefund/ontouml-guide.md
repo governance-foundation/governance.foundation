@@ -1349,9 +1349,11 @@ Still to be added:
 - [UFO Essentials](/knowledgefund/ufo-essentials/)
 - [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
 - [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
+- [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
 - [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
 - [Knowledge Fog](/knowledgefund/knowledge-fog/)
 - [Agent Discovery Workflow](/knowledgefund/agent-discovery/)
+
 
 

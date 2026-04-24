@@ -46,6 +46,7 @@ const sidebars: SidebarsConfig = {
         'knowledgefund/taxonomy-type-rules',
         'knowledgefund/relationships-relators-guide',
         'knowledgefund/events-and-temporal-change',
+        'knowledgefund/mitigation-and-interference-extension',
         'knowledgefund/ontouml-guide',
         'knowledgefund/ontouml-research-todo',
         'knowledgefund/frameworks-as-views',
@@ -105,5 +106,6 @@ const sidebars: SidebarsConfig = {
 };
 
 export default sidebars;
+
 
 
