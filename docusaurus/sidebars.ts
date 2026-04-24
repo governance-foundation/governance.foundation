@@ -48,6 +48,7 @@ const sidebars: SidebarsConfig = {
         'knowledgefund/events-and-temporal-change',
         'knowledgefund/mitigation-and-interference-extension',
         'knowledgefund/enterprise-architecture-ontology-mapping',
+        'knowledgefund/knowledge-ontology-runtime-model',
         'knowledgefund/ontouml-guide',
         'knowledgefund/ontouml-research-todo',
         'knowledgefund/frameworks-as-views',

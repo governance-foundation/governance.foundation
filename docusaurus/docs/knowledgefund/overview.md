@@ -115,6 +115,7 @@ The goal is to help each company create the starting KnowledgeFund that fits its
 - [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
 - [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
 - [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/)
+- [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/)
 - [OntoUML Guide](/knowledgefund/ontouml-guide/)
 - [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)

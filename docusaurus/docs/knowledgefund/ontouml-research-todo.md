@@ -23,7 +23,7 @@ The goal of this research list is to move from:
 4. Events, occurrents, and time (first pass captured in [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/))
 5. Prevention vs interference / mitigation (first pass captured in [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/))
 6. Enterprise architecture ontology mapping
-7. Runtime ontology model for Governance Foundation
+7. Runtime ontology model for Governance Foundation (first pass captured in [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/))
 8. Vocabulary / glossary consolidation
 
 ## Research TODOs
@@ -234,6 +234,7 @@ The best immediate next step is probably:
 - [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
 - [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
 - [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/)
+- [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/)
 - [OntoUML Guide](/knowledgefund/ontouml-guide/)
 - [Ontology Architecture](/knowledgefund/ontology-architecture/)
 - [Ontology Principles](/knowledgefund/ontology-principles/)

@@ -89,6 +89,7 @@ A good working interpretation for Governance Foundation is:
 - **OntoUML** provides the modeling discipline
 - **Knowledge Ontology** becomes the canonical organisational ontology
 - **agent memory and persistence** should be structured using those distinctions
+- **Knowledge Ontology Runtime Model** should express those distinctions in machine-usable runtime form
 - **frameworks such as TOGAF, BMC, or other governance models** should be treated as derived views or translations
 
 ## Thesis chapter map
@@ -134,6 +135,7 @@ To keep synthesis manageable, this guide is being built in batches:
 ## Core OntoUML and UFO concepts in plain English
 
 This section is the working semantic core of the guide.
+For the machine-usable follow-through, see [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/).
 
 ### Individual vs type
 
