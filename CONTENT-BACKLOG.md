@@ -57,9 +57,11 @@ A working backlog of candidate articles to backfill the pre-2026 timeline and st
 
 - [ ] Same old AI playbook, same old results
 - [ ] Now it’s your turn: what changed for AI?
-- [ ] AI rollout is business change
-- [ ] Beyond harness engineering
+- [x] AI rollout is business change
+- [x] Beyond harness engineering
 - [ ] KnowledgeFund as methodology, not product hype
+- [x] You do not need to buy the capability. You need to build it
+- [x] Your organisation can now evolve from within
 
 ---
 
