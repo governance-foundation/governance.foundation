@@ -246,7 +246,7 @@ That is why this moment is different.
 
 ## Related reading
 
-- [You can now build capability from within](/blog/2026/04/26/you-can-now-build-capability-from-within)
-- [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
+- [You can now build capability from within](/blog/2026/04/25/you-can-now-build-capability-from-within)
+- [You do not need to buy the capability. You need to build it](/blog/2026/04/22/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
 - [AI rollout is business change](/blog/2026/04/17/ai-rollout-is-about-changing-the-business)
 - [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)

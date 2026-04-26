@@ -1,7 +1,7 @@
 ---
 title: "Your organisation can now evolve from within"
-date: 2026-04-26 10:55:00 +1000
-slug: /2026/04/26/your-organisation-can-now-evolve-from-within
+date: 2026-04-24 10:55:00 +1000
+slug: /2026/04/24/your-organisation-can-now-evolve-from-within
 description: "AI gives organisations something they have almost never had at meaningful scale: persistent internal attention. That changes how improvement, maintenance, learning, and organisational evolution can happen."
 ---
 
@@ -193,14 +193,14 @@ And that is a very big deal.
 
 This is part 3 of the short sequence:
 
-1. [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
-2. [What organisational gardens actually are](/blog/2026/04/26/what-organisational-gardens-actually-are)
+1. [You do not need to buy the capability. You need to build it](/blog/2026/04/22/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
+2. [What organisational gardens actually are](/blog/2026/04/23/what-organisational-gardens-actually-are)
 3. **Your organisation can now evolve from within**
-4. [You can now build capability from within](/blog/2026/04/26/you-can-now-build-capability-from-within)
+4. [You can now build capability from within](/blog/2026/04/25/you-can-now-build-capability-from-within)
 
 ## Related reading
 
-- [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
-- [What organisational gardens actually are](/blog/2026/04/26/what-organisational-gardens-actually-are)
-- [You can now build capability from within](/blog/2026/04/26/you-can-now-build-capability-from-within)
+- [You do not need to buy the capability. You need to build it](/blog/2026/04/22/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
+- [What organisational gardens actually are](/blog/2026/04/23/what-organisational-gardens-actually-are)
+- [You can now build capability from within](/blog/2026/04/25/you-can-now-build-capability-from-within)
 - [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)

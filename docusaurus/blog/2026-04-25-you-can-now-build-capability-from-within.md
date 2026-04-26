@@ -1,7 +1,7 @@
 ---
 title: "You can now build capability from within"
-date: 2026-04-26 11:25:00 +1000
-slug: /2026/04/26/you-can-now-build-capability-from-within
+date: 2026-04-25 11:25:00 +1000
+slug: /2026/04/25/you-can-now-build-capability-from-within
 description: "The AI era changes the strategic equation for organisations. Models can be bought, but real capability must be built. With persistent internal attention, organisations can now start building and evolving that capability from within."
 ---
 
@@ -176,13 +176,13 @@ It is a new chance to build organisational capability from the inside.
 
 If you want the fuller sequence behind this argument, read:
 
-1. [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
-2. [What organisational gardens actually are](/blog/2026/04/26/what-organisational-gardens-actually-are)
-3. [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
+1. [You do not need to buy the capability. You need to build it](/blog/2026/04/22/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
+2. [What organisational gardens actually are](/blog/2026/04/23/what-organisational-gardens-actually-are)
+3. [Your organisation can now evolve from within](/blog/2026/04/24/your-organisation-can-now-evolve-from-within)
 
 ## Related reading
 
-- [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
-- [What organisational gardens actually are](/blog/2026/04/26/what-organisational-gardens-actually-are)
-- [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
+- [You do not need to buy the capability. You need to build it](/blog/2026/04/22/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
+- [What organisational gardens actually are](/blog/2026/04/23/what-organisational-gardens-actually-are)
+- [Your organisation can now evolve from within](/blog/2026/04/24/your-organisation-can-now-evolve-from-within)
 - [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)
