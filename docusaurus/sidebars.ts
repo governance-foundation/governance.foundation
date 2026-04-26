@@ -54,6 +54,7 @@ const sidebars: SidebarsConfig = {
         'knowledgefund/ontouml-document-priority-index',
         'knowledgefund/ontouml-tier1-document-notes',
         'knowledgefund/ontouml-tier2-event-truthmaking-notes',
+        'knowledgefund/ontouml-tier2-taxonomy-disposition-notes',
         'knowledgefund/ontouml-research-todo',
         'knowledgefund/frameworks-as-views',
         'knowledgefund/knowledge-fog',
