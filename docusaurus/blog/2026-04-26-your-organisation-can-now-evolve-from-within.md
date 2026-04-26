@@ -18,6 +18,7 @@ Not magic.
 But real, ongoing attention that can keep looking, connecting, drafting, checking, refining, and improving.
 
 That is a much bigger shift than most AI strategies currently admit.
+And it is still badly under-theorised in most organisations.
 
 {/* truncate */}
 
@@ -170,6 +171,7 @@ But also:
 - how can the organisation learn and improve from within rather than waiting for the next big intervention
 
 Those questions lead somewhere much more interesting.
+They move the organisation from tool adoption into self-development.
 
 ## The organisation can become more active in relation to itself
 
@@ -200,4 +202,5 @@ This is part 3 of the short sequence:
 
 - [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
 - [What organisational gardens actually are](/blog/2026/04/26/what-organisational-gardens-actually-are)
+- [You can now build capability from within](/blog/2026/04/26/you-can-now-build-capability-from-within)
 - [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)

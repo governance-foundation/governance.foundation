@@ -18,7 +18,7 @@ But they are no longer the main event.
 
 The real break is this:
 
-for the first time, organisations can start building meaningful new capability from within, with far less effort than before.
+For the first time, organisations can start building meaningful new capability from within, with far less effort than before.
 
 That should completely change the ambition.
 
@@ -154,6 +154,8 @@ It is also:
 - how do we make the organisation more able to learn, strengthen itself, and evolve from within
 
 Those are the right questions for this moment.
+They are more demanding than procurement questions.
+But they are also closer to the truth.
 
 ## The deeper opportunity
 
@@ -181,5 +183,6 @@ If you want the fuller sequence behind this argument, read:
 ## Related reading
 
 - [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
-- [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
 - [What organisational gardens actually are](/blog/2026/04/26/what-organisational-gardens-actually-are)
+- [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
+- [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)

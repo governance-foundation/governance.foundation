@@ -12,6 +12,7 @@ It is not.
 It is a practical way of talking about the parts of an organisation that only stay healthy when they are continuously tended.
 
 That is a large part of what makes an organisation actually work.
+And it is exactly the terrain most organisations chronically under-invest in.
 
 {/* truncate */}
 
@@ -72,6 +73,8 @@ But more of its energy gets burned compensating for neglected internal ground.
 
 That compensation cost is enormous.
 It is just rarely named clearly.
+
+A lot of what gets called inefficiency, misalignment, or transformation drag is really neglected gardening work.
 
 ## The gardening metaphor matters because it changes the response
 
@@ -165,4 +168,5 @@ This is part 2 of the short sequence:
 
 - [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
 - [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
+- [You can now build capability from within](/blog/2026/04/26/you-can-now-build-capability-from-within)
 - [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)

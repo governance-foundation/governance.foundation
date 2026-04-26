@@ -26,6 +26,8 @@ But the real advantage is moving somewhere else.
 You do not mainly need to buy the capability.
 You need to build it.
 
+That is the shift many AI strategies are still refusing to admit.
+
 {/* truncate */}
 
 ## The model is purchasable. The capability is not
@@ -119,6 +121,8 @@ It is also:
 Those are bigger questions.
 And they matter more.
 
+They force the organisation to think like a builder, not just a buyer.
+
 ## The best organisations will treat models as inputs, not the finished answer
 
 Over time, access to strong models will spread.
@@ -190,6 +194,7 @@ This is part 1 of the short sequence:
 
 ## Related reading
 
-- [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
 - [What organisational gardens actually are](/blog/2026/04/26/what-organisational-gardens-actually-are)
+- [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
+- [You can now build capability from within](/blog/2026/04/26/you-can-now-build-capability-from-within)
 - [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)
