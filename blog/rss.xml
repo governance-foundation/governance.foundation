@@ -4,10 +4,305 @@
         <title>Governance Foundation Blog</title>
         <link>https://governance.foundation/blog/</link>
         <description>Governance Foundation Blog</description>
-        <lastBuildDate>Thu, 23 Apr 2026 09:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 10:55:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Your organisation can now evolve from within]]></title>
+            <link>https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/</link>
+            <guid>https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/</guid>
+            <pubDate>Sun, 26 Apr 2026 10:55:00 GMT</pubDate>
+            <description><![CDATA[AI agents give organisations something they have never had before at meaningful scale: persistent attention that can keep tending, connecting, improving, and evolving the organisation from the inside.]]></description>
+            <content:encoded><![CDATA[<p>One of the biggest changes AI introduces is not just automation.</p>
+<p>It is attention.</p>
+<p>For the first time, organisations can begin to operate with something closer to persistent internal attention at scale.</p>
+<p>Not perfect attention.
+Not independent wisdom.
+Not magic.</p>
+<p>But attention that can keep looking, keep helping, keep connecting, keep drafting, keep checking, keep improving.</p>
+<p>That matters more than many people realise.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="organisations-have-always-been-under-attended">Organisations have always been under-attended<a href="https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/#organisations-have-always-been-under-attended" class="hash-link" aria-label="Direct link to Organisations have always been under-attended" title="Direct link to Organisations have always been under-attended" translate="no">​</a></h2>
+<p>Most organisations have never had enough attention for their own internal gardens.</p>
+<p>There is always more that should be maintained than anyone has time for.</p>
+<p>More knowledge that should be clarified.
+More workflows that should be improved.
+More handoffs that should be cleaned up.
+More decisions that should be connected back to why they were made.
+More standards that should be updated.
+More duplication that should be reduced.
+More local fixes that should be turned into shared capability.</p>
+<p>The work is usually visible.
+The attention is what is missing.</p>
+<p>So the organisation lives with accumulation:</p>
+<ul>
+<li class="">neglected documentation</li>
+<li class="">decaying process logic</li>
+<li class="">trapped knowledge</li>
+<li class="">recurring friction</li>
+<li class="">local workarounds</li>
+<li class="">weak reuse</li>
+<li class="">hidden dependencies</li>
+<li class="">quality drift</li>
+</ul>
+<p>This is normal.
+But it has never really been a good normal.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ai-changes-the-attention-equation">AI changes the attention equation<a href="https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/#ai-changes-the-attention-equation" class="hash-link" aria-label="Direct link to AI changes the attention equation" title="Direct link to AI changes the attention equation" translate="no">​</a></h2>
+<p>AI agents create a new possibility.</p>
+<p>An organisation can now have far more of its internal terrain continuously attended to.</p>
+<p>Not because agents replace judgement wholesale.
+Not because they should be left ungoverned.
+But because they can keep doing the kind of sustained supportive work that organisations almost always under-resource.</p>
+<p>They can help:</p>
+<ul>
+<li class="">review and connect fragmented knowledge</li>
+<li class="">draft and refine internal guidance</li>
+<li class="">watch for drift and inconsistency</li>
+<li class="">surface unresolved gaps</li>
+<li class="">turn repeated patterns into reusable assets</li>
+<li class="">prepare context before humans step in</li>
+<li class="">maintain traces of decisions and changes</li>
+<li class="">keep improving local systems over time</li>
+</ul>
+<p>This is a very different proposition from occasional tool use.</p>
+<p>It means the organisation can start to maintain itself more actively.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-metaphor-of-gardening-is-useful-here">The metaphor of gardening is useful here<a href="https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/#the-metaphor-of-gardening-is-useful-here" class="hash-link" aria-label="Direct link to The metaphor of gardening is useful here" title="Direct link to The metaphor of gardening is useful here" translate="no">​</a></h2>
+<p>An organisation is not a static machine.
+It is closer to a living garden.</p>
+<p>Things grow.
+Things drift.
+Things compete for space.
+Some parts become overgrown.
+Some parts dry out.
+Some parts become dependent on one careful person quietly tending them.</p>
+<p>Healthy gardens do not stay healthy because someone designed them once.
+They stay healthy because they are attended to.</p>
+<p>That is the shift AI creates.</p>
+<p>More of the organisation's garden can now be tended, more often, with more continuity than before.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-opens-a-path-to-internal-evolution">This opens a path to internal evolution<a href="https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/#this-opens-a-path-to-internal-evolution" class="hash-link" aria-label="Direct link to This opens a path to internal evolution" title="Direct link to This opens a path to internal evolution" translate="no">​</a></h2>
+<p>For a long time, meaningful organisational evolution often depended on one of three things:</p>
+<ul>
+<li class="">executive intervention</li>
+<li class="">expensive transformation programs</li>
+<li class="">exceptional individuals dragging local change uphill</li>
+</ul>
+<p>Those paths still exist.
+But they are no longer the only path.</p>
+<p>Now an organisation can evolve more from within.</p>
+<p>It can do that by embedding increasingly capable agents into the actual places where context, work, memory, and improvement meet.</p>
+<p>When that happens, evolution stops being only a periodic top-down event.
+It starts becoming a continuous internal process.</p>
+<p>Not dramatic all at once.
+But steady.
+Compounding.
+Closer to the work.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="internal-evolution-becomes-practical-when-the-loops-are-short">Internal evolution becomes practical when the loops are short<a href="https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/#internal-evolution-becomes-practical-when-the-loops-are-short" class="hash-link" aria-label="Direct link to Internal evolution becomes practical when the loops are short" title="Direct link to Internal evolution becomes practical when the loops are short" translate="no">​</a></h2>
+<p>This is the key.</p>
+<p>If agents can observe work, help shape work, preserve context, surface gaps, suggest improvements, and carry learning forward, then the organisation's adaptation loops can become much shorter.</p>
+<p>That means it becomes easier to:</p>
+<ul>
+<li class="">notice what is repeatedly breaking</li>
+<li class="">preserve what is repeatedly working</li>
+<li class="">convert local fixes into shared patterns</li>
+<li class="">reduce dependence on tribal memory</li>
+<li class="">improve internal systems while work is happening</li>
+<li class="">strengthen governance through use instead of paperwork alone</li>
+</ul>
+<p>This is not just automation.
+It is assisted organisational evolution.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="but-only-if-the-organisation-builds-the-right-environment">But only if the organisation builds the right environment<a href="https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/#but-only-if-the-organisation-builds-the-right-environment" class="hash-link" aria-label="Direct link to But only if the organisation builds the right environment" title="Direct link to But only if the organisation builds the right environment" translate="no">​</a></h2>
+<p>This does not happen just because a company has chatbot access.</p>
+<p>Persistent internal attention only becomes useful when the organisation gives agents something meaningful to work with.</p>
+<p>That usually means:</p>
+<ul>
+<li class="">access to structured context</li>
+<li class="">memory that persists beyond the immediate prompt</li>
+<li class="">clear scopes and bounded responsibilities</li>
+<li class="">governance around action and quality</li>
+<li class="">workflows that agents can actually participate in</li>
+<li class="">places where improvement can be captured instead of lost</li>
+</ul>
+<p>Without that, the organisation may have AI activity without internal evolution.</p>
+<p>The attention is present in bursts, but it does not accumulate.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-deeper-strategic-opportunity">The deeper strategic opportunity<a href="https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/#the-deeper-strategic-opportunity" class="hash-link" aria-label="Direct link to The deeper strategic opportunity" title="Direct link to The deeper strategic opportunity" translate="no">​</a></h2>
+<p>This is why the AI moment is bigger than software uplift.</p>
+<p>It means organisations can begin building internal systems that are continuously cared for, continuously connected, and continuously improved.</p>
+<p>That changes what it means to build capability.</p>
+<p>It is no longer only about whether humans can occasionally find time to work on the system behind the work.</p>
+<p>Now the system behind the work can receive much more ongoing care.</p>
+<p>That may turn out to be one of the biggest shifts of all.</p>
+<p>Because organisations do not usually fail only from lack of ideas.
+They fail from lack of sustained attention to the countless things that make coherence possible.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-question-leaders-should-start-asking">The question leaders should start asking<a href="https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/#the-question-leaders-should-start-asking" class="hash-link" aria-label="Direct link to The question leaders should start asking" title="Direct link to The question leaders should start asking" translate="no">​</a></h2>
+<p>Not just:</p>
+<ul>
+<li class="">where can we automate tasks</li>
+<li class="">where can we save time</li>
+<li class="">which copilots should we buy</li>
+</ul>
+<p>But also:</p>
+<ul>
+<li class="">what parts of our organisation need continuous tending</li>
+<li class="">where are we under-attending the systems behind the work</li>
+<li class="">what would improve if those areas had persistent intelligent support</li>
+<li class="">how do we let the organisation learn and evolve from within rather than waiting for the next big intervention</li>
+</ul>
+<p>Those questions point toward a much more powerful future.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-organisation-as-a-living-system">The organisation as a living system<a href="https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/#the-organisation-as-a-living-system" class="hash-link" aria-label="Direct link to The organisation as a living system" title="Direct link to The organisation as a living system" translate="no">​</a></h2>
+<p>The most important shift may be this:</p>
+<p>AI allows the organisation to become more active in relation to itself.</p>
+<p>It can inspect itself more.
+Learn about itself more.
+Care for its own knowledge more.
+Strengthen its own workflows more.
+Reduce its own fog more.</p>
+<p>That does not eliminate the need for leadership, judgement, or human responsibility.</p>
+<p>But it does change the baseline.</p>
+<p>The organisation is no longer limited to improving only when scarce human attention can be spared.</p>
+<p>Its evolution can increasingly happen from within.</p>
+<p>And that is a very big deal.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2026/04/26/your-organisation-can-now-evolve-from-within/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/">You do not need to buy the capability. You need to build it</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/">How an organisation would build its own KnowledgeFund</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/17/ai-rollout-is-about-changing-the-business/">AI rollout is business change</a></li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[You do not need to buy the capability. You need to build it]]></title>
+            <link>https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/</link>
+            <guid>https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/</guid>
+            <pubDate>Sun, 26 Apr 2026 10:40:00 GMT</pubDate>
+            <description><![CDATA[In the AI era, organisations do not mainly need to buy capability. They need to build it. Models can be purchased. The real advantage comes from how the organisation structures context, work, governance, and improvement around them.]]></description>
+            <content:encoded><![CDATA[<p>A lot of organisations are still approaching AI as if capability is something they can procure.</p>
+<p>Pick a vendor.
+Buy a platform.
+Sign an enterprise agreement.
+Turn on access.
+Run a rollout.</p>
+<p>Then call that capability.</p>
+<p>That is the old reflex.
+And it is becoming less true by the month.</p>
+<p>The models matter.
+Infrastructure matters.
+Vendor choice still matters.</p>
+<p>But the real shift is this:</p>
+<p>You do not mainly need to buy the capability.
+You need to build it.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="models-can-be-bought-capability-has-to-be-formed">Models can be bought. Capability has to be formed<a href="https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/#models-can-be-bought-capability-has-to-be-formed" class="hash-link" aria-label="Direct link to Models can be bought. Capability has to be formed" title="Direct link to Models can be bought. Capability has to be formed" translate="no">​</a></h2>
+<p>This is one of the biggest strategic changes now underway.</p>
+<p>The raw cognitive engine is increasingly purchasable.
+You can pay for model access.
+You can pay for inference.
+You can pay for tools that wrap those models.</p>
+<p>But that is not the same as owning an organisational capability.</p>
+<p>Capability appears when the organisation can repeatedly do something useful, governed, inspectable, improvable, and increasingly teachable.</p>
+<p>That part is not delivered by the vendor.
+That part is built by the organisation.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-organisation-has-to-build-the-surrounding-system">The organisation has to build the surrounding system<a href="https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/#the-organisation-has-to-build-the-surrounding-system" class="hash-link" aria-label="Direct link to The organisation has to build the surrounding system" title="Direct link to The organisation has to build the surrounding system" translate="no">​</a></h2>
+<p>If the model is the engine, the organisation still has to build the vehicle.</p>
+<p>That includes:</p>
+<ul>
+<li class="">the context it gives the model</li>
+<li class="">the workflows the model participates in</li>
+<li class="">the knowledge the model can draw from</li>
+<li class="">the quality checks around outputs</li>
+<li class="">the governance that shapes acceptable action</li>
+<li class="">the memory that allows learning to compound</li>
+<li class="">the operating patterns that turn one-off wins into repeatable practice</li>
+</ul>
+<p>This is where capability is actually formed.</p>
+<p>Without that surrounding system, the organisation is not building capability.
+It is renting intelligence in bursts.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-is-why-buying-more-tools-does-not-solve-the-real-problem">This is why buying more tools does not solve the real problem<a href="https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/#this-is-why-buying-more-tools-does-not-solve-the-real-problem" class="hash-link" aria-label="Direct link to This is why buying more tools does not solve the real problem" title="Direct link to This is why buying more tools does not solve the real problem" translate="no">​</a></h2>
+<p>A lot of AI buying still follows a familiar enterprise pattern.</p>
+<p>When value is unclear, buy another platform.
+When adoption is messy, buy a governance layer.
+When quality is mixed, buy an orchestration layer.
+When knowledge is fragmented, buy search.</p>
+<p>But if the organisation remains structurally incoherent, those layers often just sit on top of the same underlying mess.</p>
+<p>The problem is not that the tools are useless.
+The problem is that tools do not automatically produce organisational coherence.</p>
+<p>They do not:</p>
+<ul>
+<li class="">resolve hidden dependencies</li>
+<li class="">surface tacit knowledge by themselves</li>
+<li class="">redesign work</li>
+<li class="">clarify ownership</li>
+<li class="">connect decisions back to purpose</li>
+<li class="">create reusable context where none exists</li>
+</ul>
+<p>Those are organisational design tasks.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-new-asymmetry-is-extraordinary">The new asymmetry is extraordinary<a href="https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/#the-new-asymmetry-is-extraordinary" class="hash-link" aria-label="Direct link to The new asymmetry is extraordinary" title="Direct link to The new asymmetry is extraordinary" translate="no">​</a></h2>
+<p>There has never really been a time like this.</p>
+<p>An organisation can now access enormous amounts of reasoning, synthesis, drafting, pattern recognition, and problem-solving capacity with very little effort compared to what equivalent human labour would have required.</p>
+<p>That changes the strategic baseline.</p>
+<p>It means many capabilities that once looked too expensive, too slow, or too coordination-heavy to build now become realistic.</p>
+<p>Not because everything becomes free.
+Not because models do the work alone.
+But because the effort threshold for creating new internal capability has dropped dramatically.</p>
+<p>That should change what organisations aim for.</p>
+<p>Instead of asking only, "What AI product should we buy?"
+They should also ask:</p>
+<ul>
+<li class="">what capability can we now build that used to be out of reach</li>
+<li class="">what trapped knowledge can we now structure and operationalise</li>
+<li class="">what work can we redesign now that attention is more scalable</li>
+<li class="">what internal systems can we finally maintain properly</li>
+</ul>
+<p>Those are much more consequential questions.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-strongest-organisations-will-treat-models-as-inputs-not-the-finished-answer">The strongest organisations will treat models as inputs, not the finished answer<a href="https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/#the-strongest-organisations-will-treat-models-as-inputs-not-the-finished-answer" class="hash-link" aria-label="Direct link to The strongest organisations will treat models as inputs, not the finished answer" title="Direct link to The strongest organisations will treat models as inputs, not the finished answer" translate="no">​</a></h2>
+<p>Over time, models will become more available, more substitutable, and more widely embedded.</p>
+<p>That means the durable advantage is unlikely to come only from having access to a model.
+It will come from how the organisation builds around that access.</p>
+<p>The differentiators will be things like:</p>
+<ul>
+<li class="">better internal context</li>
+<li class="">better workflow integration</li>
+<li class="">better knowledge structure</li>
+<li class="">better contribution loops</li>
+<li class="">better governance at the point of action</li>
+<li class="">better internal memory</li>
+<li class="">better agent coordination</li>
+<li class="">better ability to improve from inside the work itself</li>
+</ul>
+<p>In other words, the differentiator will be organisational capability, not just purchased intelligence.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-procurement-mindset-is-now-too-small">The procurement mindset is now too small<a href="https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/#the-procurement-mindset-is-now-too-small" class="hash-link" aria-label="Direct link to The procurement mindset is now too small" title="Direct link to The procurement mindset is now too small" translate="no">​</a></h2>
+<p>Procurement still matters.
+Of course it does.</p>
+<p>But it is no longer enough to think of AI strategy mainly as a sourcing decision.</p>
+<p>That frame is too small for what is actually happening.</p>
+<p>The more important question is how the organisation uses purchasable intelligence to build its own lasting capacities.</p>
+<p>That is a different ambition.</p>
+<p>It moves from tool acquisition to capability formation.
+From external dependency to internal strengthening.
+From buying features to building operating advantage.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-right-mental-model">The right mental model<a href="https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/#the-right-mental-model" class="hash-link" aria-label="Direct link to The right mental model" title="Direct link to The right mental model" translate="no">​</a></h2>
+<p>A useful way to think about this is:</p>
+<ul>
+<li class="">you may pay for the models</li>
+<li class="">you may pay for compute</li>
+<li class="">you may pay for infrastructure</li>
+<li class="">but you build the capability</li>
+</ul>
+<p>You build it in your workflows.
+You build it in your knowledge structures.
+You build it in your standards.
+You build it in your routines.
+You build it in your contribution loops.
+You build it in your governance.</p>
+<p>And if you do that well, the organisation becomes more than a customer of AI.</p>
+<p>It becomes a builder of its own capabilities.</p>
+<p>That is the deeper opportunity now.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/">AI adoption is not the same as capability formation</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/17/ai-rollout-is-about-changing-the-business/">AI rollout is business change</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/">How an organisation would build its own KnowledgeFund</a></li>
+</ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[How an organisation would build its own KnowledgeFund]]></title>
             <link>https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/</link>
@@ -1407,174 +1702,6 @@ Use is what allows the past to keep strengthening the present.</p>
 <li class=""><a class="" href="https://governance.foundation/blog/2016/03/22/knowledge-as-a-living-network-not-a-document-set/">Knowledge as a living network, not a document set</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/">Reuse is how organisations compound intelligence</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2016/05/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
-</ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Contribution, reuse, and the idea of an organisational economy]]></title>
-            <link>https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/</link>
-            <guid>https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/</guid>
-            <pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[When contribution and reuse are visible and governed, organisations can shift from isolated effort to compounding value.]]></description>
-            <content:encoded><![CDATA[<p>Most organisations generate useful contribution constantly.
-Patterns, fixes, decisions, and insights are created every day.</p>
-<p>But much of that value stays local.
-Other teams repeat similar work because reuse pathways are weak.</p>
-<p>That is an internal economic problem.
-Effort is spent, value is created, but value flow is poor.</p>
-<p>An organisational economy perspective asks:</p>
-<ul>
-<li class="">how contribution is recognised</li>
-<li class="">how reuse is enabled</li>
-<li class="">how value flows across teams</li>
-</ul>
-<p>If contribution is invisible, reuse is accidental.
-If reuse is hard, the organisation keeps paying full price for partial novelty.</p>
-<p>To improve this, organisations need:</p>
-<ul>
-<li class="">contribution visibility</li>
-<li class="">quality signals for reusable assets</li>
-<li class="">traceable reuse events</li>
-<li class="">feedback loops to contributors</li>
-<li class="">governance that rewards compounding value</li>
-</ul>
-<p>In AI-era work this matters even more.
-AI can increase output volume quickly.
-Without reuse economics, that becomes noise.
-With reuse economics, that becomes momentum.</p>
-<p>This is how organisations move from local productivity to institutional compounding.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/05/06/from-knowledge-management-to-knowledgefund/">From knowledge management to KnowledgeFund</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/08/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/">What Git did for code, KnowledgeFund will do for organisations</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/">Organisational AI centrification, what it means and what it risks</a></li>
-</ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Reuse is how organisations compound intelligence]]></title>
-            <link>https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/</link>
-            <guid>https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/</guid>
-            <pubDate>Tue, 18 Oct 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[Why reuse is one of the main ways organisations turn scattered contribution into compounding capability.]]></description>
-            <content:encoded><![CDATA[<p>A lot of organisations talk about knowledge, learning, and improvement.</p>
-<p>But one of the simplest questions often remains underdeveloped:</p>
-<p>what happens to something useful after it is created once?</p>
-<p>If the answer is "someone else may rediscover it later", the organisation is not compounding intelligence very well.</p>
-<p>Reuse is one of the main ways organisations turn local effort into institutional value.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="most-useful-work-is-partially-reusable">Most useful work is partially reusable<a href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/#most-useful-work-is-partially-reusable" class="hash-link" aria-label="Direct link to Most useful work is partially reusable" title="Direct link to Most useful work is partially reusable" translate="no">​</a></h2>
-<p>Not everything can be copied directly.
-Context matters.
-Timing matters.
-Constraints differ.</p>
-<p>But a surprising amount of useful work contains something reusable:</p>
-<ul>
-<li class="">a clarified concept</li>
-<li class="">a better decision pattern</li>
-<li class="">a tested approach</li>
-<li class="">a warning about a failure mode</li>
-<li class="">a reusable structure</li>
-<li class="">a more accurate dependency picture</li>
-<li class="">a contribution to shared language</li>
-<li class="">a useful way of framing a problem</li>
-</ul>
-<p>If those things remain local, the organisation keeps paying full price for lessons it has already purchased once.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="reuse-is-what-turns-isolated-success-into-organisational-learning">Reuse is what turns isolated success into organisational learning<a href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/#reuse-is-what-turns-isolated-success-into-organisational-learning" class="hash-link" aria-label="Direct link to Reuse is what turns isolated success into organisational learning" title="Direct link to Reuse is what turns isolated success into organisational learning" translate="no">​</a></h2>
-<p>This is the key distinction.</p>
-<p>A local success is good.
-A reusable success is much better.</p>
-<p>If one team solves a recurring problem, captures what mattered, and makes that solution legible enough for others to adapt and use, the organisation has gained more than one fix.
-It has gained learning that can travel.</p>
-<p>That is what makes intelligence compound.
-Not just the creation of something useful, but its ability to move.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="many-organisations-make-reuse-harder-than-they-realise">Many organisations make reuse harder than they realise<a href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/#many-organisations-make-reuse-harder-than-they-realise" class="hash-link" aria-label="Direct link to Many organisations make reuse harder than they realise" title="Direct link to Many organisations make reuse harder than they realise" translate="no">​</a></h2>
-<p>Sometimes this is obvious.
-Knowledge is buried.
-Ownership is unclear.
-No one knows what exists.
-Documentation is stale.
-Patterns are locked in local tools or team memory.</p>
-<p>Sometimes it is subtler.
-The useful asset exists, but:</p>
-<ul>
-<li class="">nobody trusts its quality</li>
-<li class="">nobody can tell whether it still applies</li>
-<li class="">nobody can see what it depends on</li>
-<li class="">nobody knows where it has worked before</li>
-<li class="">nobody gets feedback when it is reused</li>
-</ul>
-<p>In those conditions, reuse becomes fragile and accidental.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="reuse-depends-on-legibility-not-just-storage">Reuse depends on legibility, not just storage<a href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/#reuse-depends-on-legibility-not-just-storage" class="hash-link" aria-label="Direct link to Reuse depends on legibility, not just storage" title="Direct link to Reuse depends on legibility, not just storage" translate="no">​</a></h2>
-<p>This is why reuse is not mainly a library problem.</p>
-<p>An organisation does not get meaningful reuse simply by storing more material.
-It gets reuse when useful things become legible enough to:</p>
-<ul>
-<li class="">find</li>
-<li class="">understand</li>
-<li class="">trust</li>
-<li class="">adapt</li>
-<li class="">connect to current work</li>
-<li class="">feed back into future improvement</li>
-</ul>
-<p>That requires stronger structure around the asset, not just the asset itself.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="reuse-also-changes-the-economics-of-contribution">Reuse also changes the economics of contribution<a href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/#reuse-also-changes-the-economics-of-contribution" class="hash-link" aria-label="Direct link to Reuse also changes the economics of contribution" title="Direct link to Reuse also changes the economics of contribution" translate="no">​</a></h2>
-<p>People are more likely to contribute seriously to shared knowledge when the organisation makes reuse visible.</p>
-<p>If a useful contribution disappears into a pile, contribution feels like overhead.
-If it is reused, improved, cited, and connected into later work, contribution starts to feel like real value creation.</p>
-<p>That matters because contribution and reuse strengthen each other.</p>
-<ul>
-<li class="">better contribution creates better reusable assets</li>
-<li class="">stronger reuse makes contribution more worth doing</li>
-<li class="">visible reuse helps the organisation see where value is compounding</li>
-</ul>
-<p>That is part of what an organisational economy should mean.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-organisation-should-care-about-reuse-pathways-not-just-asset-creation">The organisation should care about reuse pathways, not just asset creation<a href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/#the-organisation-should-care-about-reuse-pathways-not-just-asset-creation" class="hash-link" aria-label="Direct link to The organisation should care about reuse pathways, not just asset creation" title="Direct link to The organisation should care about reuse pathways, not just asset creation" translate="no">​</a></h2>
-<p>A lot of improvement work stops too early.
-The document is written.
-The pattern is published.
-The template exists.
-The model is added.
-The issue is closed.</p>
-<p>But that only proves something was created.
-It does not prove the organisation is now better at using it.</p>
-<p>A stronger organisation cares about the reuse pathway too:</p>
-<ul>
-<li class="">who can discover this</li>
-<li class="">who can interpret it</li>
-<li class="">where should it appear in later work</li>
-<li class="">what adjacent assets should connect to it</li>
-<li class="">how will we know if it is still valuable</li>
-<li class="">what should happen when it is reused badly or well</li>
-</ul>
-<p>Those questions turn contribution into compounding infrastructure.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-is-one-reason-organisational-memory-matters">This is one reason organisational memory matters<a href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/#this-is-one-reason-organisational-memory-matters" class="hash-link" aria-label="Direct link to This is one reason organisational memory matters" title="Direct link to This is one reason organisational memory matters" translate="no">​</a></h2>
-<p>Reuse becomes much easier when the organisation has stronger memory.
-Not just memory of documents, but memory of:</p>
-<ul>
-<li class="">why something mattered</li>
-<li class="">where it was applied</li>
-<li class="">what conditions affected it</li>
-<li class="">what changed after use</li>
-<li class="">what later work refined it</li>
-</ul>
-<p>That kind of memory helps prevent reusable value from becoming disconnected from its own history.
-And history matters when people are deciding whether to trust and adapt what came before.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ai-raises-both-the-risk-and-the-opportunity">AI raises both the risk and the opportunity<a href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/#ai-raises-both-the-risk-and-the-opportunity" class="hash-link" aria-label="Direct link to AI raises both the risk and the opportunity" title="Direct link to AI raises both the risk and the opportunity" translate="no">​</a></h2>
-<p>AI can generate lots of candidate material quickly.
-That increases the risk of shallow output overload.</p>
-<p>But it also increases the opportunity to strengthen reuse, if the organisation has the right structure.
-AI can help identify related assets, suggest reuse opportunities, compare patterns, and reduce the effort of connecting work back into the shared body.</p>
-<p>Still, the underlying principle stays the same.
-If reuse is weak, intelligence leaks away.
-If reuse is strong, intelligence compounds.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-point">The point<a href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/#the-point" class="hash-link" aria-label="Direct link to The point" title="Direct link to The point" translate="no">​</a></h2>
-<p>An organisation does not become smarter only by producing more knowledge.
-It becomes smarter when useful knowledge, patterns, decisions, and structures can travel, be reused, and improve later work.</p>
-<p>That is why reuse matters.</p>
-<p>It is one of the main ways an organisation turns isolated effort into compounding intelligence.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/03/22/knowledge-as-a-living-network-not-a-document-set/">Knowledge as a living network, not a document set</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/">Contribution as governance, not just compliance</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/">Contribution, reuse, and the idea of an organisational economy</a></li>
 </ul>]]></content:encoded>
         </item>
     </channel>
