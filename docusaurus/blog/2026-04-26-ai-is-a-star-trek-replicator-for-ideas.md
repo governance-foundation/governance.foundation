@@ -1,13 +1,13 @@
 ---
-title: "AI is a replicator for ideas"
+title: "AI is a Star Trek replicator for ideas"
 date: 2026-04-26 19:35:00 +1000
-slug: /2026/04/26/ai-is-a-replicator-for-ideas
+slug: /2026/04/26/ai-is-a-star-trek-replicator-for-ideas
 description: "What makes this AI moment different is not just automation or chat. It is that organisations can now replicate, expand, operationalise, and improve ideas at extraordinary speed."
 ---
 
 A good way to describe what changed is this:
 
-AI is starting to feel like a replicator for ideas.
+AI is starting to feel like a Star Trek replicator for ideas.
 
 Not in the sense that it makes reality appear instantly.
 Not in the sense that execution stops mattering.
@@ -116,6 +116,33 @@ Now those translation layers can be replicated, assisted, and accelerated much m
 
 That does not remove the need for good people.
 It changes how much leverage good people can have.
+
+## This changes where organisations look for advice
+
+In the old model, when an organisation needed strategic framing, operating design, or a way to turn an idea into something executable, it often looked outward.
+
+It hired consultants.
+It brought in agencies.
+It paid for external translation.
+
+Part of that was expertise.
+But part of it was simply that the organisation did not have a cheap enough way to elaborate its own ideas internally.
+
+That is changing.
+
+Now the organisation can do far more of that work from inside.
+It can take its own decks, papers, proposals, and half-formed insights and expand them into much more developed strategy, go-to-market logic, operating models, and engineering-ready structure without paying the same translation premium every time.
+
+That matters on cost.
+But the bigger difference is stickiness.
+
+Internal advice is often far stickier than external advice because it has more local context, more ownership, and more natural buy-in.
+
+It sounds less like something being imposed from outside.
+It feels more like something the organisation discovered, shaped, and understood for itself.
+
+That changes the adoption curve.
+It reduces one of the classic problems of external strategy work: legacy rejection, quiet resistance, and the slow immune response that often meets ideas that arrive from outside the system.
 
 ## This is why the ceiling on capability is moving
 

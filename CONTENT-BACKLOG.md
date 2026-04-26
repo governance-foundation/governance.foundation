@@ -64,7 +64,7 @@ A working backlog of candidate articles to backfill the pre-2026 timeline and st
 - [x] Your organisation can now evolve from within
 - [x] What organisational gardens actually are
 - [x] You can now build capability from within
-- [x] AI is a replicator for ideas
+- [x] AI is a Star Trek replicator for ideas
 
 ---
 
