@@ -62,6 +62,8 @@ A working backlog of candidate articles to backfill the pre-2026 timeline and st
 - [ ] KnowledgeFund as methodology, not product hype
 - [x] You do not need to buy the capability. You need to build it
 - [x] Your organisation can now evolve from within
+- [x] What organisational gardens actually are
+- [x] You can now build capability from within
 
 ---
 
