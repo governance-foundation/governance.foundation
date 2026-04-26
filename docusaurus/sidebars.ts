@@ -56,6 +56,7 @@ const sidebars: SidebarsConfig = {
         'knowledgefund/ontouml-tier2-event-truthmaking-notes',
         'knowledgefund/ontouml-tier2-taxonomy-disposition-notes',
         'knowledgefund/ontouml-tier2-agent-pattern-notes',
+        'knowledgefund/ontouml-tier2-foundation-model-quality-notes',
         'knowledgefund/ontouml-research-todo',
         'knowledgefund/frameworks-as-views',
         'knowledgefund/knowledge-fog',
