@@ -120,6 +120,7 @@ The goal is to help each company create the starting KnowledgeFund that fits its
 - [OntoUML Guide](/knowledgefund/ontouml-guide/)
 - [OntoUML Document Priority Index](/knowledgefund/ontouml-document-priority-index/)
 - [OntoUML Tier 1 Document Notes](/knowledgefund/ontouml-tier1-document-notes/)
+- [OntoUML Tier 2 Event and Truthmaking Notes](/knowledgefund/ontouml-tier2-event-truthmaking-notes/)
 - [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
 - [Knowledge Fog](/knowledgefund/knowledge-fog/)
