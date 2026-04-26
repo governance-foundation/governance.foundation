@@ -14,13 +14,13 @@ Which copilot.
 Which controls.
 
 Those questions matter.
-But they are no longer the deepest questions.
+But they are no longer the main event.
 
-The deeper shift is this:
+The real break is this:
 
 for the first time, organisations can start building meaningful new capability from within, with far less effort than before.
 
-That is the real strategic break.
+That should completely change the ambition.
 
 {/* truncate */}
 
@@ -32,16 +32,15 @@ You can pay for models.
 You can pay for inference.
 You can pay for infrastructure and wrappers.
 
-But that does not mean the organisation has acquired capability.
+But buying intelligence is not the same thing as building capability.
 
-Capability is not model access.
-Capability is what the organisation can now do, repeat, govern, improve, and carry forward.
+Capability is what the organisation can now do repeatedly, reliably, governably, and with learning that carries forward.
 
 That still has to be built.
 
 It has to be built in workflows, context, standards, memory, reuse, and operating patterns.
 
-That is why buying AI is not the same as forming an AI-enabled organisation.
+That is why buying AI is not the same as becoming AI-capable.
 
 ## The biggest new resource is not just intelligence. It is attention
 
@@ -60,9 +59,9 @@ Because attention is scarce.
 
 AI changes that equation.
 
-## This makes internal capability building much cheaper
+## This makes internal capability building dramatically cheaper
 
-Once attention becomes more scalable, many capabilities that used to be too expensive or too coordination-heavy to build start becoming realistic.
+Once attention becomes more scalable, many capabilities that used to be too expensive, too slow, or too coordination-heavy to build start becoming realistic.
 
 The organisation can begin to:
 
@@ -76,8 +75,8 @@ The organisation can begin to:
 
 That is capability formation.
 
-Not in theory.
-In practice.
+Not as a strategy slide.
+As day-to-day operating reality.
 
 ## This is why the organisation can evolve more from within
 
@@ -123,6 +122,7 @@ Now they can start to.
 This is the important caution.
 
 Buying model access does not magically create internal evolution.
+Plenty of organisations will buy intelligence and still fail to form capability.
 
 The organisation still has to build an environment where AI attention can accumulate into capability.
 That means things like:
@@ -159,7 +159,7 @@ Those are the right questions for this moment.
 
 The deeper opportunity is not that AI gives organisations a new tool.
 
-It is that AI may give them a new developmental path.
+It is that AI gives them a new developmental path.
 
 They can begin to build capabilities that were previously too expensive to form.
 They can begin to tend internal terrain that was previously left to decay.
@@ -169,6 +169,14 @@ They can begin to evolve more from within.
 That is why this moment is bigger than software adoption.
 
 It is a new chance to build organisational capability from the inside.
+
+## Series guide
+
+If you want the fuller sequence behind this argument, read:
+
+1. [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
+2. [What organisational gardens actually are](/blog/2026/04/26/what-organisational-gardens-actually-are)
+3. [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
 
 ## Related reading
 

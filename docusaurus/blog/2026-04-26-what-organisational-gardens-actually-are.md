@@ -152,6 +152,15 @@ That question is often more revealing than asking only what new platform to buy 
 
 Because once the neglected gardens become visible, the real work starts becoming visible too.
 
+## Series guide
+
+This is part 2 of the short sequence:
+
+1. [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)
+2. **What organisational gardens actually are**
+3. [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
+4. [You can now build capability from within](/blog/2026/04/26/you-can-now-build-capability-from-within)
+
 ## Related reading
 
 - [You do not need to buy the capability. You need to build it](/blog/2026/04/26/you-do-not-need-to-buy-the-capability-you-need-to-build-it)

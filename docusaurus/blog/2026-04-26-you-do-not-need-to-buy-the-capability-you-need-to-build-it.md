@@ -179,6 +179,15 @@ It becomes a builder of its own capability.
 
 That is where the serious advantage is likely to come from.
 
+## Series guide
+
+This is part 1 of the short sequence:
+
+1. **You do not need to buy the capability. You need to build it**
+2. [What organisational gardens actually are](/blog/2026/04/26/what-organisational-gardens-actually-are)
+3. [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
+4. [You can now build capability from within](/blog/2026/04/26/you-can-now-build-capability-from-within)
+
 ## Related reading
 
 - [Your organisation can now evolve from within](/blog/2026/04/26/your-organisation-can-now-evolve-from-within)
