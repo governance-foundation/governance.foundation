@@ -116,6 +116,7 @@ The goal is to help each company create the starting KnowledgeFund that fits its
 - [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
 - [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/)
 - [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/)
+- [KnowledgeFund Runtime Metamodel Draft](/knowledgefund/knowledgefund-runtime-metamodel-draft/)
 - [Ontology Glossary](/knowledgefund/ontology-glossary/)
 - [OntoUML Guide](/knowledgefund/ontouml-guide/)
 - [OntoUML Document Priority Index](/knowledgefund/ontouml-document-priority-index/)

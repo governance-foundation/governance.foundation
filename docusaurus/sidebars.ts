@@ -49,6 +49,7 @@ const sidebars: SidebarsConfig = {
         'knowledgefund/mitigation-and-interference-extension',
         'knowledgefund/enterprise-architecture-ontology-mapping',
         'knowledgefund/knowledge-ontology-runtime-model',
+        'knowledgefund/knowledgefund-runtime-metamodel-draft',
         'knowledgefund/ontology-glossary',
         'knowledgefund/ontouml-guide',
         'knowledgefund/ontouml-document-priority-index',
