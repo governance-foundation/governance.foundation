@@ -2,11 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://governance.foundation/blog/</id>
     <title>Governance Foundation Blog</title>
-    <updated>2026-04-26T19:35:00.000Z</updated>
+    <updated>2026-04-29T18:20:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://governance.foundation/blog/"/>
     <subtitle>Governance Foundation Blog</subtitle>
     <icon>https://governance.foundation/assets/icons/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Why organisations keep recreating the same knowledge — and why AI will make it worse]]></title>
+        <id>https://governance.foundation/blog/2026/04/29/why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse/</id>
+        <link href="https://governance.foundation/blog/2026/04/29/why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse/"/>
+        <updated>2026-04-29T18:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Most organisations do not lack information. They repeatedly recreate the same knowledge in disconnected forms. AI raises the cost of that fragmentation unless contribution is grounded in a shared semantic foundation.]]></summary>
+        <content type="html"><![CDATA[<p>Most organisations do not have an information shortage.
+They have a coherence shortage.</p>
+<p>Across the enterprise, teams are constantly producing knowledge about the same underlying reality: customers, services, products, systems, work, risks, controls, priorities, dependencies, and performance. Yet this knowledge rarely accumulates as a shared organisational asset. Instead, it is created in local tools, shaped for local purposes, and maintained under local pressure.</p>
+<p>The result is familiar. Different teams hold overlapping versions of the truth. Each version is useful within its own context, but weakly reusable outside it. Business teams describe capability one way. Service teams describe it another. Architects model it differently again. Operations teams report on outcomes through yet another lens. Everyone is working from information that is materially related, but structurally isolated.</p>
+<p>This is one of the defining operating conditions of modern organisations: not ignorance, but fragmentation.</p>
+<!-- -->
+<p>That fragmentation is not mainly caused by poor intent. It emerges because people are rewarded for outcomes, not for semantic stewardship. A delivery lead is measured on execution. An operations team is measured on continuity. A product owner is measured on change and adoption. An analyst is measured on insight. A developer is measured on shipping working systems. Under these conditions, investing in shared information coherence is usually rationally deprioritised.</p>
+<p>Over time, that creates local knowledge strongholds. A team becomes the source of truth for service definitions. Another becomes the place where performance meaning lives. Another owns the practical interpretation of policy. Another knows how the process really works. The organisation adapts by routing around shared structure and through people.</p>
+<p>That is why so many enterprise initiatives keep returning in different forms. Enterprise architecture, TOGAF, ITIL, process transformation, master data programs, data lakes, federated governance, and centres of excellence are all attempts to recover alignment after fragmentation has already taken hold. Each is an effort to build some kind of reusable coordination layer across information that was not originally designed to remain shared.</p>
+<p>These efforts matter. But they also reveal the scale of the problem: the enterprise repeatedly has to repair coherence after the fact.</p>
+<p>AI changes the economics of this dramatically.</p>
+<p>When everyone has AI tooling, every team gains the ability to generate more summaries, more plans, more reports, more taxonomies, more proposed structures, more process descriptions, and more operational artifacts. That sounds like acceleration — and it is. But acceleration of what? If the organisation lacks a shared semantic backbone, AI does not solve fragmentation. It amplifies it. It enables every local context to produce meaning faster, with even less guarantee that the resulting artifacts align with each other.</p>
+<p>This is why the next-generation organisational problem is not simply knowledge management, documentation, or collaboration in the everyday sense. It is contribution into shared semantic structure.</p>
+<p>A stronger model is needed — one in which different roles can work through tailored experiences while still contributing into a common knowledge foundation. Leadership should be able to define mission, vision, strategy, and goals in ways that become reusable beyond executive artifacts. Analysts should be able to contribute scenarios, processes, and planning structures that connect to shared capabilities and outcomes. Architects should be able to shape services, applications, deployments, and infrastructure in ways that preserve semantic continuity with business intent. Operations should be able to contribute performance and runtime evidence that connects back to the same model. Developers should be able to add interfaces and implementation detail without creating a disconnected technical sub-language.</p>
+<p>In other words, the organisation needs more than better documents.
+It needs a model of collaboration.</p>
+<p>A genuine collaboration model does not force everyone into one monolithic interface. Nor does it assume one central team can manually curate all enterprise meaning. Instead, it recognises that different contributors need different entry points — catalogs, frameworks, plans, performance views, architecture models, operational records — while insisting that those entry points feed a shared semantic backbone.</p>
+<p>That is the real difference between fragmented documentation and reusable organisational knowledge.</p>
+<p>If this idea is taken seriously, several things follow. Strategy should not live only in decks. Service definitions should not live only in operational registers. Performance should not be reducible to isolated dashboards. Governance frameworks should not sit outside delivery structure. And AI outputs should not be allowed to accumulate as free-floating organisational content with no grounding in shared meaning.</p>
+<p>The future advantage will not come from producing more information.
+It will come from making more of that information reusable, comparable, traceable, and semantically aligned.</p>
+<p>That is why model collaboration matters.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2026/04/29/why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/knowledgeontology/model/collaboration/">Model Collaboration</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2015/06/24/what-a-shared-organisational-model-is-actually-for/">What a shared organisational model is actually for</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/">How an organisation would build its own KnowledgeFund</a></li>
+</ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI is a Star Trek replicator for ideas]]></title>
         <id>https://governance.foundation/blog/2026/04/26/ai-is-a-star-trek-replicator-for-ideas/</id>
@@ -1628,144 +1664,6 @@ When governance is episodic, AI adoption stays noisy.</p>
 <li class=""><a class="" href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/">AI adoption is not the same as capability formation</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/">AI rollout is work redesign, not software rollout</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos/">Why freeform AI use finds value but also amplifies chaos</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI adoption is not the same as capability formation]]></title>
-        <id>https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/</id>
-        <link href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/"/>
-        <updated>2023-07-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An organisation can adopt AI visibly and still fail to form any durable capability. Adoption measures presence. Capability formation measures what the organisation can now do, repeat, and improve.]]></summary>
-        <content type="html"><![CDATA[<p>A lot of AI programs still talk about progress in adoption language.</p>
-<p>How many licences were issued.
-How many people attended training.
-How many copilots were switched on.
-How many pilots were launched.
-How many use cases were approved.</p>
-<p>Those things matter.
-But they are not the same as capability.</p>
-<p>Adoption means AI has arrived.
-Capability formation means the organisation has changed in a way that produces better work, more reliably, with learning that compounds.</p>
-<p>That is a much higher bar.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="adoption-is-mostly-about-presence">Adoption is mostly about presence<a href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/#adoption-is-mostly-about-presence" class="hash-link" aria-label="Direct link to Adoption is mostly about presence" title="Direct link to Adoption is mostly about presence" translate="no">​</a></h2>
-<p>An organisation can achieve adoption quickly.</p>
-<p>It can:</p>
-<ul>
-<li class="">purchase tools</li>
-<li class="">enable access</li>
-<li class="">publish policy</li>
-<li class="">run awareness sessions</li>
-<li class="">nominate champions</li>
-<li class="">launch pilots</li>
-<li class="">celebrate usage growth</li>
-</ul>
-<p>All of that can happen while the underlying organisation remains mostly the same.</p>
-<p>The workflows may still be unchanged.
-Decision rights may still be unclear.
-Knowledge may still be fragmented.
-Managers may still be judging work by the old assumptions.
-Quality gates may still sit in the wrong places.</p>
-<p>So yes, AI may be present.
-But presence is not the same as formed capability.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="capability-formation-changes-how-the-organisation-actually-works">Capability formation changes how the organisation actually works<a href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/#capability-formation-changes-how-the-organisation-actually-works" class="hash-link" aria-label="Direct link to Capability formation changes how the organisation actually works" title="Direct link to Capability formation changes how the organisation actually works" translate="no">​</a></h2>
-<p>Capability formation is visible in a different way.</p>
-<p>It shows up when the organisation can repeatedly do things it could not do before, or do them better with less friction and less dependence on exceptional individuals.</p>
-<p>That usually requires changes in:</p>
-<ul>
-<li class="">work design</li>
-<li class="">role expectations</li>
-<li class="">decision flow</li>
-<li class="">quality control</li>
-<li class="">context availability</li>
-<li class="">governance at the point of work</li>
-<li class="">training through real practice, not just orientation</li>
-</ul>
-<p>Capability formation is what turns scattered experiments into an operating strength.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="this-is-why-usage-metrics-can-mislead">This is why usage metrics can mislead<a href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/#this-is-why-usage-metrics-can-mislead" class="hash-link" aria-label="Direct link to This is why usage metrics can mislead" title="Direct link to This is why usage metrics can mislead" translate="no">​</a></h2>
-<p>High usage can coexist with weak capability.</p>
-<p>People may use AI every day and still operate inside a system that:</p>
-<ul>
-<li class="">produces inconsistent outputs</li>
-<li class="">depends on a few careful operators to clean things up</li>
-<li class="">cannot reuse what it learns</li>
-<li class="">struggles to onboard others into effective practice</li>
-<li class="">has no stable way to distinguish good use from noisy use</li>
-</ul>
-<p>In that case, AI is active, but organisational capability is still thin.</p>
-<p>The organisation has movement without conversion.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="capability-formation-is-social-and-structural-not-only-technical">Capability formation is social and structural, not only technical<a href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/#capability-formation-is-social-and-structural-not-only-technical" class="hash-link" aria-label="Direct link to Capability formation is social and structural, not only technical" title="Direct link to Capability formation is social and structural, not only technical" translate="no">​</a></h2>
-<p>This is one of the most important distinctions.</p>
-<p>People often treat AI capability as if it were mostly a matter of tools plus training.</p>
-<p>But durable capability is formed socially and structurally.</p>
-<p>It depends on whether the organisation can:</p>
-<ul>
-<li class="">share context well</li>
-<li class="">adapt management habits</li>
-<li class="">make quality expectations explicit</li>
-<li class="">capture useful patterns and reuse them</li>
-<li class="">redesign accountability around AI-assisted work</li>
-<li class="">translate local success into shared practice</li>
-</ul>
-<p>If those conditions are missing, adoption stays local.
-Some people get faster.
-Some teams experiment.
-A few pockets improve.
-But the organisation as a whole does not become reliably more capable.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="capability-formation-should-reduce-fragility">Capability formation should reduce fragility<a href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/#capability-formation-should-reduce-fragility" class="hash-link" aria-label="Direct link to Capability formation should reduce fragility" title="Direct link to Capability formation should reduce fragility" translate="no">​</a></h2>
-<p>One good test is fragility.</p>
-<p>If the value of AI depends on a small group of enthusiasts, prompt specialists, or heroic operators, then capability formation is still immature.</p>
-<p>A real organisational capability should become easier to:</p>
-<ul>
-<li class="">teach</li>
-<li class="">repeat</li>
-<li class="">govern</li>
-<li class="">inspect</li>
-<li class="">improve</li>
-<li class="">hand over</li>
-</ul>
-<p>That does not mean every use case becomes simple.
-It means the organisation becomes less dependent on improvisation and more able to carry effective AI-supported practice as part of its normal operation.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="adoption-can-be-theatrical">Adoption can be theatrical<a href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/#adoption-can-be-theatrical" class="hash-link" aria-label="Direct link to Adoption can be theatrical" title="Direct link to Adoption can be theatrical" translate="no">​</a></h2>
-<p>This is part of why AI programs can look successful while staying shallow.</p>
-<p>Adoption is easy to narrate.</p>
-<p>It gives leaders dashboards, launch moments, participation rates, and visible signs of movement.
-It fits familiar transformation reporting.</p>
-<p>Capability formation is harder.
-It takes longer.
-It often requires redesigning roles, processes, incentives, and governance.
-It may reveal that some current management assumptions no longer hold.</p>
-<p>So organisations can drift toward the more legible story, even when it is the less meaningful one.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-question-should-change">The question should change<a href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/#the-question-should-change" class="hash-link" aria-label="Direct link to The question should change" title="Direct link to The question should change" translate="no">​</a></h2>
-<p>Instead of asking only:</p>
-<ul>
-<li class="">how many people are using AI</li>
-<li class="">how many pilots are running</li>
-<li class="">how much time was saved</li>
-</ul>
-<p>organisations should also ask:</p>
-<ul>
-<li class="">what repeatable practice has formed</li>
-<li class="">where has quality become more reliable</li>
-<li class="">what has become easier to hand over or reuse</li>
-<li class="">what dependence on hidden expertise has been reduced</li>
-<li class="">what new operating capability now exists that did not exist before</li>
-</ul>
-<p>Those questions are harder.
-But they are closer to the truth.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="adoption-starts-the-journey-but-it-should-not-be-mistaken-for-the-outcome">Adoption starts the journey, but it should not be mistaken for the outcome<a href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/#adoption-starts-the-journey-but-it-should-not-be-mistaken-for-the-outcome" class="hash-link" aria-label="Direct link to Adoption starts the journey, but it should not be mistaken for the outcome" title="Direct link to Adoption starts the journey, but it should not be mistaken for the outcome" translate="no">​</a></h2>
-<p>AI adoption is still important.
-Without it, nothing starts.</p>
-<p>But if adoption becomes the headline metric for success, organisations can confuse visible activity with real progress.</p>
-<p>Capability formation is the more demanding test.
-It asks whether the organisation has actually learned how to work differently, govern differently, and improve differently because AI is now part of the system.</p>
-<p>That is the real transition.</p>
-<p>Adoption gets AI into the organisation.
-Capability formation changes what the organisation can become.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2023/03/14/ai-exposes-broken-organisational-context/">AI exposes broken organisational context</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/">The governance gap behind most AI initiatives</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/">AI rollout is work redesign, not software rollout</a></li>
 </ul>]]></content>
     </entry>
 </feed>
