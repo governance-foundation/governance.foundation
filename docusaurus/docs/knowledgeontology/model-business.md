@@ -3,7 +3,8 @@ title: "Model Business"
 slug: /knowledgeontology/model/business
 ---
 
-This information domain is for providing a base schema for general modelling of business architecture.
+This information domain provides a base schema for general modelling of business architecture.
+It is trying to gather a large part of the business architecture landscape into one connected semantic field rather than reducing business architecture to a few process boxes or management labels.
 
 Following classic perspectives have been leveraged to develop this:
 
@@ -20,6 +21,28 @@ Following classic perspectives have been leveraged to develop this:
 * Task Management
 
 Please call out more perspectives that need to be added.
+
+So the best reading flow here is:
+
+1. get the framing for what the business model is trying to hold together
+2. look at the diagram near the top
+3. then read the section-by-section interpretation underneath
+
+## Intro
+
+The business model matters because it is the main domain where organisational intent, structure, capability, activity, resources, requirements, policy, risk, performance, and evidence all need to relate inside one coherent semantic system.
+
+That is why this page needs to be read in sections rather than as one flat list of business nouns. The diagram is dense, but it becomes much more useful once the reader sees it early and then works through the explanation cluster by cluster.
+
+## Diagram
+
+<iframe
+  title="GXP-Model-Data-Business.drawio Diagram"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Data-Business.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Model-Data-Business.drawio"
+  width="100%"
+  height="640"
+  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
+/>
 
 ## Current reading of the diagram
 
@@ -400,20 +423,6 @@ The next refinement of this diagram should make at least five things more explic
 5. **evidence / argument / claim / assessment chains**
 
 That would make this page much more aligned with the ontology foundations and runtime model work.
-
-## Diagram preview
-
-<iframe
-  title="GXP-Model-Data-Business.drawio Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Data-Business.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Model-Data-Business.drawio"
-  width="100%"
-  height="640"
-  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
-/>
-
-If the preview does not load, open directly:
-
-- /assets/knowledgeontology/diagrams/GXP-Model-Data-Business.drawio
 
 ![status](https://img.shields.io/badge/status-draft-red)
 

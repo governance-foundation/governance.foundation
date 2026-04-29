@@ -3,8 +3,32 @@ title: "Model Layers"
 slug: /knowledgeontology/model/layers
 ---
 
-This page should explain how the knowledge domain can be understood in layers, and how those layers help move from broad understanding into explicit ontology and implementation.
-The diagram is useful as a visual exhibit, but the main subject of the page is the layered structure of the information itself.
+This page explains how the knowledge domain can be understood in layers, and how those layers help move from broad understanding into explicit ontology and implementation.
+It is not just a layering diagram. It is a way of showing how meaning becomes progressively structured, represented, and operationalised without losing its connection to ontology.
+
+So the best reading flow is:
+
+1. get the core idea
+2. look at the diagram as an orienting visual
+3. read the deeper interpretation underneath
+
+## Intro
+
+The layer model matters because organisational knowledge usually begins as partial, uneven, or loosely connected understanding. The value comes from progressively strengthening it so meaning, structure, implementation, evidence, and decision support can all remain linked.
+
+That is why the page is useful: it shows how a knowledge foundation can move from broad conceptual meaning toward logical structure and physical/runtime realization without pretending everything has to start fully formalised.
+
+## Diagram
+
+The diagram works best near the top as a visual summary of the layered structure explained below.
+
+<iframe
+  title="GXP Model Layers Diagram"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Layers.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Model-Layers.drawio"
+  width="100%"
+  height="640"
+  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
+/>
 
 ## Why the layer model matters
 
@@ -334,18 +358,6 @@ The next refinement of this diagram should make at least five things more explic
 5. **how intended, designed, implemented, and observed states remain traceable across the stack**
 
 That would make this page much more aligned with the runtime metamodel and the rest of the ontology work.
-
-## Diagram exhibit
-
-The diagram remains useful as a supporting visual summary of the layered structure described above.
-
-<iframe
-  title="GXP Model Layers Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Layers.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Model-Layers.drawio"
-  width="100%"
-  height="640"
-  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
-/>
 
 ![status](https://img.shields.io/badge/status-draft-red)
 

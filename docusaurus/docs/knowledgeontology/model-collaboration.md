@@ -3,8 +3,32 @@ title: "Model Collaboration"
 slug: /knowledgeontology/model/collaboration
 ---
 
-This page should explain how different people, roles, and contribution surfaces participate in building a shared knowledge foundation.
-The diagram is useful as an exhibit, but the main subject of the page is the collaboration structure of the information itself and how that collaboration leads into ontology.
+This page explains how different people, roles, and contribution surfaces participate in building a shared knowledge foundation.
+It is not mainly about collaboration in the soft, generic sense. It is about how many contributors can work through different artifacts and experiences while still feeding one shared semantic backbone.
+
+So the basic reading flow should be:
+
+1. understand the core idea
+2. look at the diagram as a visual summary
+3. read the deeper interpretation underneath
+
+## Intro
+
+The collaboration model matters because a usable knowledge foundation cannot depend on one central modelling actor doing everything manually. It has to support many contributors, each working through experiences and artifacts that make sense for their own role, while still feeding a shared semantic backbone.
+
+That is the real point of the page: organisations need more than people exchanging disconnected documents. They need a contribution structure in which different roles, views, catalogs, frameworks, and performance surfaces all connect back to shared meaning.
+
+## Diagram
+
+The diagram is useful here as an early orienting visual before the deeper explanation below.
+
+<iframe
+  title="GXP-Collaboration.drawio Diagram"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Collaboration.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Collaboration.drawio"
+  width="100%"
+  height="640"
+  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
+/>
 
 ## Why the collaboration model matters
 
@@ -281,18 +305,6 @@ The next refinement of this diagram should make at least four things more explic
 4. **relational structure of accountability, delegation, and participation**
 
 That would align the page much more closely with the runtime metamodel and the ontology foundation work.
-
-## Diagram exhibit
-
-The diagram remains useful as a supporting visual summary of the collaboration structure described above.
-
-<iframe
-  title="GXP-Collaboration.drawio Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Collaboration.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Collaboration.drawio"
-  width="100%"
-  height="640"
-  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
-/>
 
 ![status](https://img.shields.io/badge/status-draft-red)
 
