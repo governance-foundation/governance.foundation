@@ -10,7 +10,7 @@ KnowledgeFund needs a simple visual explanation as well as words.
 
 ## Diagram
 
-<div class="mermaid">
+```mermaid
 flowchart TD
     A[Organisation] --> B[Fragmented knowledge<br/>hidden dependencies<br/>weak traceability]
     B --> C[KnowledgeFund Bootstrap]
@@ -20,7 +20,7 @@ flowchart TD
     F --> G[KnowledgeFund Experiences]
     G --> H[Discovery<br/>guidance<br/>modelling<br/>assistance<br/>participation<br/>rewards]
     H --> I[Better learning<br/>adaptation<br/>alignment<br/>governed change]
-</div>
+```
 
 ## Reading the diagram
 
