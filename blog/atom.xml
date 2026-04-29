@@ -2,11 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://governance.foundation/blog/</id>
     <title>Governance Foundation Blog</title>
-    <updated>2026-04-29T18:45:00.000Z</updated>
+    <updated>2026-04-29T19:10:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://governance.foundation/blog/"/>
     <subtitle>Governance Foundation Blog</subtitle>
     <icon>https://governance.foundation/assets/icons/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[How organisations start building a shared model]]></title>
+        <id>https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/</id>
+        <link href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/"/>
+        <updated>2026-04-29T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[A shared model does not begin with total enterprise redesign. It begins by choosing a bounded starting surface, establishing semantic discipline, and creating contribution patterns that can compound over time.]]></summary>
+        <content type="html"><![CDATA[<p>Once people accept that fragmented knowledge is a structural problem, and once they see the value of a shared semantic core with tailored experiences, the next question is usually practical.</p>
+<p>Where do you actually start?</p>
+<p>This is the point where a lot of good thinking collapses into either overreach or caution.</p>
+<p>Some organisations respond by imagining a total enterprise redesign. They picture a complete canonical model, enterprise-wide agreement on terminology, full architecture alignment, and a new contribution system for everyone all at once.</p>
+<p>Other organisations respond by making the idea so modest that it becomes harmless. They run workshops, produce conceptual diagrams, talk about knowledge reuse, and maybe create a pilot artifact or two — but without changing how contribution actually accumulates.</p>
+<p>Neither response is strong enough.</p>
+<!-- -->
+<p>A shared model does not need to begin everywhere.
+But it does need to begin somewhere real.</p>
+<p>The important thing is not to start with total scope.
+It is to start with a bounded surface where contribution can become structurally cumulative.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-wrong-way-to-start">The wrong way to start<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#the-wrong-way-to-start" class="hash-link" aria-label="Direct link to The wrong way to start" title="Direct link to The wrong way to start" translate="no">​</a></h2>
+<p>There are a few common failure modes here.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="trying-to-model-the-whole-organisation-before-use-exists">Trying to model the whole organisation before use exists<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#trying-to-model-the-whole-organisation-before-use-exists" class="hash-link" aria-label="Direct link to Trying to model the whole organisation before use exists" title="Direct link to Trying to model the whole organisation before use exists" translate="no">​</a></h3>
+<p>This usually creates an elegant but weak abstraction.
+The model may look comprehensive, but it has no live contribution economy around it. No one is feeding it through real work. No one depends on it yet. So the model becomes impressive shelfware.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="starting-with-tooling-before-semantics">Starting with tooling before semantics<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#starting-with-tooling-before-semantics" class="hash-link" aria-label="Direct link to Starting with tooling before semantics" title="Direct link to Starting with tooling before semantics" translate="no">​</a></h3>
+<p>Many organisations jump straight to repositories, data platforms, diagram tooling, AI assistants, or workflow systems.
+Those things may all matter later. But if the organisation has not decided what counts as canonical meaning, what kinds of contributions it wants to preserve, and how different views relate to that shared core, tooling just accelerates inconsistency.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="treating-the-effort-like-a-documentation-cleanup">Treating the effort like a documentation cleanup<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#treating-the-effort-like-a-documentation-cleanup" class="hash-link" aria-label="Direct link to Treating the effort like a documentation cleanup" title="Direct link to Treating the effort like a documentation cleanup" translate="no">​</a></h3>
+<p>Documentation quality matters, but a shared model is not just cleaner content.
+It is a different accumulation pattern.
+If the effort is framed only as better documentation, it will usually be staffed, funded, and evaluated too narrowly.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-better-starting-pattern">The better starting pattern<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#the-better-starting-pattern" class="hash-link" aria-label="Direct link to The better starting pattern" title="Direct link to The better starting pattern" translate="no">​</a></h2>
+<p>A better approach is to bootstrap the shared model through a bounded, high-value slice.</p>
+<p>That starting slice should ideally have four properties:</p>
+<ul>
+<li class="">it matters to real work</li>
+<li class="">it crosses more than one team or role</li>
+<li class="">it suffers from current fragmentation</li>
+<li class="">it can produce reusable structure quickly</li>
+</ul>
+<p>In many organisations, that might mean starting with one of these:</p>
+<ul>
+<li class="">a service domain with recurring coordination pain</li>
+<li class="">a strategic initiative with many dependencies</li>
+<li class="">a governance area where obligations, controls, and delivery are poorly connected</li>
+<li class="">a product or platform area where business, architecture, operations, and engineering all describe the same reality differently</li>
+</ul>
+<p>The exact slice matters less than the principle.
+You are looking for a place where better shared structure will immediately improve reuse, traceability, and cross-boundary understanding.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-has-to-exist-in-the-first-bootstrap">What has to exist in the first bootstrap<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#what-has-to-exist-in-the-first-bootstrap" class="hash-link" aria-label="Direct link to What has to exist in the first bootstrap" title="Direct link to What has to exist in the first bootstrap" translate="no">​</a></h2>
+<p>A real starting point usually needs at least five things.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-a-small-canonical-core">1. A small canonical core<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#1-a-small-canonical-core" class="hash-link" aria-label="Direct link to 1. A small canonical core" title="Direct link to 1. A small canonical core" translate="no">​</a></h3>
+<p>Do not try to model everything.
+Choose a small number of high-value concepts and relationships that the organisation genuinely needs to keep stable.</p>
+<p>These might include things like:</p>
+<ul>
+<li class="">strategic objectives</li>
+<li class="">services</li>
+<li class="">capabilities</li>
+<li class="">accountable roles</li>
+<li class="">systems or applications</li>
+<li class="">controls</li>
+<li class="">evidence or performance signals</li>
+</ul>
+<p>The purpose of this first core is not completeness.
+It is semantic discipline.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-explicit-projection-rules">2. Explicit projection rules<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#2-explicit-projection-rules" class="hash-link" aria-label="Direct link to 2. Explicit projection rules" title="Direct link to 2. Explicit projection rules" translate="no">​</a></h3>
+<p>If different roles are going to work through different surfaces, the organisation needs a clear rule:
+those surfaces are projections and contribution points, not independent truth systems.</p>
+<p>That means a service catalog, a planning view, a governance framework, and an operational dashboard can all look different while still referring back to shared underlying meaning.</p>
+<p>Without that rule, the bootstrap simply creates new silos with better branding.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-a-contribution-path-tied-to-real-work">3. A contribution path tied to real work<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#3-a-contribution-path-tied-to-real-work" class="hash-link" aria-label="Direct link to 3. A contribution path tied to real work" title="Direct link to 3. A contribution path tied to real work" translate="no">​</a></h3>
+<p>The model should not depend on occasional manual curation by a central group.
+It needs contribution paths that attach to actual work already happening.</p>
+<p>For example:</p>
+<ul>
+<li class="">when strategy changes, shared objective structures get updated</li>
+<li class="">when a service changes, shared service and dependency structures get updated</li>
+<li class="">when incidents occur, evidence links and operational meaning get updated</li>
+<li class="">when governance decisions are made, obligations and review structures get updated</li>
+</ul>
+<p>If contribution is not tied to live work, the shared model becomes a side project.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-traceability-expectations">4. Traceability expectations<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#4-traceability-expectations" class="hash-link" aria-label="Direct link to 4. Traceability expectations" title="Direct link to 4. Traceability expectations" translate="no">​</a></h3>
+<p>Even early on, the organisation should know what kinds of traceability it wants to preserve.</p>
+<p>Not infinite traceability.
+Useful traceability.</p>
+<p>Enough to answer questions like:</p>
+<ul>
+<li class="">what service does this objective depend on?</li>
+<li class="">what application supports this capability?</li>
+<li class="">what control applies here?</li>
+<li class="">what evidence supports this judgement?</li>
+<li class="">who owns this definition?</li>
+<li class="">what changed, and why?</li>
+</ul>
+<p>This is where the model starts becoming organisational memory rather than structured decoration.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-one-or-two-tailored-experiences-that-prove-the-pattern">5. One or two tailored experiences that prove the pattern<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#5-one-or-two-tailored-experiences-that-prove-the-pattern" class="hash-link" aria-label="Direct link to 5. One or two tailored experiences that prove the pattern" title="Direct link to 5. One or two tailored experiences that prove the pattern" translate="no">​</a></h3>
+<p>The bootstrap should not stay invisible inside a repository.
+It should show up through actual role-appropriate experiences.</p>
+<p>That might mean:</p>
+<ul>
+<li class="">a leadership view that connects goals, services, and performance</li>
+<li class="">an analyst view that connects scenarios, dependencies, and evidence</li>
+<li class="">an architecture view that connects services, applications, and deployment structure</li>
+<li class="">an operational view that connects incidents and service meaning</li>
+</ul>
+<p>The point is to prove that shared semantics can become usable without forcing one generic interface on everyone.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-success-looks-like-early">What success looks like early<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#what-success-looks-like-early" class="hash-link" aria-label="Direct link to What success looks like early" title="Direct link to What success looks like early" translate="no">​</a></h2>
+<p>Early success does not mean the organisation now has a full enterprise ontology.</p>
+<p>It means something more concrete.</p>
+<p>It means that a bounded area of work has become more legible than it was before.
+It means different roles can see more of the same reality without doing manual translation every time.
+It means key terms drift less.
+It means decisions leave stronger structural residue.
+It means new contributors can orient faster.
+It means AI outputs can be grounded better because more of the shared context is explicit.</p>
+<p>That is a much better early goal than completeness.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-compounds">Why this compounds<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#why-this-compounds" class="hash-link" aria-label="Direct link to Why this compounds" title="Direct link to Why this compounds" translate="no">​</a></h2>
+<p>If the bootstrap is done well, it changes the organisation’s learning dynamics.</p>
+<p>Instead of producing one more disconnected project artifact, the organisation creates a nucleus that can grow.
+New contribution surfaces can attach to it. New domains can extend it. New teams can reuse it. Stronger experiences can be layered around it. Traceability can deepen over time.</p>
+<p>That is what makes a shared model powerful.
+It does not have to begin at full scale to become strategically important.
+It just has to begin in a way that compounds.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-deeper-shift">The deeper shift<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#the-deeper-shift" class="hash-link" aria-label="Direct link to The deeper shift" title="Direct link to The deeper shift" translate="no">​</a></h2>
+<p>The deeper shift is that the organisation stops treating shared understanding as something that appears automatically if enough people talk, document, or coordinate.</p>
+<p>Instead, it starts treating shared understanding as something that has to be structurally produced, preserved, and reused.</p>
+<p>That is what a bootstrap is really for.
+Not to finish the model.
+To start a better accumulation pattern.</p>
+<p>And once that pattern exists in one meaningful slice, the organisation has something far more useful than another enterprise diagram.</p>
+<p>It has a real starting point.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
+<ul>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/29/why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse/">Why organisations keep recreating the same knowledge — and why AI will make it worse</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/29/what-changes-when-organisations-contribute-into-a-shared-model/">What changes when organisations contribute into a shared model</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/29/why-a-shared-core-needs-tailored-experiences/">Why a shared core needs tailored experiences</a></li>
+<li class=""><a class="" href="https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/">How an organisation would build its own KnowledgeFund</a></li>
+</ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why a shared core needs tailored experiences]]></title>
         <id>https://governance.foundation/blog/2026/04/29/why-a-shared-core-needs-tailored-experiences/</id>
@@ -1635,43 +1773,6 @@ The rest will keep paying rediscovery tax.</p>
 <li class=""><a class="" href="https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/">Hybrid work exposed the real organisational memory problem</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2015/05/12/documentation-is-not-knowledge/">Documentation is not knowledge</a></li>
 <li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
-</ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI rollout is work redesign, not software rollout]]></title>
-        <id>https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/</id>
-        <link href="https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/"/>
-        <updated>2024-02-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI creates value when work is redesigned around new capabilities, not when tools are merely installed.]]></summary>
-        <content type="html"><![CDATA[<p>Many organisations run AI using a software rollout playbook.</p>
-<p>Select tool, deploy tool, train users, track usage.
-That ships software.
-It does not automatically redesign work.</p>
-<p>AI value depends on redesigning decisions, context flow, and accountability.</p>
-<p>Work redesign asks:</p>
-<ul>
-<li class="">what stays human, what is AI-assisted, what is automated</li>
-<li class="">where context must be captured earlier</li>
-<li class="">where quality gates move</li>
-<li class="">how role boundaries change</li>
-</ul>
-<p>If those shifts are not made, organisations get a thin result.
-New tooling sits on top of old workflow logic.</p>
-<p>That is why some deployments show early wins but stall.
-They accelerated steps inside a system that was never rebuilt.</p>
-<p>AI rollout needs two streams:</p>
-<ol>
-<li class="">technology stream (models, integration, security)</li>
-<li class="">work-design stream (workflow, ownership, governance, standards)</li>
-</ol>
-<p>If only stream one is funded, value remains local and fragile.</p>
-<p>AI rollout is organisational design work.
-Software deployment is necessary, but insufficient.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="related-reading">Related reading<a href="https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/#related-reading" class="hash-link" aria-label="Direct link to Related reading" title="Direct link to Related reading" translate="no">​</a></h2>
-<ul>
-<li class=""><a class="" href="https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/">The governance gap behind most AI initiatives</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/">What an AI-legible organisation actually needs</a></li>
-<li class=""><a class="" href="https://governance.foundation/blog/2026/04/17/ai-rollout-is-about-changing-the-business/">AI rollout is about changing the business</a></li>
 </ul>]]></content>
     </entry>
 </feed>
