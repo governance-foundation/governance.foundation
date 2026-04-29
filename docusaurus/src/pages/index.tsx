@@ -29,7 +29,7 @@ const primaryCards: Card[] = [
   {
     title: 'Knowledge Ontology',
     text: 'The structural model inside KnowledgeFund for domains, layers, collaboration, and organisational systems.',
-    to: '/knowledgefund/ontology/',
+    to: '/knowledgeontology/',
     imagePath: '/assets/images/background/core-ricardo-gomez-angel-HXBP4Nud8PQ-unsplash.jpg',
     label: 'Model',
   },

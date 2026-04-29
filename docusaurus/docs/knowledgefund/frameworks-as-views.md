@@ -119,7 +119,7 @@ Use frameworks to answer:
 
 ## Related reading
 
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
-- [Knowledge Ontology](/knowledgefund/ontology/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)
+- [Knowledge Ontology](/knowledgeontology/)
 - [KnowledgeFund Model](/knowledgefund/model/)

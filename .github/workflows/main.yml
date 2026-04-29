@@ -41,7 +41,7 @@ jobs:
 
           upload=false
           for file in "${CHANGED[@]}"; do
-            if [[ "$file" == docusaurus/static/assets/gxp/diagrams/*.drawio ]]; then
+            if [[ "$file" == docusaurus/static/assets/knowledgeontology/diagrams/*.drawio ]]; then
               upload=true
               break
             fi
@@ -68,7 +68,7 @@ jobs:
           import hashlib
           import json
 
-          root = Path('docusaurus/static/assets/gxp/diagrams')
+          root = Path('docusaurus/static/assets/knowledgeontology/diagrams')
           files = sorted(root.glob('*.drawio'))
 
           data = {
@@ -93,10 +93,10 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if [ -n "$(git status --porcelain docusaurus/static/assets/gxp/diagrams/.diagram-mirror.json)" ]; then
+          if [ -n "$(git status --porcelain docusaurus/static/assets/knowledgeontology/diagrams/.diagram-mirror.json)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add docusaurus/static/assets/gxp/diagrams/.diagram-mirror.json
+            git add docusaurus/static/assets/knowledgeontology/diagrams/.diagram-mirror.json
             git commit -m "chore: update drawio mirror metadata [skip ci]"
             git push
           else

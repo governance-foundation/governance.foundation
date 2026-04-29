@@ -1,13 +1,13 @@
 ---
 title: "Technical Architecture"
-slug: /knowledgefund/ontology/tech/architecture
+slug: /knowledgeontology/tech/architecture
 ---
 
 ## Knowledge Ontology technical architecture
 
 <iframe
   title="Knowledge Ontology Technical Architecture Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Architecture.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FGXP-Architecture.drawio"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Architecture.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Architecture.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
@@ -15,7 +15,7 @@ slug: /knowledgefund/ontology/tech/architecture
 
 If the preview does not load, open directly:
 
-- /assets/gxp/diagrams/GXP-Architecture.drawio
+- /assets/knowledgeontology/diagrams/GXP-Architecture.drawio
 
 This diagram provides the high-level technical architecture perspective for the Knowledge Ontology.
 

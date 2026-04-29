@@ -225,5 +225,5 @@ They just cannot see or discuss it clearly.
 
 - [Agent Discovery Workflow](/knowledgefund/agent-discovery/)
 - [KnowledgeFund Experiences](/knowledgefund/experiences/)
-- [Knowledge Ontology](/knowledgefund/ontology/)
+- [Knowledge Ontology](/knowledgeontology/)
 - [How an organisation would build its own KnowledgeFund](/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund)

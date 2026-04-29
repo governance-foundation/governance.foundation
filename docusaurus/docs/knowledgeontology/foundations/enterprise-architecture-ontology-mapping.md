@@ -1,6 +1,6 @@
 ---
 title: "Enterprise Architecture Ontology Mapping"
-slug: /knowledgefund/enterprise-architecture-ontology-mapping/
+slug: /knowledgeontology/foundations/enterprise-architecture-ontology-mapping/
 ---
 
 This page captures a first ontology-first mapping of common **enterprise architecture** concepts for Governance Foundation.
@@ -308,12 +308,12 @@ The next strongest slice is now the **Knowledge Ontology Runtime Model**, becaus
 
 ## Related reading
 
-- [OntoUML Guide](/knowledgefund/ontouml-guide/)
-- [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
-- [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
-- [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
-- [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [OntoUML Guide](/knowledgeontology/foundations/ontouml-guide/)
+- [OntoUML Research TODO](/knowledgeontology/foundations/ontouml-research-todo/)
+- [Mitigation and Interference Extension Note](/knowledgeontology/foundations/mitigation-and-interference-extension/)
+- [Events and Temporal Change Guide](/knowledgeontology/foundations/events-and-temporal-change/)
+- [Relationships and Relators Guide](/knowledgeontology/foundations/relationships-relators-guide/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
 

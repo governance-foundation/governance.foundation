@@ -1,15 +1,15 @@
 ---
 title: "Events and Temporal Change Guide"
-slug: /knowledgefund/events-and-temporal-change/
+slug: /knowledgeontology/foundations/events-and-temporal-change/
 ---
 
 This page is a practical synthesis of OntoUML/UFO-aligned thinking about **events, occurrents, and temporal change**.
 
 It follows:
 
-- [UFO Essentials](/knowledgefund/ufo-essentials/)
-- [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
-- [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
+- [UFO Essentials](/knowledgeontology/foundations/ufo-essentials/)
+- [Taxonomy and Type Rules](/knowledgeontology/foundations/taxonomy-type-rules/)
+- [Relationships and Relators Guide](/knowledgeontology/foundations/relationships-relators-guide/)
 
 and focuses on the next big runtime question for Governance Foundation:
 
@@ -299,10 +299,10 @@ Use this guide as input to:
 
 ## Related reading
 
-- [UFO Essentials](/knowledgefund/ufo-essentials/)
-- [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
-- [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
-- [OntoUML Guide](/knowledgefund/ontouml-guide/)
-- [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [UFO Essentials](/knowledgeontology/foundations/ufo-essentials/)
+- [Taxonomy and Type Rules](/knowledgeontology/foundations/taxonomy-type-rules/)
+- [Relationships and Relators Guide](/knowledgeontology/foundations/relationships-relators-guide/)
+- [OntoUML Guide](/knowledgeontology/foundations/ontouml-guide/)
+- [OntoUML Research TODO](/knowledgeontology/foundations/ontouml-research-todo/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)

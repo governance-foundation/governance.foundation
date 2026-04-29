@@ -1,6 +1,6 @@
 ---
 title: "UFO Essentials"
-slug: /knowledgefund/ufo-essentials/
+slug: /knowledgeontology/foundations/ufo-essentials/
 ---
 
 This page is a practical working synthesis of the most important parts of **UFO**, the **Unified Foundational Ontology**, for Governance Foundation.
@@ -589,7 +589,7 @@ This UFO pass suggests that the runtime model will likely need explicit support 
 This page is only the first pass.
 The next research passes should deepen:
 
-- taxonomy and rigidity rules in more detail, now captured in [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
+- taxonomy and rigidity rules in more detail, now captured in [Taxonomy and Type Rules](/knowledgeontology/foundations/taxonomy-type-rules/)
 - relationship/relator theory in more detail
 - events and occurrents in more detail
 - enterprise architecture mapping
@@ -597,8 +597,8 @@ The next research passes should deepen:
 
 ## Related reading
 
-- [OntoUML Guide](/knowledgefund/ontouml-guide/)
-- [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [OntoUML Guide](/knowledgeontology/foundations/ontouml-guide/)
+- [OntoUML Research TODO](/knowledgeontology/foundations/ontouml-research-todo/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)

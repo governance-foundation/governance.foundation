@@ -1,6 +1,6 @@
 ---
 title: "Questions"
-slug: /knowledgefund/ontology/diagrams/questions/
+slug: /knowledgeontology/diagrams/questions/
 ---
 
 A useful ontology should help an organisation ask better questions, not just store better diagrams.
@@ -168,7 +168,7 @@ They are part of the operating logic of the ontology.
 
 <iframe
   title="Questions Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Knoweldge-Collaboration.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FGXP-Knoweldge-Collaboration.drawio"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Knoweldge-Collaboration.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Knoweldge-Collaboration.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
@@ -176,10 +176,10 @@ They are part of the operating logic of the ontology.
 
 If the embedded viewer does not load, open directly:
 
-- /assets/gxp/diagrams/GXP-Knoweldge-Collaboration.drawio
+- /assets/knowledgeontology/diagrams/GXP-Knoweldge-Collaboration.drawio
 
 ## Related reading
 
 - [Agent Discovery Workflow](/knowledgefund/agent-discovery/)
 - [Knowledge Fog](/knowledgefund/knowledge-fog/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)

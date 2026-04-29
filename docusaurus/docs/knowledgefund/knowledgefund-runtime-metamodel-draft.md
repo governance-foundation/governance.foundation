@@ -10,7 +10,7 @@ It is a proposal for the canonical semantic shape the runtime should preserve be
 
 ## Why this exists
 
-The earlier [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/) established the first-pass runtime categories.
+The earlier [Knowledge Ontology Runtime Model](/knowledgeontology/foundations/knowledge-ontology-runtime-model/) established the first-pass runtime categories.
 
 The Tier 5A synthesis sharpened the next requirement:
 
@@ -565,8 +565,8 @@ It should be implemented as a **typed, grounded, projection-aware metamodel** wh
 
 ## Related reading
 
-- [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/)
-- [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
-- [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
-- [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/)
-- [Ontology Glossary](/knowledgefund/ontology-glossary/)
+- [Knowledge Ontology Runtime Model](/knowledgeontology/foundations/knowledge-ontology-runtime-model/)
+- [Relationships and Relators Guide](/knowledgeontology/foundations/relationships-relators-guide/)
+- [Events and Temporal Change Guide](/knowledgeontology/foundations/events-and-temporal-change/)
+- [Enterprise Architecture Ontology Mapping](/knowledgeontology/foundations/enterprise-architecture-ontology-mapping/)
+- [Ontology Glossary](/knowledgeontology/foundations/ontology-glossary/)

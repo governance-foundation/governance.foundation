@@ -1,6 +1,6 @@
 ---
 title: "OntoUML Guide"
-slug: /knowledgefund/ontouml-guide/
+slug: /knowledgeontology/foundations/ontouml-guide/
 ---
 
 This page is a living working guide for OntoUML and its relevance to the Knowledge Ontology direction.
@@ -135,7 +135,7 @@ To keep synthesis manageable, this guide is being built in batches:
 ## Core OntoUML and UFO concepts in plain English
 
 This section is the working semantic core of the guide.
-For the machine-usable follow-through, see [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/).
+For the machine-usable follow-through, see [Knowledge Ontology Runtime Model](/knowledgeontology/foundations/knowledge-ontology-runtime-model/).
 
 ### Individual vs type
 
@@ -1346,14 +1346,14 @@ Still to be added:
 
 ## Related reading
 
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
-- [UFO Essentials](/knowledgefund/ufo-essentials/)
-- [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
-- [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
-- [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
-- [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/)
-- [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)
+- [UFO Essentials](/knowledgeontology/foundations/ufo-essentials/)
+- [Relationships and Relators Guide](/knowledgeontology/foundations/relationships-relators-guide/)
+- [Events and Temporal Change Guide](/knowledgeontology/foundations/events-and-temporal-change/)
+- [Mitigation and Interference Extension Note](/knowledgeontology/foundations/mitigation-and-interference-extension/)
+- [Enterprise Architecture Ontology Mapping](/knowledgeontology/foundations/enterprise-architecture-ontology-mapping/)
+- [OntoUML Research TODO](/knowledgeontology/foundations/ontouml-research-todo/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
 - [Knowledge Fog](/knowledgefund/knowledge-fog/)
 - [Agent Discovery Workflow](/knowledgefund/agent-discovery/)

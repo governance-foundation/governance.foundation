@@ -51,6 +51,6 @@ Governance describes the forces and structures shaping behaviour. Knowledge Onto
 
 ## Related reading
 
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)

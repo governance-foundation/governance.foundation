@@ -1,6 +1,6 @@
 ---
 title: "Terms"
-slug: /knowledgefund/ontology/diagrams/terms/
+slug: /knowledgeontology/diagrams/terms/
 ---
 
 The ontology needs a semantic core.
@@ -189,7 +189,7 @@ Agents need stable terms if they are going to:
 
 <iframe
   title="Terms Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Canvas.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FGXP-Model-Canvas.drawio"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Canvas.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Model-Canvas.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
@@ -197,10 +197,10 @@ Agents need stable terms if they are going to:
 
 If the embedded viewer does not load, open directly:
 
-- /assets/gxp/diagrams/GXP-Model-Canvas.drawio
+- /assets/knowledgeontology/diagrams/GXP-Model-Canvas.drawio
 
 ## Related reading
 
-- [Ontology Principles](/knowledgefund/ontology-principles/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)

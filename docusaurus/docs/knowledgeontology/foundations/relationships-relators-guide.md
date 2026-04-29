@@ -1,14 +1,14 @@
 ---
 title: "Relationships and Relators Guide"
-slug: /knowledgefund/relationships-relators-guide/
+slug: /knowledgeontology/foundations/relationships-relators-guide/
 ---
 
 This page is a practical synthesis of OntoUML/UFO guidance on **relationships and relators**.
 
 It follows:
 
-- [UFO Essentials](/knowledgefund/ufo-essentials/)
-- [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
+- [UFO Essentials](/knowledgeontology/foundations/ufo-essentials/)
+- [Taxonomy and Type Rules](/knowledgeontology/foundations/taxonomy-type-rules/)
 
 and focuses on one of the most important modeling questions for Governance Foundation:
 
@@ -158,9 +158,9 @@ Use this guide plus the prior UFO/type-rule pages to draft the first **Knowledge
 
 ## Related reading
 
-- [UFO Essentials](/knowledgefund/ufo-essentials/)
-- [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
-- [OntoUML Guide](/knowledgefund/ontouml-guide/)
-- [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [UFO Essentials](/knowledgeontology/foundations/ufo-essentials/)
+- [Taxonomy and Type Rules](/knowledgeontology/foundations/taxonomy-type-rules/)
+- [OntoUML Guide](/knowledgeontology/foundations/ontouml-guide/)
+- [OntoUML Research TODO](/knowledgeontology/foundations/ontouml-research-todo/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)

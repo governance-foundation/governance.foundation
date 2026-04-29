@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Ontology Runtime Model"
-slug: /knowledgefund/knowledge-ontology-runtime-model/
+slug: /knowledgeontology/foundations/knowledge-ontology-runtime-model/
 ---
 
 This page defines a first-pass **runtime model** for Governance Foundation's Knowledge Ontology work.
@@ -527,14 +527,14 @@ The next strong follow-through after this page is to build the companion **Ontol
 
 ## Related reading
 
-- [UFO Essentials](/knowledgefund/ufo-essentials/)
-- [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
-- [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
-- [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
-- [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
-- [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/)
-- [OntoUML Guide](/knowledgefund/ontouml-guide/)
-- [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [UFO Essentials](/knowledgeontology/foundations/ufo-essentials/)
+- [Taxonomy and Type Rules](/knowledgeontology/foundations/taxonomy-type-rules/)
+- [Relationships and Relators Guide](/knowledgeontology/foundations/relationships-relators-guide/)
+- [Events and Temporal Change Guide](/knowledgeontology/foundations/events-and-temporal-change/)
+- [Mitigation and Interference Extension Note](/knowledgeontology/foundations/mitigation-and-interference-extension/)
+- [Enterprise Architecture Ontology Mapping](/knowledgeontology/foundations/enterprise-architecture-ontology-mapping/)
+- [OntoUML Guide](/knowledgeontology/foundations/ontouml-guide/)
+- [OntoUML Research TODO](/knowledgeontology/foundations/ontouml-research-todo/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)

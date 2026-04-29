@@ -8,7 +8,7 @@ Use this app for all active site and content work.
 
 - `docs/knowledgefund/*`
 - `docs/governance/*`
-- `docs/gxp/*`
+- `docs/knowledgeontology/*`
 - `docs/frameworks/*`
 - `blog/*`
 - homepage in `src/pages/index.tsx`

@@ -1,6 +1,6 @@
 ---
 title: "Contributing"
-slug: /knowledgefund/ontology/diagrams/overview/
+slug: /knowledgeontology/diagrams/overview/
 ---
 
 This page explains how to add and maintain diagrams for the Knowledge Ontology section and anywhere else in docs that uses our local diagram renderer.
@@ -20,7 +20,7 @@ The current site does **not** rely on the older Google Drive embed flow for norm
 
 Our current pattern is:
 
-- store `.drawio` files in the repo under `/assets/gxp/diagrams/`
+- store `.drawio` files in the repo under `/assets/knowledgeontology/diagrams/`
 - embed them from docs pages through `/diagram-viewer.html`
 - pass the diagram file path in the `file` query parameter
 - usually enable `lightbox=1`, `layers=1`, and `nav=1`
@@ -30,7 +30,7 @@ A typical live embed in this repo looks like this:
 ```mdx
 <iframe
   title="My Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=My-Diagram.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FMy-Diagram.drawio"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=My-Diagram.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FMy-Diagram.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
@@ -43,25 +43,25 @@ A typical live embed in this repo looks like this:
 
 Put the `.drawio` file here:
 
-- `docusaurus/static/assets/gxp/diagrams/`
+- `docusaurus/static/assets/knowledgeontology/diagrams/`
 
 That makes it available on the site at:
 
-- `/assets/gxp/diagrams/<filename>.drawio`
+- `/assets/knowledgeontology/diagrams/<filename>.drawio`
 
 ### Docs pages
 
 For the Knowledge Ontology diagram pages, the current docs live here:
 
-- `docusaurus/docs/gxp/`
+- `docusaurus/docs/knowledgeontology/`
 
 Those pages currently map to routes like:
 
-- `/knowledgefund/ontology/diagrams/overview/`
-- `/knowledgefund/ontology/diagrams/measurement/`
-- `/knowledgefund/ontology/diagrams/questions/`
-- `/knowledgefund/ontology/diagrams/terms/`
-- `/knowledgefund/ontology/diagrams/viewpoints/`
+- `/knowledgeontology/diagrams/overview/`
+- `/knowledgeontology/diagrams/measurement/`
+- `/knowledgeontology/diagrams/questions/`
+- `/knowledgeontology/diagrams/terms/`
+- `/knowledgeontology/diagrams/viewpoints/`
 
 You can also reuse the same renderer pattern in other docs sections when needed.
 
@@ -80,11 +80,11 @@ If using diagrams.net in the browser, GitHub-backed editing is a good fit becaus
 
 Add the source file under:
 
-- `docusaurus/static/assets/gxp/diagrams/`
+- `docusaurus/static/assets/knowledgeontology/diagrams/`
 
 Example:
 
-- `docusaurus/static/assets/gxp/diagrams/My-Diagram.drawio`
+- `docusaurus/static/assets/knowledgeontology/diagrams/My-Diagram.drawio`
 
 ### 3. Create or update the docs page
 
@@ -95,7 +95,7 @@ Example:
 ```mdx
 <iframe
   title="My Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=My-Diagram.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FMy-Diagram.drawio"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=My-Diagram.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FMy-Diagram.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
@@ -107,7 +107,7 @@ Example:
 ```md
 If the embedded viewer does not load, open directly:
 
-- /assets/gxp/diagrams/My-Diagram.drawio
+- /assets/knowledgeontology/diagrams/My-Diagram.drawio
 ```
 
 ### 5. Add explanation, not just the iframe
@@ -129,7 +129,7 @@ Prefer this pattern:
 
 <iframe
   title="My Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=My-Diagram.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FMy-Diagram.drawio"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=My-Diagram.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FMy-Diagram.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
@@ -137,7 +137,7 @@ Prefer this pattern:
 
 If the embedded viewer does not load, open directly:
 
-- /assets/gxp/diagrams/My-Diagram.drawio
+- /assets/knowledgeontology/diagrams/My-Diagram.drawio
 ```
 
 ## Notes on the query params we currently use
@@ -148,7 +148,7 @@ The current embeds in this repo usually include:
 - `layers=1`
 - `nav=1`
 - `title=<filename>.drawio`
-- `file=%2Fassets%2Fgxp%2Fdiagrams%2F<filename>.drawio`
+- `file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2F<filename>.drawio`
 
 So if you are matching the current site style, keep those parameters unless there is a reason to change them.
 
@@ -173,7 +173,7 @@ That is useful historical context, but the current repo pages use local repo-hos
 If you are adding a diagram anywhere in docs:
 
 - keep the `.drawio` source in the repo
-- put it under `docusaurus/static/assets/gxp/diagrams/`
+- put it under `docusaurus/static/assets/knowledgeontology/diagrams/`
 - embed it through `/diagram-viewer.html`
 - use the local `/assets/...` path in the `file` parameter
 - include a fallback link
@@ -181,6 +181,6 @@ If you are adding a diagram anywhere in docs:
 
 ## Related reading
 
-- [Knowledge Ontology](/knowledgefund/ontology/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
+- [Knowledge Ontology](/knowledgeontology/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)

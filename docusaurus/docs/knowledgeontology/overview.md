@@ -1,6 +1,6 @@
 ---
 title: "Knowledge Ontology"
-slug: /knowledgefund/ontology/
+slug: /knowledgeontology/
 ---
 
 KnowledgeFund needs more than storage.
@@ -59,14 +59,14 @@ They form the structural basis for representing organisational knowledge in a wa
 
 ## Definitions
 
-- [Terms](/knowledgefund/ontology/diagrams/terms/) , definition of terms used
-- [Measurement](/knowledgefund/ontology/diagrams/measurement/) , how to measure things
-- [Questions](/knowledgefund/ontology/diagrams/questions/) , questions the model should be able to answer
-- [Viewpoints](/knowledgefund/ontology/diagrams/viewpoints/) , ways of presenting information in the model
+- [Terms](/knowledgeontology/diagrams/terms/) , definition of terms used
+- [Measurement](/knowledgeontology/diagrams/measurement/) , how to measure things
+- [Questions](/knowledgeontology/diagrams/questions/) , questions the model should be able to answer
+- [Viewpoints](/knowledgeontology/diagrams/viewpoints/) , ways of presenting information in the model
 
 ## Table of Contents
 
 
 ## Updating
 
-See [Diagrams Overview](/knowledgefund/ontology/diagrams/overview/) for instructions on how to update and add diagrams.
+See [Diagrams Overview](/knowledgeontology/diagrams/overview/) for instructions on how to update and add diagrams.

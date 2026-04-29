@@ -214,6 +214,6 @@ an organisational discovery and sense-making participant that gradually reduces 
 ## Related reading
 
 - [Knowledge Fog](/knowledgefund/knowledge-fog/)
-- [Knowledge Ontology](/knowledgefund/ontology/)
+- [Knowledge Ontology](/knowledgeontology/)
 - [Build Your Own KnowledgeFund](/knowledgefund/build-your-own/)
 - [KnowledgeFund Experiences](/knowledgefund/experiences/)

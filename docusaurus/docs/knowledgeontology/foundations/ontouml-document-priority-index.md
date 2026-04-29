@@ -1,6 +1,6 @@
 ---
 title: "OntoUML Document Priority Index"
-slug: /knowledgefund/ontouml-document-priority-index/
+slug: /knowledgeontology/foundations/ontouml-document-priority-index/
 ---
 
 This page inventories the current `G:\My Drive\Projects\Governance.Foundation\OntoUML` document collection and orders it by **importance and relevance** for Governance Foundation's current Knowledge Ontology work.

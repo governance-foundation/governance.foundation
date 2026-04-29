@@ -1,6 +1,6 @@
 ---
 title: "Ontology Glossary"
-slug: /knowledgefund/ontology-glossary/
+slug: /knowledgeontology/foundations/ontology-glossary/
 ---
 
 This page is a compact working **glossary and vocabulary layer** for Governance Foundation's Knowledge Ontology work.
@@ -476,15 +476,15 @@ The best next follow-through after this glossary is to use it as the naming base
 
 ## Related reading
 
-- [UFO Essentials](/knowledgefund/ufo-essentials/)
-- [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
-- [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
-- [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
-- [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
-- [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/)
-- [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/)
-- [OntoUML Guide](/knowledgefund/ontouml-guide/)
-- [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [UFO Essentials](/knowledgeontology/foundations/ufo-essentials/)
+- [Taxonomy and Type Rules](/knowledgeontology/foundations/taxonomy-type-rules/)
+- [Relationships and Relators Guide](/knowledgeontology/foundations/relationships-relators-guide/)
+- [Events and Temporal Change Guide](/knowledgeontology/foundations/events-and-temporal-change/)
+- [Mitigation and Interference Extension Note](/knowledgeontology/foundations/mitigation-and-interference-extension/)
+- [Enterprise Architecture Ontology Mapping](/knowledgeontology/foundations/enterprise-architecture-ontology-mapping/)
+- [Knowledge Ontology Runtime Model](/knowledgeontology/foundations/knowledge-ontology-runtime-model/)
+- [OntoUML Guide](/knowledgeontology/foundations/ontouml-guide/)
+- [OntoUML Research TODO](/knowledgeontology/foundations/ontouml-research-todo/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)

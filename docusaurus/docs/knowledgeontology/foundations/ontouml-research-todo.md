@@ -1,6 +1,6 @@
 ---
 title: "OntoUML Research TODO"
-slug: /knowledgefund/ontouml-research-todo/
+slug: /knowledgeontology/foundations/ontouml-research-todo/
 ---
 
 This page is a working research TODO for the next OntoUML and UFO study passes needed to support the Knowledge Ontology direction.
@@ -17,14 +17,14 @@ The goal of this research list is to move from:
 
 ## Priority order
 
-1. UFO core foundations (first pass captured in [UFO Essentials](/knowledgefund/ufo-essentials/))
-2. Types and taxonomic structures (first pass captured in [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/))
-3. Relationships and relators (first pass captured in [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/))
-4. Events, occurrents, and time (first pass captured in [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/))
-5. Prevention vs interference / mitigation (first pass captured in [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/))
+1. UFO core foundations (first pass captured in [UFO Essentials](/knowledgeontology/foundations/ufo-essentials/))
+2. Types and taxonomic structures (first pass captured in [Taxonomy and Type Rules](/knowledgeontology/foundations/taxonomy-type-rules/))
+3. Relationships and relators (first pass captured in [Relationships and Relators Guide](/knowledgeontology/foundations/relationships-relators-guide/))
+4. Events, occurrents, and time (first pass captured in [Events and Temporal Change Guide](/knowledgeontology/foundations/events-and-temporal-change/))
+5. Prevention vs interference / mitigation (first pass captured in [Mitigation and Interference Extension Note](/knowledgeontology/foundations/mitigation-and-interference-extension/))
 6. Enterprise architecture ontology mapping
-7. Runtime ontology model for Governance Foundation (first pass captured in [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/))
-8. Vocabulary / glossary consolidation (first pass captured in [Ontology Glossary](/knowledgefund/ontology-glossary/))
+7. Runtime ontology model for Governance Foundation (first pass captured in [Knowledge Ontology Runtime Model](/knowledgeontology/foundations/knowledge-ontology-runtime-model/))
+8. Vocabulary / glossary consolidation (first pass captured in [Ontology Glossary](/knowledgeontology/foundations/ontology-glossary/))
 
 ## Research TODOs
 
@@ -135,7 +135,7 @@ Governance and organisational design need more than binary prevention.
 - a note on where the prevention model is sufficient and where Governance Foundation must extend it
 - candidate concepts for mitigation, resilience, and recovery ontology work
 
-### 6. Research well-founded enterprise architecture modeling (first pass captured in [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/))
+### 6. Research well-founded enterprise architecture modeling (first pass captured in [Enterprise Architecture Ontology Mapping](/knowledgeontology/foundations/enterprise-architecture-ontology-mapping/))
 
 **Why:**
 The ArchiMate chapter is useful, but Governance Foundation needs broader enterprise architecture mapping.
@@ -228,17 +228,17 @@ The best immediate next step is probably:
 
 ## Related reading
 
-- [UFO Essentials](/knowledgefund/ufo-essentials/)
-- [Taxonomy and Type Rules](/knowledgefund/taxonomy-type-rules/)
-- [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
-- [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
-- [Mitigation and Interference Extension Note](/knowledgefund/mitigation-and-interference-extension/)
-- [Enterprise Architecture Ontology Mapping](/knowledgefund/enterprise-architecture-ontology-mapping/)
-- [Knowledge Ontology Runtime Model](/knowledgefund/knowledge-ontology-runtime-model/)
-- [Ontology Glossary](/knowledgefund/ontology-glossary/)
-- [OntoUML Guide](/knowledgefund/ontouml-guide/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [UFO Essentials](/knowledgeontology/foundations/ufo-essentials/)
+- [Taxonomy and Type Rules](/knowledgeontology/foundations/taxonomy-type-rules/)
+- [Relationships and Relators Guide](/knowledgeontology/foundations/relationships-relators-guide/)
+- [Events and Temporal Change Guide](/knowledgeontology/foundations/events-and-temporal-change/)
+- [Mitigation and Interference Extension Note](/knowledgeontology/foundations/mitigation-and-interference-extension/)
+- [Enterprise Architecture Ontology Mapping](/knowledgeontology/foundations/enterprise-architecture-ontology-mapping/)
+- [Knowledge Ontology Runtime Model](/knowledgeontology/foundations/knowledge-ontology-runtime-model/)
+- [Ontology Glossary](/knowledgeontology/foundations/ontology-glossary/)
+- [OntoUML Guide](/knowledgeontology/foundations/ontouml-guide/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
 
 

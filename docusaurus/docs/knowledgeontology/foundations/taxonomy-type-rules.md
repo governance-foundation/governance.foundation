@@ -1,6 +1,6 @@
 ---
 title: "Taxonomy and Type Rules"
-slug: /knowledgefund/taxonomy-type-rules/
+slug: /knowledgeontology/foundations/taxonomy-type-rules/
 ---
 
 This page is a practical synthesis of the OntoUML and UFO work on **types and taxonomic structures**.
@@ -401,8 +401,8 @@ This page should feed directly into:
 
 ## Related reading
 
-- [UFO Essentials](/knowledgefund/ufo-essentials/)
-- [OntoUML Guide](/knowledgefund/ontouml-guide/)
-- [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [UFO Essentials](/knowledgeontology/foundations/ufo-essentials/)
+- [OntoUML Guide](/knowledgeontology/foundations/ontouml-guide/)
+- [OntoUML Research TODO](/knowledgeontology/foundations/ontouml-research-todo/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)

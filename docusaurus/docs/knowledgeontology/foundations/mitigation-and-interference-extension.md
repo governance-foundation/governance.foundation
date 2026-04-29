@@ -1,6 +1,6 @@
 ---
 title: "Mitigation and Interference Extension Note"
-slug: /knowledgefund/mitigation-and-interference-extension/
+slug: /knowledgeontology/foundations/mitigation-and-interference-extension/
 ---
 
 This page captures the next step beyond the thesis's strong treatment of **prevention**.
@@ -222,9 +222,9 @@ The next strong follow-on is to connect this extension work to enterprise archit
 
 ## Related reading
 
-- [OntoUML Guide](/knowledgefund/ontouml-guide/)
-- [OntoUML Research TODO](/knowledgefund/ontouml-research-todo/)
-- [Events and Temporal Change Guide](/knowledgefund/events-and-temporal-change/)
-- [Relationships and Relators Guide](/knowledgefund/relationships-relators-guide/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [OntoUML Guide](/knowledgeontology/foundations/ontouml-guide/)
+- [OntoUML Research TODO](/knowledgeontology/foundations/ontouml-research-todo/)
+- [Events and Temporal Change Guide](/knowledgeontology/foundations/events-and-temporal-change/)
+- [Relationships and Relators Guide](/knowledgeontology/foundations/relationships-relators-guide/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)

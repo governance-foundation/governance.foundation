@@ -1,6 +1,6 @@
 ---
 title: "Measurement"
-slug: /knowledgefund/ontology/diagrams/measurement/
+slug: /knowledgeontology/diagrams/measurement/
 ---
 
 Measurement is part of how an ontology becomes operational.
@@ -114,7 +114,7 @@ That makes measurement part of the structural knowledge base rather than a separ
 
 <iframe
   title="Measurement Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=Data-Modeling-Tech-Overview.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FData-Modeling-Tech-Overview.drawio"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=Data-Modeling-Tech-Overview.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FData-Modeling-Tech-Overview.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
@@ -122,10 +122,10 @@ That makes measurement part of the structural knowledge base rather than a separ
 
 If the embedded viewer does not load, open directly:
 
-- /assets/gxp/diagrams/Data-Modeling-Tech-Overview.drawio
+- /assets/knowledgeontology/diagrams/Data-Modeling-Tech-Overview.drawio
 
 ## Related reading
 
 - [Knowledge Fog](/knowledgefund/knowledge-fog/)
 - [Agent Discovery Workflow](/knowledgefund/agent-discovery/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)

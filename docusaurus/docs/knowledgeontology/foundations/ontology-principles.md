@@ -1,6 +1,6 @@
 ---
 title: "Ontology Principles"
-slug: /knowledgefund/ontology-principles/
+slug: /knowledgeontology/foundations/ontology-principles/
 ---
 
 If KnowledgeFund is going to support agents, organisational memory, framework translation, and ontology-based evaluation, it needs clear principles.
@@ -160,7 +160,7 @@ It is valuable if it:
 
 ## Related reading
 
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
 - [Knowledge Fog](/knowledgefund/knowledge-fog/)
 - [Agent Discovery Workflow](/knowledgefund/agent-discovery/)

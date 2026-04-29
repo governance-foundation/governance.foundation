@@ -1,6 +1,6 @@
 ---
 title: "Viewpoints"
-slug: /knowledgefund/ontology/diagrams/viewpoints/
+slug: /knowledgeontology/diagrams/viewpoints/
 ---
 
 A strong ontology should support multiple viewpoints without fragmenting the underlying truth structure.
@@ -78,7 +78,7 @@ But they should be understood as viewpoints over the organisation, not as the on
 
 <iframe
   title="Viewpoints Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=Data-Perspectives.drawio&file=%2Fassets%2Fgxp%2Fdiagrams%2FData-Perspectives.drawio"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=Data-Perspectives.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FData-Perspectives.drawio"
   width="100%"
   height="700"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
@@ -86,10 +86,10 @@ But they should be understood as viewpoints over the organisation, not as the on
 
 If the embedded viewer does not load, open directly:
 
-- /assets/gxp/diagrams/Data-Perspectives.drawio
+- /assets/knowledgeontology/diagrams/Data-Perspectives.drawio
 
 ## Related reading
 
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
-- [Ontology Architecture](/knowledgefund/ontology-architecture/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)

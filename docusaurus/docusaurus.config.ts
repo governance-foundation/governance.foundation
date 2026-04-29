@@ -86,7 +86,7 @@ const config: Config = {
       items: [
         {to: '/knowledgefund/', label: 'KnowledgeFund', position: 'left'},
         {to: '/governance/', label: 'Governance', position: 'left'},
-        {to: '/knowledgefund/ontology/', label: 'Knowledge Ontology', position: 'left'},
+        {to: '/knowledgeontology/', label: 'Knowledge Ontology', position: 'left'},
         {to: '/frameworks/', label: 'Frameworks', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {to: '/about', label: 'About', position: 'left'},
@@ -113,7 +113,7 @@ const config: Config = {
           items: [
             {label: 'KnowledgeFund', to: '/knowledgefund/'},
             {label: 'Governance', to: '/governance/'},
-            {label: 'Knowledge Ontology', to: '/knowledgefund/ontology/'},
+            {label: 'Knowledge Ontology', to: '/knowledgeontology/'},
             {label: 'Frameworks', to: '/frameworks/'},
           ],
         },

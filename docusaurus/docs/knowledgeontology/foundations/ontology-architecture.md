@@ -1,6 +1,6 @@
 ---
 title: "Ontology Architecture"
-slug: /knowledgefund/ontology-architecture/
+slug: /knowledgeontology/foundations/ontology-architecture/
 ---
 
 If KnowledgeFund is going to support agents, durable organisational memory, and framework-independent reuse, it needs a clear architectural position.
@@ -150,6 +150,6 @@ It only has to change or extend the mapping layer.
 ## Related reading
 
 - [KnowledgeFund Model](/knowledgefund/model/)
-- [Knowledge Ontology](/knowledgefund/ontology/)
-- [Ontology Principles](/knowledgefund/ontology-principles/)
+- [Knowledge Ontology](/knowledgeontology/)
+- [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
