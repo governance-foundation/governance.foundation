@@ -3,8 +3,11 @@ title: "Model Business"
 slug: /knowledgeontology/model/business
 ---
 
-This information domain provides a base schema for general modelling of business architecture.
-It is trying to gather a large part of the business architecture landscape into one connected semantic field rather than reducing business architecture to a few process boxes or management labels.
+This page explains the business domain of the model.
+It is the part of the knowledge ontology concerned with organisational intent, capability, structure, governance, work, risk, value, performance, and evidence.
+
+The point is not to treat business modelling as a loose collection of strategy words, process diagrams, policy shelves, and performance dashboards.
+The point is to describe how those things belong to one connected business domain.
 
 Following classic perspectives have been leveraged to develop this:
 
@@ -22,17 +25,14 @@ Following classic perspectives have been leveraged to develop this:
 
 Please call out more perspectives that need to be added.
 
-So the best reading flow here is:
-
-1. get the framing for what the business model is trying to hold together
-2. look at the diagram near the top
-3. then read the section-by-section interpretation underneath
-
 ## Intro
 
-The business model matters because it is the main domain where organisational intent, structure, capability, activity, resources, requirements, policy, risk, performance, and evidence all need to relate inside one coherent semantic system.
+The business model is where much of the organisation's meaningful structure becomes explicit.
+It is where identity, purpose, direction, capability, accountability, resources, obligations, risks, measures, and execution all need to relate.
 
-That is why this page needs to be read in sections rather than as one flat list of business nouns. The diagram is dense, but it becomes much more useful once the reader sees it early and then works through the explanation cluster by cluster.
+That is why this page matters.
+The business domain is not just one layer among many.
+It is the main organisational meaning layer that connects strategy to work, governance to action, and performance to evidence.
 
 ## Diagram
 
@@ -44,386 +44,338 @@ That is why this page needs to be read in sections rather than as one flat list 
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
 />
 
-## Current reading of the diagram
+## The business domain at a high level
 
-This diagram is much denser than the earlier overview pages.
-It is not just one business model.
-It is trying to gather a large part of the business architecture landscape into one connected semantic field.
+At a high level, the business model is trying to hold together several major concerns at once:
 
-The strongest reading is:
+- organisational identity and direction
+- capability, function, and activity
+- people, roles, and competence
+- resources, offerings, and exchange
+- requirements, policy, compliance, and control
+- risk, failure, and mitigation
+- performance, evidence, and assessment
+- tasks, initiatives, and executable work
 
-> the Business Model is the main domain where organisational intent, structure, capability, activity, resources, requirements, policy, risk, performance, and evidence are all related into one coherent semantic system.
+That breadth is not a flaw.
+It is the whole reason this domain matters.
+Business architecture becomes weak when these concerns are split into disconnected management artifacts that cannot explain one another.
 
-That is ambitious, and directionally right.
-But it also means the page needs to be read in sections, not as one flat list of business nouns.
+## Top-level conceptual flow
 
-## Section 1: the core business spine
+The easiest way to read the business domain is as a connected flow rather than as isolated subject buckets.
 
-At the centre of the diagram, the strongest structural backbone appears to be built around:
+A useful top-level flow is:
 
-- **Activity Group**
-- **Activity**
-- **Function**
-- **Capability**
-- **Objective (how)**
-- **Goal (what)**
-- **Strategy**
-- **Mission**
-- **Vision**
-- **Values / Principles / Ultimate Purpose**
+1. **identity and direction** define what the organisation is, why it exists, and where it is trying to go
+2. **capability and function** define what the organisation must be able to do and what stable responsibilities it carries
+3. **activity and execution** define how that work is actually expressed through tasks, initiatives, and operational action
+4. **resources and offerings** define what the organisation uses, produces, exchanges, and delivers
+5. **policy, requirements, and control** define the constraints and obligations that shape permissible action
+6. **risk and mitigation** define how the model accounts for exposure, failure, intervention, and resilience
+7. **performance, evidence, and assessment** define how the organisation judges what happened and what needs to change
 
-This is the main business meaning chain.
+That is not a strict one-way pipeline.
+It is a conceptual flow that helps explain how the main business concerns depend on one another.
 
-A useful interpretation is:
+Strategy shapes capability.
+Capability shapes activity.
+Activity depends on people, roles, and resources.
+Governance constrains how that activity is allowed to happen.
+Risk and performance reveal what actually happened.
+Evidence and assessment then feed back into strategy, control, and change.
 
-- **vision / mission / purpose / values / principles** define identity and direction
-- **strategy / goals / objectives** define desired movement and intended outcomes
-- **capabilities** define what the organisation must be able to do
-- **functions** define stable areas of business responsibility
-- **activities / activity groups** define the operational work that expresses those capabilities and functions
+## Shared subdomains and reused semantics
 
-That is a strong high-level spine.
-It gives the business model a real backbone instead of reducing business architecture to process maps or org charts.
+Another important point is that these are not separate mini-models with their own private truth.
+Many of the same underlying business concepts are reused across multiple subdomains.
 
-## Section 2: intent, motivation, and strategic semantics
+For example:
 
-One of the most important things this diagram is trying to preserve is that business architecture is not only operational.
-It is also intentional and normative.
+- a **goal** can shape capability priorities, task selection, performance assessment, and risk appetite
+- a **role** can appear in governance, execution, approval, accountability, and evidence trails
+- a **capability** can be referenced by strategy, activities, offerings, controls, and performance measures
+- a **resource** can matter simultaneously to value delivery, operational execution, risk exposure, and cost structure
+- a **requirement** can appear in policy, compliance, projects, controls, and audit evidence
+- a **service or offering context** can connect value, channels, activities, responsibilities, and measures
 
-The diagram includes concepts such as:
+This is one of the main reasons the business domain should be treated as a connected semantic field.
+The same core structures need to be leveraged repeatedly across different business concerns.
+If each subdomain invents its own separate version of goals, roles, capabilities, resources, or evidence, the model fragments and the business layer stops being reusable.
 
-- Vision
-- Mission
-- Goal
-- Objective
-- Strategy
-- Tactic
-- Strategic Priority
-- Strategic Intent / Identity
-- Opportunity
-- Impact
-- Values
-- Principles
-- Belief / Brand / Ambition / Story
+So the page should be read as one domain with many perspectives, not many separate domains that happen to be placed next to each other.
 
-That matters.
-Because the business layer is where the organisation’s **meaningful direction** should live.
+## Strategic identity and direction
 
-From the ontology/runtime point of view, this means the business model should not just capture what the organisation does.
-It should also capture:
+A strong business model needs to represent more than operations.
+It needs to represent why the organisation exists, what it is trying to become, and how it intends to move.
 
-- what it is trying to achieve
-- why it is trying to achieve it
-- what guiding commitments shape those choices
-- what tradeoffs or strategic frames exist around the work
+This is why concepts such as these matter:
 
-This is one of the places where the business model most clearly exceeds a purely technical or process model.
+- vision
+- mission
+- values
+- principles
+- purpose
+- strategy
+- goals
+- objectives
+- tactics
+- priorities
+- opportunities
+- impacts
 
-## Section 3: capability, function, and activity semantics
+These are not decorative statements.
+They provide the intentional structure that helps explain why capabilities are developed, why trade-offs are made, and why some work matters more than other work.
 
-The diagram places capability, function, and activity close together.
-That is useful, but these need to be kept distinct.
+If the business model does not preserve this layer properly, then everything below it becomes harder to interpret.
+Capabilities float without direction. Activities lose strategic meaning. Performance loses context.
+
+## Capability, function, and activity
+
+One of the core jobs of the business domain is to distinguish between what the organisation is able to do, what it is set up to do, and what it is actually doing.
 
 ### Capability
 
-A capability is best read as a **latent organisational ability or disposition**.
+A capability is an organisational ability or disposition.
 It is something the organisation can do under the right conditions.
-It is not the same thing as an event, a process instance, or a role.
+A capability is not a single process run, a task, or a role.
 
 ### Function
 
-A function is better read as a relatively stable **area of business responsibility or purpose-bearing operation**.
-It helps organise what the business is set up to do.
+A function is a relatively stable area of business responsibility.
+It helps describe how the organisation is organised to carry purpose-bearing work over time.
 
 ### Activity
 
 An activity is a more concrete unit of work or action.
-The presence of **Activity Group**, **Activity Type**, and links to tasks, requirements, resources, and outputs suggests the diagram is trying to move from broad operational families down toward executable or governable work.
+Activities and activity groups are where the model starts to move from enduring structure toward executable and governable work.
 
-This distinction is critical.
-If capability, function, process, and activity get collapsed into one concept, the whole business model becomes muddy very quickly.
+These distinctions matter.
+If capability, function, activity, process, and task are all treated as the same thing, the business model quickly becomes muddy and hard to reuse.
 
-## Section 4: organisation, people, roles, and competence
+## Organisation, roles, and competence
 
-Another major cluster in the diagram is the organisational/people side:
+The business domain also needs to represent the agentive structure of the organisation.
+That includes concepts such as:
 
-- Organisation
-- Role
-- Job
-- Competence
-- Skill
-- Competence Plan
-- Contact
-- Stakeholder
-- Founders
-- Segments / Units / Department / Membership / Authority
+- organisation
+- role
+- job
+- stakeholder
+- contact
+- membership
+- authority
+- units and departments
+- competence
+- skill
+- competence planning
 
-This is important because business structure is not only work structure.
-It is also social-agent structure.
+This matters because business architecture is not only about work design.
+It is also about who participates, who is responsible, who is authorised, and what competence exists or is missing.
 
-The ontology work helps sharpen this:
+Several distinctions are especially important here:
 
-- **organisation** is a social agent, not just a box
-- **role** is not the same as the person or organisation playing it
-- **job** is not identical to role either; it is closer to a formal position/assignment structure
-- **competence** and **skill** should not be collapsed into organisational units or tasks
+- an organisation is not just a box on a chart; it is a social agent
+- a role is not the same as the person or organisation that currently plays it
+- a job is not identical to a role; it is closer to a formal assignment or position structure
+- competence and skill should not be collapsed into tasks, teams, or functions
 
-This part of the diagram is directionally strong because it suggests that business architecture needs real people/agentive structure, not just abstract capabilities floating in space.
+Without this part of the model, business semantics become oddly disembodied.
 
-## Section 5: resources, offerings, and interaction
+## Resources, offerings, and value exchange
 
-The business diagram also includes a major resource/interaction cluster:
+A business model also needs to express what the organisation uses, produces, offers, exchanges, and depends on.
+That is why the diagram includes concepts such as:
 
-- Resource
-- Resource Type
-- Resource Group
-- Resource Interface
-- Resource Interaction
-- Offering
-- Inputs / Outputs
-- Channel
-- Information / Data
-- Revenue / Product / Product Line / Value Stream / Value Stage / Value Proposition
-- Cost / Equity / Asset / Material
+- resources
+- resource types and groups
+- interfaces and interactions
+- offerings
+- inputs and outputs
+- channels
+- products and product lines
+- value streams and value stages
+- value propositions
+- revenue, cost, equity, assets, and materials
 
-This is where the business model starts to intersect directly with service, value, and eventual technical realization.
+This is where the business domain intersects with value creation and delivery.
+It helps explain:
 
-A strong interpretation is:
+- what the organisation draws on to operate
+- what it creates or offers outwardly
+- how value moves across boundaries
+- how business meaning connects to economic and operational structure
 
-- resources are what activities and capabilities use, manage, and transform
-- offerings are what the organisation presents outwardly as structured value
-- interactions and interfaces show how those resources and offerings move across boundaries
-- value, cost, product, and channel semantics define how business intention meets exchange and delivery
+That prevents the business layer from becoming a purely managerial or abstract planning language.
 
-This cluster is very important because it helps prevent the business layer from becoming purely managerial language with no operational substance.
+## Requirements, policy, compliance, and control
 
-## Section 6: requirements, policy, compliance, and control
+A serious business model has to be governance-bearing.
+It cannot only describe what the organisation wants to do.
+It also has to describe the obligations, constraints, rules, and controls that shape permissible action.
 
-The diagram is also carrying a large governance/control cluster:
+That is why this part of the domain matters:
 
-- Requirement
-- Requirement Type
-- Requirement Group
-- Criteria
-- Policy
-- Rule / Standard / Guideline
-- Laws
-- Regulations
-- Contract
-- Waiver / Exceptions
-- Compliance Management
-- Audit Management
-- Integrity
-- Corporate Social Responsibility
+- requirements
+- criteria
+- policy
+- rules, standards, and guidelines
+- laws and regulations
+- contracts
+- waivers and exceptions
+- compliance management
+- audit management
+- integrity
+- corporate social responsibility
 
-This is one of the strongest signals that the business model is meant to be governance-bearing, not just descriptive.
+This is where the business domain becomes explicitly normative.
+It starts to express not only desired direction, but also what must be satisfied, what must be controlled, what can be violated, and what needs evidence.
 
-From the runtime perspective, many of these should not be treated as simple labels.
-They often need:
-
-- normative force
-- scope
-- ownership
-- applicability conditions
-- satisfaction/violation state
-- evidence and review traceability
-
-So this cluster is where the business model starts to become explicitly **normative**.
-That is a good move, but it also means the eventual runtime model must separate:
+In a stronger runtime-aware model, these structures should support distinctions such as:
 
 - requirement definition
 - applicability
-- assessment
+- ownership
+- review and assessment
 - compliance evidence
-- exception/waiver state
+- waiver or exception state
 
-## Section 7: risk, vulnerability, mitigation, and exceptions
+## Risk, failure, and mitigation
 
-The diagram includes a serious risk/control branch as well:
+Business modelling also has to account for breakdown, exposure, and intervention.
+The business domain is not only about the organisation at its ideal best.
+It also needs to explain what can go wrong, why it can go wrong, and what can be done about it.
 
-- Risk / Reward
-- Vulnerability
-- Event
-- Trigger
-- Mitigation / Solution
-- Failure Management
-- Exception Management
-- Exception Type
-- Threat / Fraud / Tolerance / Failure / Issue
+That is why the risk branch is important:
 
-This is a very useful inclusion.
-It shows that the business model is not just about the organisation at its ideal best.
-It is also about disruption, exposure, and intervention.
+- risk and reward
+- vulnerability
+- threat
+- issue
+- trigger
+- event
+- failure
+- mitigation
+- exception
+- tolerance
+- solution
 
-The ontology work matters a lot here:
+This part of the domain becomes much clearer when the distinctions are kept strong:
 
-- risks are not the same as failures
-- vulnerabilities are not the same as realised incidents
-- mitigations are not the same as controls already in force
-- exceptions and waivers need their own semantics
-- events/triggers should usually be occurrents, not just attributes
+- a risk is not the same as a failure
+- a vulnerability is not the same as an actual incident
+- a trigger is not the same as a long-term exposure
+- a mitigation is not the same as a control already in force
+- an exception is not the same as a permanent rule change
 
-This cluster wants a richer event-aware and state-aware treatment than the diagram currently makes explicit.
+This branch is essential if the business model is meant to support governance, resilience, and operational reasoning rather than static description alone.
 
-## Section 8: performance, assessment, and evidence
+## Performance, evidence, and assessment
 
-One of the best parts of the diagram is that it does not stop at planning and structure.
-It also includes:
+One of the strongest features of this business domain is that it includes not just planning and structure, but also evaluation and proof.
 
-- Performance Management (planned)
-- Performance Management (actual)
-- Measure
-- Metric
-- Assessment
-- Evidence
-- Argument
-- Claim
-- Effectiveness
-- Efficiency
-- Sustainability
-- SLA / KPI / KRI / KQI / Benchmark / Performance
+That includes concepts such as:
 
-That is a big deal.
-It means the business model is trying to connect:
+- measures and metrics
+- assessments
+- evidence
+- arguments
+- claims
+- effectiveness
+- efficiency
+- sustainability
+- KPI, KRI, KQI, SLA, and benchmarks
+- planned and actual performance
 
-- intent
-- execution
-- evaluation
-- proof
+This matters because the business model should not stop at intention.
+It should also support judgement.
+It should help the organisation connect:
 
-This is exactly where the runtime model becomes powerful.
-Because once business semantics are linked to claims, arguments, evidence, metrics, and assessments, the model stops being just a planning taxonomy and starts becoming a usable organisational reasoning system.
+- what it intended
+- what it did
+- what happened
+- how it knows
+- what should change next
 
-This is one of the clearest places where the Governance Foundation direction is stronger than ordinary enterprise diagrams.
+This is where the model becomes much more useful than a typical strategy/process/policy bundle.
+It becomes a reasoning structure rather than just a documentation structure.
 
-## Section 9: tasks, projects, and executable work
+## Tasks, initiatives, and executable work
 
-The diagram also includes a more concrete work-execution branch:
+The business domain also needs to connect enduring business meaning to finite execution.
+That is why this area matters:
 
-- Task
-- Task Members
-- Task Attributes
-- Task Management
-- Initiative / Milestone / Program / Project
-- Schedule
-- Agenda
-- Use Cases
-- Canvas
+- task
+- task members
+- task attributes
+- initiatives
+- milestones
+- programs
+- projects
+- schedules
+- agendas
+- use cases
+- canvases
 
-This appears to be the bridge from stable business semantics into finite execution slices.
+This branch is the bridge from relatively stable business semantics into actual work slices.
+It is where the organisation turns direction and structure into commitments, plans, and execution.
 
-This is useful, but it is also where ontological confusion often appears.
-The runtime work suggests we should distinguish carefully between:
+This area needs careful distinction between:
 
-- standard/normative process or task definitions
-- planned or scheduled work
-- actual task/activity occurrences
-- project/program structures as larger commitment containers
+- normative task or process definitions
+- planned work
+- scheduled work
+- actual task or activity occurrences
+- larger initiative and project containers
 
-If those are kept separate, this branch can become very strong.
-If they are blurred together, this part of the model will be one of the first places to become inconsistent.
+If these are kept separate, the model can support both governance and execution without confusion.
 
-## Section 10: what the diagram gets right
+## Why this domain matters for ontology
 
-The business diagram already gets several important things right:
+The business page should not only describe a business architecture catalog.
+It should also prepare the ground for stronger ontology.
 
-- it treats business architecture as more than process mapping
-- it includes intentional, normative, operational, and evaluative structure in one field
-- it recognises that capability, function, activity, requirement, risk, and performance all belong in one connected model
-- it includes people/role/competence structure rather than treating business as disembodied process
-- it includes evidence/argument/claim thinking, which is unusually valuable
+That means the business domain eventually needs to become clearer about questions such as:
 
-That is a very strong direction.
+- which concepts are enduring entities
+- which are roles or positions
+- which are relationships that need first-class treatment
+- which are events or occurrences
+- which are qualities, measures, assessments, or evidence artifacts
+- which concepts are normative and which are retrospective
 
-## Section 11: what the diagram is still missing or conflating
+These distinctions are what allow the business layer to become rigorous enough for reuse, reasoning, traceability, and runtime interpretation.
 
-Because the model is so ambitious, this is also where the risks are.
+## Business modelling as connected domain structure
 
-### 1. Too many concept families are still visually flattened
+The main thing this page should make clear is that business modelling is not just about process maps or strategic headings.
+It is about the connected structure of organisational meaning.
 
-A lot of very different concept types are presented as if they are equivalent boxes in one field.
-But they are not equivalent.
-The page needs stronger type discipline between:
+A strong business model links:
 
-- entities
-- roles
-- relators
-- plans
-- events
-- qualities
-- documents/artifacts
-- metrics and assessments
+- identity and direction
+- capability and work
+- people and responsibility
+- resources and offerings
+- obligations and controls
+- risk and intervention
+- performance and evidence
+- execution and learning
 
-### 2. Normative vs retrospective structure is not clear enough
+That is why this domain is so central.
+It is where the organisation becomes legible to itself in business terms.
 
-The business model mixes:
+## Next direction for this page
 
-- goals
-- policies
-- requirements
-- plans
-- controls
+The next evolution of this page should strengthen the domain explanation even further by making several semantic distinctions more explicit:
 
-with:
+- core ontological categories such as entity, role, relator, event, quality, and artifact
+- normative versus retrospective business structures
+- clearer separation between capability, function, activity, process, and task
+- clearer lifecycle treatment for risk, trigger, failure, mitigation, and exception
+- stronger treatment of evidence, argument, claim, and assessment chains
 
-- actual performance
-- actual evidence
-- actual assessments
-- actual events and failures
-
-That is okay at one level, but only if the distinction is explicit.
-Right now it is mostly implicit.
-
-### 3. Relators are under-specified
-
-Concepts like:
-
-- contract
-- membership
-- authority
-- stakeholder relationship
-- dependency
-- offering/customer relationship
-
-likely need first-class relationship treatment rather than plain bare links.
-
-### 4. Event and change semantics need to be much stronger
-
-The presence of event/trigger/failure/exception/risk suggests the model wants to be dynamic, but the structure is still mostly static.
-The runtime direction should eventually separate:
-
-- dispositions and vulnerabilities
-- triggering events
-- resulting situations
-- mitigation interventions
-- post-event assessments
-
-## Section 12: best current interpretation
-
-The strongest reading of this page now is:
-
-> The business diagram is a broad semantic field for organisational intent, structure, capability, activity, resources, governance, risk, performance, and evidence.
-
-And more sharply:
-
-> it is trying to define the business layer as the main organisational meaning layer where strategy, work, governance, value, and assessment all become connected.
-
-That is the right ambition.
-The main challenge now is not whether the scope is useful.
-It is whether the semantic distinctions inside that scope are kept strong enough.
-
-## Section 13: recommended next refinement
-
-The next refinement of this diagram should make at least five things more explicit:
-
-1. **core ontological categories** (entity, role, relator, event, quality, artifact)
-2. **normative vs retrospective structures**
-3. **capability / function / activity / task distinctions**
-4. **risk / trigger / failure / mitigation lifecycle semantics**
-5. **evidence / argument / claim / assessment chains**
-
-That would make this page much more aligned with the ontology foundations and runtime model work.
+Those refinements would make the page even more useful as a true business-domain entry point into the ontology.
 
 ![status](https://img.shields.io/badge/status-draft-red)
-
-

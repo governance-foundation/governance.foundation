@@ -3,9 +3,32 @@ title: "Model Overview"
 slug: /knowledgeontology/model/overview
 ---
 
-This page should introduce the major information domains in the model and explain how they lead toward a stronger ontology.
-The diagram is useful as a visual orientation aid, but it should not be treated as the main subject of the page.
+This page introduces the major information domains in the model and explains how they lead toward a stronger ontology.
 The real subject is the domain structure itself and the path from high-level understanding toward explicit ontological modeling.
+
+So the best reading flow is:
+
+1. get the core framing
+2. look at the diagram as an orienting overview
+3. then read the deeper explanation of how the domains fit together
+
+## Intro
+
+The overview matters because it gives a navigable entry point into the knowledge domain before the reader drops into the more detailed model pages. It helps people see the major areas of concern, how they relate, and why the overall structure leads toward ontology rather than stopping at a loose conceptual map.
+
+That is the real value of the page: it is not just a diagram caption. It is the bridge between broad domain understanding and more explicit semantic modelling.
+
+## Diagram
+
+The diagram works best near the top as a visual orientation aid before the fuller interpretation below.
+
+<iframe
+  title="GXP-Model-Overview.drawio Diagram"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Overview.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Model-Overview.drawio"
+  width="100%"
+  height="640"
+  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
+/>
 
 ## Why this overview matters
 
@@ -280,22 +303,6 @@ The next refinement of this page should make at least four things more explicit:
 4. **which parts of each domain should become canonical ontology versus simplified overview/projection**
 
 That would move the page from a useful draft domain map toward a stronger ontology introduction.
-
-## Diagram preview
-
-The diagram remains useful as a supporting visual summary of the domain structure described above.
-
-<iframe
-  title="GXP-Model-Overview.drawio Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Overview.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Model-Overview.drawio"
-  width="100%"
-  height="640"
-  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
-/>
-
-If the preview does not load, open directly:
-
-- /assets/knowledgeontology/diagrams/GXP-Model-Overview.drawio
 
 ![status](https://img.shields.io/badge/status-draft-red)
 
