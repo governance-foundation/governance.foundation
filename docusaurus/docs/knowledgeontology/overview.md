@@ -57,12 +57,9 @@ The pages in this section describe the model through domains, layers, collaborat
 
 They form the structural basis for representing organisational knowledge in a way that can grow gradually rather than requiring a giant all-at-once enterprise modelling exercise.
 
-## Definitions
+## Supporting viewpoints
 
-- [Terms](/knowledgeontology/diagrams/terms/) , definition of terms used
-- [Measurement](/knowledgeontology/diagrams/measurement/) , how to measure things
-- [Questions](/knowledgeontology/diagrams/questions/) , questions the model should be able to answer
-- [Viewpoints](/knowledgeontology/diagrams/viewpoints/) , ways of presenting information in the model
+- [Model Viewpoints](/knowledgeontology/model/viewpoints/) , ways of presenting information in the model through different lenses without changing the canonical ontology
 
 ## Table of Contents
 

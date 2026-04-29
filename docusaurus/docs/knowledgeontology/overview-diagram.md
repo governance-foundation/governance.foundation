@@ -61,7 +61,7 @@ Those pages currently map to routes like:
 - `/knowledgeontology/diagrams/measurement/`
 - `/knowledgeontology/diagrams/questions/`
 - `/knowledgeontology/diagrams/terms/`
-- `/knowledgeontology/diagrams/viewpoints/`
+- `/knowledgeontology/model/viewpoints/`
 
 You can also reuse the same renderer pattern in other docs sections when needed.
 

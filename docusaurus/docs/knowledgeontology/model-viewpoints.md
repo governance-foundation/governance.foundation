@@ -1,12 +1,29 @@
 ---
-title: "Viewpoints"
-slug: /knowledgeontology/diagrams/viewpoints/
+title: "Model Viewpoints"
+slug: /knowledgeontology/model/viewpoints/
 ---
 
 A strong ontology should support multiple viewpoints without fragmenting the underlying truth structure.
 
 That is one of the reasons viewpoints matter.
 They let different people, teams, and frameworks look at the same organisation through different lenses while still grounding those views in a shared model.
+
+## Viewpoints and collaboration
+
+This page is the companion to **Model Collaboration**.
+
+If collaboration explains how different roles contribute into the shared model, viewpoints explains how different users and frameworks need different ways of consuming, navigating, and interpreting that same model.
+
+That is why these two pages belong together.
+A shared ontology-backed system does not succeed just because many people can contribute to it.
+It also has to produce role-appropriate experiences, apps, dashboards, canvases, and framework views that make the shared model usable.
+
+So the deeper pattern is:
+
+- **collaboration** creates structured contribution into the canonical model
+- **viewpoints** create structured consumption and interpretation over the canonical model
+
+That is how one underlying semantic foundation can support many different organisational experiences without fragmenting truth.
 
 ## Why viewpoints matter
 
@@ -90,6 +107,7 @@ If the embedded viewer does not load, open directly:
 
 ## Related reading
 
+- [Model Collaboration](/knowledgeontology/model/collaboration/)
 - [Frameworks as Views](/knowledgefund/frameworks-as-views/)
 - [Ontology Architecture](/knowledgeontology/foundations/ontology-architecture/)
 - [Ontology Principles](/knowledgeontology/foundations/ontology-principles/)

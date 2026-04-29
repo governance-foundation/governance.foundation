@@ -32,6 +32,7 @@ const sidebars: SidebarsConfig = {
         'knowledgeontology/model-deployment',
         'knowledgeontology/model-data',
         'knowledgeontology/model-infrastructure',
+        'knowledgeontology/model-viewpoints',
         'knowledgeontology/tech-architecture',
         {
           type: 'category',
@@ -51,16 +52,6 @@ const sidebars: SidebarsConfig = {
             'knowledgeontology/foundations/ontouml-guide',
             'knowledgeontology/foundations/ontouml-document-priority-index',
             'knowledgeontology/foundations/ontouml-research-todo',
-          ],
-        },
-        {
-          type: 'category',
-          label: 'Diagrams',
-          items: [
-            'knowledgeontology/terms',
-            'knowledgeontology/measurement',
-            'knowledgeontology/questions',
-            'knowledgeontology/viewpoints',
           ],
         },
       ],

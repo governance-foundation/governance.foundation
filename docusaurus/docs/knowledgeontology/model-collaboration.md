@@ -147,6 +147,23 @@ Examples include:
 These should not be treated as disconnected documents.
 They are better understood as **entry points, projections, and contribution surfaces** into the shared model.
 
+## Collaboration and viewpoints belong together
+
+This page and **Model Viewpoints** describe two sides of the same architectural idea.
+
+**Model Collaboration** explains how different roles contribute into the shared ontology-backed model through role-appropriate artifacts, experiences, and contribution surfaces.
+**Model Viewpoints** explains how those same roles, and the consumers of their work, need different ways of seeing and interpreting that same shared model.
+
+So in practice:
+
+- collaboration defines **who contributes, through what structures, and into what shared semantic backbone**
+- viewpoints defines **how different users, teams, frameworks, and applications consume or project that backbone**
+
+That means the long-term architecture is not one raw model UI for everyone.
+It is a shared canonical model underneath, with multiple role-specific experiences, apps, catalogs, dashboards, and interpretation surfaces above it.
+
+If collaboration explains how the model is populated, viewpoints explains how the model becomes usable.
+
 ## What the human roles are doing
 
 The role icons around the outside make the intended usage pattern much clearer.
@@ -305,6 +322,12 @@ The next refinement of this diagram should make at least four things more explic
 4. **relational structure of accountability, delegation, and participation**
 
 That would align the page much more closely with the runtime metamodel and the ontology foundation work.
+
+## Related reading
+
+- [Model Overview](/knowledgeontology/model/overview/)
+- [Model Viewpoints](/knowledgeontology/model/viewpoints/)
+- [Model Business](/knowledgeontology/model/business/)
 
 ![status](https://img.shields.io/badge/status-draft-red)
 
