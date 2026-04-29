@@ -37,6 +37,11 @@ A lightweight operating tracker for turning the narrative schedule into an actua
 | 15 | How an Organisation Would Build Its Own KnowledgeFund | `docusaurus/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund.md` | This can be built, not just theorised | Build-your-own roadmap visual | planned | You Can Now Build Capability From Within |
 | 16 | You Can Now Build Capability From Within | `docusaurus/blog/2026-04-25-you-can-now-build-capability-from-within.md` | Internal capability formation is the real competitive move | Capability-from-within visual | planned | — |
 
+## Detailed post packs
+
+- Post 01: `LINKEDIN-POST-01-WHY-GOVERNANCE-FOUNDATION.md`
+- Posts 02–16: `LINKEDIN-POST-PACKS-02-16.md`
+
 ## Optional operational columns to add later
 
 If this turns into a more active content machine, extend the table with:
