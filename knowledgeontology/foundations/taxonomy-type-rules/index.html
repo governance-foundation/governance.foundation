@@ -1,0 +1,351 @@
+<!doctype html><html lang=en dir=ltr class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-knowledgeontology/foundations/taxonomy-type-rules" data-has-hydrated=false><head><meta charset=UTF-8><meta name=generator content="Docusaurus v3.10.0"><title data-rh=true>Taxonomy and Type Rules | Governance Foundation</title><meta data-rh=true name=viewport content="width=device-width, initial-scale=1.0"/><meta data-rh=true name=twitter:card content=summary_large_image /><meta data-rh=true property=og:image content=https://governance.foundation/assets/screenshots/homepage-og.jpg /><meta data-rh=true name=twitter:image content=https://governance.foundation/assets/screenshots/homepage-og.jpg /><meta data-rh=true property=og:url content=https://governance.foundation/knowledgeontology/foundations/taxonomy-type-rules/ /><meta data-rh=true property=og:locale content=en /><meta data-rh=true name=docusaurus_locale content=en /><meta data-rh=true name=docsearch:language content=en /><meta data-rh=true name=docusaurus_version content=current /><meta data-rh=true name=docusaurus_tag content=docs-default-current /><meta data-rh=true name=docsearch:version content=current /><meta data-rh=true name=docsearch:docusaurus_tag content=docs-default-current /><meta data-rh=true property=og:title content="Taxonomy and Type Rules | Governance Foundation"/><meta data-rh=true name=description content="This page is a practical synthesis of the OntoUML and UFO work on types and taxonomic structures."/><meta data-rh=true property=og:description content="This page is a practical synthesis of the OntoUML and UFO work on types and taxonomic structures."/><link data-rh=true rel=icon href=/assets/icons/favicon-32x32.png /><link data-rh=true rel=canonical href=https://governance.foundation/knowledgeontology/foundations/taxonomy-type-rules/ /><link data-rh=true rel=alternate href=https://governance.foundation/knowledgeontology/foundations/taxonomy-type-rules/ hreflang=en /><link data-rh=true rel=alternate href=https://governance.foundation/knowledgeontology/foundations/taxonomy-type-rules/ hreflang=x-default /><script data-rh=true type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://governance.foundation/knowledgeontology/","name":"Knowledge Ontology","position":1},{"@type":"ListItem","item":"https://governance.foundation/knowledgeontology/foundations/","name":"Ontology Foundations","position":2},{"@type":"ListItem","item":"https://governance.foundation/knowledgeontology/foundations/taxonomy-type-rules/","name":"Taxonomy and Type Rules","position":3}]}</script><link rel=alternate type=application/rss+xml href=/blog/rss.xml title="Governance Foundation RSS Feed"><link rel=alternate type=application/atom+xml href=/blog/atom.xml title="Governance Foundation Atom Feed"><link rel=stylesheet href=/assets/css/styles.e631a4bf.css /><script src=/assets/js/runtime~main.01f1c34b.js defer></script><script src=/assets/js/main.3b2597dd.js defer></script></head><body><svg style="display: none;"><defs>
+<symbol id=theme-svg-external-link viewBox="0 0 24 24"><path fill=currentColor d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme-03b")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||"dark"),document.documentElement.setAttribute("data-theme-choice",t||"dark")}(),function(){try{for(var[t,e]of new URLSearchParams(window.location.search).entries())if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id=__docusaurus><link rel=preload as=image href=/assets/branding/governance-foundation-logo.jpg /><link rel=preload as=image href=/assets/branding/governance-foundation-logo-dark.png /><div role=region aria-label="Skip to main content"><a class=skipToContent_fXgn href=#__docusaurus_skipToContent_fallback>Skip to main content</a></div><nav aria-label=Main class="theme-layout-navbar navbar navbar--fixed-top"><div class=navbar__inner><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded=false class="navbar__toggle clean-btn" type=button><svg width=30 height=30 viewBox="0 0 30 30" aria-hidden=true><path stroke=currentColor stroke-linecap=round stroke-miterlimit=10 stroke-width=2 d="M4 7h22M4 15h22M4 23h22"/></svg></button><a class=navbar__brand href=/><div class=navbar__logo><img src=/assets/branding/governance-foundation-logo.jpg alt="Governance Foundation" class="themedComponent_mlkZ themedComponent--light_NVdE"/><img src=/assets/branding/governance-foundation-logo-dark.png alt="Governance Foundation" class="themedComponent_mlkZ themedComponent--dark_xIcU"/></div><b class="navbar__title text--truncate"></b></a><a class="navbar__item navbar__link" href=/knowledgefund/>KnowledgeFund</a><a class="navbar__item navbar__link" href=/governance/>Governance</a><a aria-current=page class="navbar__item navbar__link navbar__link--active" href=/knowledgeontology/>Knowledge Ontology</a><a class="navbar__item navbar__link" href=/frameworks/>Frameworks</a><a class="navbar__item navbar__link" href=/blog/>Blog</a><a class="navbar__item navbar__link" href=/about/>About</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href=https://github.com/governance-foundation/governance.foundation/issues/new/choose target=_blank rel="noopener noreferrer" class="navbar__item navbar__link navbar-open-issue">Open Issue<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><div class=navbarSearchContainer_Bca1><div class="navbar__search searchBarContainer_NW3z" dir=ltr><input placeholder=Search aria-label=Search class="navbar__search-input searchInput_YFbd" value="" /><div class="loadingRing_RJI3 searchBarLoadingRing_YnHq"><div></div><div></div><div></div><div></div></div></div></div><a href=https://github.com/governance-foundation/governance.foundation target=_blank rel="noopener noreferrer" class="navbar__item navbar__link navbar-github-link">GitHub<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type=button disabled title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill=currentColor d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill=currentColor d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill=currentColor d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"/></svg></button></div></div></div><div role=presentation class=navbar-sidebar__backdrop></div></nav><div id=__docusaurus_skipToContent_fallback class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class=docsWrapper_hBAB><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type=button></button><div class=docRoot_UBD9><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class=sidebarViewport_aRkj><div class=sidebar_njMd><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/knowledgefund/><span title=KnowledgeFund class=categoryLinkLabel_W154>KnowledgeFund</span></a><button aria-label="Expand sidebar category 'KnowledgeFund'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" href=/knowledgeontology/><span title="Knowledge Ontology" class=categoryLinkLabel_W154>Knowledge Ontology</span></a><button aria-label="Collapse sidebar category 'Knowledge Ontology'" aria-expanded=true type=button class="clean-btn menu__caret"></button></div><ul class=menu__list><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/overview/><span title="Model Overview" class=linkLabel_WmDU>Model Overview</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/layers/><span title="Model Layers" class=linkLabel_WmDU>Model Layers</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/collaboration/><span title="Model Collaboration" class=linkLabel_WmDU>Model Collaboration</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/business/><span title="Model Business" class=linkLabel_WmDU>Model Business</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/service/><span title="Model Service" class=linkLabel_WmDU>Model Service</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/application/><span title="Model Application" class=linkLabel_WmDU>Model Application</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/deployment/><span title="Model Deployment" class=linkLabel_WmDU>Model Deployment</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/data/><span title="Model Data" class=linkLabel_WmDU>Model Data</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/infrastructure/><span title="Model Infrastructure" class=linkLabel_WmDU>Model Infrastructure</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/tech/architecture/><span title="Technical Architecture" class=linkLabel_WmDU>Technical Architecture</span></a><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" tabindex=0 href=/knowledgeontology/foundations/><span title="Ontology Foundations" class=categoryLinkLabel_W154>Ontology Foundations</span></a><button aria-label="Collapse sidebar category 'Ontology Foundations'" aria-expanded=true type=button class="clean-btn menu__caret"></button></div><ul class=menu__list><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/ontology-architecture/><span title="Ontology Architecture" class=linkLabel_WmDU>Ontology Architecture</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/ontology-principles/><span title="Ontology Principles" class=linkLabel_WmDU>Ontology Principles</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/ufo-essentials/><span title="UFO Essentials" class=linkLabel_WmDU>UFO Essentials</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class="menu__link menu__link--active" aria-current=page tabindex=0 href=/knowledgeontology/foundations/taxonomy-type-rules/><span title="Taxonomy and Type Rules" class=linkLabel_WmDU>Taxonomy and Type Rules</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/relationships-relators-guide/><span title="Relationships and Relators Guide" class=linkLabel_WmDU>Relationships and Relators Guide</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/events-and-temporal-change/><span title="Events and Temporal Change Guide" class=linkLabel_WmDU>Events and Temporal Change Guide</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/mitigation-and-interference-extension/><span title="Mitigation and Interference Extension Note" class=linkLabel_WmDU>Mitigation and Interference Extension Note</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/enterprise-architecture-ontology-mapping/><span title="Enterprise Architecture Ontology Mapping" class=linkLabel_WmDU>Enterprise Architecture Ontology Mapping</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/knowledge-ontology-runtime-model/><span title="Knowledge Ontology Runtime Model" class=linkLabel_WmDU>Knowledge Ontology Runtime Model</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/ontology-glossary/><span title="Ontology Glossary" class=linkLabel_WmDU>Ontology Glossary</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/ontouml-guide/><span title="OntoUML Guide" class=linkLabel_WmDU>OntoUML Guide</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/ontouml-document-priority-index/><span title="OntoUML Document Priority Index" class=linkLabel_WmDU>OntoUML Document Priority Index</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-3 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/foundations/ontouml-research-todo/><span title="OntoUML Research TODO" class=linkLabel_WmDU>OntoUML Research TODO</span></a></ul><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--sublist-caret" role=button aria-expanded=false tabindex=0 href=/knowledgeontology/diagrams/overview/><span title=Diagrams class=categoryLinkLabel_W154>Diagrams</span></a></div></ul><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/governance/><span title=Governance class=categoryLinkLabel_W154>Governance</span></a><button aria-label="Expand sidebar category 'Governance'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/frameworks/><span title=Frameworks class=categoryLinkLabel_W154>Frameworks</span></a><button aria-label="Expand sidebar category 'Frameworks'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div></ul></nav></div></div></aside><main class=docMainContainer_TBSr><div class="container padding-top--md padding-bottom--lg"><div class=row><div class="col docItemCol_VOVn"><div class=docItemContainer_Djhp><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label=Breadcrumbs><ul class=breadcrumbs><li class=breadcrumbs__item><a aria-label="Home page" class=breadcrumbs__link href=/><svg viewBox="0 0 24 24" class=breadcrumbHomeIcon_YNFT><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill=currentColor /></svg></a><li class=breadcrumbs__item><a class=breadcrumbs__link href=/knowledgeontology/><span>Knowledge Ontology</span></a><li class=breadcrumbs__item><a class=breadcrumbs__link href=/knowledgeontology/foundations/><span>Ontology Foundations</span></a><li class="breadcrumbs__item breadcrumbs__item--active"><span class=breadcrumbs__link>Taxonomy and Type Rules</span></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type=button class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Taxonomy and Type Rules</h1></header><p>This page is a practical synthesis of the OntoUML and UFO work on <strong>types and taxonomic structures</strong>.</p>
+<p>It follows the first <code>UFO Essentials</code> pass and focuses on the most important modeling rules needed to avoid bad organisational ontology.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=why-this-page-exists>Why this page exists<a href=#why-this-page-exists class=hash-link aria-label="Direct link to Why this page exists" title="Direct link to Why this page exists" translate=no>​</a></h2>
+<p>A canonical ontology fails fast if its type system is sloppy.</p>
+<p>If we confuse:</p>
+<ul>
+<li class="">kinds with roles</li>
+<li class="">roles with phases</li>
+<li class="">sortals with non-sortals</li>
+<li class="">rigid with anti-rigid types</li>
+<li class="">identity-bearing types with cross-cutting aggregations</li>
+</ul>
+<p>then the ontology becomes hard to reason over and impossible to validate cleanly.</p>
+<p>This matters even more if the ontology is meant to be used by agents, validation rules, and runtime persistence.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=the-core-problem-this-paper-addresses>The core problem this paper addresses<a href=#the-core-problem-this-paper-addresses class=hash-link aria-label="Direct link to The core problem this paper addresses" title="Direct link to The core problem this paper addresses" translate=no>​</a></h2>
+<p>The paper argues that conceptual modeling has historically lacked strong methodological support for:</p>
+<ul>
+<li class="">deciding what kind of type a domain term really denotes</li>
+<li class="">building sound subtype hierarchies</li>
+<li class="">avoiding common taxonomic mistakes</li>
+<li class="">enforcing these rules in modeling tools and machine-readable ontologies</li>
+</ul>
+<p>The work extends the UFO theory of types and updates OntoUML accordingly.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=the-most-important-takeaway>The most important takeaway<a href=#the-most-important-takeaway class=hash-link aria-label="Direct link to The most important takeaway" title="Direct link to The most important takeaway" translate=no>​</a></h2>
+<p>The most important takeaway is this:</p>
+<p><strong>taxonomic structure is not just diagram hygiene, it is ontological structure.</strong></p>
+<p>A bad taxonomy is not just ugly.
+It encodes false identity assumptions, false dependence assumptions, and false change assumptions.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=the-major-type-distinctions>The major type distinctions<a href=#the-major-type-distinctions class=hash-link aria-label="Direct link to The major type distinctions" title="Direct link to The major type distinctions" translate=no>​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=sortals-vs-non-sortals>Sortals vs non-sortals<a href=#sortals-vs-non-sortals class=hash-link aria-label="Direct link to Sortals vs non-sortals" title="Direct link to Sortals vs non-sortals" translate=no>​</a></h3>
+<p>A <strong>sortal</strong> supplies or carries a principle of identity for its instances.</p>
+<p>A <strong>non-sortal</strong> groups things across different identity principles.</p>
+<p>That means:</p>
+<ul>
+<li class="">sortals tell you what kind of thing something is</li>
+<li class="">non-sortals tell you a common way in which different kinds of things can be grouped</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=kinds>Kinds<a href=#kinds class=hash-link aria-label="Direct link to Kinds" title="Direct link to Kinds" translate=no>​</a></h3>
+<p>A <strong>kind</strong> is a rigid sortal that provides identity.</p>
+<p>Examples:</p>
+<ul>
+<li class="">Person</li>
+<li class="">Organisation</li>
+<li class="">Contract-like relator</li>
+<li class="">Capability-like mode kind</li>
+</ul>
+<p>Kinds are the top identity providers in their sortal hierarchies.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=subkinds>Subkinds<a href=#subkinds class=hash-link aria-label="Direct link to Subkinds" title="Direct link to Subkinds" translate=no>​</a></h3>
+<p>A <strong>subkind</strong> is a rigid sortal that carries the identity supplied by exactly one kind.</p>
+<p>Examples:</p>
+<ul>
+<li class="">Nonprofit Organisation under Organisation</li>
+<li class="">Government Agency under Organisation</li>
+<li class="">Full-Time Employment under Employment</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=roles>Roles<a href=#roles class=hash-link aria-label="Direct link to Roles" title="Direct link to Roles" translate=no>​</a></h3>
+<p>A <strong>role</strong> is anti-rigid and relationally dependent.
+An instance can enter and leave the type without ceasing to be itself.</p>
+<p>Examples:</p>
+<ul>
+<li class="">Employee</li>
+<li class="">Supplier</li>
+<li class="">Customer</li>
+<li class="">Spouse</li>
+<li class="">Foreign Marriage, if the relation depends on external legal context</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=phases>Phases<a href=#phases class=hash-link aria-label="Direct link to Phases" title="Direct link to Phases" translate=no>​</a></h3>
+<p>A <strong>phase</strong> is anti-rigid but relationally independent.
+It captures a contingent intrinsic condition.</p>
+<p>Examples:</p>
+<ul>
+<li class="">Child</li>
+<li class="">Adult</li>
+<li class="">Long-Term Relationship</li>
+<li class="">Underweight</li>
+<li class="">Active Contract</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=categories>Categories<a href=#categories class=hash-link aria-label="Direct link to Categories" title="Direct link to Categories" translate=no>​</a></h3>
+<p>A <strong>category</strong> is a rigid non-sortal.
+It groups different kinds by shared essential features.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=role-mixins>Role mixins<a href=#role-mixins class=hash-link aria-label="Direct link to Role mixins" title="Direct link to Role mixins" translate=no>​</a></h3>
+<p>A <strong>role mixin</strong> is anti-rigid and relationally dependent across different kinds.</p>
+<p>Example:</p>
+<ul>
+<li class="">Customer, when both persons and organisations may be customers</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=phase-mixins>Phase mixins<a href=#phase-mixins class=hash-link aria-label="Direct link to Phase mixins" title="Direct link to Phase mixins" translate=no>​</a></h3>
+<p>A <strong>phase mixin</strong> is anti-rigid and relationally independent across different kinds.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=mixins>Mixins<a href=#mixins class=hash-link aria-label="Direct link to Mixins" title="Direct link to Mixins" translate=no>​</a></h3>
+<p>A <strong>mixin</strong> is semi-rigid and non-sortal.
+It groups entities across kinds where the shared property is essential for some and accidental for others.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=a-very-important-update-these-distinctions-apply-beyond-plain-objects>A very important update: these distinctions apply beyond plain objects<a href=#a-very-important-update-these-distinctions-apply-beyond-plain-objects class=hash-link aria-label="Direct link to A very important update: these distinctions apply beyond plain objects" title="Direct link to A very important update: these distinctions apply beyond plain objects" translate=no>​</a></h2>
+<p>One of the strongest contributions of the paper is that type distinctions like:</p>
+<ul>
+<li class="">kind</li>
+<li class="">subkind</li>
+<li class="">role</li>
+<li class="">phase</li>
+<li class="">mixin</li>
+</ul>
+<p>should not be restricted to ordinary substantial objects.</p>
+<p>They can also apply to other endurants, including:</p>
+<ul>
+<li class="">relators</li>
+<li class="">modes</li>
+<li class="">qualities</li>
+</ul>
+<p>This is a big deal.
+It means we can model things like:</p>
+<ul>
+<li class="">Employment as a relator kind</li>
+<li class="">Tenured Employment as a phase of a relator</li>
+<li class="">Employment used as legal grounds as a role of a relator</li>
+<li class="">BMI states as phases of a quality-like type</li>
+<li class="">commitment states as phases of modes</li>
+</ul>
+<p>That makes the ontology much more expressive for governance, legal, service, and organisational domains.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=the-strongest-practical-rules-from-the-paper>The strongest practical rules from the paper<a href=#the-strongest-practical-rules-from-the-paper class=hash-link aria-label="Direct link to The strongest practical rules from the paper" title="Direct link to The strongest practical rules from the paper" translate=no>​</a></h2>
+<p>These are the rules that matter most for Governance Foundation.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-1-every-sortal-must-trace-back-to-exactly-one-ultimate-sortal>Rule 1: Every sortal must trace back to exactly one ultimate sortal<a href=#rule-1-every-sortal-must-trace-back-to-exactly-one-ultimate-sortal class=hash-link aria-label="Direct link to Rule 1: Every sortal must trace back to exactly one ultimate sortal" title="Direct link to Rule 1: Every sortal must trace back to exactly one ultimate sortal" translate=no>​</a></h3>
+<p>If something is a sortal, it must ultimately specialize exactly one identity-providing root.</p>
+<p>Practical meaning:</p>
+<ul>
+<li class="">a type should not inherit identity from multiple incompatible roots</li>
+<li class="">a thing should not be both one kind of identity-bearing entity and another unrelated one at the same time</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-2-a-kind-cannot-specialize-another-distinct-kind>Rule 2: A kind cannot specialize another distinct kind<a href=#rule-2-a-kind-cannot-specialize-another-distinct-kind class=hash-link aria-label="Direct link to Rule 2: A kind cannot specialize another distinct kind" title="Direct link to Rule 2: A kind cannot specialize another distinct kind" translate=no>​</a></h3>
+<p>Kinds are identity roots.
+A kind does not sit under another different kind in the same way a subkind does.</p>
+<p>Practical meaning:</p>
+<ul>
+<li class="">do not stack multiple kinds on top of each other casually</li>
+<li class="">if you think you have two kinds in the same branch, one of them is probably actually a subkind, category, or something else</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-3-a-type-cannot-specialize-more-than-one-ultimate-sortal>Rule 3: A type cannot specialize more than one ultimate sortal<a href=#rule-3-a-type-cannot-specialize-more-than-one-ultimate-sortal class=hash-link aria-label="Direct link to Rule 3: A type cannot specialize more than one ultimate sortal" title="Direct link to Rule 3: A type cannot specialize more than one ultimate sortal" translate=no>​</a></h3>
+<p>This is one of the most useful rules in practice.</p>
+<p>Bad pattern:</p>
+<ul>
+<li class="">a type specializing both <code>Person</code> and <code>Organisation</code></li>
+<li class="">a type specializing both <code>Car</code> and <code>Agreement</code></li>
+</ul>
+<p>Practical meaning:</p>
+<ul>
+<li class="">if a class seems to inherit from more than one ultimate sortal, it is usually the wrong construct</li>
+<li class="">it may need to become a non-sortal, a relator, or a different abstraction altogether</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-4-rigid-types-cannot-specialize-anti-rigid-ones>Rule 4: Rigid types cannot specialize anti-rigid ones<a href=#rule-4-rigid-types-cannot-specialize-anti-rigid-ones class=hash-link aria-label="Direct link to Rule 4: Rigid types cannot specialize anti-rigid ones" title="Direct link to Rule 4: Rigid types cannot specialize anti-rigid ones" translate=no>​</a></h3>
+<p>A rigid type cannot sit under a role or phase.</p>
+<p>Bad pattern:</p>
+<ul>
+<li class=""><code>Person</code> under <code>Student</code></li>
+<li class=""><code>Agent</code> under <code>Customer</code></li>
+</ul>
+<p>Practical meaning:</p>
+<ul>
+<li class="">permanent identity-bearing types do not specialize temporary or context-dependent ones</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-5-non-sortals-cannot-specialize-sortals>Rule 5: Non-sortals cannot specialize sortals<a href=#rule-5-non-sortals-cannot-specialize-sortals class=hash-link aria-label="Direct link to Rule 5: Non-sortals cannot specialize sortals" title="Direct link to Rule 5: Non-sortals cannot specialize sortals" translate=no>​</a></h3>
+<p>A non-sortal is not a more specific identity-bearing type.
+It is a cross-cutting grouping.</p>
+<p>Bad pattern:</p>
+<ul>
+<li class=""><code>Customer</code> specializing <code>Private Customer</code></li>
+<li class=""><code>Agent</code> specializing <code>Person</code></li>
+</ul>
+<p>Practical meaning:</p>
+<ul>
+<li class="">when a type cuts across multiple identity roots, it should not be modeled as if it were a child of one of them</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=rule-6-non-sortals-need-sortal-grounding>Rule 6: Non-sortals need sortal grounding<a href=#rule-6-non-sortals-need-sortal-grounding class=hash-link aria-label="Direct link to Rule 6: Non-sortals need sortal grounding" title="Direct link to Rule 6: Non-sortals need sortal grounding" translate=no>​</a></h3>
+<p>A non-sortal should not float in the ontology disconnected from real sortal specializations.</p>
+<p>Practical meaning:</p>
+<ul>
+<li class="">if you create a cross-cutting type like <code>Customer</code>, <code>Agreement</code>, <code>Commitment</code>, or <code>Involved Part</code>, it should connect to actual sortal branches that instantiate it</li>
+<li class="">otherwise it becomes semantic fog</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=why-this-matters-for-governance-foundation>Why this matters for Governance Foundation<a href=#why-this-matters-for-governance-foundation class=hash-link aria-label="Direct link to Why this matters for Governance Foundation" title="Direct link to Why this matters for Governance Foundation" translate=no>​</a></h2>
+<p>Governance Foundation is likely to model many concepts that are easy to get wrong taxonomically.</p>
+<p>Examples:</p>
+<ul>
+<li class="">person vs employee vs customer vs stakeholder</li>
+<li class="">organisation vs business unit vs provider vs regulator</li>
+<li class="">agreement vs contract vs policy vs obligation</li>
+<li class="">system vs service vs application role in an ecosystem</li>
+<li class="">capability vs competence state vs current operating condition</li>
+</ul>
+<p>Without explicit type rules, these collapse into a mess.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=practical-anti-patterns-to-avoid>Practical anti-patterns to avoid<a href=#practical-anti-patterns-to-avoid class=hash-link aria-label="Direct link to Practical anti-patterns to avoid" title="Direct link to Practical anti-patterns to avoid" translate=no>​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=anti-pattern-1-role-as-kind>Anti-pattern 1: role-as-kind<a href=#anti-pattern-1-role-as-kind class=hash-link aria-label="Direct link to Anti-pattern 1: role-as-kind" title="Direct link to Anti-pattern 1: role-as-kind" translate=no>​</a></h3>
+<p>Bad:</p>
+<ul>
+<li class=""><code>Customer</code> as a permanent kind</li>
+<li class=""><code>Employee</code> as a permanent kind</li>
+</ul>
+<p>Better:</p>
+<ul>
+<li class=""><code>Person</code> or <code>Organisation</code> as kind</li>
+<li class=""><code>Customer</code> or <code>Employee</code> as role or role mixin</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=anti-pattern-2-phase-as-kind>Anti-pattern 2: phase-as-kind<a href=#anti-pattern-2-phase-as-kind class=hash-link aria-label="Direct link to Anti-pattern 2: phase-as-kind" title="Direct link to Anti-pattern 2: phase-as-kind" translate=no>​</a></h3>
+<p>Bad:</p>
+<ul>
+<li class=""><code>Draft Document</code> and <code>Published Document</code> as unrelated identity roots</li>
+</ul>
+<p>Better:</p>
+<ul>
+<li class="">one underlying identity-bearing thing</li>
+<li class="">draft/published treated as phase-like when appropriate</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=anti-pattern-3-mixed-identity-inheritance>Anti-pattern 3: mixed identity inheritance<a href=#anti-pattern-3-mixed-identity-inheritance class=hash-link aria-label="Direct link to Anti-pattern 3: mixed identity inheritance" title="Direct link to Anti-pattern 3: mixed identity inheritance" translate=no>​</a></h3>
+<p>Bad:</p>
+<ul>
+<li class="">one type inheriting from multiple ultimate sortals</li>
+</ul>
+<p>Better:</p>
+<ul>
+<li class="">use a non-sortal, relator, or explicit relation pattern</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=anti-pattern-4-treating-relators-as-plain-object-kinds-only>Anti-pattern 4: treating relators as plain object kinds only<a href=#anti-pattern-4-treating-relators-as-plain-object-kinds-only class=hash-link aria-label="Direct link to Anti-pattern 4: treating relators as plain object kinds only" title="Direct link to Anti-pattern 4: treating relators as plain object kinds only" translate=no>​</a></h3>
+<p>Bad:</p>
+<ul>
+<li class="">refusing to let relation-bearing entities have kinds, phases, and roles</li>
+</ul>
+<p>Better:</p>
+<ul>
+<li class="">allow taxonomic treatment of relators, modes, and qualities where the domain needs it</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=anti-pattern-5-floating-abstractions>Anti-pattern 5: floating abstractions<a href=#anti-pattern-5-floating-abstractions class=hash-link aria-label="Direct link to Anti-pattern 5: floating abstractions" title="Direct link to Anti-pattern 5: floating abstractions" translate=no>​</a></h3>
+<p>Bad:</p>
+<ul>
+<li class="">abstract groupings with no grounded sortal branches underneath</li>
+</ul>
+<p>Better:</p>
+<ul>
+<li class="">ensure every non-sortal has meaningful sortal specialization or instance grounding</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=what-this-means-for-organisational-ontology>What this means for organisational ontology<a href=#what-this-means-for-organisational-ontology class=hash-link aria-label="Direct link to What this means for organisational ontology" title="Direct link to What this means for organisational ontology" translate=no>​</a></h2>
+<p>These rules suggest that a Knowledge Ontology should explicitly distinguish:</p>
+<ul>
+<li class="">identity-bearing organisation entities</li>
+<li class="">temporary roles played in social or institutional contexts</li>
+<li class="">phase-like lifecycle conditions</li>
+<li class="">cross-cutting abstractions across multiple kinds</li>
+<li class="">relators that ground important institutional relationships</li>
+<li class="">modes and qualities that also need taxonomic treatment</li>
+</ul>
+<p>This is especially important in organisational domains because so much of the semantics is contingent, relational, and institutional.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=strong-candidates-for-careful-taxonomic-treatment>Strong candidates for careful taxonomic treatment<a href=#strong-candidates-for-careful-taxonomic-treatment class=hash-link aria-label="Direct link to Strong candidates for careful taxonomic treatment" title="Direct link to Strong candidates for careful taxonomic treatment" translate=no>​</a></h2>
+<p>These are the kinds of things that should be reviewed carefully during runtime-model design.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=likely-kinds-or-subkinds>Likely kinds or subkinds<a href=#likely-kinds-or-subkinds class=hash-link aria-label="Direct link to Likely kinds or subkinds" title="Direct link to Likely kinds or subkinds" translate=no>​</a></h3>
+<ul>
+<li class="">Person</li>
+<li class="">Organisation</li>
+<li class="">Team, depending on treatment</li>
+<li class="">System</li>
+<li class="">Service Agreement</li>
+<li class="">Employment</li>
+<li class="">Contract</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=likely-roles>Likely roles<a href=#likely-roles class=hash-link aria-label="Direct link to Likely roles" title="Direct link to Likely roles" translate=no>​</a></h3>
+<ul>
+<li class="">Employee</li>
+<li class="">Supplier</li>
+<li class="">Customer</li>
+<li class="">Reviewer</li>
+<li class="">Approver</li>
+<li class="">Regulator</li>
+<li class="">Delegate</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=likely-phases>Likely phases<a href=#likely-phases class=hash-link aria-label="Direct link to Likely phases" title="Direct link to Likely phases" translate=no>​</a></h3>
+<ul>
+<li class="">Active</li>
+<li class="">Suspended</li>
+<li class="">Draft</li>
+<li class="">Published</li>
+<li class="">Trial</li>
+<li class="">Tenured</li>
+<li class="">Expired</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=likely-relator-heavy-structures>Likely relator-heavy structures<a href=#likely-relator-heavy-structures class=hash-link aria-label="Direct link to Likely relator-heavy structures" title="Direct link to Likely relator-heavy structures" translate=no>​</a></h3>
+<ul>
+<li class="">employment</li>
+<li class="">membership</li>
+<li class="">contract</li>
+<li class="">mandate</li>
+<li class="">delegation</li>
+<li class="">service agreement</li>
+<li class="">compliance obligation</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=likely-role-mixins--non-sortals>Likely role mixins / non-sortals<a href=#likely-role-mixins--non-sortals class=hash-link aria-label="Direct link to Likely role mixins / non-sortals" title="Direct link to Likely role mixins / non-sortals" translate=no>​</a></h3>
+<ul>
+<li class="">stakeholder</li>
+<li class="">customer</li>
+<li class="">provider</li>
+<li class="">insured item style patterns</li>
+<li class="">governed entity</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=engineering-implications>Engineering implications<a href=#engineering-implications class=hash-link aria-label="Direct link to Engineering implications" title="Direct link to Engineering implications" translate=no>​</a></h2>
+<p>One reason this paper is valuable is that it does not stop at philosophy.
+It pushes toward machine-checkable constraints.</p>
+<p>That is highly relevant for Governance Foundation.
+A mature runtime model should probably enforce rules such as:</p>
+<ul>
+<li class="">each sortal traces to one ultimate sortal</li>
+<li class="">no rigid-under-anti-rigid specialization</li>
+<li class="">no non-sortal-under-sortal specialization</li>
+<li class="">no multiple ultimate sortal inheritance</li>
+<li class="">non-sortals require grounded sortal branches</li>
+<li class="">roles and phases should be distinguishable in validation</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=likely-implications-for-the-runtime-model>Likely implications for the runtime model<a href=#likely-implications-for-the-runtime-model class=hash-link aria-label="Direct link to Likely implications for the runtime model" title="Direct link to Likely implications for the runtime model" translate=no>​</a></h2>
+<p>This research pass suggests the runtime model should probably include metadata for each type such as:</p>
+<ul>
+<li class="">ontological nature of instances</li>
+<li class="">sortal vs non-sortal</li>
+<li class="">rigidity classification</li>
+<li class="">whether relational dependence is required</li>
+<li class="">ultimate sortal lineage</li>
+<li class="">allowed specialization constraints</li>
+<li class="">phase/role semantics</li>
+</ul>
+<p>Without this, the runtime model will not really preserve the ontology.
+It will only preserve labels.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=best-working-heuristics>Best working heuristics<a href=#best-working-heuristics class=hash-link aria-label="Direct link to Best working heuristics" title="Direct link to Best working heuristics" translate=no>​</a></h2>
+<p>Until a more formal runtime design exists, these are strong heuristics:</p>
+<ol>
+<li class="">If a type gives identity, treat it as a kind or subkind candidate.</li>
+<li class="">If a type is contextual and removable without destroying identity, test role first.</li>
+<li class="">If a type is temporary but intrinsic, test phase first.</li>
+<li class="">If a type crosses multiple identity roots, test non-sortal or mixin first.</li>
+<li class="">If the thing being classified is relation-bearing, do not assume taxonomic distinctions only apply to plain objects.</li>
+<li class="">If a type seems to inherit from two identity roots, stop and redesign.</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=what-should-happen-next>What should happen next<a href=#what-should-happen-next class=hash-link aria-label="Direct link to What should happen next" title="Direct link to What should happen next" translate=no>​</a></h2>
+<p>This page should feed directly into:</p>
+<ul>
+<li class="">a deeper relationships/relators pass</li>
+<li class="">a deeper events/temporal change pass</li>
+<li class="">the Knowledge Ontology Runtime Model</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=related-reading>Related reading<a href=#related-reading class=hash-link aria-label="Direct link to Related reading" title="Direct link to Related reading" translate=no>​</a></h2>
+<ul>
+<li class=""><a class="" href=/knowledgeontology/foundations/ufo-essentials/>UFO Essentials</a></li>
+<li class=""><a class="" href=/knowledgeontology/foundations/ontouml-guide/>OntoUML Guide</a></li>
+<li class=""><a class="" href=/knowledgeontology/foundations/ontouml-research-todo/>OntoUML Research TODO</a></li>
+<li class=""><a class="" href=/knowledgeontology/foundations/ontology-architecture/>Ontology Architecture</a></li>
+<li class=""><a class="" href=/knowledgeontology/foundations/ontology-principles/>Ontology Principles</a></li>
+</ul></div></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href=/knowledgeontology/foundations/ufo-essentials/><div class=pagination-nav__sublabel>Previous</div><div class=pagination-nav__label>UFO Essentials</div></a><a class="pagination-nav__link pagination-nav__link--next" href=/knowledgeontology/foundations/relationships-relators-guide/><div class=pagination-nav__sublabel>Next</div><div class=pagination-nav__label>Relationships and Relators Guide</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href=#why-this-page-exists class="table-of-contents__link toc-highlight">Why this page exists</a><li><a href=#the-core-problem-this-paper-addresses class="table-of-contents__link toc-highlight">The core problem this paper addresses</a><li><a href=#the-most-important-takeaway class="table-of-contents__link toc-highlight">The most important takeaway</a><li><a href=#the-major-type-distinctions class="table-of-contents__link toc-highlight">The major type distinctions</a><ul><li><a href=#sortals-vs-non-sortals class="table-of-contents__link toc-highlight">Sortals vs non-sortals</a><li><a href=#kinds class="table-of-contents__link toc-highlight">Kinds</a><li><a href=#subkinds class="table-of-contents__link toc-highlight">Subkinds</a><li><a href=#roles class="table-of-contents__link toc-highlight">Roles</a><li><a href=#phases class="table-of-contents__link toc-highlight">Phases</a><li><a href=#categories class="table-of-contents__link toc-highlight">Categories</a><li><a href=#role-mixins class="table-of-contents__link toc-highlight">Role mixins</a><li><a href=#phase-mixins class="table-of-contents__link toc-highlight">Phase mixins</a><li><a href=#mixins class="table-of-contents__link toc-highlight">Mixins</a></ul><li><a href=#a-very-important-update-these-distinctions-apply-beyond-plain-objects class="table-of-contents__link toc-highlight">A very important update: these distinctions apply beyond plain objects</a><li><a href=#the-strongest-practical-rules-from-the-paper class="table-of-contents__link toc-highlight">The strongest practical rules from the paper</a><ul><li><a href=#rule-1-every-sortal-must-trace-back-to-exactly-one-ultimate-sortal class="table-of-contents__link toc-highlight">Rule 1: Every sortal must trace back to exactly one ultimate sortal</a><li><a href=#rule-2-a-kind-cannot-specialize-another-distinct-kind class="table-of-contents__link toc-highlight">Rule 2: A kind cannot specialize another distinct kind</a><li><a href=#rule-3-a-type-cannot-specialize-more-than-one-ultimate-sortal class="table-of-contents__link toc-highlight">Rule 3: A type cannot specialize more than one ultimate sortal</a><li><a href=#rule-4-rigid-types-cannot-specialize-anti-rigid-ones class="table-of-contents__link toc-highlight">Rule 4: Rigid types cannot specialize anti-rigid ones</a><li><a href=#rule-5-non-sortals-cannot-specialize-sortals class="table-of-contents__link toc-highlight">Rule 5: Non-sortals cannot specialize sortals</a><li><a href=#rule-6-non-sortals-need-sortal-grounding class="table-of-contents__link toc-highlight">Rule 6: Non-sortals need sortal grounding</a></ul><li><a href=#why-this-matters-for-governance-foundation class="table-of-contents__link toc-highlight">Why this matters for Governance Foundation</a><li><a href=#practical-anti-patterns-to-avoid class="table-of-contents__link toc-highlight">Practical anti-patterns to avoid</a><ul><li><a href=#anti-pattern-1-role-as-kind class="table-of-contents__link toc-highlight">Anti-pattern 1: role-as-kind</a><li><a href=#anti-pattern-2-phase-as-kind class="table-of-contents__link toc-highlight">Anti-pattern 2: phase-as-kind</a><li><a href=#anti-pattern-3-mixed-identity-inheritance class="table-of-contents__link toc-highlight">Anti-pattern 3: mixed identity inheritance</a><li><a href=#anti-pattern-4-treating-relators-as-plain-object-kinds-only class="table-of-contents__link toc-highlight">Anti-pattern 4: treating relators as plain object kinds only</a><li><a href=#anti-pattern-5-floating-abstractions class="table-of-contents__link toc-highlight">Anti-pattern 5: floating abstractions</a></ul><li><a href=#what-this-means-for-organisational-ontology class="table-of-contents__link toc-highlight">What this means for organisational ontology</a><li><a href=#strong-candidates-for-careful-taxonomic-treatment class="table-of-contents__link toc-highlight">Strong candidates for careful taxonomic treatment</a><ul><li><a href=#likely-kinds-or-subkinds class="table-of-contents__link toc-highlight">Likely kinds or subkinds</a><li><a href=#likely-roles class="table-of-contents__link toc-highlight">Likely roles</a><li><a href=#likely-phases class="table-of-contents__link toc-highlight">Likely phases</a><li><a href=#likely-relator-heavy-structures class="table-of-contents__link toc-highlight">Likely relator-heavy structures</a><li><a href=#likely-role-mixins--non-sortals class="table-of-contents__link toc-highlight">Likely role mixins / non-sortals</a></ul><li><a href=#engineering-implications class="table-of-contents__link toc-highlight">Engineering implications</a><li><a href=#likely-implications-for-the-runtime-model class="table-of-contents__link toc-highlight">Likely implications for the runtime model</a><li><a href=#best-working-heuristics class="table-of-contents__link toc-highlight">Best working heuristics</a><li><a href=#what-should-happen-next class="table-of-contents__link toc-highlight">What should happen next</a><li><a href=#related-reading class="table-of-contents__link toc-highlight">Related reading</a></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="theme-layout-footer-column col footer__col"><div class=footer__title>Explore</div><ul class="footer__items clean-list"><li class=footer__item><a class=footer__link-item href=/knowledgefund/>KnowledgeFund</a><li class=footer__item><a class=footer__link-item href=/governance/>Governance</a><li class=footer__item><a class=footer__link-item href=/knowledgeontology/>Knowledge Ontology</a><li class=footer__item><a class=footer__link-item href=/frameworks/>Frameworks</a></ul></div><div class="theme-layout-footer-column col footer__col"><div class=footer__title>Content</div><ul class="footer__items clean-list"><li class=footer__item><a class=footer__link-item href=/blog/>Blog</a><li class=footer__item><a class=footer__link-item href=/about/>About</a></ul></div><div class="theme-layout-footer-column col footer__col"><div class=footer__title>More</div><ul class="footer__items clean-list"><li class=footer__item><a href=https://github.com/governance-foundation/governance.foundation/issues/new/choose target=_blank rel="noopener noreferrer" class=footer__link-item>Open Issue<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><li class=footer__item><a href=https://github.com/governance-foundation/governance.foundation target=_blank rel="noopener noreferrer" class=footer__link-item>GitHub<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a></ul></div></div><div class="footer__bottom text--center"><div class=footer__copyright>Copyright © 2026 Governance Foundation.</div></div></div></footer></div></body>
