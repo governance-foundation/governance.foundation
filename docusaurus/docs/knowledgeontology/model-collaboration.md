@@ -3,20 +3,28 @@ title: "Model Collaboration"
 slug: /knowledgeontology/model/collaboration
 ---
 
-This model provides a high-level structure of how organisational knowledge experiences contribute information into the model.
-Its aim is to provide a data model for different purposes that are contributed by different people with different jobs. This can be understood as:
+This page should explain how different people, roles, and contribution surfaces participate in building a shared knowledge foundation.
+The diagram is useful as an exhibit, but the main subject of the page is the collaboration structure of the information itself and how that collaboration leads into ontology.
 
-* A business taxonomy
-* Governance enabler
-* Communication platform
-* Knowledge Map
-* Single point of information reference
-* Conceptual Information model (network taxonomy, multi dimensional, hierarchical and associative categories, NOT “all or nothing”)
-* Living, breathing, evolving knowledge foundation
+## Why the collaboration model matters
 
-In an organisation, each person will be using a tailored experience suited to their job; doing this will contribute information into a shared knowledge network. This information then becomes part of a knowledge network that allows linkage and reuse.
+A usable knowledge foundation cannot depend on one central modelling actor doing everything manually.
+It has to support many contributors, each working through experiences and artifacts that make sense for their own role, while still feeding a shared semantic backbone.
 
-## Current reading of the diagram
+That is why this model matters.
+It is trying to describe a knowledge system that is simultaneously:
+
+- a shared business taxonomy
+- a governance enabler
+- a communication and coordination surface
+- a knowledge map
+- a reusable reference structure
+- a living and evolving knowledge foundation
+
+So the key idea is not just that people collaborate.
+It is that they contribute different kinds of structured knowledge into one connected model.
+
+## The collaboration structure at a high level
 
 The collaboration diagram is not really about collaboration in the abstract.
 It is showing how a **shared ontology-backed model** is fed by different organisational roles through different artifacts, catalogs, frameworks, and performance views.
@@ -132,7 +140,7 @@ They are also likely to contribute different kinds of semantics:
 This is important because the shared model is not neutral raw data collection.
 It is a multi-perspective semantic contribution system.
 
-## What the diagram gets right
+## What this collaboration structure already gets right
 
 The collaboration diagram already gets several important things right:
 
@@ -144,7 +152,7 @@ The collaboration diagram already gets several important things right:
 
 That is a very good direction.
 
-## What the diagram is still missing
+## What this collaboration structure is still missing
 
 ### 1. Explicit distinction between canonical model and projections
 
@@ -206,13 +214,12 @@ In other words, collaboration should itself be ontologically structured, not jus
 
 ## Best current interpretation
 
-The strongest reading of this page now is:
+The strongest reading of this page is:
 
-> The collaboration diagram describes how different organisational roles contribute through tailored artifacts, catalogs, frameworks, and performance views into a shared ontology-backed knowledge model.
+> it introduces how different organisational roles contribute through tailored artifacts, catalogs, frameworks, and performance views into a shared ontology-backed knowledge model.
 
-And more sharply:
-
-> it is really a projection-and-contribution architecture diagram for organisational knowledge, not just a generic collaboration picture.
+So this is not mainly a generic collaboration picture.
+It is a domain explanation of how contribution, projection, and shared semantics fit together.
 
 ## Recommended next refinement
 
@@ -225,7 +232,9 @@ The next refinement of this diagram should make at least four things more explic
 
 That would align the page much more closely with the runtime metamodel and the ontology foundation work.
 
-## Diagram preview
+## Diagram exhibit
+
+The diagram remains useful as a supporting visual summary of the collaboration structure described above.
 
 <iframe
   title="GXP-Collaboration.drawio Diagram"
@@ -234,10 +243,6 @@ That would align the page much more closely with the runtime metamodel and the o
   height="640"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
 />
-
-If the preview does not load, open directly:
-
-- /assets/knowledgeontology/diagrams/GXP-Collaboration.drawio
 
 ![status](https://img.shields.io/badge/status-draft-red)
 

@@ -3,23 +3,43 @@ title: "Model Layers"
 slug: /knowledgeontology/model/layers
 ---
 
-Each of the high-level information domains should be viewed through a layered information-quality perspective.
-This allows data in each domain to be linked back to meaning, quality, reuse, and decision value rather than being treated as isolated structure.
+This page should explain how the knowledge domain can be understood in layers, and how those layers help move from broad understanding into explicit ontology and implementation.
+The diagram is useful as a visual exhibit, but the main subject of the page is the layered structure of the information itself.
 
-The quality perspective extends to object metadata, relationships, and the leverage of information for multiple purposes.
-That is how information value increases over time: not just by collecting more data, but by institutionalising how it is interpreted, connected, assessed, and reused.
+## Why the layer model matters
 
-This also supports progressive learning.
-An organisation does not need to model everything in full detail at once.
-It can gradually build stronger structure by moving from loosely held knowledge toward increasingly explicit information and implemented structures.
+The layer model exists to make the knowledge domain easier to understand, develop, and govern.
+It gives a way to move from rough conceptual understanding toward stronger semantic structure without pretending everything has to be modeled at full precision from the start.
 
-Current perspective follows these levels:
+That matters because organisational knowledge usually begins as partial, uneven, or loosely connected understanding.
+The value comes from progressively strengthening it so that meaning, structure, implementation, evidence, and decision support can all be linked.
 
-* Conceptual - the highest level of abstraction of information with the lowest value if not connected to other layers.
-* Logical - logical definition of the physical layer into information domains.
-* Physical - tangible aspects of information used and consumed by the organisation.
+So the layer model is best read as:
 
-## Current reading of the diagram
+- a way to structure understanding in stages
+- a way to support zooming from high-level summaries into deeper ontology
+- a way to keep meaning traceable as it moves toward implementation
+- a way to connect knowledge quality, reuse, and operational value
+
+## The high-level layer idea
+
+The original layer framing is broadly this:
+
+- **L0 / Conceptual**
+- **L1 / Logical**
+- **L2 / Physical**
+
+That is a useful starting point, but it becomes much stronger when interpreted through the ontology/runtime work.
+The point is not just to sort information by abstraction level.
+The point is to preserve the relationship between:
+
+- meaning
+- structure
+- implementation
+- evidence
+- use in analysis, synthesis, and decision-making
+
+## How the layered structure should be understood
 
 The diagram is doing two things at once.
 
@@ -150,7 +170,7 @@ That gives the diagram a valuable message:
 
 Likewise, the knowledge/semantic/information/data labels can be read as a progression from richer but less formalised understanding toward more explicit and operationally manipulable structure.
 
-## What the diagram gets right
+## What this layered approach already gets right
 
 The diagram already gets several important things right:
 
@@ -160,7 +180,7 @@ The diagram already gets several important things right:
 - it suggests that organisational value increases when structure, meaning, and quality are connected
 - it points toward reuse and institutionalisation rather than one-off documentation
 
-## What the diagram is still missing
+## What this layered approach is still missing
 
 ### 1. Events and change across the layers
 
@@ -196,13 +216,12 @@ That should include:
 
 ## Best current interpretation
 
-The strongest reading of this page now is:
+The strongest reading of this page is:
 
-> The layers diagram describes how organisational meaning moves from conceptual ontology through logical structure into physical implementation, while also showing a parallel gradient from knowledge and semantics toward information and data, and from collection toward analysis, synthesis, and decision-making.
+> it explains how organisational knowledge can be progressively strengthened from conceptual meaning through structured representation into physical and runtime realization, while still remaining traceable back to ontology.
 
-In other words:
-
-> it is not only a model-layer diagram; it is a gradual-structuring diagram for organisational knowledge.
+So this is not just a layering diagram.
+It is a way to explain how the knowledge domain can support abstraction, zooming, implementation, and governance without losing semantic coherence.
 
 ## Recommended evolution of the layer model
 
@@ -316,7 +335,9 @@ The next refinement of this diagram should make at least five things more explic
 
 That would make this page much more aligned with the runtime metamodel and the rest of the ontology work.
 
-## Diagram preview
+## Diagram exhibit
+
+The diagram remains useful as a supporting visual summary of the layered structure described above.
 
 <iframe
   title="GXP Model Layers Diagram"
@@ -325,10 +346,6 @@ That would make this page much more aligned with the runtime metamodel and the r
   height="640"
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
 />
-
-If the preview does not load, open directly:
-
-- /assets/knowledgeontology/diagrams/GXP-Model-Layers.drawio
 
 ![status](https://img.shields.io/badge/status-draft-red)
 

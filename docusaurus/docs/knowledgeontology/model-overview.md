@@ -3,32 +3,65 @@ title: "Model Overview"
 slug: /knowledgeontology/model/overview
 ---
 
-## Diagram preview
+This page should introduce the major information domains in the model and explain how they lead toward a stronger ontology.
+The diagram is useful as a visual orientation aid, but it should not be treated as the main subject of the page.
+The real subject is the domain structure itself and the path from high-level understanding toward explicit ontological modeling.
 
-<iframe
-  title="GXP-Model-Overview.drawio Diagram"
-  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Overview.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Model-Overview.drawio"
-  width="100%"
-  height="640"
-  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
-/>
+## Why this overview matters
 
-If the preview does not load, open directly:
+The overview exists to provide a navigable entry point into the knowledge domain.
+It helps people see the major areas of concern before those areas are expanded into more detailed capability models, semantic distinctions, and runtime structures.
 
-- /assets/knowledgeontology/diagrams/GXP-Model-Overview.drawio
+So this page is best read as:
 
-This model provides a high-level structure of information domains.
+- an introduction to the major knowledge domains
+- a high-level map of how those domains relate
+- a starting point for deeper ontology work
+- a bridge between broad conceptual understanding and formal semantic modeling
 
-* Social - provides information domain for the social network analysis within an organisation, is modelling the social element of the organisation that are outside of the structural aspect of the organisation. Its aim to provide an understanding of how the social aspect of an organisation influence structure/technical aspect of the organisation.
-* Business - provides a base information element for business definition and knowledge management and is about defining the logical elements of the organisation.
-* Service - is for defining the logical element of the organisation that is supported by technology.
-* Application and Data - is for modelling softwasre in its entirety.
-* Infrastructure - is for modelling physical object of things.
-* Deployment - is for joining the instance of Infrastructure and Application.
+## The high-level domains
 
-## Current reading of the diagram
+At a high level, the model is organizing the domain into these major areas:
 
-The diagram can be read as a domain stack:
+- **Social**
+- **Business**
+- **Service**
+- **Application**
+- **Data**
+- **Deployment**
+- **Infrastructure**
+
+These should not be treated as a closed final taxonomy.
+They are better understood as major domain families that help structure the ontology effort.
+Each one will need deeper decomposition, clearer typing, stronger relationship semantics, and eventually a more explicit OntoUML treatment.
+
+## How the domains relate at a high level
+
+The current structure suggests a broad progression:
+
+1. **Social domain** shapes how the organisation actually behaves
+2. **Business domain** expresses organisational meaning, intent, structure, and governance
+3. **Service domain** connects business meaning to operational provision and accountability
+4. **Application, Data, Deployment, and Infrastructure domains** realize that meaning in executable and physical form
+
+So the overview is not just categorizing topics.
+It is proposing that organisational meaning moves from social and institutional reality into business structure, then into service arrangements, and from there into technical realization.
+
+## How this leads into ontology
+
+The important next step is to stop treating these as just labeled boxes and start treating them as ontological territories.
+That means asking of each domain:
+
+- what kinds of things exist here?
+- which concepts are enduring entities, roles, relators, qualities, phases, events, or situations?
+- which concepts are normative or intended?
+- which concepts are realized or observed?
+- which relationships need to become first-class semantic structures?
+- which parts are canonical domain meaning versus projection/view-specific simplifications?
+
+That is the transition from a high-level model overview into a usable ontology.
+
+## What each domain should mean more precisely
 
 1. **Social Model** influences the **Business Model**
 2. **Business Model** shapes the **Service Model**
@@ -146,7 +179,7 @@ It should cover:
 This domain should not be treated as a flat asset register.
 It is the physical and operational substrate that supports the realised system.
 
-## What the diagram gets right
+## What this overview already gets right
 
 The current overview already gets several important things right:
 
@@ -157,7 +190,7 @@ The current overview already gets several important things right:
 
 That is a strong starting point.
 
-## What the diagram is still missing
+## What this overview is still missing
 
 The ontology and runtime work suggest several important gaps.
 
@@ -230,23 +263,39 @@ The overview does not yet show clearly that all these domains will need cross-cu
 
 ## Best current interpretation
 
-The strongest reading of the page now is:
+The strongest reading of this page is:
 
-> The overview diagram is a first-pass domain map showing how organisational meaning descends from social reality into business structure, becomes operationalized as services, and is then realized through applications, data, deployment, and infrastructure.
+> it introduces the major knowledge domains that need to be developed into a coherent ontology, while giving a rough map of how organisational meaning moves from social reality into business structure, service arrangement, and technical realization.
 
-And with the later ontology/runtime work added:
-
-> It should not be read as a static architecture stack alone, but as a canonical semantic landscape whose layers need explicit identity, roles, phases, relators, events, provenance, normative-vs-retrospective separation, and projection rules.
+So this is not yet a finished ontology.
+It is a domain-oriented entry point into ontology work.
 
 ## Recommended next refinement
 
-The next refinement of this diagram should make at least three things more explicit:
+The next refinement of this page should make at least four things more explicit:
 
 1. **cross-cutting event/history semantics**
 2. **normative vs retrospective structure**
 3. **first-class relationship/relator structures between domains**
+4. **which parts of each domain should become canonical ontology versus simplified overview/projection**
 
-That would move the page from a useful draft domain map toward a runtime-usable ontology overview.
+That would move the page from a useful draft domain map toward a stronger ontology introduction.
+
+## Diagram preview
+
+The diagram remains useful as a supporting visual summary of the domain structure described above.
+
+<iframe
+  title="GXP-Model-Overview.drawio Diagram"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Model-Overview.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Model-Overview.drawio"
+  width="100%"
+  height="640"
+  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
+/>
+
+If the preview does not load, open directly:
+
+- /assets/knowledgeontology/diagrams/GXP-Model-Overview.drawio
 
 ![status](https://img.shields.io/badge/status-draft-red)
 
