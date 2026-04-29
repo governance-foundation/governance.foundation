@@ -57,7 +57,6 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'Diagrams',
           items: [
-            'knowledgeontology/overview-diagram',
             'knowledgeontology/terms',
             'knowledgeontology/measurement',
             'knowledgeontology/questions',
