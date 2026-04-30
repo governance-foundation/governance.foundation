@@ -1,150 +1,301 @@
-<!doctype html><html lang=en dir=ltr class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-knowledgeontology/tech-architecture" data-has-hydrated=false><head><meta charset=UTF-8><meta name=generator content="Docusaurus v3.10.0"><title data-rh=true>Technical Architecture | Governance Foundation</title><meta data-rh=true name=viewport content="width=device-width, initial-scale=1.0"/><meta data-rh=true name=twitter:card content=summary_large_image /><meta data-rh=true property=og:image content=https://governance.foundation/assets/screenshots/homepage-og.jpg /><meta data-rh=true name=twitter:image content=https://governance.foundation/assets/screenshots/homepage-og.jpg /><meta data-rh=true property=og:url content=https://governance.foundation/knowledgeontology/tech/architecture/ /><meta data-rh=true property=og:locale content=en /><meta data-rh=true name=docusaurus_locale content=en /><meta data-rh=true name=docsearch:language content=en /><meta data-rh=true name=docusaurus_version content=current /><meta data-rh=true name=docusaurus_tag content=docs-default-current /><meta data-rh=true name=docsearch:version content=current /><meta data-rh=true name=docsearch:docusaurus_tag content=docs-default-current /><meta data-rh=true property=og:title content="Technical Architecture | Governance Foundation"/><meta data-rh=true name=description content="This page explains the technical architecture view of the Knowledge Ontology."/><meta data-rh=true property=og:description content="This page explains the technical architecture view of the Knowledge Ontology."/><link data-rh=true rel=icon href=/assets/icons/favicon-32x32.png /><link data-rh=true rel=canonical href=https://governance.foundation/knowledgeontology/tech/architecture/ /><link data-rh=true rel=alternate href=https://governance.foundation/knowledgeontology/tech/architecture/ hreflang=en /><link data-rh=true rel=alternate href=https://governance.foundation/knowledgeontology/tech/architecture/ hreflang=x-default /><script data-rh=true type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://governance.foundation/knowledgeontology/","name":"Knowledge Ontology","position":1},{"@type":"ListItem","item":"https://governance.foundation/knowledgeontology/tech/architecture","name":"Technical Architecture","position":2}]}</script><link rel=alternate type=application/rss+xml href=/blog/rss.xml title="Governance Foundation RSS Feed"><link rel=alternate type=application/atom+xml href=/blog/atom.xml title="Governance Foundation Atom Feed"><link rel=stylesheet href=/assets/css/styles.e631a4bf.css /><script src=/assets/js/runtime~main.e958fd93.js defer></script><script src=/assets/js/main.d07f7061.js defer></script></head><body><svg style="display: none;"><defs>
+<!doctype html><html lang=en dir=ltr class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-knowledgeontology/tech-architecture" data-has-hydrated=false><head><meta charset=UTF-8><meta name=generator content="Docusaurus v3.10.0"><title data-rh=true>Technical Architecture | Governance Foundation</title><meta data-rh=true name=viewport content="width=device-width, initial-scale=1.0"/><meta data-rh=true name=twitter:card content=summary_large_image /><meta data-rh=true property=og:image content=https://governance.foundation/assets/screenshots/homepage-og.jpg /><meta data-rh=true name=twitter:image content=https://governance.foundation/assets/screenshots/homepage-og.jpg /><meta data-rh=true property=og:url content=https://governance.foundation/knowledgeontology/tech/architecture/ /><meta data-rh=true property=og:locale content=en /><meta data-rh=true name=docusaurus_locale content=en /><meta data-rh=true name=docsearch:language content=en /><meta data-rh=true name=docusaurus_version content=current /><meta data-rh=true name=docusaurus_tag content=docs-default-current /><meta data-rh=true name=docsearch:version content=current /><meta data-rh=true name=docsearch:docusaurus_tag content=docs-default-current /><meta data-rh=true property=og:title content="Technical Architecture | Governance Foundation"/><meta data-rh=true name=description content="This page explains the technical architecture view of the Knowledge Ontology."/><meta data-rh=true property=og:description content="This page explains the technical architecture view of the Knowledge Ontology."/><link data-rh=true rel=icon href=/assets/icons/favicon-32x32.png /><link data-rh=true rel=canonical href=https://governance.foundation/knowledgeontology/tech/architecture/ /><link data-rh=true rel=alternate href=https://governance.foundation/knowledgeontology/tech/architecture/ hreflang=en /><link data-rh=true rel=alternate href=https://governance.foundation/knowledgeontology/tech/architecture/ hreflang=x-default /><script data-rh=true type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://governance.foundation/knowledgeontology/","name":"Knowledge Ontology","position":1},{"@type":"ListItem","item":"https://governance.foundation/knowledgeontology/tech/architecture","name":"Technical Architecture","position":2}]}</script><link rel=alternate type=application/rss+xml href=/blog/rss.xml title="Governance Foundation RSS Feed"><link rel=alternate type=application/atom+xml href=/blog/atom.xml title="Governance Foundation Atom Feed"><link rel=stylesheet href=/assets/css/styles.e631a4bf.css /><script src=/assets/js/runtime~main.1ece8fbe.js defer></script><script src=/assets/js/main.d07f7061.js defer></script></head><body><svg style="display: none;"><defs>
 <symbol id=theme-svg-external-link viewBox="0 0 24 24"><path fill=currentColor d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
 </defs></svg>
-<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme-03b")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||"dark"),document.documentElement.setAttribute("data-theme-choice",t||"dark")}(),function(){try{for(var[t,e]of new URLSearchParams(window.location.search).entries())if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id=__docusaurus><link rel=preload as=image href=/assets/branding/governance-foundation-logo.jpg /><link rel=preload as=image href=/assets/branding/governance-foundation-logo-dark.png /><div role=region aria-label="Skip to main content"><a class=skipToContent_fXgn href=#__docusaurus_skipToContent_fallback>Skip to main content</a></div><nav aria-label=Main class="theme-layout-navbar navbar navbar--fixed-top"><div class=navbar__inner><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded=false class="navbar__toggle clean-btn" type=button><svg width=30 height=30 viewBox="0 0 30 30" aria-hidden=true><path stroke=currentColor stroke-linecap=round stroke-miterlimit=10 stroke-width=2 d="M4 7h22M4 15h22M4 23h22"/></svg></button><a class=navbar__brand href=/><div class=navbar__logo><img src=/assets/branding/governance-foundation-logo.jpg alt="Governance Foundation" class="themedComponent_mlkZ themedComponent--light_NVdE"/><img src=/assets/branding/governance-foundation-logo-dark.png alt="Governance Foundation" class="themedComponent_mlkZ themedComponent--dark_xIcU"/></div><b class="navbar__title text--truncate"></b></a><a class="navbar__item navbar__link" href=/knowledgefund/>KnowledgeFund</a><a class="navbar__item navbar__link" href=/governance/>Governance</a><a aria-current=page class="navbar__item navbar__link navbar__link--active" href=/knowledgeontology/>Knowledge Ontology</a><a class="navbar__item navbar__link" href=/frameworks/>Frameworks</a><a class="navbar__item navbar__link" href=/blog/>Blog</a><a class="navbar__item navbar__link" href=/about/>About</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href=https://github.com/governance-foundation/governance.foundation/issues/new/choose target=_blank rel="noopener noreferrer" class="navbar__item navbar__link navbar-open-issue">Open Issue<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><div class=navbarSearchContainer_Bca1><div class="navbar__search searchBarContainer_NW3z" dir=ltr><input placeholder=Search aria-label=Search class="navbar__search-input searchInput_YFbd" value="" /><div class="loadingRing_RJI3 searchBarLoadingRing_YnHq"><div></div><div></div><div></div><div></div></div></div></div><a href=https://github.com/governance-foundation/governance.foundation target=_blank rel="noopener noreferrer" class="navbar__item navbar__link navbar-github-link">GitHub<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type=button disabled title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill=currentColor d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill=currentColor d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill=currentColor d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"/></svg></button></div></div></div><div role=presentation class=navbar-sidebar__backdrop></div></nav><div id=__docusaurus_skipToContent_fallback class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class=docsWrapper_hBAB><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type=button></button><div class=docRoot_UBD9><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class=sidebarViewport_aRkj><div class=sidebar_njMd><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/knowledgefund/><span title=KnowledgeFund class=categoryLinkLabel_W154>KnowledgeFund</span></a><button aria-label="Expand sidebar category 'KnowledgeFund'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" href=/knowledgeontology/><span title="Knowledge Ontology" class=categoryLinkLabel_W154>Knowledge Ontology</span></a><button aria-label="Collapse sidebar category 'Knowledge Ontology'" aria-expanded=true type=button class="clean-btn menu__caret"></button></div><ul class=menu__list><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/overview/><span title="Model Overview" class=linkLabel_WmDU>Model Overview</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/layers/><span title="Model Layers" class=linkLabel_WmDU>Model Layers</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/collaboration/><span title="Model Collaboration" class=linkLabel_WmDU>Model Collaboration</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/business/><span title="Model Business" class=linkLabel_WmDU>Model Business</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/service/><span title="Model Service" class=linkLabel_WmDU>Model Service</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/application/><span title="Model Application" class=linkLabel_WmDU>Model Application</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/deployment/><span title="Model Deployment" class=linkLabel_WmDU>Model Deployment</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/data/><span title="Model Data" class=linkLabel_WmDU>Model Data</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/infrastructure/><span title="Model Infrastructure" class=linkLabel_WmDU>Model Infrastructure</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/viewpoints/><span title="Model Viewpoints" class=linkLabel_WmDU>Model Viewpoints</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link menu__link--active" aria-current=page tabindex=0 href=/knowledgeontology/tech/architecture/><span title="Technical Architecture" class=linkLabel_WmDU>Technical Architecture</span></a><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" tabindex=0 href=/knowledgeontology/foundations/><span title="Ontology Foundations" class=categoryLinkLabel_W154>Ontology Foundations</span></a><button aria-label="Expand sidebar category 'Ontology Foundations'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div></ul><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/governance/><span title=Governance class=categoryLinkLabel_W154>Governance</span></a><button aria-label="Expand sidebar category 'Governance'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/frameworks/><span title=Frameworks class=categoryLinkLabel_W154>Frameworks</span></a><button aria-label="Expand sidebar category 'Frameworks'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div></ul></nav></div></div></aside><main class=docMainContainer_TBSr><div class="container padding-top--md padding-bottom--lg"><div class=row><div class="col docItemCol_VOVn"><div class=docItemContainer_Djhp><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label=Breadcrumbs><ul class=breadcrumbs><li class=breadcrumbs__item><a aria-label="Home page" class=breadcrumbs__link href=/><svg viewBox="0 0 24 24" class=breadcrumbHomeIcon_YNFT><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill=currentColor /></svg></a><li class=breadcrumbs__item><a class=breadcrumbs__link href=/knowledgeontology/><span>Knowledge Ontology</span></a><li class="breadcrumbs__item breadcrumbs__item--active"><span class=breadcrumbs__link>Technical Architecture</span></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type=button class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Technical Architecture</h1></header><p>This page explains the <strong>technical architecture view</strong> of the Knowledge Ontology.
-It is not meant to be a complete technical blueprint for one implementation.
-It is a <strong>specific architecture perspective</strong> that groups tools into enterprise domains so the diagram can act as a guide to the capabilities, features, and responsibilities needed to manage each domain well.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=intro>Intro<a href=#intro class=hash-link aria-label="Direct link to Intro" title="Direct link to Intro" translate=no>​</a></h2>
-<p>The point of this page is not just to show a stack of technologies.
-It is to provide a structured way to think about <strong>which kinds of tools belong where</strong>, <strong>what enterprise domain they serve</strong>, and <strong>what capabilities those tools need to provide</strong>.</p>
-<p>So this page should be read as a capability-oriented architecture guide.
-The tool examples and categories are there to help shape thinking about the architecture, not to lock the model into one vendor set or one exact product combination.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=diagram>Diagram<a href=#diagram class=hash-link aria-label="Direct link to Diagram" title="Direct link to Diagram" translate=no>​</a></h2>
-<iframe title="Knowledge Ontology Technical Architecture Diagram" src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&title=GXP-Architecture.drawio&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Architecture.drawio" width=100% height=700 style="border:1px solid #d0d7de;border-radius:8px"></iframe>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=what-this-architecture-view-is-trying-to-do>What this architecture view is trying to do<a href=#what-this-architecture-view-is-trying-to-do class=hash-link aria-label="Direct link to What this architecture view is trying to do" title="Direct link to What this architecture view is trying to do" translate=no>​</a></h2>
-<p>This view is trying to answer a practical enterprise question:</p>
-<blockquote>
-<p>if an organisation wants to manage knowledge, governance, services, applications, data, automation, and operational reality properly, what technical capability areas does it actually need?</p>
-</blockquote>
-<p>That is why the diagram groups tools into categories.
-Each category is meant to represent a <strong>domain of responsibility</strong> rather than just a shopping list of software.</p>
-<p>So the important thing is not only <em>which tools appear in the diagram</em>.
-The more important thing is:</p>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme-03b")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||"dark"),document.documentElement.setAttribute("data-theme-choice",t||"dark")}(),function(){try{for(var[t,e]of new URLSearchParams(window.location.search).entries())if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id=__docusaurus><link rel=preload as=image href=/assets/branding/governance-foundation-logo.jpg /><link rel=preload as=image href=/assets/branding/governance-foundation-logo-dark.png /><div role=region aria-label="Skip to main content"><a class=skipToContent_fXgn href=#__docusaurus_skipToContent_fallback>Skip to main content</a></div><nav aria-label=Main class="theme-layout-navbar navbar navbar--fixed-top"><div class=navbar__inner><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded=false class="navbar__toggle clean-btn" type=button><svg width=30 height=30 viewBox="0 0 30 30" aria-hidden=true><path stroke=currentColor stroke-linecap=round stroke-miterlimit=10 stroke-width=2 d="M4 7h22M4 15h22M4 23h22"/></svg></button><a class=navbar__brand href=/><div class=navbar__logo><img src=/assets/branding/governance-foundation-logo.jpg alt="Governance Foundation" class="themedComponent_mlkZ themedComponent--light_NVdE"/><img src=/assets/branding/governance-foundation-logo-dark.png alt="Governance Foundation" class="themedComponent_mlkZ themedComponent--dark_xIcU"/></div><b class="navbar__title text--truncate"></b></a><a class="navbar__item navbar__link" href=/knowledgefund/>KnowledgeFund</a><a class="navbar__item navbar__link" href=/governance/>Governance</a><a aria-current=page class="navbar__item navbar__link navbar__link--active" href=/knowledgeontology/>Knowledge Ontology</a><a class="navbar__item navbar__link" href=/frameworks/>Frameworks</a><a class="navbar__item navbar__link" href=/blog/>Blog</a><a class="navbar__item navbar__link" href=/about/>About</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href=https://github.com/governance-foundation/governance.foundation/issues/new/choose target=_blank rel="noopener noreferrer" class="navbar__item navbar__link navbar-open-issue">Open Issue<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><div class=navbarSearchContainer_Bca1><div class="navbar__search searchBarContainer_NW3z" dir=ltr><input placeholder=Search aria-label=Search class="navbar__search-input searchInput_YFbd" value="" /><div class="loadingRing_RJI3 searchBarLoadingRing_YnHq"><div></div><div></div><div></div><div></div></div></div></div><a href=https://github.com/governance-foundation/governance.foundation target=_blank rel="noopener noreferrer" class="navbar__item navbar__link navbar-github-link">GitHub<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type=button disabled title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill=currentColor d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill=currentColor d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill=currentColor d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"/></svg></button></div></div></div><div role=presentation class=navbar-sidebar__backdrop></div></nav><div id=__docusaurus_skipToContent_fallback class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class=docsWrapper_hBAB><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type=button></button><div class=docRoot_UBD9><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class=sidebarViewport_aRkj><div class=sidebar_njMd><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/knowledgefund/><span title=KnowledgeFund class=categoryLinkLabel_W154>KnowledgeFund</span></a><button aria-label="Expand sidebar category 'KnowledgeFund'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" href=/knowledgeontology/><span title="Knowledge Ontology" class=categoryLinkLabel_W154>Knowledge Ontology</span></a><button aria-label="Collapse sidebar category 'Knowledge Ontology'" aria-expanded=true type=button class="clean-btn menu__caret"></button></div><ul class=menu__list><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/overview/><span title="Model Overview" class=linkLabel_WmDU>Model Overview</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/layers/><span title="Model Layers" class=linkLabel_WmDU>Model Layers</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/collaboration/><span title="Model Collaboration" class=linkLabel_WmDU>Model Collaboration</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/business/><span title="Model Business" class=linkLabel_WmDU>Model Business</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/service/><span title="Model Service" class=linkLabel_WmDU>Model Service</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/application/><span title="Model Application" class=linkLabel_WmDU>Model Application</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/deployment/><span title="Model Deployment" class=linkLabel_WmDU>Model Deployment</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/data/><span title="Model Data" class=linkLabel_WmDU>Model Data</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/infrastructure/><span title="Model Infrastructure" class=linkLabel_WmDU>Model Infrastructure</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class=menu__link tabindex=0 href=/knowledgeontology/model/viewpoints/><span title="Model Viewpoints" class=linkLabel_WmDU>Model Viewpoints</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link menu__link--active" aria-current=page tabindex=0 href=/knowledgeontology/tech/architecture/><span title="Technical Architecture" class=linkLabel_WmDU>Technical Architecture</span></a><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" tabindex=0 href=/knowledgeontology/foundations/><span title="Ontology Foundations" class=categoryLinkLabel_W154>Ontology Foundations</span></a><button aria-label="Expand sidebar category 'Ontology Foundations'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div></ul><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/governance/><span title=Governance class=categoryLinkLabel_W154>Governance</span></a><button aria-label="Expand sidebar category 'Governance'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class=menu__list-item-collapsible><a class="categoryLink_byQd menu__link menu__link--sublist" href=/frameworks/><span title=Frameworks class=categoryLinkLabel_W154>Frameworks</span></a><button aria-label="Expand sidebar category 'Frameworks'" aria-expanded=false type=button class="clean-btn menu__caret"></button></div></ul></nav></div></div></aside><main class=docMainContainer_TBSr><div class="container padding-top--md padding-bottom--lg"><div class=row><div class="col docItemCol_VOVn"><div class=docItemContainer_Djhp><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label=Breadcrumbs><ul class=breadcrumbs><li class=breadcrumbs__item><a aria-label="Home page" class=breadcrumbs__link href=/><svg viewBox="0 0 24 24" class=breadcrumbHomeIcon_YNFT><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill=currentColor /></svg></a><li class=breadcrumbs__item><a class=breadcrumbs__link href=/knowledgeontology/><span>Knowledge Ontology</span></a><li class="breadcrumbs__item breadcrumbs__item--active"><span class=breadcrumbs__link>Technical Architecture</span></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type=button class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Technical Architecture</h1></header><p>This page explains the technical architecture view of the Knowledge Ontology.
+It is not one single flat diagram.
+The drawio source contains multiple pages, and at least two of them matter here in different ways:</p>
 <ul>
-<li class="">what capability each tool category is expected to provide</li>
-<li class="">what enterprise problem that category helps manage</li>
-<li class="">what information or operational domain it should connect to</li>
-<li class="">where gaps exist if a category is missing or weak</li>
+<li class=""><strong>Page 1 — Services</strong>: a layered enterprise capability map showing the major tool categories and the responsibilities they fill inside a foundation</li>
+<li class=""><strong>Page 3 — Content Experiences</strong>: a more concrete architecture flow showing how specific experience, CMS, API, cache, workflow, and datastore components interact</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=how-to-read-the-tool-categories>How to read the tool categories<a href=#how-to-read-the-tool-categories class=hash-link aria-label="Direct link to How to read the tool categories" title="Direct link to How to read the tool categories" translate=no>​</a></h2>
-<p>The tool categories should be read as <strong>enterprise capability guides</strong>.</p>
-<p>That means a category usually implies four things at once:</p>
+<p>So this page should be read in two passes:</p>
 <ol>
-<li class="">a domain that needs to be managed</li>
-<li class="">a class of tools that commonly helps manage it</li>
-<li class="">a set of features those tools should provide</li>
-<li class="">a set of relationships to other domains in the broader architecture</li>
+<li class="">first as a <strong>capability-layer architecture</strong></li>
+<li class="">then as a <strong>concrete experience/content architecture</strong></li>
 </ol>
-<p>For example, a category is not valuable just because a tool exists there.
-It is valuable when that tool helps make a domain more visible, more governed, more connected, and more operable.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=domain-oriented-rather-than-vendor-oriented>Domain-oriented rather than vendor-oriented<a href=#domain-oriented-rather-than-vendor-oriented class=hash-link aria-label="Direct link to Domain-oriented rather than vendor-oriented" title="Direct link to Domain-oriented rather than vendor-oriented" translate=no>​</a></h2>
-<p>This page should stay domain-first.
-That matters because enterprises often become too tool-led.
-They buy or adopt products, but the underlying management responsibilities remain unclear.</p>
-<p>This architecture view should help avoid that.
-It should let the reader ask questions like:</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=intro>Intro<a href=#intro class=hash-link aria-label="Direct link to Intro" title="Direct link to Intro" translate=no>​</a></h2>
+<p>The technical architecture view exists to answer two related but different questions:</p>
 <ul>
-<li class="">what domain is this tool actually serving?</li>
-<li class="">what capability gap does it close?</li>
-<li class="">what feature set is required to manage that domain properly?</li>
-<li class="">how should this tool connect to surrounding domains?</li>
-<li class="">where is this tool only a local helper rather than a system-of-record or strategic capability?</li>
+<li class="">what technical capability domains does a foundation need?</li>
+<li class="">how do some of those domains actually connect in a concrete working architecture?</li>
 </ul>
-<p>That makes the page useful even when the specific tools change.
-The products may change.
-The domain responsibilities usually do not.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=what-the-categories-should-help-expose>What the categories should help expose<a href=#what-the-categories-should-help-expose class=hash-link aria-label="Direct link to What the categories should help expose" title="Direct link to What the categories should help expose" translate=no>​</a></h2>
-<p>A strong technical architecture view should help expose:</p>
+<p>That is why the diagram has multiple pages.
+One page is more like a strategic architecture and capability map.
+Another page is closer to an implementation-oriented flow.</p>
+<p>Both are useful.
+The first helps define what the foundation needs.
+The second helps show how some of those needs come together in a more operational design.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=page-1--services>Page 1 — Services<a href=#page-1--services class=hash-link aria-label="Direct link to Page 1 — Services" title="Direct link to Page 1 — Services" translate=no>​</a></h2>
+<p>The first page is best understood as the broader architecture and capability map.
+It groups tools into layers and categories so the reader can see which major capabilities a foundation needs in order to support knowledge, governance, content, analytics, AI, integration, data, and operational reliability.</p>
+<iframe title="Knowledge Ontology Technical Architecture — Page 1 Services" src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&page=0&title=GXP-Architecture.drawio%20%E2%80%94%20Services&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Architecture.drawio" width=100% height=760 style="border:1px solid #d0d7de;border-radius:8px"></iframe>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=what-page-1-is-trying-to-do>What Page 1 is trying to do<a href=#what-page-1-is-trying-to-do class=hash-link aria-label="Direct link to What Page 1 is trying to do" title="Direct link to What Page 1 is trying to do" translate=no>​</a></h3>
+<p>This page is not mainly trying to document one literal deployment.
+It is trying to show the major layers and tool families that can support an enterprise foundation.</p>
+<p>The important thing is not just the named products.
+The important thing is the capability coverage they represent.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=the-main-layers-visible-on-page-1>The main layers visible on Page 1<a href=#the-main-layers-visible-on-page-1 class=hash-link aria-label="Direct link to The main layers visible on Page 1" title="Direct link to The main layers visible on Page 1" translate=no>​</a></h3>
+<p>The page broadly separates the architecture into layers such as:</p>
 <ul>
-<li class=""><strong>experience domains</strong> that people or agents interact through</li>
-<li class=""><strong>management domains</strong> that need specialised operational control</li>
-<li class=""><strong>integration domains</strong> that connect otherwise fragmented systems</li>
-<li class=""><strong>data and evidence domains</strong> that support traceability and analysis</li>
-<li class=""><strong>automation and workflow domains</strong> that turn structure into action</li>
-<li class=""><strong>platform and runtime domains</strong> that carry actual execution</li>
-<li class=""><strong>governance and control domains</strong> that keep the whole system reliable and accountable</li>
+<li class=""><strong>Experiences</strong></li>
+<li class=""><strong>Architecture</strong></li>
+<li class=""><strong>Platform</strong></li>
+<li class=""><strong>Shared</strong></li>
+<li class=""><strong>Communications</strong></li>
 </ul>
-<p>In other words, the categories should help the reader see not just software, but the major capability surfaces required for enterprise operation.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=capabilities-matter-more-than-product-names>Capabilities matter more than product names<a href=#capabilities-matter-more-than-product-names class=hash-link aria-label="Direct link to Capabilities matter more than product names" title="Direct link to Capabilities matter more than product names" translate=no>​</a></h2>
-<p>The most important architectural question is usually not "Which product should we use?"
-It is:</p>
-<blockquote>
-<p>what capabilities must exist in this domain if the enterprise wants to manage it properly?</p>
-</blockquote>
-<p>That means each tool category should eventually be understandable in terms of capabilities such as:</p>
+<p>This is useful because it prevents the architecture from collapsing into one undifferentiated tool list.
+It shows that a foundation needs user-facing experiences, domain-serving architecture components, platform/runtime support, shared operational services, and communication/interaction surfaces.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=experiences-layer>Experiences layer<a href=#experiences-layer class=hash-link aria-label="Direct link to Experiences layer" title="Direct link to Experiences layer" translate=no>​</a></h3>
+<p>The <strong>Experiences</strong> layer is about the interfaces through which people or agents actually use the foundation.
+From the diagram, this includes areas such as:</p>
 <ul>
-<li class="">modelling and structure</li>
-<li class="">workflow and orchestration</li>
-<li class="">configuration and control</li>
-<li class="">traceability and auditability</li>
-<li class="">analytics and reporting</li>
-<li class="">integration and interoperability</li>
-<li class="">identity, access, and accountability</li>
-<li class="">monitoring, reliability, and operational feedback</li>
+<li class="">CMS</li>
+<li class="">User Profile</li>
+<li class="">CRM</li>
+<li class="">Forms</li>
+<li class="">Dashboard</li>
+<li class="">API Dev</li>
+<li class="">ChatBot</li>
+<li class="">Voice Chat</li>
+<li class="">Assistant</li>
 </ul>
-<p>Different tools may implement those capabilities differently.
-But the category should make the capability expectations visible.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=how-this-relates-to-the-knowledge-ontology>How this relates to the Knowledge Ontology<a href=#how-this-relates-to-the-knowledge-ontology class=hash-link aria-label="Direct link to How this relates to the Knowledge Ontology" title="Direct link to How this relates to the Knowledge Ontology" translate=no>​</a></h2>
-<p>This page sits slightly differently from the other model pages.
-Those pages describe the semantic domains of the ontology itself.
-This page describes a <strong>technical architecture view over those domains</strong>.</p>
-<p>That means it should not be read as the ontology.
-It should be read as one practical way of organising the technical capability landscape around the ontology and the enterprise domains it supports.</p>
-<p>So the relationship is:</p>
+<p>These are not just UI widgets.
+They represent the main interaction surfaces through which the foundation becomes usable.</p>
+<p>The capabilities this layer needs to fill include:</p>
 <ul>
-<li class="">the ontology explains the underlying domain structure and meaning</li>
-<li class="">the technical architecture view helps show what kinds of tools and capabilities may be needed to support, manage, and operationalise those domains</li>
+<li class="">content authoring and publishing</li>
+<li class="">user interaction and contribution</li>
+<li class="">profile and identity-linked experience</li>
+<li class="">guided workflows and form capture</li>
+<li class="">dashboard and operational visibility</li>
+<li class="">conversational and assistant-style access</li>
+<li class="">developer-facing exploration and API understanding</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=tech-requirements>Tech requirements<a href=#tech-requirements class=hash-link aria-label="Direct link to Tech requirements" title="Direct link to Tech requirements" translate=no>​</a></h2>
-<p>The architecture should continue to surface requirements that matter across the tool landscape, including things like:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=architecture-layer>Architecture layer<a href=#architecture-layer class=hash-link aria-label="Direct link to Architecture layer" title="Direct link to Architecture layer" translate=no>​</a></h3>
+<p>The <strong>Architecture</strong> layer is where the major domain-serving technical capabilities sit.
+This includes areas visible in the diagram such as:</p>
 <ul>
-<li class="">analytics across APIs, workflows, and user experiences</li>
-<li class="">traceability across domain boundaries</li>
-<li class="">strong integration between specialised tools</li>
-<li class="">clear configuration and control surfaces</li>
-<li class="">support for automation and orchestration</li>
-<li class="">support for operational evidence and feedback</li>
-<li class="">where relevant, token or transaction-based mechanisms when they are part of the domain being managed</li>
+<li class="">Presentation</li>
+<li class="">Workflow</li>
+<li class="">GraphQL</li>
+<li class="">API Gateway</li>
+<li class="">Search</li>
+<li class="">Graph</li>
+<li class="">Rules</li>
+<li class="">Auth</li>
+<li class="">Proxy</li>
+<li class="">Directory</li>
+<li class="">IdP</li>
+<li class="">Certs</li>
+<li class="">LLM Gateway</li>
+<li class="">GPT / RAG / LLM / VectorDB / NLU</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=principles>Principles<a href=#principles class=hash-link aria-label="Direct link to Principles" title="Direct link to Principles" translate=no>​</a></h2>
-<p>A few principles matter strongly for this architecture view:</p>
+<p>This is the layer that turns the foundation into a real structured system rather than just a set of disconnected apps.</p>
+<p>The capabilities this layer needs to fill include:</p>
 <ul>
-<li class=""><strong>Open and reusable where possible</strong> — open standards and open source are often valuable because they make enterprise integration, extension, and contribution easier.</li>
-<li class=""><strong>Lightweight where practical</strong> — tools should not create unnecessary operational drag when simpler architecture can provide the needed capability.</li>
-<li class=""><strong>Integration-first</strong> — tools should not become isolated islands; the architecture should favour clear interconnection and composability.</li>
-<li class=""><strong>API and config driven</strong> — systems should be controllable through APIs and structured configuration rather than opaque manual-only administration.</li>
-<li class=""><strong>Domain clarity before tool sprawl</strong> — new tools should only be added when they clearly strengthen a domain capability rather than just adding another disconnected surface.</li>
+<li class="">presentation and delivery logic</li>
+<li class="">orchestration and workflow execution</li>
+<li class="">API exposure and mediation</li>
+<li class="">schema-aware query and access patterns</li>
+<li class="">semantic graph storage and retrieval</li>
+<li class="">full-text and operational search</li>
+<li class="">rules and policy-driven behavior</li>
+<li class="">identity, authentication, and access control</li>
+<li class="">proxying, routing, and service exposure</li>
+<li class="">AI access, retrieval, and reasoning support</li>
+<li class="">certificate and trust infrastructure</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=layers-in-this-view>Layers in this view<a href=#layers-in-this-view class=hash-link aria-label="Direct link to Layers in this view" title="Direct link to Layers in this view" translate=no>​</a></h2>
-<p>This diagram currently separates perspectives through broad layers such as:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=platform-and-shared-services>Platform and shared services<a href=#platform-and-shared-services class=hash-link aria-label="Direct link to Platform and shared services" title="Direct link to Platform and shared services" translate=no>​</a></h3>
+<p>The <strong>Platform</strong> and <strong>Shared</strong> parts of the page show the operational substrate required to keep the foundation reliable and governable.
+This includes things like:</p>
 <ul>
-<li class=""><strong>Experience</strong> — user, operator, contributor, or agent-facing experiences that make the domains usable</li>
-<li class=""><strong>Architecture</strong> — the major capability areas and the matching technology/tool categories that support them</li>
+<li class="">Infrastructure</li>
+<li class="">Source / Pipeline</li>
+<li class="">Cluster Management</li>
+<li class="">Bare Metal Provision</li>
+<li class="">Secrets</li>
+<li class="">Logging</li>
+<li class="">Traceability</li>
+<li class="">Escalation Alerting</li>
+<li class="">Data Lake</li>
+<li class="">Data Governance</li>
+<li class="">Data Processing</li>
+<li class="">Data Batch Processing</li>
+<li class="">Data Streaming</li>
+<li class="">Analytics</li>
+<li class="">BI</li>
+<li class="">Data Access</li>
 </ul>
-<p>That separation is useful because it prevents the architecture from being read as only backend plumbing.
-It keeps visible the fact that enterprise domains need both usable experiences and supporting technical capability.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=why-this-page-matters>Why this page matters<a href=#why-this-page-matters class=hash-link aria-label="Direct link to Why this page matters" title="Direct link to Why this page matters" translate=no>​</a></h2>
-<p>Without a view like this, enterprises often collect tools without a clear model of what those tools are meant to manage.
-They end up with fragmented platforms, overlapping responsibilities, weak interoperability, and poor visibility into capability gaps.</p>
-<p>This page is useful because it shifts the conversation from:</p>
+<p>These capabilities matter because a foundation is not just a knowledge model.
+It is also an operating system for structured organisational information and action.</p>
+<p>The capabilities this layer needs to fill include:</p>
 <ul>
-<li class="">"what software do we have?"</li>
+<li class="">deployment and runtime management</li>
+<li class="">infrastructure provisioning</li>
+<li class="">CI/CD and pipeline control</li>
+<li class="">secret and credential protection</li>
+<li class="">logging, tracing, and observability</li>
+<li class="">alerting and incident visibility</li>
+<li class="">large-scale data collection and processing</li>
+<li class="">governance over data quality and access</li>
+<li class="">analytics and business insight generation</li>
+<li class="">controlled data movement across the estate</li>
 </ul>
-<p>to:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=communications-and-interaction-support>Communications and interaction support<a href=#communications-and-interaction-support class=hash-link aria-label="Direct link to Communications and interaction support" title="Direct link to Communications and interaction support" translate=no>​</a></h3>
+<p>The <strong>Communications</strong> part of the page includes areas like chat, assistants, voice, and related AI interaction tooling.
+That matters because the foundation is meant to be used through more than static screens.
+It should support richer communication and agent-mediated access patterns.</p>
+<p>This layer helps fill capabilities such as:</p>
 <ul>
-<li class="">"what domains are we trying to manage?"</li>
-<li class="">"what capabilities do those domains require?"</li>
-<li class="">"which tools actually provide those capabilities well?"</li>
-<li class="">"where are we still structurally weak?"</li>
+<li class="">conversational interfaces</li>
+<li class="">agent interaction surfaces</li>
+<li class="">human-assistant collaboration</li>
+<li class="">natural-language understanding</li>
+<li class="">voice-based interaction</li>
+<li class="">AI-mediated discovery and guidance</li>
 </ul>
-<p>That makes the diagram a planning and evaluation aid, not just a technical picture.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=how-to-read-the-tool-names-on-page-1>How to read the tool names on Page 1<a href=#how-to-read-the-tool-names-on-page-1 class=hash-link aria-label="Direct link to How to read the tool names on Page 1" title="Direct link to How to read the tool names on Page 1" translate=no>​</a></h3>
+<p>The named tools on this page should be read mainly as <strong>examples of capability coverage</strong>, not as a final procurement decision.</p>
+<p>So the right reading is not:</p>
+<ul>
+<li class="">we must use these exact products</li>
+</ul>
+<p>The stronger reading is:</p>
+<ul>
+<li class="">a foundation needs capabilities like these</li>
+<li class="">these categories show where those capabilities live</li>
+<li class="">these tool examples help clarify what each category is expected to do</li>
+</ul>
+<p>That makes Page 1 a planning, evaluation, and gap-analysis aid.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=page-3--content-experiences>Page 3 — Content Experiences<a href=#page-3--content-experiences class=hash-link aria-label="Direct link to Page 3 — Content Experiences" title="Direct link to Page 3 — Content Experiences" translate=no>​</a></h2>
+<p>The third page is different.
+It is not a broad capability map.
+It is a more concrete architecture showing how a content- and ontology-oriented experience stack might actually be structured.</p>
+<iframe title="Knowledge Ontology Technical Architecture — Page 3 Content Experiences" src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&page=2&title=GXP-Architecture.drawio%20%E2%80%94%20Content%20Experiences&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Architecture.drawio" width=100% height=760 style="border:1px solid #d0d7de;border-radius:8px"></iframe>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=what-page-3-is-trying-to-show>What Page 3 is trying to show<a href=#what-page-3-is-trying-to-show class=hash-link aria-label="Direct link to What Page 3 is trying to show" title="Direct link to What Page 3 is trying to show" translate=no>​</a></h3>
+<p>This page is showing a more explicit flow between:</p>
+<ul>
+<li class="">client experiences</li>
+<li class="">cache and static asset delivery</li>
+<li class="">CMS/content management</li>
+<li class="">workflow-driven content handling</li>
+<li class="">API and catalog management</li>
+<li class="">schema synchronization</li>
+<li class="">graph-backed knowledge storage</li>
+<li class="">supporting datastores</li>
+</ul>
+<p>So unlike Page 1, this page is much closer to a specific architecture pattern.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=client-and-experience-layer>Client and experience layer<a href=#client-and-experience-layer class=hash-link aria-label="Direct link to Client and experience layer" title="Direct link to Client and experience layer" translate=no>​</a></h3>
+<p>At the top, Page 3 shows a <strong>Client</strong> area with experience-specific entry points such as:</p>
+<ul>
+<li class="">Experience Designer Experience</li>
+<li class="">Ontology Designer Experience</li>
+<li class="">Content Experience</li>
+<li class="">a shared <strong>Experience</strong> surface underneath</li>
+</ul>
+<p>This suggests that the foundation should not expose only one generic front end.
+It should support specialised experiences for different types of work while still converging into a shared experience layer.</p>
+<p>The capabilities being filled here include:</p>
+<ul>
+<li class="">experience-specific workflows for different user roles</li>
+<li class="">ontology design and editing</li>
+<li class="">content authoring and consumption</li>
+<li class="">shared interaction surfaces across specialised experiences</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=cache-and-delivery>Cache and delivery<a href=#cache-and-delivery class=hash-link aria-label="Direct link to Cache and delivery" title="Direct link to Cache and delivery" translate=no>​</a></h3>
+<p>The page shows <strong>Cache (Nginx)</strong> with <strong>Experience Static Assets</strong>.
+That indicates a delivery tier responsible for serving static experience assets efficiently.</p>
+<p>The capabilities being filled here include:</p>
+<ul>
+<li class="">static asset serving</li>
+<li class="">caching and delivery performance</li>
+<li class="">separation between dynamic application logic and asset distribution</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=cms-and-workflow>CMS and workflow<a href=#cms-and-workflow class=hash-link aria-label="Direct link to CMS and workflow" title="Direct link to CMS and workflow" translate=no>​</a></h3>
+<p>The page shows a <strong>CMS (Sling)</strong> area with:</p>
+<ul>
+<li class="">Content</li>
+<li class="">Workflow</li>
+</ul>
+<p>and links into both asset/node stores and the API side.</p>
+<p>This makes the CMS layer more than a document repository.
+It is acting as a structured content management and process environment.</p>
+<p>The capabilities being filled here include:</p>
+<ul>
+<li class="">content storage and editing</li>
+<li class="">managed workflow for content change</li>
+<li class="">connection between authored content and downstream API/catalog structures</li>
+<li class="">support for generated experience assets</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=api-and-catalog-layer>API and catalog layer<a href=#api-and-catalog-layer class=hash-link aria-label="Direct link to API and catalog layer" title="Direct link to API and catalog layer" translate=no>​</a></h3>
+<p>The page shows an <strong>API</strong> area with:</p>
+<ul>
+<li class="">API Catalog</li>
+<li class="">GraphQL</li>
+<li class="">Catalog Sync</li>
+<li class="">Schema Sync</li>
+</ul>
+<p>This is one of the most important parts of the page.
+It suggests that the foundation uses the API layer not just for runtime calls, but as a managed semantic and structural boundary.</p>
+<p>The capabilities being filled here include:</p>
+<ul>
+<li class="">central API registration and discoverability</li>
+<li class="">read/write access between experience, content, and graph layers</li>
+<li class="">GraphQL-based query access</li>
+<li class="">sync processes that keep catalogs and schemas aligned</li>
+<li class="">generated interfaces between managed content structures and the knowledge graph</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=graph-and-datastore-layer>Graph and datastore layer<a href=#graph-and-datastore-layer class=hash-link aria-label="Direct link to Graph and datastore layer" title="Direct link to Graph and datastore layer" translate=no>​</a></h3>
+<p>The right and lower parts of the page show:</p>
+<ul>
+<li class="">Graph</li>
+<li class="">Asset Store</li>
+<li class="">Node Store</li>
+</ul>
+<p>This suggests a split between different persistence responsibilities rather than one flattened datastore.</p>
+<p>The capabilities being filled here include:</p>
+<ul>
+<li class="">graph-backed semantic storage</li>
+<li class="">asset persistence</li>
+<li class="">node/content persistence</li>
+<li class="">schema-aware updates into the graph layer</li>
+<li class="">separation of content structures from graph semantics while keeping them connected</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id=why-page-3-matters>Why Page 3 matters<a href=#why-page-3-matters class=hash-link aria-label="Direct link to Why Page 3 matters" title="Direct link to Why Page 3 matters" translate=no>​</a></h3>
+<p>Page 3 matters because it shows how a foundation can move from abstract capability thinking into a more operational content-and-ontology architecture.</p>
+<p>It makes several architectural ideas much clearer:</p>
+<ul>
+<li class="">specialised experiences can converge into shared experience infrastructure</li>
+<li class="">content and ontology work can be mediated through CMS and workflow structures</li>
+<li class="">APIs and catalogs can act as formal boundary layers rather than just transport mechanisms</li>
+<li class="">graph storage can sit behind managed schema and synchronization processes rather than being edited in isolation</li>
+<li class="">cache, CMS, API, workflow, and graph layers all have distinct jobs</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=how-the-two-pages-relate>How the two pages relate<a href=#how-the-two-pages-relate class=hash-link aria-label="Direct link to How the two pages relate" title="Direct link to How the two pages relate" translate=no>​</a></h2>
+<p>The relationship between these two pages is important:</p>
+<ul>
+<li class=""><strong>Page 1</strong> shows the broader capability and tool landscape of the foundation</li>
+<li class=""><strong>Page 3</strong> shows one more concrete architecture slice inside that broader landscape</li>
+</ul>
+<p>So Page 1 helps answer:</p>
+<ul>
+<li class="">what capability families do we need?</li>
+<li class="">what kinds of tools fill them?</li>
+<li class="">where are the major domains of responsibility?</li>
+</ul>
+<p>And Page 3 helps answer:</p>
+<ul>
+<li class="">how might some of those domains connect in practice?</li>
+<li class="">how do experience, CMS, API, workflow, cache, and graph layers work together?</li>
+<li class="">what does a more implementation-shaped slice of the architecture look like?</li>
+</ul>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=next-direction-for-this-page>Next direction for this page<a href=#next-direction-for-this-page class=hash-link aria-label="Direct link to Next direction for this page" title="Direct link to Next direction for this page" translate=no>​</a></h2>
-<p>The next evolution of this page should make the architecture view more explicit around:</p>
+<p>The next evolution of this page should make a few things more explicit:</p>
 <ul>
-<li class="">the specific enterprise domains each tool category is serving</li>
-<li class="">the expected capability set for each category</li>
-<li class="">where categories are foundational versus optional</li>
-<li class="">where one category acts as a system-of-record, integration layer, workflow layer, or experience layer</li>
-<li class="">how the technical architecture view maps back to the ontology and model pages</li>
+<li class="">a formal summary of the layer model on Page 1</li>
+<li class="">clearer capability statements for each major tool category on Page 1</li>
+<li class="">a clearer narrative walkthrough of the content/data flow on Page 3</li>
+<li class="">whether Page 2 should also be documented here as a separate API-specific architecture section</li>
+<li class="">whether page-specific embeds should be reused elsewhere in the docs when a single architecture page deserves its own focused explanation</li>
 </ul>
-<p><img decoding=async loading=lazy src=https://img.shields.io/badge/status-draft-red alt=status class=img_ev3q /></div></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href=/knowledgeontology/model/viewpoints/><div class=pagination-nav__sublabel>Previous</div><div class=pagination-nav__label>Model Viewpoints</div></a><a class="pagination-nav__link pagination-nav__link--next" href=/knowledgeontology/foundations/><div class=pagination-nav__sublabel>Next</div><div class=pagination-nav__label>Ontology Foundations</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href=#intro class="table-of-contents__link toc-highlight">Intro</a><li><a href=#diagram class="table-of-contents__link toc-highlight">Diagram</a><li><a href=#what-this-architecture-view-is-trying-to-do class="table-of-contents__link toc-highlight">What this architecture view is trying to do</a><li><a href=#how-to-read-the-tool-categories class="table-of-contents__link toc-highlight">How to read the tool categories</a><li><a href=#domain-oriented-rather-than-vendor-oriented class="table-of-contents__link toc-highlight">Domain-oriented rather than vendor-oriented</a><li><a href=#what-the-categories-should-help-expose class="table-of-contents__link toc-highlight">What the categories should help expose</a><li><a href=#capabilities-matter-more-than-product-names class="table-of-contents__link toc-highlight">Capabilities matter more than product names</a><li><a href=#how-this-relates-to-the-knowledge-ontology class="table-of-contents__link toc-highlight">How this relates to the Knowledge Ontology</a><li><a href=#tech-requirements class="table-of-contents__link toc-highlight">Tech requirements</a><li><a href=#principles class="table-of-contents__link toc-highlight">Principles</a><li><a href=#layers-in-this-view class="table-of-contents__link toc-highlight">Layers in this view</a><li><a href=#why-this-page-matters class="table-of-contents__link toc-highlight">Why this page matters</a><li><a href=#next-direction-for-this-page class="table-of-contents__link toc-highlight">Next direction for this page</a></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="theme-layout-footer-column col footer__col"><div class=footer__title>Explore</div><ul class="footer__items clean-list"><li class=footer__item><a class=footer__link-item href=/knowledgefund/>KnowledgeFund</a><li class=footer__item><a class=footer__link-item href=/governance/>Governance</a><li class=footer__item><a class=footer__link-item href=/knowledgeontology/>Knowledge Ontology</a><li class=footer__item><a class=footer__link-item href=/frameworks/>Frameworks</a></ul></div><div class="theme-layout-footer-column col footer__col"><div class=footer__title>Content</div><ul class="footer__items clean-list"><li class=footer__item><a class=footer__link-item href=/blog/>Blog</a><li class=footer__item><a class=footer__link-item href=/about/>About</a></ul></div><div class="theme-layout-footer-column col footer__col"><div class=footer__title>More</div><ul class="footer__items clean-list"><li class=footer__item><a href=https://github.com/governance-foundation/governance.foundation/issues/new/choose target=_blank rel="noopener noreferrer" class=footer__link-item>Open Issue<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><li class=footer__item><a href=https://github.com/governance-foundation/governance.foundation target=_blank rel="noopener noreferrer" class=footer__link-item>GitHub<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a></ul></div></div><div class="footer__bottom text--center"><div class=footer__copyright>Copyright © 2026 Governance Foundation.</div></div></div></footer></div></body>
+<p><img decoding=async loading=lazy src=https://img.shields.io/badge/status-draft-red alt=status class=img_ev3q /></div></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href=/knowledgeontology/model/viewpoints/><div class=pagination-nav__sublabel>Previous</div><div class=pagination-nav__label>Model Viewpoints</div></a><a class="pagination-nav__link pagination-nav__link--next" href=/knowledgeontology/foundations/><div class=pagination-nav__sublabel>Next</div><div class=pagination-nav__label>Ontology Foundations</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href=#intro class="table-of-contents__link toc-highlight">Intro</a><li><a href=#page-1--services class="table-of-contents__link toc-highlight">Page 1 — Services</a><ul><li><a href=#what-page-1-is-trying-to-do class="table-of-contents__link toc-highlight">What Page 1 is trying to do</a><li><a href=#the-main-layers-visible-on-page-1 class="table-of-contents__link toc-highlight">The main layers visible on Page 1</a><li><a href=#experiences-layer class="table-of-contents__link toc-highlight">Experiences layer</a><li><a href=#architecture-layer class="table-of-contents__link toc-highlight">Architecture layer</a><li><a href=#platform-and-shared-services class="table-of-contents__link toc-highlight">Platform and shared services</a><li><a href=#communications-and-interaction-support class="table-of-contents__link toc-highlight">Communications and interaction support</a><li><a href=#how-to-read-the-tool-names-on-page-1 class="table-of-contents__link toc-highlight">How to read the tool names on Page 1</a></ul><li><a href=#page-3--content-experiences class="table-of-contents__link toc-highlight">Page 3 — Content Experiences</a><ul><li><a href=#what-page-3-is-trying-to-show class="table-of-contents__link toc-highlight">What Page 3 is trying to show</a><li><a href=#client-and-experience-layer class="table-of-contents__link toc-highlight">Client and experience layer</a><li><a href=#cache-and-delivery class="table-of-contents__link toc-highlight">Cache and delivery</a><li><a href=#cms-and-workflow class="table-of-contents__link toc-highlight">CMS and workflow</a><li><a href=#api-and-catalog-layer class="table-of-contents__link toc-highlight">API and catalog layer</a><li><a href=#graph-and-datastore-layer class="table-of-contents__link toc-highlight">Graph and datastore layer</a><li><a href=#why-page-3-matters class="table-of-contents__link toc-highlight">Why Page 3 matters</a></ul><li><a href=#how-the-two-pages-relate class="table-of-contents__link toc-highlight">How the two pages relate</a><li><a href=#next-direction-for-this-page class="table-of-contents__link toc-highlight">Next direction for this page</a></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="theme-layout-footer-column col footer__col"><div class=footer__title>Explore</div><ul class="footer__items clean-list"><li class=footer__item><a class=footer__link-item href=/knowledgefund/>KnowledgeFund</a><li class=footer__item><a class=footer__link-item href=/governance/>Governance</a><li class=footer__item><a class=footer__link-item href=/knowledgeontology/>Knowledge Ontology</a><li class=footer__item><a class=footer__link-item href=/frameworks/>Frameworks</a></ul></div><div class="theme-layout-footer-column col footer__col"><div class=footer__title>Content</div><ul class="footer__items clean-list"><li class=footer__item><a class=footer__link-item href=/blog/>Blog</a><li class=footer__item><a class=footer__link-item href=/about/>About</a></ul></div><div class="theme-layout-footer-column col footer__col"><div class=footer__title>More</div><ul class="footer__items clean-list"><li class=footer__item><a href=https://github.com/governance-foundation/governance.foundation/issues/new/choose target=_blank rel="noopener noreferrer" class=footer__link-item>Open Issue<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a><li class=footer__item><a href=https://github.com/governance-foundation/governance.foundation target=_blank rel="noopener noreferrer" class=footer__link-item>GitHub<svg width=13.5 height=13.5 aria-label="(opens in new tab)" class=iconExternalLink_nPIU><use href=#theme-svg-external-link /></svg></a></ul></div></div><div class="footer__bottom text--center"><div class=footer__copyright>Copyright © 2026 Governance Foundation.</div></div></div></footer></div></body>
