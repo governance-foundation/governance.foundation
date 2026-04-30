@@ -29,6 +29,7 @@
     const nav = params.get('nav') || '1';
     const layers = params.get('layers') || '1';
     const lightbox = params.get('lightbox') || '1';
+    const page = params.get('page');
 
     if (!file) {
       document.body.innerHTML = '<p style="color:#f1eadf;font-family:Inter,system-ui,sans-serif;padding:16px;">Missing diagram file.</p>';
@@ -40,6 +41,9 @@
       viewerUrl.searchParams.set('nav', nav);
       viewerUrl.searchParams.set('title', title);
       viewerUrl.searchParams.set('url', absoluteUrl);
+      if (page !== null && page !== '') {
+        viewerUrl.searchParams.set('page', page);
+      }
       document.getElementById('viewer').src = viewerUrl.toString();
     }
   </script>
