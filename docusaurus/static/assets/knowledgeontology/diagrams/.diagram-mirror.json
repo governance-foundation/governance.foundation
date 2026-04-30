@@ -1,6 +1,6 @@
 {
   "source": "docusaurus/static/assets/knowledgeontology/diagrams",
-  "count": 14,
+  "count": 15,
   "files": [
     {
       "name": "Data-Modeling-Tech-Overview.drawio",
@@ -8,9 +8,14 @@
       "sha256": "157fb506003f954cf5bb2f555795112f8f31d6d5e012c3d5ea709cbaa0a391d6"
     },
     {
-      "name": "Data-Perspectives.drawio",
+      "name": "Data-Perspectives - Notes.drawio",
       "sizeBytes": 86212,
       "sha256": "64f5bb93ab0e385d020df05f2af7d80be3714064dfde5db8eb4f2c6369a50f1e"
+    },
+    {
+      "name": "Data-Perspectives.drawio",
+      "sizeBytes": 29816,
+      "sha256": "050469f5b5a936b8e0362a3b3eefab821edf1476c28046de0165dcefb7f1afee"
     },
     {
       "name": "GXP-Architecture.drawio",
@@ -39,8 +44,8 @@
     },
     {
       "name": "GXP-Model-Data-Business.drawio",
-      "sizeBytes": 24589,
-      "sha256": "dac9024b0ef07de99e349103f3255f7361e7a5d130b0f5361ff7e0df7e15ad68"
+      "sizeBytes": 24813,
+      "sha256": "47d5d0ddf92f76c97f27fe6e397d5417c5087dc1502c55616a0b31db3795f176"
     },
     {
       "name": "GXP-Model-Data-Data.drawio",
