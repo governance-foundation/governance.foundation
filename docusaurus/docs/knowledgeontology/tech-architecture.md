@@ -5,30 +5,35 @@ slug: /knowledgeontology/tech/architecture
 
 This page explains the technical architecture view of the Knowledge Ontology.
 It is not one single flat diagram.
-The drawio source contains multiple pages, and at least two of them matter here in different ways:
+The drawio source contains multiple pages, and each of them matters in a different way:
 
 - **Page 1 — Services**: a layered enterprise capability map showing the major tool categories and the responsibilities they fill inside a foundation
+- **Page 2 — API Architecture**: a stripped-back API interaction model showing the core boundary between clients, read/write/schema APIs, and storage
 - **Page 3 — Content Experiences**: a more concrete architecture flow showing how specific experience, CMS, API, cache, workflow, and datastore components interact
 
-So this page should be read in two passes:
+So this page should be read in three passes:
 
 1. first as a **capability-layer architecture**
-2. then as a **concrete experience/content architecture**
+2. then as a **core API boundary architecture**
+3. then as a **concrete experience/content architecture**
 
 ## Intro
 
-The technical architecture view exists to answer two related but different questions:
+The technical architecture view exists to answer three related but different questions:
 
 - what technical capability domains does a foundation need?
+- what is the core API boundary shape between clients and storage?
 - how do some of those domains actually connect in a concrete working architecture?
 
 That is why the diagram has multiple pages.
 One page is more like a strategic architecture and capability map.
+One page is a simple API architecture abstraction.
 Another page is closer to an implementation-oriented flow.
 
-Both are useful.
+All three are useful.
 The first helps define what the foundation needs.
-The second helps show how some of those needs come together in a more operational design.
+The second clarifies the API shape that mediates access and change.
+The third helps show how some of those needs come together in a more operational design.
 
 ## Page 1 — Services
 
@@ -197,9 +202,121 @@ The stronger reading is:
 
 That makes Page 1 a planning, evaluation, and gap-analysis aid.
 
+## Page 2 — API Architecture
+
+The second page is much simpler and more abstract.
+It strips the architecture down to a core API boundary model:
+
+- **Client**
+- **Read APIs**
+- **Write APIs**
+- **Schema APIs**
+- **Storage**
+
+<iframe
+  title="Knowledge Ontology Technical Architecture — Page 2 API Architecture"
+  src="/diagram-viewer.html?lightbox=1&layers=1&nav=1&page=1&title=GXP-Architecture.drawio%20%E2%80%94%20API%20Architecture&file=%2Fassets%2Fknowledgeontology%2Fdiagrams%2FGXP-Architecture.drawio"
+  width="100%"
+  height="560"
+  style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
+/>
+
+### What Page 2 is trying to do
+
+Page 2 matters because it reduces the architecture to a very small number of core concerns.
+It is not trying to show all enterprise tooling.
+It is trying to show the essential control points through which a foundation should expose, mutate, and structure knowledge.
+
+That makes it a useful conceptual checkpoint.
+It asks the reader to think about the API layer as a deliberate architecture, not just a byproduct of application code.
+
+### Client as boundary consumer
+
+The **Client** element represents whatever upstream experience, app, agent, or external system is interacting with the foundation.
+
+That matters because clients should not normally talk directly to raw storage structures.
+They should go through stable access boundaries that preserve semantics, control, and traceability.
+
+The capabilities implied here include:
+
+- a stable consumer interface
+- decoupling between clients and persistence details
+- support for multiple consumers over shared structures
+- controlled entry into the foundation
+
+### Read APIs
+
+The **Read APIs** represent the access layer for retrieving knowledge, content, schema-driven data, or operational information from the foundation.
+
+These APIs need to fill capabilities such as:
+
+- controlled query access
+- semantic or structure-aware reads
+- reusable retrieval patterns across clients
+- security and policy-aware access to information
+- separation between consumer needs and storage internals
+
+This matters because a foundation should not require each client to invent its own interpretation of how to retrieve information.
+
+### Write APIs
+
+The **Write APIs** represent the mutation boundary.
+They are the place where new knowledge, updates, corrections, workflow changes, authored content, and system-driven writes enter the managed architecture.
+
+These APIs need to fill capabilities such as:
+
+- controlled creation and update paths
+- validation before persistence
+- workflow-aware mutation points
+- auditability and traceability for change
+- protection against uncontrolled direct writes into storage
+
+This matters because change control is one of the main differences between a foundation and an ungoverned information estate.
+
+### Schema APIs
+
+The **Schema APIs** are especially important.
+They suggest that schema, structure, and model evolution should themselves be exposed through a managed architectural surface rather than being hidden as an internal implementation detail.
+
+These APIs need to fill capabilities such as:
+
+- schema definition and evolution
+- model synchronization across clients and services
+- explicit structure management
+- safe propagation of schema changes
+- alignment between the ontology-facing structures and runtime-facing representations
+
+This is a strong design signal.
+It means the architecture expects model structure itself to be governed, not just the data sitting inside it.
+
+### Storage
+
+The **Storage** element is intentionally generic on this page.
+That is useful because the point here is not to privilege one storage technology.
+The point is to show that storage should sit behind read, write, and schema boundaries rather than being treated as the primary public interface.
+
+The capabilities implied here include:
+
+- persistence of data and knowledge structures
+- separation between storage concerns and client concerns
+- support for multiple API-mediated access patterns
+- freedom to evolve storage internals without breaking every client
+
+### Why Page 2 matters
+
+Page 2 matters because it expresses a simple but very important architectural discipline:
+
+> clients should interact with the foundation through deliberate read, write, and schema boundaries, not by directly coupling themselves to storage.
+
+That principle is useful whether the system is small or large.
+It helps preserve semantic control, change discipline, traceability, and architectural flexibility.
+
+It also gives the broader technical architecture a clean center of gravity.
+No matter how many tools or experiences surround the system, this API boundary remains one of the core governance mechanisms.
+
 ## Page 3 — Content Experiences
 
-The third page is different.
+The third page is different again.
 It is not a broad capability map.
 It is a more concrete architecture showing how a content- and ontology-oriented experience stack might actually be structured.
 
@@ -325,11 +442,12 @@ It makes several architectural ideas much clearer:
 - graph storage can sit behind managed schema and synchronization processes rather than being edited in isolation
 - cache, CMS, API, workflow, and graph layers all have distinct jobs
 
-## How the two pages relate
+## How the three pages relate
 
-The relationship between these two pages is important:
+The relationship between these pages is important:
 
 - **Page 1** shows the broader capability and tool landscape of the foundation
+- **Page 2** shows the core API control shape between clients and storage
 - **Page 3** shows one more concrete architecture slice inside that broader landscape
 
 So Page 1 helps answer:
@@ -337,6 +455,12 @@ So Page 1 helps answer:
 - what capability families do we need?
 - what kinds of tools fill them?
 - where are the major domains of responsibility?
+
+Page 2 helps answer:
+
+- what is the essential boundary structure for reading, writing, and evolving the model?
+- where should clients couple into the system?
+- why should schema change be treated as a first-class managed concern?
 
 And Page 3 helps answer:
 
@@ -350,8 +474,8 @@ The next evolution of this page should make a few things more explicit:
 
 - a formal summary of the layer model on Page 1
 - clearer capability statements for each major tool category on Page 1
+- stronger API-governance language on Page 2
 - a clearer narrative walkthrough of the content/data flow on Page 3
-- whether Page 2 should also be documented here as a separate API-specific architecture section
 - whether page-specific embeds should be reused elsewhere in the docs when a single architecture page deserves its own focused explanation
 
 ![status](https://img.shields.io/badge/status-draft-red)
