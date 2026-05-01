@@ -24,6 +24,30 @@ It is the domain that connects logical application structures to the concrete te
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
 />
 
+## Page 1 as a deployment-domain table of contents
+
+The deployment diagram is compact, but it still gives a usable first-pass **table of contents** for the deployment domain.
+
+An exhaustive first-pass TOC from the page is:
+
+1. **Deployment**
+2. **Deployment Members**
+3. **Deployment Member Relationship Type**
+4. **Deployment Attributes**
+5. **Deployment Attribute Types**
+6. **Member Attributes**
+
+The page also includes important framing cues:
+
+- **L2**
+- **Deployment**
+- **Application**
+- **Infrastructure**
+
+Those cues matter because they suggest the deployment page is already being read at a particular abstraction level and in relation to both the logical application layer above and the infrastructure layer below.
+So even in compact form, the diagram is not only naming deployment concepts in isolation.
+It is hinting at how deployment semantics sit inside the wider realization-binding chain.
+
 ## The deployment domain at a high level
 
 At a high level, the deployment model should help explain:
@@ -36,6 +60,20 @@ At a high level, the deployment model should help explain:
 - how realised system shape differs from logical design alone
 
 This is why deployment needs its own domain rather than being absorbed into either application or infrastructure.
+
+## What the compact deployment diagram already implies
+
+Even though the page only shows a small number of labels, it already implies a useful internal deployment-domain structure:
+
+- a core **Deployment** concept
+- a way of representing **members** that participate in, compose, or structure a deployment
+- a need to type the **relationships** between those members
+- a distinction between the deployment itself and its **attributes**
+- a distinction between deployment attributes and **member attributes**
+- a surrounding realization context explicitly tied to **Application** and **Infrastructure**
+
+That is a good sign.
+It means the page is already moving beyond “deployment is just environment placement” toward a more structured deployment model.
 
 ## Deployment is a realization-binding layer
 
@@ -87,6 +125,7 @@ These distinctions help separate intention, design, realization, and observation
 ## Why this matters for ontology
 
 The deployment domain is one of the strongest places for introducing clearer semantics around realization and occurrence.
+A compact TOC like the one on this page reinforces that quickly: even at a glance, deployment semantics seem to need entities, members, typed relationships, and structured attributes rather than one flat deployment register.
 A mature ontology should eventually help distinguish:
 
 - designed structures

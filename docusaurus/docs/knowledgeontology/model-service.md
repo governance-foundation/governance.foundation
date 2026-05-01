@@ -24,6 +24,29 @@ It is where provider and consumer relationships, commitments, performance expect
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
 />
 
+## Page 1 as a service-domain table of contents
+
+The service diagram is compact, but it still gives a usable first-pass **table of contents** for the service domain.
+
+An exhaustive first-pass TOC from the page is:
+
+1. **Service**
+2. **Service Members**
+3. **Service Member Relationship Type**
+4. **Service Attributes**
+5. **Service Attribute Types**
+6. **Member Attributes**
+
+The page also includes two important framing cues:
+
+- **L2**
+- **Deployment**
+- **Application**
+
+Those cues matter because they suggest the service page is already being read at a particular abstraction level and in relation to neighboring technical realization domains.
+So even this compact diagram is not just listing service concepts in isolation.
+It is hinting at how the service model sits between its own internal semantic structure and the application/deployment context around it.
+
 ## The service domain at a high level
 
 At a high level, the service domain should help explain:
@@ -37,6 +60,20 @@ At a high level, the service domain should help explain:
 
 This is why service sits between business and technology.
 It translates purpose and capability into something operationally accountable.
+
+## What the compact service diagram already implies
+
+Even though the page only shows a small number of labels, it already implies a useful internal service-domain structure:
+
+- a core **Service** concept
+- a way of representing **members** that participate in or compose a service
+- a need to type the **relationships** between those members
+- a distinction between the service itself and its **attributes**
+- a distinction between the service's own attributes and **member attributes**
+- a surrounding realization context connected to **Application** and **Deployment**
+
+That is a good sign.
+It means the page is already moving beyond “service is just a named offering” toward a more structured service model.
 
 ## Service as relationship, not just object
 
@@ -93,6 +130,7 @@ So service should be read as the translation domain that keeps those layers conn
 ## Why this matters for ontology
 
 The service domain is one of the clearest places where first-class relationships matter.
+A compact TOC like the one on this page reinforces that quickly: even at a glance, service semantics seem to need entities, members, typed relationships, and structured attributes rather than one flat service register.
 A mature ontology will likely need to treat things such as provider-consumer relations, commitments, agreements, obligations, and support dependencies as more than simple lines between boxes.
 
 It also needs to distinguish clearly between:

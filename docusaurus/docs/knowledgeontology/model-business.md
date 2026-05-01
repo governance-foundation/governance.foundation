@@ -16,10 +16,10 @@ The drawio source contains multiple pages, and each of them matters in a differe
 So this page should be read in five passes:
 
 1. first as the **main business semantic domain**
-2. then as a **capability-management landscape**
-3. then as a **business canvas abstraction**
-4. then as a **dashboard/performance interpretation layer**
-5. then as a **framework-oriented viewpoint**
+2. then as a **business capability and operating-model mapping**
+3. then as a **Business Model Canvas mapping**
+4. then as a **dashboard/perspective reuse layer**
+5. then as an **ArchiMate-oriented mapping/viewpoint layer**
 
 ## Intro
 
@@ -47,10 +47,13 @@ A number of classic management and enterprise perspectives are clearly feeding t
 The important thing is not to preserve these as separate truth silos.
 The stronger move is to reinterpret them as perspectives over one connected business semantics.
 
+That means this page should explicitly demonstrate something stronger than “business has many views”.
+It should demonstrate that established business perspectives, frameworks, and working surfaces can be grounded in, reused from, and experienced through the same KM Ontology.
+
 ## Page 1 — Model
 
 The first page is the main business-domain map.
-It is the broadest page in the diagram set, and it should be read as the semantic field that the rest of the pages simplify, operationalize, or reinterpret.
+It is the broadest page in the diagram set, and it should be read as the **canonical business concept base** that the rest of the pages simplify, operationalize, map to, or reinterpret.
 
 <iframe
   title="Knowledge Ontology Business Model — Page 1 Model"
@@ -77,6 +80,154 @@ At a glance, it spans things such as:
 That breadth is not a flaw.
 It is the whole reason this domain matters.
 Business architecture becomes weak when these concerns are split into disconnected artifacts that cannot explain one another.
+
+### Page 1 as a business-domain table of contents
+
+A useful way to read the first page is as a draft **table of contents** for the business domain.
+It is not a final ontology yet, but it does give a strong first pass at the major business chapters the KM Ontology needs to support.
+
+A workable TOC from Page 1 is:
+
+1. **Strategic identity and direction**
+   - strategic intent and identity
+   - vision / external-internal vision
+   - mission
+   - values
+   - principles
+   - ultimate purpose
+   - enterprise strategy / strategic planning
+   - strategy
+   - goal
+   - objective
+   - tactic
+   - strategic priority
+   - opportunity
+   - impact
+   - belief / brand / ambition / story
+   - ethics
+2. **Capability, function, activity, and execution**
+   - capability
+   - organisational competence / capability groups
+   - function
+   - activity
+   - activity type
+   - activity group
+   - activity group type
+   - process / business process
+   - workflow
+   - customer journey / experience
+   - task / meeting / conference / development
+   - initiative / milestone / program / project
+   - output / outputs
+   - inputs
+   - outcomes / outcome
+   - perform / monitor / control
+   - achieve / avoid
+   - schedule
+3. **Organisation, roles, parties, and competence**
+   - organisation
+   - structure
+   - units / department
+   - role
+   - job
+   - stakeholder / partners / customers / client
+   - founders
+   - membership
+   - relation / party / authority
+   - competence
+   - competence plan
+   - training
+   - organisational and training management
+4. **Resources, offerings, products, services, and value exchange**
+   - value
+   - value proposition
+   - value item
+   - artifacts
+   - documents
+   - project delivery
+   - product
+   - service
+   - offering
+   - resource
+   - resource type
+   - resource group
+   - resource interface / resource interaction
+   - material / resources
+   - channels
+   - market segment / relationship / segments
+   - cost / equity / asset / material
+   - information / data
+   - usage
+5. **Governance, requirements, policy, and control**
+   - requirement
+   - requirement group
+   - requirement type
+   - requirement / problem / constraint
+   - criteria
+   - policy
+   - rule / standard / guideline
+   - laws
+   - regulations
+   - contract
+   - waiver / exceptions
+   - compliance management
+   - policy management
+   - audit management
+   - integrity
+   - decision
+   - rationale
+   - scope
+   - exception management
+   - exception type
+6. **Risk, failure, and mitigation**
+   - risk / reward
+   - risk / reward management
+   - vulnerability
+   - threat
+   - issue
+   - fraud
+   - tolerance
+   - trigger
+   - event
+   - failure
+   - failure management
+   - mitigation / solution
+   - exception
+7. **Evidence, performance, and assessment**
+   - evidence
+   - claim
+   - argument
+   - measure
+   - metric
+   - assessment
+   - performance management
+   - practice management
+   - SLA / KPI / KRI / KQI / benchmark / performance
+   - effectiveness
+   - efficiency
+   - sustainability
+   - scope / quantifiable / outcome / value
+8. **People, motivation, and behavioral/economic factors**
+   - compensation
+   - motivation
+   - emotion
+   - intrinsic / extrinsic / endeavor
+9. **Location, place, and physical context**
+   - location
+   - place / station
+   - equipment
+   - internal / external / infrastructure / application / service contexts
+10. **Cross-cutting relation and abstraction cues shown on Page 1**
+   - has / is / part of / requires / drives / dependency
+   - collaboration / cooperation / coordination / communication
+   - meaning
+   - type
+   - manages outputs / contributes material and resources
+
+This is a much stronger reading than treating Page 1 as a loose brainstorming surface.
+It suggests that the business page can become a chaptered domain map where later pages show different experiences and mappings over the same underlying concept base.
+
+It also now captures the smaller Page 1 labels more explicitly, so we are not only keeping the major clusters but also preserving the supporting terms, relation cues, grouped note-style labels, and edge-case concepts that still matter for the later OntoUML pass.
 
 ### The main business semantic clusters visible on Page 1
 
@@ -229,7 +380,7 @@ The right move is to reinterpret them into cleaner groups such as:
 
 The second page is much more specific.
 It is not trying to show the whole business semantic field.
-It is showing a capability-management view of the business domain and the kinds of model elements those capability areas primarily use.
+It is showing Max's attempt to map a **business capability taxonomy** and a **management operating model** back to the concepts on Page 1.
 
 <iframe
   title="Knowledge Ontology Business Model — Page 2 Capabilities"
@@ -241,7 +392,7 @@ It is showing a capability-management view of the business domain and the kinds 
 
 ### What Page 2 is trying to do
 
-Page 2 appears to map major management or business capability areas such as:
+Page 2 maps major management or business capability areas such as:
 
 - strategic management
 - financial management
@@ -268,12 +419,13 @@ It then relates those capability areas to the kinds of model elements they rely 
 ### Why Page 2 matters
 
 This page is useful because it shows that the business domain should not be modeled only as abstract ontology categories.
-It also needs to support real management capability areas.
+It also needs to support real management capability areas and operating-model surfaces.
 
 The important interpretation rule here is:
 
 - capability areas are **not** themselves the entire ontology
-- they are structured business perspectives and operating domains that reuse the ontology
+- they are mappings from business capability and management operating concerns back to the canonical concepts on Page 1
+- they are structured business perspectives and operating domains that reuse the ontology rather than replacing it
 
 So this page strengthens the case for:
 
@@ -284,7 +436,7 @@ So this page strengthens the case for:
 ## Page 3 — Canvas
 
 The third page is much more compressed.
-It looks like a business-modeling canvas that pulls a small number of central concepts into one simplified working surface.
+It is a mapping from **Business Model Canvas** style thinking back to the concepts on Page 1, pulling a small number of central concepts into one simplified working surface.
 
 <iframe
   title="Knowledge Ontology Business Model — Page 3 Canvas"
@@ -314,6 +466,7 @@ The right reading is not that these are the only important business concepts.
 The stronger reading is:
 
 - this is a **working abstraction surface**
+- it maps Business Model Canvas style thinking back to canonical business concepts
 - it highlights a few concepts that often organize business-model thinking well
 - it is useful as a simplified entry point, but it depends on richer semantics underneath
 
@@ -323,7 +476,7 @@ So in ontology terms, Page 3 is better treated as a simplified projection over t
 
 The fourth page shifts again.
 It is not mainly a semantic map or a business-model canvas.
-It is a dashboard/performance interpretation view.
+It is an older dashboard/perspective reuse view over the elements on Page 1.
 
 <iframe
   title="Knowledge Ontology Business Model — Page 4 Dashboard"
@@ -356,7 +509,7 @@ This is a strong signal that the business model is also expected to support mana
 
 ### Why Page 4 matters
 
-It shows that the business domain has to support not only modeling and governance but also dashboard-style consumption.
+It shows that the business domain has to support not only modeling and governance but also dashboard-style consumption and element reuse.
 That means the ontology must be rich enough to support views that combine:
 
 - strategic intent
@@ -370,7 +523,7 @@ So Page 4 is best read as a performance/management viewpoint over the business d
 ## Page 5 — Archimate Ontology
 
 The fifth page is different again.
-It introduces an ArchiMate-oriented concept/relationship perspective.
+It is a start of mapping **ArchiMate** into the concepts on Page 1, using an ArchiMate-oriented concept/relationship perspective.
 
 <iframe
   title="Knowledge Ontology Business Model — Page 5 Archimate Ontology"
@@ -407,6 +560,7 @@ This page seems to expose an ArchiMate-flavored meta-view with categories such a
 This page is important, but it should not automatically become the canonical ontology.
 It is better read as:
 
+- an early framework-mapping attempt back to Page 1 concepts
 - a framework-oriented viewpoint
 - a relationship vocabulary lens
 - a possible bridge for interoperability with enterprise-architecture practice
@@ -418,34 +572,34 @@ The ontology should be able to project into an ArchiMate-flavored view rather th
 
 Taken together, the five pages imply that the business domain is doing several jobs at once:
 
-1. defining the broad semantic field of business meaning
-2. supporting capability-management perspectives
-3. supporting compact canvas-style modeling
-4. supporting dashboard/performance interpretation
-5. supporting framework-oriented translation views
+1. defining the broad canonical semantic field of business meaning
+2. mapping business capability taxonomy and management operating concerns back to that field
+3. mapping Business Model Canvas style thinking back to that field
+4. demonstrating dashboard/perspective reuse over that field
+5. exploring framework-oriented translation back to that field
 
 That is a strong architecture signal.
 It says the business domain is not just a bag of concepts.
-It is a canonical semantic domain that must support multiple working surfaces.
+It is a canonical semantic domain that must support multiple working surfaces and reusable experiences.
 
 So the deeper pattern here is:
 
-- **Page 1** gives the broad business semantic field
-- **Page 2** gives management capability perspectives over that field
-- **Page 3** gives a simplified modeling canvas over that field
-- **Page 4** gives a dashboard/performance interpretation view over that field
-- **Page 5** gives a framework translation/viewpoint layer over that field
+- **Page 1** gives the canonical business concept base
+- **Page 2** maps business capability and management operating model concerns onto that base
+- **Page 3** maps Business Model Canvas concerns onto that base
+- **Page 4** shows a dashboard/perspective reuse layer over that base
+- **Page 5** shows an early ArchiMate-oriented mapping layer over that base
 
 ## Why this matters for the OntoUML reinterpretation
 
 This multi-page structure is exactly why the OntoUML pass must be bolder than literal diagram transcription.
 
-If we only modeled what is visibly drawn, we would lose the fact that the drawio file is already trying to do several different things:
+If we only modeled what is visibly drawn, we would lose the fact that the drawio file is already trying to do several different things with the same underlying concept field:
 
 - domain semantics
 - management capability mapping
-- business canvas simplification
-- dashboard interpretation
+- business canvas mapping
+- dashboard reuse
 - framework translation
 
 So the stronger OntoUML interpretation should aim for:
@@ -453,8 +607,9 @@ So the stronger OntoUML interpretation should aim for:
 - a **canonical business ontology** underneath
 - explicit business subdomains such as strategy, capability, governance, value, risk, and evidence
 - first-class roles, relators, events, dispositions, qualities, and situations where needed
-- multiple **projection/viewpoint surfaces** above that ontology
-- controlled reuse by management, dashboard, and framework-oriented views
+- multiple **projection/viewpoint/experience surfaces** above that ontology
+- controlled reuse by management, dashboard, canvas, and framework-oriented views
+- a clear demonstration that all of these are experiences of the same KM Ontology rather than competing truth models
 
 ## Next direction for this page
 
@@ -466,6 +621,6 @@ The next evolution of this page should probably focus on making the business dom
 - requirements, obligations, policy, contract, and control relations
 - risk, failure, mitigation, and exception structures
 - performance, evidence, claims, and assessment semantics
-- capability views, dashboard views, and framework views as projections rather than separate truth models
+- capability, canvas, dashboard, and framework views as projections/experiences rather than separate truth models
 
 ![status](https://img.shields.io/badge/status-draft-red)

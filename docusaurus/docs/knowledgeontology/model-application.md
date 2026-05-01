@@ -24,6 +24,30 @@ That makes it one of the key translation points between service intent and runti
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
 />
 
+## Page 1 as an application-domain table of contents
+
+The application diagram is compact, but it still gives a usable first-pass **table of contents** for the application domain.
+
+An exhaustive first-pass TOC from the page is:
+
+1. **Application**
+2. **Application Members**
+3. **Application Member Relationship Type**
+4. **Application Attributes**
+5. **Application Attribute Types**
+6. **Member Attributes**
+
+The page also includes important framing cues:
+
+- **L2**
+- **Application**
+- **Deployment**
+- **Service**
+
+Those cues matter because they suggest the application page is already being read at a particular abstraction level and in relation to both the service layer above and the deployment layer below.
+So even in compact form, the diagram is not only naming application concepts in isolation.
+It is hinting at how application semantics sit inside a wider realization chain.
+
 ## The application domain at a high level
 
 At a high level, the application model should help explain:
@@ -37,6 +61,20 @@ At a high level, the application model should help explain:
 
 That is why the application model matters.
 It is where abstract operational need starts becoming executable design.
+
+## What the compact application diagram already implies
+
+Even though the page only shows a small number of labels, it already implies a useful internal application-domain structure:
+
+- a core **Application** concept
+- a way of representing **members** that participate in, compose, or structure an application
+- a need to type the **relationships** between those members
+- a distinction between the application itself and its **attributes**
+- a distinction between application attributes and **member attributes**
+- a surrounding realization context explicitly tied to **Service** and **Deployment**
+
+That is a good sign.
+It means the page is already moving beyond “application is just a software inventory” toward a more structured application model.
 
 ## Application is more than a software register
 
@@ -88,6 +126,7 @@ These distinctions are what stop the application domain from collapsing into a v
 ## Why this matters for ontology
 
 The application domain is where the model begins to carry much more precise executable structure.
+A compact TOC like the one on this page reinforces that quickly: even at a glance, application semantics seem to need entities, members, typed relationships, and structured attributes rather than one flat software register.
 A mature ontology should eventually help clarify:
 
 - what is a stable software entity

@@ -42,6 +42,28 @@ So this page is best read as:
 - a starting point for deeper ontology work
 - a bridge between broad conceptual understanding and formal semantic modeling
 
+## Page 1 as an overview-domain table of contents
+
+The overview diagram is compact, but it is still useful to treat it as a draft **table of contents** for the whole KM Ontology.
+
+An exhaustive first-pass TOC from the page is:
+
+1. **Social Model**
+2. **Business Model**
+3. **Service Model**
+4. **Application Model**
+5. **Data Model**
+6. **Deployment Model**
+7. **Infrastructure Model**
+
+The page also adds two important framing cues:
+
+- **Socio**
+- **Technical**
+
+Those cues matter because they imply the overview is not just listing seven peer boxes.
+It is also separating a more socio-institutional side of the ontology from a more technical realization side, with the full stack bridging across them.
+
 ## The high-level domains
 
 At a high level, the model is organizing the domain into these major areas:
@@ -57,6 +79,10 @@ At a high level, the model is organizing the domain into these major areas:
 These should not be treated as a closed final taxonomy.
 They are better understood as major domain families that help structure the ontology effort.
 Each one will need deeper decomposition, clearer typing, stronger relationship semantics, and eventually a more explicit OntoUML treatment.
+
+The compactness of the overview is important here.
+Unlike the Business page, this diagram does not enumerate lots of lower-level labels.
+Its main function is to declare the top-level domain chapters and the broad socio-versus-technical framing that later pages expand.
 
 ## How the domains relate at a high level
 

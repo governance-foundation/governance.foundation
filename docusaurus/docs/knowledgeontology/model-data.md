@@ -25,6 +25,30 @@ It sits close to application, evidence, history, and runtime traceability, while
   style={{border: '1px solid #d0d7de', borderRadius: '8px'}}
 />
 
+## Page 1 as a data-domain table of contents
+
+The data diagram is compact, but it still gives a usable first-pass **table of contents** for the data domain.
+
+An exhaustive first-pass TOC from the page is:
+
+1. **Data**
+2. **Data Members**
+3. **Data Member Relationship Type**
+4. **Data Attributes**
+5. **Data Attribute Types**
+6. **Member Attributes**
+
+The page also includes important framing cues:
+
+- **L2**
+- **Data**
+- **Application**
+- **Infrastructure**
+
+Those cues matter because they suggest the data page is already being read at a particular abstraction level and in relation to both the application handling layer and the infrastructure/storage context around it.
+So even in compact form, the diagram is not only naming data concepts in isolation.
+It is hinting at how data semantics sit inside a wider representational and technical chain.
+
 ## The data domain at a high level
 
 At a high level, the data model should help explain:
@@ -37,6 +61,20 @@ At a high level, the data model should help explain:
 
 This makes the data domain more than a storage concern.
 It is a representational and evidential concern as well.
+
+## What the compact data diagram already implies
+
+Even though the page only shows a small number of labels, it already implies a useful internal data-domain structure:
+
+- a core **Data** concept
+- a way of representing **members** that participate in, compose, or structure data
+- a need to type the **relationships** between those members
+- a distinction between the data itself and its **attributes**
+- a distinction between data attributes and **member attributes**
+- a surrounding context explicitly tied to **Application** and **Infrastructure**
+
+That is a good sign.
+It means the page is already moving beyond “data is just storage” toward a more structured representational model.
 
 ## Data is not just storage
 
@@ -88,6 +126,7 @@ These distinctions help the data domain support quality, provenance, and evident
 ## Why this matters for ontology
 
 The data layer is one of the main places where semantic drift can occur if the model is weak.
+A compact TOC like the one on this page reinforces that quickly: even at a glance, data semantics seem to need entities, members, typed relationships, and structured attributes rather than one flat storage register.
 A mature ontology should help clarify:
 
 - what the data is about

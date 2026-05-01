@@ -63,6 +63,36 @@ The point is to preserve the relationship between:
 - evidence
 - use in analysis, synthesis, and decision-making
 
+## Page 1 as a layer-domain table of contents
+
+The layers diagram is not a simple entity list like the other model pages.
+Instead, it gives a compact first-pass **table of contents** for how the whole knowledge domain is structured.
+
+An exhaustive first-pass TOC from the diagram is:
+
+1. **Primary layer stack**
+   - L0 Conceptual
+   - L1 Logical
+   - L2 Physical
+2. **Knowledge-to-data gradient**
+   - Knowledge
+   - Semantic
+   - Information
+   - Data
+3. **Organisational use activities**
+   - Decision-making
+   - Synthesizing
+   - Analysing
+   - Summarising
+   - Organising
+   - Collecting
+4. **Secondary framing view**
+   - Architecture
+
+That TOC matters because it shows the page is doing more than naming layers.
+It is also showing a gradient of representational form and a gradient of organisational use.
+So the diagram is already trying to connect meaning, structure, implementation, and practical activity in one reading frame.
+
 ## How the layered structure should be understood
 
 The diagram is doing two things at once.
@@ -193,6 +223,19 @@ That gives the diagram a valuable message:
 > different organisational activities operate more strongly at different layers of structure and meaning, but they all depend on movement across the full stack.
 
 Likewise, the knowledge/semantic/information/data labels can be read as a progression from richer but less formalised understanding toward more explicit and operationally manipulable structure.
+
+## What the compact layer diagram already implies
+
+Even in compact form, the layers page already implies a strong internal structure:
+
+- one explicit abstraction stack from conceptual through physical
+- one parallel progression from knowledge toward data
+- one activity gradient from collecting toward decision-making
+- a requirement that organisational use moves across layers rather than living inside only one layer
+- a second architectural framing that suggests the model can be read both as semantics and as architecture
+
+That is why this page is more powerful than a generic “three layers” diagram.
+It is already hinting that layering, evidence, analysis, and implementation all belong to one connected knowledge architecture.
 
 ## What this layered approach already gets right
 

@@ -66,6 +66,60 @@ That dependence becomes much more serious in an AI-enabled organisation. AI does
 
 That is what makes this model important. It is not simply about people collaborating more nicely. It is about creating a structure in which many contributors — human and eventually machine-assisted — can work through tailored experiences while still contributing into a shared, traceable, ontology-backed knowledge foundation.
 
+## Page 1 as a collaboration-domain table of contents
+
+The collaboration diagram is much richer than the compact service/application/deployment-style pages, and it gives a usable first-pass **table of contents** for the collaboration domain.
+
+An exhaustive first-pass TOC from the page is:
+
+1. **Central shared model stack**
+   - Social Model
+   - Business Model
+   - Service Model
+   - Application Model
+   - Deployment Model
+   - Data Model
+   - Infrastructure Model
+2. **Contributor roles**
+   - Leaders
+   - Directors
+   - Analysts
+   - Architect
+   - Developers
+   - Operations
+3. **Governance and strategic contribution surfaces**
+   - Accountability Framework
+   - Leadership Framework
+   - Mission and Vision
+   - Strategy and Goals
+4. **Business contribution surfaces**
+   - Business Experiences
+   - Business Scenarios
+   - Business Process
+   - Product Catalog
+5. **Service and operational contribution surfaces**
+   - Service Catalog
+   - Service Performance
+   - Workload Planning
+   - Workload Performance
+6. **Application, API, deployment, and data contribution surfaces**
+   - Application Catalog
+   - API Catalog
+   - Deployment Architecture
+   - Deployment Performance
+   - Data Catalog
+7. **Infrastructure and enterprise system contribution surfaces**
+   - Infrastructure Catalog
+   - Infrastructure Performance
+   - CRM
+   - ERM
+8. **Collaboration framing cues**
+   - Information Domain
+   - Artifact Experience
+
+This TOC matters because it shows that the collaboration page is not just about people working together.
+It is about roles, artifacts, and contribution surfaces all feeding one shared model stack.
+
 ## The collaboration structure at a high level
 
 The collaboration diagram is not really about collaboration in the abstract.
@@ -117,6 +171,19 @@ That allows operational signals to be interpreted in relation to services, appli
 The accountability framework and leadership framework are especially important. They show that governance artifacts should not sit outside the operational model. They should connect to roles, obligations, decisions, controls, reviews, and performance interpretation.
 
 That is a good example of the broader principle: governance documents should become contribution surfaces into the shared model, not disconnected policy shelves.
+
+## What the collaboration diagram already implies structurally
+
+Even before the deeper interpretation, the page already implies a strong internal structure:
+
+- one shared canonical model stack at the center
+- multiple contributor roles around it
+- many document-, catalog-, and performance-like contribution surfaces
+- a distinction between information-domain structure and artifact experience
+- a pattern where different roles contribute through different surfaces, not through one raw universal editing interface
+
+That is a very strong architectural clue.
+It means collaboration here is really about **structured contribution architecture** rather than generic teamwork.
 
 ## What the outer artifacts seem to represent
 
