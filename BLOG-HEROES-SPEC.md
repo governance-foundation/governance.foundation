@@ -18,3 +18,14 @@ The live source branch is master (c9713e7e); the default gh-pages branch is gene
 
 ## Assets
 Approved Library assets and the complete article mapping are being prepared by the parent task. No placeholders or duplicate image generation.
+
+## Integration design
+Use dated article source stems for unique asset names, including the 2016/2026 Git and KnowledgeFund articles. Preserve every existing slug, including the deliberate /2020/07/15 route in the 2014-07-04 source article. Retain global blog-hero.jpg and homepage-og.jpg.
+
+Add image front matter pointing to a JPEG social preview, plus structured hero metadata (responsive paths, dimensions and descriptive alt text). Wrap the Docusaurus BlogPostItem/Content extension point to render the hero between the existing article header and unchanged body. Use a CSS module and native srcSet/sizes; keep documentation components unchanged. Docusaurus already maps image front matter to absolute og:image and twitter:image URLs; wrap BlogPostPage/Metadata only for complementary image dimensions/type/alt metadata.
+
+## Baseline evidence (2026-10-19)
+- Source baseline: c9713e7ee793738433eef8c398eb2fe7d880572f.
+- npm ci: passed (1462 locked packages installed).
+- npm run typecheck: fails on an existing unrelated file: static/viewer/js/embed.dev.js(831,1), TS1005, closing brace expected. No application implementation changes existed when checked. Do not waive this failure or modify unrelated viewer artwork/code as part of hero integration.
+- First approved Library asset resolves, but local transfer is pending because the current runtime removed all cloud skills before the required Library transfer helper could be retrieved. No image bytes are present locally and no image-dependent integration has started.
