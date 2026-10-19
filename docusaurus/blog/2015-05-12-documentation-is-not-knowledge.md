@@ -3,6 +3,16 @@ title: "Documentation is not knowledge"
 date: 2015-05-12 00:00:00 +1000
 slug: /2015/05/12/documentation-is-not-knowledge
 description: "Why organisations keep mistaking documentation for knowledge, and why that confusion weakens coherence, learning, and change."
+image: "/assets/images/blog/2015-05-12-documentation-is-not-knowledge-social.jpg"
+hero:
+  src: "/assets/images/blog/2015-05-12-documentation-is-not-knowledge.webp"
+  small: "/assets/images/blog/2015-05-12-documentation-is-not-knowledge-960.webp"
+  alt: "Blank pages connect to an interlocking stone and brass mechanism, showing knowledge as more than documentation."
+  width: 1672
+  height: 940
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Documentation matters.

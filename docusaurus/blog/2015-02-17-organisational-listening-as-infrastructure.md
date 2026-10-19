@@ -3,6 +3,16 @@ title: "Organisational listening as infrastructure"
 date: 2015-02-17 00:00:00 +1100
 slug: /2015/02/17/organisational-listening-as-infrastructure
 description: "Why organisational listening should be treated as a structural capability, not just a cultural aspiration."
+image: "/assets/images/blog/2015-02-17-organisational-listening-as-infrastructure-social.jpg"
+hero:
+  src: "/assets/images/blog/2015-02-17-organisational-listening-as-infrastructure.webp"
+  small: "/assets/images/blog/2015-02-17-organisational-listening-as-infrastructure-960.webp"
+  alt: "Brass listening horns feed a resonant stone chamber and a return loop, representing organisational feedback infrastructure."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 A lot of organisations say they want feedback.

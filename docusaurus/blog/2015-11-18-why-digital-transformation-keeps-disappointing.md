@@ -3,6 +3,16 @@ title: "Why digital transformation keeps disappointing"
 date: 2015-11-18 00:00:00 +1100
 slug: /2015/11/18/why-digital-transformation-keeps-disappointing
 description: "Why so many digital transformations underperform, and why the problem is usually structural rather than purely technical."
+image: "/assets/images/blog/2015-11-18-why-digital-transformation-keeps-disappointing-social.jpg"
+hero:
+  src: "/assets/images/blog/2015-11-18-why-digital-transformation-keeps-disappointing.webp"
+  small: "/assets/images/blog/2015-11-18-why-digital-transformation-keeps-disappointing-960.webp"
+  alt: "A polished new facade reveals misaligned tracks underneath, representing modernisation without structural change."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Digital transformation is one of those phrases that sounds ambitious and inevitable at the same time.

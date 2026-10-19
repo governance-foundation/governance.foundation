@@ -3,6 +3,16 @@ title: "Shared core, tailored experience"
 date: 2014-09-12 00:00:00 +1000
 slug: /2014/09/12/shared-core-tailored-experience
 description: "Why organisations need a common structural core without forcing every role, team, and workflow into one generic experience."
+image: "/assets/images/blog/2014-09-12-shared-core-tailored-experience-social.jpg"
+hero:
+  src: "/assets/images/blog/2014-09-12-shared-core-tailored-experience.webp"
+  small: "/assets/images/blog/2014-09-12-shared-core-tailored-experience-960.webp"
+  alt: "Different ivory forms connect to one brass core, representing tailored experiences built on shared meaning."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 One of the hardest organisational design problems is this:

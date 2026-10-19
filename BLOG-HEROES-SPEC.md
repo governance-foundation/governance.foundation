@@ -1,40 +1,38 @@
-## Problem
-The 49 published Governance.Foundation blog articles currently have no article-specific heroes or social preview artwork.
+# Blog article heroes — issue #10
 
-## Scope and implementation specification
-- Add the approved, article-specific generated artwork to blog articles only, using the supplied article-to-Library manifest.
-- Preserve existing artwork, all article body text, documentation pages and unrelated checkout changes.
-- Materialize and inspect the actual source images on the authorized computer; derive responsive WebP sizes and JPEG social previews without changing artwork.
-- Render accessible, responsive heroes with descriptive alt text and explicit dimensions. Use each article image for Open Graph and Twitter metadata.
-- Validate a one-to-one mapping for all 49 articles and all emitted image URLs/metadata.
+The 49 Governance.Foundation blog articles now have individual editorial heroes in the approved parchment, slate and brass style. The blog index links each image to its article.
 
-## Delivery and acceptance
-- Work on an isolated feature branch and draft PR, independently reviewed before promotion.
-- Run npm ci, TypeScript checking, production build and browser verification at desktop/mobile widths.
-- Verify deployed source commit, production article/image responses and metadata after the checked merge.
+## Scope and design
 
-## Existing branch workflow
-The live source branch is master (c9713e7e); the default gh-pages branch is generated output. CONTRIBUTING.md mentions a development branch, but no development/develop branch currently exists. Both master and develop pushes trigger production deployment. Use a feature branch from master and an explicit PR to master, keeping deployment changes outside this scope.
+- Article-specific front matter supplies two responsive WebP variants, descriptive alt text, dimensions and a JPEG social preview.
+- Blog-only wrappers preserve the original Docusaurus article content and metadata components. Article heroes load eagerly with high priority; index images load lazily. Native srcset/sizes and intrinsic dimensions support responsive rendering without cropping the artwork.
+- Open Graph and Twitter image URLs are absolute and article-specific, with alt text, JPEG type, dimensions and a large-image card.
+- Existing article prose, dates, descriptions, slugs and documentation pages remain unchanged. This includes the intentional /2020/07/15 route on the 2014-07-04 article, both Git/KnowledgeFund articles and the existing global blog/homepage artwork.
+- The approved asset-only commit is 7979b21de44c3b92ac9bed12dcf6f1a26ea164bd. Its manifest retains source identities, original/derived hashes, alt descriptions and image provenance. No artwork was regenerated or altered by the integration executor.
 
-## Assets
-Approved Library assets and the complete article mapping are being prepared by the parent task. No placeholders or duplicate image generation.
+## Acceptance evidence (2026-10-19, maxbarrass-work)
 
-## Integration design
-Use dated article source stems for unique asset names, including the 2016/2026 Git and KnowledgeFund articles. Preserve every existing slug, including the deliberate /2020/07/15 route in the 2014-07-04 source article. Retain global blog-hero.jpg and homepage-og.jpg.
+- Locked npm ci and the final npm run build passed.
+- All 147 derivatives passed SHA-256/Git blob verification and full Pillow decoding at their declared dimensions. All 49 original article source blobs match the supplied manifest.
+- python scripts/verify-blog-heroes.py passed: all article mappings, unchanged prose/existing front matter/routes, original global artwork, responsive markup, unique canonical and social tags, and lazy index loading.
+- python scripts/verify-blog-heroes.py --base-url http://127.0.0.1:18765 passed for all 49 local HTTP article responses and 147 image response hashes/MIME types.
+- The three new TypeScript components passed a focused check using the unchanged project compiler settings and an ephemeral include list covering only their directories.
+- Browser checks passed at effective desktop widths 1440/1600 and mobile width 433: images load, no horizontal overflow, alt text is exposed, lazy index/eager article behavior is correct, and index-to-article navigation works. Desktop index and mobile index/article screenshots were visually inspected. A fresh final-build browser session hydrated the oldest article and navigated to the intentional 2020 route with the correct hero and no console errors.
+- One earlier local browser route load reported a transient ChunkLoadError. The referenced chunk exists and responds HTTP 200; this did not recur in the fresh final-build session. Some screenshot captures timed out; successful desktop/mobile captures and DOM checks are recorded above.
+- git diff --check passed. Dependencies, deployment workflows, security settings and unrelated source files are unchanged.
 
-Add image front matter pointing to a JPEG social preview, plus structured hero metadata (responsive paths, dimensions and descriptive alt text). Wrap the Docusaurus BlogPostItem/Content extension point to render the hero between the existing article header and unchanged body. Use a CSS module and native srcSet/sizes; keep documentation components unchanged. Docusaurus already maps image front matter to absolute og:image and twitter:image URLs; wrap BlogPostPage/Metadata only for complementary image dimensions/type/alt metadata.
+## Existing validation limitations
 
-## Baseline evidence (2026-10-19)
-- Source baseline: c9713e7ee793738433eef8c398eb2fe7d880572f.
-- npm ci: passed (1462 locked packages installed).
-- npm run typecheck: fails on an existing unrelated file: static/viewer/js/embed.dev.js(831,1), TS1005, closing brace expected. No application implementation changes existed when checked. Do not waive this failure or modify unrelated viewer artwork/code as part of hero integration.
-- First approved Library asset resolves, but local transfer is pending because the current runtime removed all cloud skills before the required Library transfer helper could be retrieved. No image bytes are present locally and no image-dependent integration has started.
-- npm run build: passed on the unchanged source baseline, with existing warnings about truncation markers, deprecated configuration and a dependency's dynamic require.
+Full npm run typecheck still fails at static/viewer/js/embed.dev.js(831,1), TS1005, closing brace expected. The incomplete servlet-template file is unchanged since its introducing commit 616c903f. Project tsconfig excludes only .docusaurus/build; inherited @docusaurus/tsconfig 3.10.0 enables allowJs, so the static viewer is included.
 
-## Retained worktree ownership
-Owner: Governance.Foundation blog-hero executor, parent source thread 01a12378-a00f-756c-bf94-47dc5800e0db. Retain D:/projects/governance-foundation/_worktrees/governance.foundation/10-blog-heroes for issue #10 / draft PR #11 while the approved assets and Library helper are pending. Cleanup trigger: verified feature landing, production acceptance and issue/PR closure. Disposable dependencies, generated build/cache output and session scratch are removed before handoff.
+An additional source-only diagnostic (npm run typecheck -- --allowJs false) reports the unchanged homepage's existing src/pages/index.tsx errors at 102:33 (JSX namespace) and 105:7 (Layout title prop). The homepage matches baseline c9713e7e exactly. This diagnostic and the focused new-component check do not replace or waive the failing full check. The existing CI workflows execute builds, not typechecks. No validation settings or unrelated viewer/homepage code were modified.
 
-## Follow-up audit and transfer retry (2026-10-19)
-The Library skill and current transfer helper became available again. The official helper was fetched unchanged from the current skill resource and run against the approved first image with an explicit consumer-local destination. The initial sandboxed attempt failed on network access. The approved network-enabled attempt downloaded into its temporary file, then failed while applying required Library metadata: AttributeError: module 'os' has no attribute 'setxattr'. The helper cleaned its temporary file; the destination image does not exist. This is a Windows compatibility blocker in the supplied helper, not a denied action. No manual transfer or metadata workaround was used.
+## Review and publication
 
-The typecheck audit confirms the viewer is not intentionally excluded by current configuration: project tsconfig excludes only .docusaurus and build; the exact locked @docusaurus/tsconfig 3.10.0 inherits allowJs: true, with no include restriction. The tracked embed.dev.js contains the same incomplete servlet-template ending in its introducing commit 616c903f. Both checked-in CI workflows run builds, not npm run typecheck. Production build success therefore does not resolve or waive the separate pre-existing typecheck failure. No TypeScript validation settings or unrelated application files were modified.
+Source branch is master; default gh-pages is generated deployment output. The historical CONTRIBUTING development branch does not exist. Feature work uses feature/10-blog-heroes and explicit PR #11 targeting master. Both master/develop pushes currently deploy, so no extra development branch or deployment changes were introduced.
+
+Independent review through the parent task is required before the scoped checked merge. After deployment, verify the Actions source SHA and gh-pages publication SHA, then run the same verifier against https://governance.foundation and confirm production browser rendering. No publication is claimed by this record.
+
+## Worktree ownership and cleanup
+
+Owner: Governance.Foundation blog-hero executor; parent source thread 01a12378-a00f-756c-bf94-47dc5800e0db. Retain D:/projects/governance-foundation/_worktrees/governance.foundation/10-blog-heroes for issue #10 / PR #11 pending independent review and live publication. Remove owned scratch, dependencies and generated build/cache output before handoff. Remove the clean worktree only after verified landing, production acceptance and issue/PR closure.

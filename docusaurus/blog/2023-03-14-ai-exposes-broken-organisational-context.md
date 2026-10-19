@@ -3,6 +3,16 @@ title: "AI exposes broken organisational context"
 date: 2023-03-14 00:00:00 +1100
 slug: /2023/03/14/ai-exposes-broken-organisational-context
 description: "AI often looks like an intelligence problem, but it quickly reveals something deeper: the organisation's context is fragmented, hidden, stale, or missing."
+image: "/assets/images/blog/2023-03-14-ai-exposes-broken-organisational-context-social.jpg"
+hero:
+  src: "/assets/images/blog/2023-03-14-ai-exposes-broken-organisational-context.webp"
+  small: "/assets/images/blog/2023-03-14-ai-exposes-broken-organisational-context-960.webp"
+  alt: "A clear prism reveals cracks and missing connections in a stone relief, representing AI exposing broken organisational context."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 One of the most useful things about AI is also one of the most uncomfortable.

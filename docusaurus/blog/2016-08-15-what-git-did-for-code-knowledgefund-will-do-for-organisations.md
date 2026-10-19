@@ -3,6 +3,16 @@ title: "What Git did for code, KnowledgeFund will do for organisations"
 date: 2016-08-15 00:00:00 +1000
 slug: /2016/08/15/what-git-did-for-code-knowledgefund-will-do-for-organisations
 description: "Git made code change legible and coordinated. KnowledgeFund will do the same for organisational knowledge."
+image: "/assets/images/blog/2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations-social.jpg"
+hero:
+  src: "/assets/images/blog/2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations.webp"
+  small: "/assets/images/blog/2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations-960.webp"
+  alt: "Layered stone channels branch and merge through brass checkpoints, representing disciplined knowledge versioning and change."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Git changed software by making change manageable.

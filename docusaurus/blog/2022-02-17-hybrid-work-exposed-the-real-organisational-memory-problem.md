@@ -3,6 +3,16 @@ title: "Hybrid work exposed the real organisational memory problem"
 date: 2022-02-17 00:00:00 +1100
 slug: /2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem
 description: "Hybrid work did not create the organisational memory problem. It exposed how much coordination, context, and continuity were already being carried informally."
+image: "/assets/images/blog/2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem-social.jpg"
+hero:
+  src: "/assets/images/blog/2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem.webp"
+  small: "/assets/images/blog/2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem-960.webp"
+  alt: "Separated work platforms expose fragile connections above a durable shared memory rail."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 When hybrid work became normal for more organisations, a lot of people talked about culture, collaboration, productivity, and presence.

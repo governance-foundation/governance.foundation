@@ -3,6 +3,16 @@ title: "Why coherence is an organisational capability, not a communications side
 date: 2016-04-18 00:00:00 +1000
 slug: /2016/04/18/why-coherence-is-an-organisational-capability-not-a-communications-side-effect
 description: "Why organisational coherence does not emerge automatically from more communication, and instead needs to be built as a real capability."
+image: "/assets/images/blog/2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect-social.jpg"
+hero:
+  src: "/assets/images/blog/2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect.webp"
+  small: "/assets/images/blog/2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect-960.webp"
+  alt: "A structured loom turns separate threads into a coherent woven surface."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 A lot of organisations talk about coherence as if it were something that should arise naturally if people just communicate a bit more.

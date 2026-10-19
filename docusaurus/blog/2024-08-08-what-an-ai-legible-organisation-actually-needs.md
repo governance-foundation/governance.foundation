@@ -3,6 +3,16 @@ title: "What an AI-legible organisation actually needs"
 date: 2024-08-08 00:00:00 +1000
 slug: /2024/08/08/what-an-ai-legible-organisation-actually-needs
 description: "AI-legibility means context, ownership, and decisions are structured clearly enough for reliable human and AI execution."
+image: "/assets/images/blog/2024-08-08-what-an-ai-legible-organisation-actually-needs-social.jpg"
+hero:
+  src: "/assets/images/blog/2024-08-08-what-an-ai-legible-organisation-actually-needs.webp"
+  small: "/assets/images/blog/2024-08-08-what-an-ai-legible-organisation-actually-needs-960.webp"
+  alt: "Five linked stone mechanisms beneath clear glass represent shared language, decisions, ownership, context and feedback."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 AI-legibility is practical, not abstract.

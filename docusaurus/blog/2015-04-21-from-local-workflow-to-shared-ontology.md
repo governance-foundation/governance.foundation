@@ -3,6 +3,16 @@ title: "From local workflow to shared ontology"
 date: 2015-04-21 00:00:00 +1000
 slug: /2015/04/21/from-local-workflow-to-shared-ontology
 description: "Why organisations do not need to model everything at once, and how local workflow knowledge can gradually accumulate into a shared organisational structure."
+image: "/assets/images/blog/2015-04-21-from-local-workflow-to-shared-ontology-social.jpg"
+hero:
+  src: "/assets/images/blog/2015-04-21-from-local-workflow-to-shared-ontology.webp"
+  small: "/assets/images/blog/2015-04-21-from-local-workflow-to-shared-ontology-960.webp"
+  alt: "Small local stone channels converge into a shared interlocking mosaic, with a brass feedback path."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 One reason organisational modelling struggles is that it often feels too large to begin.

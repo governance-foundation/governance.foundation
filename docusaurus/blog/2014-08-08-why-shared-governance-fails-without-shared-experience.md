@@ -3,6 +3,16 @@ title: "Why shared governance fails without shared experience"
 date: 2014-08-08 00:00:00 +1000
 slug: /2014/08/08/why-shared-governance-fails-without-shared-experience
 description: "Why governance keeps failing when it stays abstract, while lived organisational experience remains fragmented and local."
+image: "/assets/images/blog/2014-08-08-why-shared-governance-fails-without-shared-experience-social.jpg"
+hero:
+  src: "/assets/images/blog/2014-08-08-why-shared-governance-fails-without-shared-experience.webp"
+  small: "/assets/images/blog/2014-08-08-why-shared-governance-fails-without-shared-experience-960.webp"
+  alt: "Different stone terraces connected by a brass path beneath a floating plan, representing shared governance through lived experience."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Many organisations believe they have shared governance because they have shared documents.

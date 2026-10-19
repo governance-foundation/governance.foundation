@@ -3,6 +3,16 @@ title: "The governance gap behind most AI initiatives"
 date: 2023-10-12 00:00:00 +1100
 slug: /2023/10/12/the-governance-gap-behind-most-ai-initiatives
 description: "Most AI programs have adoption plans and risk controls, but lack the governance structures needed for durable execution."
+image: "/assets/images/blog/2023-10-12-the-governance-gap-behind-most-ai-initiatives-social.jpg"
+hero:
+  src: "/assets/images/blog/2023-10-12-the-governance-gap-behind-most-ai-initiatives.webp"
+  small: "/assets/images/blog/2023-10-12-the-governance-gap-behind-most-ai-initiatives-960.webp"
+  alt: "A missing bridge span separates flowing delivery tracks from governance guardrails."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Most AI initiatives split quickly into two lanes:

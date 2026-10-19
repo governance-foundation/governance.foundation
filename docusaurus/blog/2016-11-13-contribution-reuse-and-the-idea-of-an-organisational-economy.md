@@ -3,6 +3,16 @@ title: "Contribution, reuse, and the idea of an organisational economy"
 date: 2016-11-13 00:00:00 +1100
 slug: /2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy
 description: "When contribution and reuse are visible and governed, organisations can shift from isolated effort to compounding value."
+image: "/assets/images/blog/2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy-social.jpg"
+hero:
+  src: "/assets/images/blog/2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy.webp"
+  small: "/assets/images/blog/2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy-960.webp"
+  alt: "A brass circulation wheel carries reusable ivory modules between workstations, representing compounding organisational contribution."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Most organisations generate useful contribution constantly.

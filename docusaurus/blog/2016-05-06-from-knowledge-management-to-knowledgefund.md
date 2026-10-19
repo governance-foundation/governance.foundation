@@ -3,6 +3,16 @@ title: "From knowledge management to KnowledgeFund"
 date: 2016-05-06 00:00:00 +1100
 slug: /2016/05/06/from-knowledge-management-to-knowledgefund
 description: "Classic knowledge management focused on capture. KnowledgeFund focuses on connected, living, reusable organisational knowledge."
+image: "/assets/images/blog/2016-05-06-from-knowledge-management-to-knowledgefund-social.jpg"
+hero:
+  src: "/assets/images/blog/2016-05-06-from-knowledge-management-to-knowledgefund.webp"
+  small: "/assets/images/blog/2016-05-06-from-knowledge-management-to-knowledgefund-960.webp"
+  alt: "Stored ivory slabs become connected reusable components in a brass-framed knowledge workshop."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Classic knowledge management solved an important problem: capture.

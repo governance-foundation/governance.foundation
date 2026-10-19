@@ -3,6 +3,16 @@ title: "Why organisations keep recreating the same knowledge — and why AI will
 date: 2026-04-29 18:20:00 +1000
 slug: /2026/04/29/why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse
 description: "Most organisations do not lack information. They repeatedly recreate the same knowledge in disconnected forms. AI raises the cost of that fragmentation unless contribution is grounded in a shared semantic foundation."
+image: "/assets/images/blog/2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse.webp"
+  small: "/assets/images/blog/2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse-960.webp"
+  alt: "Separate molds produce incompatible piles of tiles above a common alignment rail, representing duplicated fragmented knowledge."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Most organisations do not have an information shortage.

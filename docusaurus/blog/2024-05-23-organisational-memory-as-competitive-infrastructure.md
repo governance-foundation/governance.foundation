@@ -3,6 +3,16 @@ title: "Organisational memory as competitive infrastructure"
 date: 2024-05-23 00:00:00 +1000
 slug: /2024/05/23/organisational-memory-as-competitive-infrastructure
 description: "In the AI era, organisational memory is not a side project. It is infrastructure for speed, quality, and adaptation."
+image: "/assets/images/blog/2024-05-23-organisational-memory-as-competitive-infrastructure-social.jpg"
+hero:
+  src: "/assets/images/blog/2024-05-23-organisational-memory-as-competitive-infrastructure.webp"
+  small: "/assets/images/blog/2024-05-23-organisational-memory-as-competitive-infrastructure-960.webp"
+  alt: "Layered stone memory infrastructure supports a continuous path and a flourishing olive tree."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 In many organisations, memory is treated as admin overhead.

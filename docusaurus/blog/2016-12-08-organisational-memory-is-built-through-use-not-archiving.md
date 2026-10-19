@@ -3,6 +3,16 @@ title: "Organisational memory is built through use, not archiving"
 date: 2016-12-08 00:00:00 +1100
 slug: /2016/12/08/organisational-memory-is-built-through-use-not-archiving
 description: "Why organisational memory becomes stronger when knowledge stays connected to work and reuse, rather than being treated mainly as archived record."
+image: "/assets/images/blog/2016-12-08-organisational-memory-is-built-through-use-not-archiving-social.jpg"
+hero:
+  src: "/assets/images/blog/2016-12-08-organisational-memory-is-built-through-use-not-archiving.webp"
+  small: "/assets/images/blog/2016-12-08-organisational-memory-is-built-through-use-not-archiving-960.webp"
+  alt: "A worn circular channel returns stone pieces into active use, contrasting with a closed archive drawer."
+  width: 1672
+  height: 940
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 A lot of organisations think memory is something they create by storing things.

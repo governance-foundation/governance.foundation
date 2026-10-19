@@ -3,6 +3,16 @@ title: "Why freeform AI use finds value but also amplifies chaos"
 date: 2024-11-14 00:00:00 +1100
 slug: /2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos
 description: "Freeform AI use discovers real value quickly, but without shared structure it also increases drift and inconsistency."
+image: "/assets/images/blog/2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos-social.jpg"
+hero:
+  src: "/assets/images/blog/2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos.webp"
+  small: "/assets/images/blog/2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos-960.webp"
+  alt: "Free brass strands are gathered into repeatable channels, balancing exploration with shared structure."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Freeform AI use spreads because it works.

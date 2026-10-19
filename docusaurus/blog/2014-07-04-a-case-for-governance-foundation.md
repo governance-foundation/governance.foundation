@@ -3,6 +3,16 @@ title: "A case for Governance Framework"
 date: 2014-07-04 00:00:00 +1100
 slug: /2020/07/15/a-case-for-governance-foundation
 description: "Why governance patterns cannot simply be copied between organisations, and why organisations need scaffolding that matches their own maturity and structure."
+image: "/assets/images/blog/2014-07-04-a-case-for-governance-foundation-social.jpg"
+hero:
+  src: "/assets/images/blog/2014-07-04-a-case-for-governance-foundation.webp"
+  small: "/assets/images/blog/2014-07-04-a-case-for-governance-foundation-960.webp"
+  alt: "A fitted brass scaffold grows around irregular limestone steps beside an unsuitable rigid frame."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 One of the most common mistakes in governance work is to assume that a pattern that worked somewhere else can simply be transplanted here.

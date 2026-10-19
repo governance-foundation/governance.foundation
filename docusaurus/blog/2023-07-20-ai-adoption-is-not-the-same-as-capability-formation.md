@@ -3,6 +3,16 @@ title: "AI adoption is not the same as capability formation"
 date: 2023-07-20 00:00:00 +1000
 slug: /2023/07/20/ai-adoption-is-not-the-same-as-capability-formation
 description: "An organisation can adopt AI visibly and still fail to form any durable capability. Adoption measures presence. Capability formation measures what the organisation can now do, repeat, and improve."
+image: "/assets/images/blog/2023-07-20-ai-adoption-is-not-the-same-as-capability-formation-social.jpg"
+hero:
+  src: "/assets/images/blog/2023-07-20-ai-adoption-is-not-the-same-as-capability-formation.webp"
+  small: "/assets/images/blog/2023-07-20-ai-adoption-is-not-the-same-as-capability-formation-960.webp"
+  alt: "Brass components become a repeatable working mechanism, contrasting tool acquisition with capability formation."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 A lot of AI programs still talk about progress in adoption language.

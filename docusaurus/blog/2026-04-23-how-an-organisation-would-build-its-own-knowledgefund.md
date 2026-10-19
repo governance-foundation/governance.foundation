@@ -3,6 +3,16 @@ title: "How an organisation would build its own KnowledgeFund"
 date: 2026-04-23 09:55:00 +1000
 slug: /2026/04/23/how-an-organisation-would-build-its-own-knowledgefund
 description: "A KnowledgeFund is not a document repository or a tool purchase. It is a practical organisational method for making work, decisions, and knowledge more legible, connected, and reusable over time."
+image: "/assets/images/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund.webp"
+  small: "/assets/images/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund-960.webp"
+  alt: "A small working core reveals hidden brass seams and connects to adjacent modules for gradual growth."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Most organisations do not have a technology problem when it comes to AI.

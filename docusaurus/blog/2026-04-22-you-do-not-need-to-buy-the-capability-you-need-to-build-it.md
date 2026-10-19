@@ -3,6 +3,16 @@ title: "You do not need to buy the capability. You need to build it"
 date: 2026-04-22 10:40:00 +1000
 slug: /2026/04/22/you-do-not-need-to-buy-the-capability-you-need-to-build-it
 description: "AI changes the strategic equation. Models can be bought. Real organisational capability still has to be built from context, workflows, governance, memory, and reuse."
+image: "/assets/images/blog/2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it.webp"
+  small: "/assets/images/blog/2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it-960.webp"
+  alt: "A packaged engine sits beside a custom-built vehicle chassis, illustrating organisational capability built around purchased intelligence."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 A lot of organisations are still treating AI capability as if it were something they can procure.

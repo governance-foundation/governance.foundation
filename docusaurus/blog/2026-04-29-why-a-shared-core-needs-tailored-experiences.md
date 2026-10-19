@@ -3,6 +3,16 @@ title: "Why a shared core needs tailored experiences"
 date: 2026-04-29 18:45:00 +1000
 slug: /2026/04/29/why-a-shared-core-needs-tailored-experiences
 description: "A shared model does not mean one generic experience for everyone. The real organisational pattern is a shared semantic core with role-specific contribution and consumption surfaces."
+image: "/assets/images/blog/2026-04-29-why-a-shared-core-needs-tailored-experiences-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-29-why-a-shared-core-needs-tailored-experiences.webp"
+  small: "/assets/images/blog/2026-04-29-why-a-shared-core-needs-tailored-experiences-960.webp"
+  alt: "Five differently shaped lenses reveal distinct views of one shared slate core."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 If organisations need a shared model, there is an obvious danger waiting right behind that insight.

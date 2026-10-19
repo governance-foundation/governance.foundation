@@ -3,6 +3,16 @@ title: "AI rollout is business change"
 date: 2026-04-17 09:00:00 +1000
 slug: /2026/04/17/ai-rollout-is-about-changing-the-business
 description: "AI rollout is not about handing out tools. It is about changing how the business actually works."
+image: "/assets/images/blog/2026-04-17-ai-rollout-is-about-changing-the-business-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-17-ai-rollout-is-about-changing-the-business.webp"
+  small: "/assets/images/blog/2026-04-17-ai-rollout-is-about-changing-the-business-960.webp"
+  alt: "Repositioned stone modules and new brass joints reshape an entire operating workflow."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 This time around, AI rollout is not about handing out technology.
 

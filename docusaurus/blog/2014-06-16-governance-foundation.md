@@ -3,6 +3,16 @@ title: "Why Governance Foundation?"
 date: 2014-06-16 00:00:00 +1100
 slug: /2014/06/16/governance-foundation
 description: "Why Governance Foundation exists, what problem it is trying to solve, and why governance needs to be treated as a living foundation rather than a compliance afterthought."
+image: "/assets/images/blog/2014-06-16-governance-foundation-social.jpg"
+hero:
+  src: "/assets/images/blog/2014-06-16-governance-foundation.webp"
+  small: "/assets/images/blog/2014-06-16-governance-foundation-960.webp"
+  alt: "Interlocking limestone and slate foundations connect varied architectural forms through brass channels and living roots."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Governance Foundation exists because too much work that matters gets built on weak foundations.

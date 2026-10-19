@@ -3,6 +3,16 @@ title: "AI rollout is work redesign, not software rollout"
 date: 2024-02-15 00:00:00 +1100
 slug: /2024/02/15/ai-rollout-is-work-redesign-not-software-rollout
 description: "AI creates value when work is redesigned around new capabilities, not when tools are merely installed."
+image: "/assets/images/blog/2024-02-15-ai-rollout-is-work-redesign-not-software-rollout-social.jpg"
+hero:
+  src: "/assets/images/blog/2024-02-15-ai-rollout-is-work-redesign-not-software-rollout.webp"
+  small: "/assets/images/blog/2024-02-15-ai-rollout-is-work-redesign-not-software-rollout-960.webp"
+  alt: "Parallel technical and workflow components meet in a redesigned working assembly."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Many organisations run AI using a software rollout playbook.

@@ -3,6 +3,16 @@ title: "What organisational gardens actually are"
 date: 2026-04-23 11:10:00 +1000
 slug: /2026/04/23/what-organisational-gardens-actually-are
 description: "If organisations are living systems, then many of their most important internal terrains behave more like gardens than machines. AI changes what becomes practical to tend, maintain, and improve."
+image: "/assets/images/blog/2026-04-23-what-organisational-gardens-actually-are-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-23-what-organisational-gardens-actually-are.webp"
+  small: "/assets/images/blog/2026-04-23-what-organisational-gardens-actually-are-960.webp"
+  alt: "Brass pruning shears rest beside a garden transitioning from tangled growth to clear connected paths."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 When people hear the phrase organisational gardens, it can sound soft, vague, or decorative.

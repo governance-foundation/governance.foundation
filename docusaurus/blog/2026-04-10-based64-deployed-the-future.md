@@ -3,6 +3,16 @@ title: "The AI rollout worked. The business didn't."
 date: 2026-04-10 09:00:00 +1000
 slug: /2026/04/10/based64-deployed-the-future
 description: "The tools arrived, the apps multiplied, and the business somehow kept the same old problems."
+image: "/assets/images/blog/2026-04-10-based64-deployed-the-future-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-10-based64-deployed-the-future.webp"
+  small: "/assets/images/blog/2026-04-10-based64-deployed-the-future-960.webp"
+  alt: "A polished award stage conceals disconnected conveyor loops, representing AI rollout success without business improvement."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 **Official Seal of Based64 AI Transformation Excellence**
 

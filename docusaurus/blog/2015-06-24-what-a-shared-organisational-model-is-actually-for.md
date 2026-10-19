@@ -3,6 +3,16 @@ title: "What a shared organisational model is actually for"
 date: 2015-06-24 00:00:00 +1000
 slug: /2015/06/24/what-a-shared-organisational-model-is-actually-for
 description: "Why a shared organisational model should do more than document structure, and how it helps organisations coordinate, learn, and change with less guesswork."
+image: "/assets/images/blog/2015-06-24-what-a-shared-organisational-model-is-actually-for-social.jpg"
+hero:
+  src: "/assets/images/blog/2015-06-24-what-a-shared-organisational-model-is-actually-for.webp"
+  small: "/assets/images/blog/2015-06-24-what-a-shared-organisational-model-is-actually-for-960.webp"
+  alt: "Brass routes connect distinct stone terrains, making cross-boundary paths and dependencies legible."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 A lot of organisational models fail before they are even used properly.
