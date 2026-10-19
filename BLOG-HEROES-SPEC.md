@@ -29,3 +29,7 @@ Add image front matter pointing to a JPEG social preview, plus structured hero m
 - npm ci: passed (1462 locked packages installed).
 - npm run typecheck: fails on an existing unrelated file: static/viewer/js/embed.dev.js(831,1), TS1005, closing brace expected. No application implementation changes existed when checked. Do not waive this failure or modify unrelated viewer artwork/code as part of hero integration.
 - First approved Library asset resolves, but local transfer is pending because the current runtime removed all cloud skills before the required Library transfer helper could be retrieved. No image bytes are present locally and no image-dependent integration has started.
+- npm run build: passed on the unchanged source baseline, with existing warnings about truncation markers, deprecated configuration and a dependency's dynamic require.
+
+## Retained worktree ownership
+Owner: Governance.Foundation blog-hero executor, parent source thread 01a12378-a00f-756c-bf94-47dc5800e0db. Retain D:/projects/governance-foundation/_worktrees/governance.foundation/10-blog-heroes for issue #10 / draft PR #11 while the approved assets and Library helper are pending. Cleanup trigger: verified feature landing, production acceptance and issue/PR closure. Disposable dependencies, generated build/cache output and session scratch are removed before handoff.
