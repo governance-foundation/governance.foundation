@@ -1,0 +1,2670 @@
+{
+  "schema_version": 1,
+  "repository": "governance-foundation/governance.foundation",
+  "source_branch": "master",
+  "inventory_source_commit": "c9713e7ee793738433eef8c398eb2fe7d880572f",
+  "asset_count": 49,
+  "derivative_count": 147,
+  "encoding": {
+    "webp_quality": 83,
+    "jpeg_quality": 87,
+    "resize": "Lanczos, full original aspect ratio, no crop"
+  },
+  "articles": [
+    {
+      "id": 1,
+      "source_path": "docusaurus/blog/2014-06-16-governance-foundation.md",
+      "source_sha": "544100bcf6e8cba23f4f8017ba8dc7e395d9765e",
+      "title": "Why Governance Foundation?",
+      "url": "https://governance.foundation/blog/2014/06/16/governance-foundation/",
+      "published_html_path": "blog/2014/06/16/governance-foundation/index.html",
+      "alt_text": "Interlocking limestone and slate foundations connect varied architectural forms through brass channels and living roots.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Create a sophisticated wide 16:9 editorial hero illustration for the article 'Why Governance Foundation?' The article sees governance as a living structural foundation for shared purpose, decisions, coordination, knowledge and adaptation, rather than paperwork. Visual metaphor: a carefully crafted architectural foundation of interlocking pale limestone and dark slate, with delicate muted brass channels connecting several varied structures into a coherent living system, one small organic branch taking root through a deliberate opening. Show the foundation's layered structure in a clean sectional miniature, no destroyed buildings or boardrooms. Warm parchment backdrop #f4efe6 and ivory surfaces, deep slate/navy #273449/#16202c, restrained brushed gold #c4ac7d details. Premium tactile architectural editorial art with soft natural side lighting and subtle shadows, thoughtful and calm, generous empty space, single clear central composition safe for social crops. No neon cyan, no purple sci-fi, no text, letters, numbers, logos, watermarks, people or robots. Finished artwork only, not a web page mockup.",
+      "original": {
+        "filename": "2014-06-16-governance-foundation-hero.png",
+        "sha256": "9fd1156ee6fc1bf5c609403b701bece9ff16e3f8aa2af236d0ca9a5575e803ef",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": "Visually inspected: coherent warm palette, no text, wide crop-safe architectural foundation metaphor.",
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2014-06-16-governance-foundation.webp",
+          "bytes": 182496,
+          "sha256": "e35fa2a5ee1409afd9e5bc9d3f18833ffdefcc4aa31f4ef22bdcfaca41425c86",
+          "git_blob_sha": "ee0abc3066d6646b161f21fb4e5543d558f804f0",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2014-06-16-governance-foundation.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2014-06-16-governance-foundation-960.webp",
+          "bytes": 70976,
+          "sha256": "a298eacf915ba12b41426acf2314caf72efcf2d43e31a5bdf809936d32f361cd",
+          "git_blob_sha": "d9048a81d0973b9d9e179e66f1d16ece4017fdc3",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2014-06-16-governance-foundation-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2014-06-16-governance-foundation-social.jpg",
+          "bytes": 159768,
+          "sha256": "d5c6db83bb9fd1a918ae49e7a91e11d119462a6ca7562e3c491a5227acab2652",
+          "git_blob_sha": "c14a90b1c4a0b4fdb2b1f5208297a9e780c343d8",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2014-06-16-governance-foundation-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "source_path": "docusaurus/blog/2014-07-04-a-case-for-governance-foundation.md",
+      "source_sha": "852f583c6b3b15f9a7bf7755dbdec9e5b5cbfb8b",
+      "title": "A case for Governance Framework",
+      "url": "https://governance.foundation/blog/2020/07/15/a-case-for-governance-foundation/",
+      "published_html_path": "blog/2020/07/15/a-case-for-governance-foundation/index.html",
+      "alt_text": "A fitted brass scaffold grows around irregular limestone steps beside an unsuitable rigid frame.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Create a premium text-free editorial blog hero, wide 16:9. Article: A case for Governance Framework. Central argument: governance needs progressive scaffolding adapted to each organisation's maturity and historical conditions, rather than copying another organisation's finished pattern. Subject: a sculptural stepped formation of irregular ivory limestone blocks, with a delicate custom-fitted muted brass scaffold following its different heights and contours; on one side an unused rigid slate cubic frame cannot fit the organic terrain. The fitted scaffold is visibly growing in stages, with open joints ready for extension. Sophisticated tactile physical metaphor, museum-quality architectural miniature photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural side light, realistic stone grain and quiet shadows. Strong centrally grouped subject and generous crop-safe margins, restrained composition. No text, letters, labels, logos, watermark, people, robots, neon or cyan. Original complete image, not a collage.",
+      "original": {
+        "filename": "2014-07-04-a-case-for-governance-foundation-hero.png",
+        "sha256": "6de223fbcfded2d62537f435ff344215255beabba1774f7688d457abc5821612",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2014-07-04-a-case-for-governance-foundation.webp",
+          "bytes": 157978,
+          "sha256": "6a02400aef7c374d583cf8ef7c2517b52678078081fc541cd41c361c094085f7",
+          "git_blob_sha": "1793dfe0e1f6e2702b5e86731267d3b10e14c47a",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2014-07-04-a-case-for-governance-foundation.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2014-07-04-a-case-for-governance-foundation-960.webp",
+          "bytes": 69120,
+          "sha256": "0cd4c829b7d5b21a5f2357864c617b2cefe5ad01215435e962f6e91406bfcbda",
+          "git_blob_sha": "584132fe5ce6201066642a48d2fca063a8c731fd",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2014-07-04-a-case-for-governance-foundation-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2014-07-04-a-case-for-governance-foundation-social.jpg",
+          "bytes": 150981,
+          "sha256": "1f69f8d9ff4a43ba87f7d43da872368b2c132d40684f45c178fbdd45bb5d674f",
+          "git_blob_sha": "9b68426d9cc825ea19d572b6c62933bbecbbad74",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2014-07-04-a-case-for-governance-foundation-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "source_path": "docusaurus/blog/2014-07-15-governance-experience-platform.md",
+      "source_sha": "b523f2eef3ab598f272b7b23ef5542be87e37eb4",
+      "title": "Governance Experience Platform",
+      "url": "https://governance.foundation/blog/2014/07/15/governance-experience-platform/",
+      "published_html_path": "blog/2014/07/15/governance-experience-platform/index.html",
+      "alt_text": "Three distinct work terraces connect through brass channels to one shared governance commons.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Asset: Governance.Foundation blog hero, 16:9 wide landscape. Article 'Governance Experience Platform': shared governance core becomes locally usable and listens to frontline feedback rather than central command. Create an exquisite tactile architectural model of a circular ivory commons with three different low work terraces branching from one dark slate foundation, each terrace with its own differently shaped brass receiving and returning channels, visually flowing in both directions into the common core. No tall towers. Sophisticated editorial still life, warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c and muted brass #c4ac7d. Soft natural light, realistic stone grain, quietly beautiful, spacious crop-safe composition with entire main metaphor inside central 75%. No text, lettering, logos, watermark, humans, robots, neon or cyan.",
+      "original": {
+        "filename": "2014-07-15-governance-experience-platform-hero.png",
+        "sha256": "6d28136ed4a529aff99f4b74eccf5101e85b6c92bdec54e8107a6ffa9b078756",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2014-07-15-governance-experience-platform.webp",
+          "bytes": 107544,
+          "sha256": "3a394eb6cac8e33c1a5885a6e3ff42ac374805b9e5fc406b49f2b08ce1b7df61",
+          "git_blob_sha": "9487a465462a8b05168c2f19cba629d3f0df28a7",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2014-07-15-governance-experience-platform.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2014-07-15-governance-experience-platform-960.webp",
+          "bytes": 45768,
+          "sha256": "1c4468ec266ac930011be4d8b321aeab0e5890fb142a83a68a72d3ac4a195b51",
+          "git_blob_sha": "e7f7539f1c51d66c82b03954fad2360dd750ea59",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2014-07-15-governance-experience-platform-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2014-07-15-governance-experience-platform-social.jpg",
+          "bytes": 132513,
+          "sha256": "d57aa7603518e12241e64338850607aa7beba10218f4cd0dc1652e7defa24507",
+          "git_blob_sha": "8df447116118897cdd2fe358bdf55a65bc6837fc",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2014-07-15-governance-experience-platform-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "source_path": "docusaurus/blog/2014-08-08-why-shared-governance-fails-without-shared-experience.md",
+      "source_sha": "5ec7ee329c632524f9a642288f61f07156f59894",
+      "title": "Why shared governance fails without shared experience",
+      "url": "https://governance.foundation/blog/2014/08/08/why-shared-governance-fails-without-shared-experience/",
+      "published_html_path": "blog/2014/08/08/why-shared-governance-fails-without-shared-experience/index.html",
+      "alt_text": "Different stone terraces connected by a brass path beneath a floating plan, representing shared governance through lived experience.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Use case: stylized-concept. Asset: Governance.Foundation article hero, 'Why shared governance fails without shared experience'. Create a sophisticated tactile editorial still life: three differently shaped ivory stone terraces each with a distinct small doorway, linked by a continuous worn brass footpath at work-surface level; overhead a thin floating blank parchment plan casts a shadow that does not match the terraces. The grounded continuous path is the visual focus: common structure allows different local vantage points to share a lived reality instead of merely sharing a plan. Quiet architectural scale model photographed with exquisite limestone, slate and brushed brass textures, warm parchment #f4efe6 background, ivory, navy #273449/#16202c and muted gold #c4ac7d. Soft natural side light, restrained editorial surrealism. Wide 16:9 composition, entire subject within central 80%, ample crop-safe margins. No text, letters, numerals, logos, watermarks, people, robots, neon cyan. Generate one image.",
+      "original": {
+        "filename": "2014-08-08-why-shared-governance-fails-without-shared-experience-hero.png",
+        "sha256": "4370312fc19e63680be659363930543f66b683e983ca60084f07bb76ad5e0a4e",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2014-08-08-why-shared-governance-fails-without-shared-experience.webp",
+          "bytes": 158682,
+          "sha256": "9a291572351ab7bdcabc035dd088f2f447a66b95e3336b8a09b00940cf10336a",
+          "git_blob_sha": "2f8e09000651e2f5f49967b00131bbdb378badd5",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2014-08-08-why-shared-governance-fails-without-shared-experience.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2014-08-08-why-shared-governance-fails-without-shared-experience-960.webp",
+          "bytes": 64266,
+          "sha256": "b9eb23f1e0476b2e482c97b493e77900ba689d521edee27574b6a9f223d158fe",
+          "git_blob_sha": "de08b0f15330bf8f001543137339879444bfff02",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2014-08-08-why-shared-governance-fails-without-shared-experience-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2014-08-08-why-shared-governance-fails-without-shared-experience-social.jpg",
+          "bytes": 149292,
+          "sha256": "24f33c06851feb9bb32f589cba43237d8777fe73fe7501338627e075cd9de1c0",
+          "git_blob_sha": "4011ffae550da727d9f6d72911d7723c4c070321",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2014-08-08-why-shared-governance-fails-without-shared-experience-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "source_path": "docusaurus/blog/2014-09-12-shared-core-tailored-experience.md",
+      "source_sha": "52ea38d32b09f1cae0cb83e5303c920b13c3f8bb",
+      "title": "Shared core, tailored experience",
+      "url": "https://governance.foundation/blog/2014/09/12/shared-core-tailored-experience/",
+      "published_html_path": "blog/2014/09/12/shared-core-tailored-experience/index.html",
+      "alt_text": "Different ivory forms connect to one brass core, representing tailored experiences built on shared meaning.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: Shared core, tailored experience. Subject and meaning: A finely crafted central solid slate spindle supports four differently shaped ivory instruments: a circular lens frame, an open fan of stone leaves, a stepped relief panel, and a small curved channel. Each is visibly fitted to the same continuous brass axial core but presents a distinct useful surface. The physical assembly is coherent without flattening differences, local experiences sharing common meaning.",
+      "original": {
+        "filename": "2014-09-12-shared-core-tailored-experience-hero.png",
+        "sha256": "7475aed43c68f0a34e7a8e126edfa4f40a8197a0a8b80e667642abf553a7f44a",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2014-09-12-shared-core-tailored-experience.webp",
+          "bytes": 102668,
+          "sha256": "439f116c78311d378a099517248d07bb181205392514c477dec6a4ea454c7a1e",
+          "git_blob_sha": "eb0df491575cb9a7dc559c34d1cb978e54baddcc",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2014-09-12-shared-core-tailored-experience.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2014-09-12-shared-core-tailored-experience-960.webp",
+          "bytes": 46476,
+          "sha256": "2b7db65852a41b6cbf54f99349899ea187819042d1b39553f7e6a026f269b09f",
+          "git_blob_sha": "5f35ccbb04c11e963e023554123f1fe4a42b6f02",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2014-09-12-shared-core-tailored-experience-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2014-09-12-shared-core-tailored-experience-social.jpg",
+          "bytes": 120058,
+          "sha256": "8c12ebac87833e261406c65abd862202899eb8ebfee7a989023371df80f3d4aa",
+          "git_blob_sha": "0fe7650faf7ee945703dd940114687b2b38d7b0e",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2014-09-12-shared-core-tailored-experience-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "source_path": "docusaurus/blog/2014-10-02-why-frameworks-fail.md",
+      "source_sha": "770f2bdb3d097a64e0a8cfdffdd520a7bd4363e3",
+      "title": "Why Frameworks Fail?",
+      "url": "https://governance.foundation/blog/2014/10/02/why-frameworks-fail/",
+      "published_html_path": "blog/2014/10/02/why-frameworks-fail/index.html",
+      "alt_text": "Two iceberg-like stone structures reveal incompatible hidden foundations beneath a clear waterline.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: Why Frameworks Fail?. Primary request: Two sculptural icebergs in a shallow clear glass water basin: small orderly ivory grid above water on one, irregular limestone peak on the other; dramatically larger dark slate interlocking masses below the waterline meet incompatibly. Brass seams inside each reveal separate hidden histories. Museum physical model, clean horizon, no architecture skyline. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2014-10-02-why-frameworks-fail-hero.png",
+        "sha256": "8906d619668aed0df532521e86cb6897393ca1af6cfe452267bcdb623900ce0a",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2014-10-02-why-frameworks-fail.webp",
+          "bytes": 156170,
+          "sha256": "7572e51d6270d5f1b3dafbe39873b533867342221405a9f36b35dc8807deb239",
+          "git_blob_sha": "1fe2adf2ca5f01bb515f46aa6720dcb13133002c",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2014-10-02-why-frameworks-fail.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2014-10-02-why-frameworks-fail-960.webp",
+          "bytes": 68510,
+          "sha256": "ea0248ba07f0c3c302c8f6628d4806212e2b5c9b2862e8c8b633f42d7007e20e",
+          "git_blob_sha": "47b1b590c962f43e491338200d95bab0f834ab5b",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2014-10-02-why-frameworks-fail-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2014-10-02-why-frameworks-fail-social.jpg",
+          "bytes": 151312,
+          "sha256": "d678f566f2bc4c7a139f9bbac2324189f78187aba0eaf8b06565bf4c64a8cd62",
+          "git_blob_sha": "b3a7a7a172054d4494824cc8d9d0b62025997851",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2014-10-02-why-frameworks-fail-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "source_path": "docusaurus/blog/2015-02-17-organisational-listening-as-infrastructure.md",
+      "source_sha": "0b7528b32f3c747590db8cd28ed4d32d7a3f78cc",
+      "title": "Organisational listening as infrastructure",
+      "url": "https://governance.foundation/blog/2015/02/17/organisational-listening-as-infrastructure/",
+      "published_html_path": "blog/2015/02/17/organisational-listening-as-infrastructure/index.html",
+      "alt_text": "Brass listening horns feed a resonant stone chamber and a return loop, representing organisational feedback infrastructure.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: Organisational listening as infrastructure. A cutaway stone acoustic instrument: several small brass listening horns at different levels feed continuous fine brass tubes into a single resonant ivory chamber, with a visible return loop leading back to the horns. Subtle concentric ripples in a shallow dark pool inside the chamber signify original signals preserved and heard across an organisation. A functional beautiful listening apparatus, not a megaphone or broadcast tower. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2015-02-17-organisational-listening-as-infrastructure-hero.png",
+        "sha256": "6da9b6fe3f9b47b5d8f7dfae8ccd783ed279a1ea4eebe1eb7ce6c970d4bfa1f5",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2015-02-17-organisational-listening-as-infrastructure.webp",
+          "bytes": 135542,
+          "sha256": "2b9bcbd2f9ff1b32c3cf38fbc49cf4598924d2cba506e39eb7597d780bce44fa",
+          "git_blob_sha": "5ca0171d88ea1670e7c31e0a796f4094214b4ceb",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2015-02-17-organisational-listening-as-infrastructure.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2015-02-17-organisational-listening-as-infrastructure-960.webp",
+          "bytes": 60298,
+          "sha256": "24470d2e25c9696dbf384d31c3203eff7a07157b332c3582cf7e8cd65e4343f0",
+          "git_blob_sha": "2250fed15639ee85c5b90fb7211d55b789665cf5",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2015-02-17-organisational-listening-as-infrastructure-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2015-02-17-organisational-listening-as-infrastructure-social.jpg",
+          "bytes": 143679,
+          "sha256": "3a088ee816696de72146ae5b1855f871eaf7430e7f6e208931f6cb42da824545",
+          "git_blob_sha": "b60c16660aacfd574884fa0271814308f373dd57",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2015-02-17-organisational-listening-as-infrastructure-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "source_path": "docusaurus/blog/2015-03-26-why-diagramming-the-enterprise-is-not-enough.md",
+      "source_sha": "6369498c15bfe196052c1d2463d9a98ca6f72e14",
+      "title": "Why diagramming the enterprise is not enough",
+      "url": "https://governance.foundation/blog/2015/03/26/why-diagramming-the-enterprise-is-not-enough/",
+      "published_html_path": "blog/2015/03/26/why-diagramming-the-enterprise-is-not-enough/index.html",
+      "alt_text": "A bridge rises from a flat geometric plan into a usable path, showing how models must connect to real work.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: Why diagramming the enterprise is not enough. Subject and meaning: A large flat parchment blueprint sheet with delicate unlabelled geometric linework rests on a stone table; from its exact lines a small ivory bridge physically rises in three dimensions and continues into a usable pathway across slate terrain. The transition from flat representation to tangible traversable structure is unmistakable. The bridge is central, restrained and elegant; no lettering anywhere.",
+      "original": {
+        "filename": "2015-03-26-why-diagramming-the-enterprise-is-not-enough-hero.png",
+        "sha256": "ff97e6967e591dac9301261f7f140ee43997efda63c59b510d2a6d36a530a512",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2015-03-26-why-diagramming-the-enterprise-is-not-enough.webp",
+          "bytes": 183784,
+          "sha256": "e9514d84e2a7a7700d5451f89de64b024976a24240b6cb7e27906ac7e696235f",
+          "git_blob_sha": "45532b6b36cc35ed5979f0af8322a3f6770c6bf8",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2015-03-26-why-diagramming-the-enterprise-is-not-enough.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2015-03-26-why-diagramming-the-enterprise-is-not-enough-960.webp",
+          "bytes": 82172,
+          "sha256": "4d3f67ef77f6acc5627502a56add68ee56141ff2f30b0f8d0d19502b4f81f2ed",
+          "git_blob_sha": "f6f868c8e201fb3625c7d206ab040d344e96b5f0",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2015-03-26-why-diagramming-the-enterprise-is-not-enough-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2015-03-26-why-diagramming-the-enterprise-is-not-enough-social.jpg",
+          "bytes": 174111,
+          "sha256": "73a8c9e848131ef564dbf41a377185ed6cf38aa41201863c4658e24336793a28",
+          "git_blob_sha": "580bae8cb936d2200545bf387690fd386c58d856",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2015-03-26-why-diagramming-the-enterprise-is-not-enough-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "source_path": "docusaurus/blog/2015-04-21-from-local-workflow-to-shared-ontology.md",
+      "source_sha": "b06b4d52cd314dda001b12851a6bf0773812b192",
+      "title": "From local workflow to shared ontology",
+      "url": "https://governance.foundation/blog/2015/04/21/from-local-workflow-to-shared-ontology/",
+      "published_html_path": "blog/2015/04/21/from-local-workflow-to-shared-ontology/index.html",
+      "alt_text": "Small local stone channels converge into a shared interlocking mosaic, with a brass feedback path.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: From local workflow to shared ontology. Primary request: A close tactile view of three small distinct channels carved in ivory stone, each beginning with differently shaped slate pieces, gradually converging into an ordered expanding mosaic of interlocking shared shapes. A thin brass return path loops from the shared mosaic toward the small sources. The shared structure grows organically from real local streams, not a rigid imposed grid. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2015-04-21-from-local-workflow-to-shared-ontology-hero.png",
+        "sha256": "a95c1db08433df5277f2505f94f3d51c7e5365e7fc336e4910e5d3c32eff787a",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2015-04-21-from-local-workflow-to-shared-ontology.webp",
+          "bytes": 199046,
+          "sha256": "8d5c36afb0820be613b6ac98c2ed692525c0c4c1962de977a128d82d3e911633",
+          "git_blob_sha": "d631e4d24c9c0427a16950e31a38ed23d544dee1",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2015-04-21-from-local-workflow-to-shared-ontology.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2015-04-21-from-local-workflow-to-shared-ontology-960.webp",
+          "bytes": 91016,
+          "sha256": "010956e75e456242d3b167026c7b9a3fdad63d5423988de33ac9469f88d3dd08",
+          "git_blob_sha": "96bf156bdba661f9e2d376123a31c2a32c334a98",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2015-04-21-from-local-workflow-to-shared-ontology-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2015-04-21-from-local-workflow-to-shared-ontology-social.jpg",
+          "bytes": 186221,
+          "sha256": "bd6e21def56ca1f021b7c80faa7cc28d539a767f621788eb399d9af543a2691d",
+          "git_blob_sha": "67f9f7ceeebe2872134637f03633344797d2b0a4",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2015-04-21-from-local-workflow-to-shared-ontology-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "source_path": "docusaurus/blog/2015-05-12-documentation-is-not-knowledge.md",
+      "source_sha": "e23eae18eb71607d3ace107d6f9c5c5141694b2e",
+      "title": "Documentation is not knowledge",
+      "url": "https://governance.foundation/blog/2015/05/12/documentation-is-not-knowledge/",
+      "published_html_path": "blog/2015/05/12/documentation-is-not-knowledge/index.html",
+      "alt_text": "Blank pages connect to an interlocking stone and brass mechanism, showing knowledge as more than documentation.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: Documentation is not knowledge. On a wide limestone table a small stack of blank ivory pages sits beside a dimensional interlocking slate-and-brass mechanism whose elements are connected by visible tiny hinges and polished channels; one page curls upward into a structural piece of the mechanism. Documents are a record, while usable knowledge requires living relationships, context, maintained connections and action. Strong contrast between flat recorded fragments and connected three-dimensional meaning, restrained fine-art still life. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2015-05-12-documentation-is-not-knowledge-hero.png",
+        "sha256": "f10259e1b73556d3a375df27447541705cb7771203fd6048316e4f26bab98fd6",
+        "width": 1672,
+        "height": 940
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2015-05-12-documentation-is-not-knowledge.webp",
+          "bytes": 156330,
+          "sha256": "c3efd8564a67f2c3945318ad1edc23be6b860940ac09080d68219f73d6315ee3",
+          "git_blob_sha": "608fe9b8cb194108a7df4673111095ba31daa0bb",
+          "width": 1672,
+          "height": 940,
+          "url": "/assets/images/blog/2015-05-12-documentation-is-not-knowledge.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2015-05-12-documentation-is-not-knowledge-960.webp",
+          "bytes": 69366,
+          "sha256": "6cb7f77e3313a4b31f84252ae7ea5f93c09dde7d40aa3329d61eb896fbd4de5b",
+          "git_blob_sha": "1e2aace02b751972076345c07bb3b17cf860b7d8",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2015-05-12-documentation-is-not-knowledge-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2015-05-12-documentation-is-not-knowledge-social.jpg",
+          "bytes": 151085,
+          "sha256": "baaf8d27ce2660191c9ba84e812c89e86e950dbd29b97682984722980d4d09f8",
+          "git_blob_sha": "371114196321ac63c28224a0a42a90ac2572fc92",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2015-05-12-documentation-is-not-knowledge-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "source_path": "docusaurus/blog/2015-06-24-what-a-shared-organisational-model-is-actually-for.md",
+      "source_sha": "ca3f54836a1a44898bbb2841b1ea64af09aeee28",
+      "title": "What a shared organisational model is actually for",
+      "url": "https://governance.foundation/blog/2015/06/24/what-a-shared-organisational-model-is-actually-for/",
+      "published_html_path": "blog/2015/06/24/what-a-shared-organisational-model-is-actually-for/index.html",
+      "alt_text": "Brass routes connect distinct stone terrains, making cross-boundary paths and dependencies legible.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: What a shared organisational model is actually for. Subject and meaning: An exquisite stone navigation table: a continuous muted brass guide channel traverses three distinct ivory terrain regions separated by narrow fissures, crossing boundaries through precise fitted joints. Small movable slate markers and matching shallow sockets make dependencies and routes legible; a new channel segment is fitted into one edge. Focus on practical coordination, navigation and adaptation, not a static diagram.",
+      "original": {
+        "filename": "2015-06-24-what-a-shared-organisational-model-is-actually-for-hero.png",
+        "sha256": "b3c04a587895193d172d1318b438bc58d247277c8da693c6733c41eccee9d018",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2015-06-24-what-a-shared-organisational-model-is-actually-for.webp",
+          "bytes": 164152,
+          "sha256": "da8bfe3faecde561607952374e61c52f711a2b759c871b7d23ea3eae30f76ed3",
+          "git_blob_sha": "fd67d62bf21fcd48e3d58cd6ce3ebd0a3a21892e",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2015-06-24-what-a-shared-organisational-model-is-actually-for.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2015-06-24-what-a-shared-organisational-model-is-actually-for-960.webp",
+          "bytes": 76618,
+          "sha256": "628af9f97fc44f69e88663d1651475b162b69562d973b3bc6f50816b1b1658f1",
+          "git_blob_sha": "43923232846ba7937376008b31bba308d218cced",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2015-06-24-what-a-shared-organisational-model-is-actually-for-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2015-06-24-what-a-shared-organisational-model-is-actually-for-social.jpg",
+          "bytes": 165534,
+          "sha256": "9f46f1226bdb4cdb5c5dab870a2c09ace51acbbc60d4457e5a44c5a1950a9057",
+          "git_blob_sha": "6b21ce79c665ce40eb9e28f145593303049c1fbe",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2015-06-24-what-a-shared-organisational-model-is-actually-for-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "source_path": "docusaurus/blog/2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence.md",
+      "source_sha": "d85d381bafa4545f2eb877facefd377f87bacb34",
+      "title": "Why most collaboration tools improve surfaces, not coherence",
+      "url": "https://governance.foundation/blog/2015/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/",
+      "published_html_path": "blog/2015/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence/index.html",
+      "alt_text": "A polished ivory surface conceals disconnected slate supports and misaligned brass joints.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: Why most collaboration tools improve surfaces, not coherence. Primary request: An elegant polished ivory tabletop made of several neatly adjacent panels, with its front edge lifted in a cutaway exposing misaligned dark slate supports and disconnected brass joints underneath. The visible surface is calm and sleek; below it there are unmistakable gaps between structural members. Architectural forensic still life, no gadgets. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence-hero.png",
+        "sha256": "ae0b2328070feeb1edbd8c28741ad27a8614f5cfc13f519a8087cae62fc77bca",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence.webp",
+          "bytes": 127020,
+          "sha256": "c1a41e87ba588ef3747c8509aa1484417ad0769eeb8638be3e114b5d4a199e2c",
+          "git_blob_sha": "4b6e56f7c2735734a2fce68c35e587da75cfa9e4",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence-960.webp",
+          "bytes": 54654,
+          "sha256": "d4f355d0d551f9bff4b7597eed514370190b75b6268f455348cc1aa6c368d7d5",
+          "git_blob_sha": "832fee97287df9f0323b9a5bedc044a55ab83605",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence-social.jpg",
+          "bytes": 137408,
+          "sha256": "a848c579ae218fedcf260f26d02cf13be4567197c984a02d0f43e77da66bbb21",
+          "git_blob_sha": "5721b200f76327d57a31ac8d88d9598cec7deb2e",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "source_path": "docusaurus/blog/2015-11-10-the-hidden-cost-of-local-optimisation-between-teams.md",
+      "source_sha": "2edd8fc7ada46ed4776381353f82dedd9619f10b",
+      "title": "The hidden cost of local optimisation between teams",
+      "url": "https://governance.foundation/blog/2015/11/10/the-hidden-cost-of-local-optimisation-between-teams/",
+      "published_html_path": "blog/2015/11/10/the-hidden-cost-of-local-optimisation-between-teams/index.html",
+      "alt_text": "Separate precise gear assemblies have mismatched handoffs, illustrating the hidden cost of local team optimisation.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: The hidden cost of local optimisation between teams. Three beautifully machined independent brass gear assemblies mounted on separate slate stone platforms. Each assembly works perfectly internally, but mismatched connecting shafts at the boundaries leave gaps and a spill of small ivory transfer beads accumulating between them. A thin common brass datum line beneath suggests the shared foundation needed for coordinated local intelligence. Focus on costly handoffs between locally elegant systems, no chaos. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2015-11-10-the-hidden-cost-of-local-optimisation-between-teams-hero.png",
+        "sha256": "b9e0c6456ae9be67c84b6e8c6c4452f629e3cff845881b702c07513af19d3c21",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2015-11-10-the-hidden-cost-of-local-optimisation-between-teams.webp",
+          "bytes": 138008,
+          "sha256": "8ff860a3f373cc64351e3e66c47b12525efd95b644ed3f852f9f68632fabfa1a",
+          "git_blob_sha": "c51dcfe5b00c2a25e072ab8b9197b360b1c50548",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2015-11-10-the-hidden-cost-of-local-optimisation-between-teams.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2015-11-10-the-hidden-cost-of-local-optimisation-between-teams-960.webp",
+          "bytes": 62890,
+          "sha256": "4a2d01f1d7d30fecb8bfb8ee59921491e56906d3b0fd108c3da389222f91b610",
+          "git_blob_sha": "bd113596f5a4181565e6c18842c8eaad89fef09f",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2015-11-10-the-hidden-cost-of-local-optimisation-between-teams-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2015-11-10-the-hidden-cost-of-local-optimisation-between-teams-social.jpg",
+          "bytes": 144219,
+          "sha256": "991661f302a8969348813222fb01be8a5bc65c0009f2cc60b9d948198aca9851",
+          "git_blob_sha": "8e5d35f6cd3d31e6747e80aecfb96783da14e0c4",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2015-11-10-the-hidden-cost-of-local-optimisation-between-teams-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "source_path": "docusaurus/blog/2015-11-18-why-digital-transformation-keeps-disappointing.md",
+      "source_sha": "497a7128d5b2b48fafb04cf7947d6f35d868ac21",
+      "title": "Why digital transformation keeps disappointing",
+      "url": "https://governance.foundation/blog/2015/11/18/why-digital-transformation-keeps-disappointing/",
+      "published_html_path": "blog/2015/11/18/why-digital-transformation-keeps-disappointing/index.html",
+      "alt_text": "A polished new facade reveals misaligned tracks underneath, representing modernisation without structural change.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: Why digital transformation keeps disappointing. Subject and meaning: An elegant cross-section of a polished new ivory facade reveals underneath old disconnected slate mechanical tracks that almost meet but remain offset. One translucent frosted panel exposes the unresolved structural bottleneck; beautiful surface improvement cannot repair broken coordination beneath. Sculptural museum model on parchment backdrop, sober and thoughtful.",
+      "original": {
+        "filename": "2015-11-18-why-digital-transformation-keeps-disappointing-hero.png",
+        "sha256": "000ea553f46a9de50c2c5cb6602ef88ba692f270a5becb33b6132a11a2611e89",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2015-11-18-why-digital-transformation-keeps-disappointing.webp",
+          "bytes": 122624,
+          "sha256": "649e5ac6702f8fa6dd154af915d990b3b559410796df3ba87fd0ac5c2beb8d1d",
+          "git_blob_sha": "78ed4413f07474cfa9011736441632fc42bc3202",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2015-11-18-why-digital-transformation-keeps-disappointing.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2015-11-18-why-digital-transformation-keeps-disappointing-960.webp",
+          "bytes": 52518,
+          "sha256": "56920dced640c9715ab2ba460c3ada86787375807c0281641e533e3c79a6f4bd",
+          "git_blob_sha": "8c0b65f79dfe662cdfffcefa43c942bb0468fef1",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2015-11-18-why-digital-transformation-keeps-disappointing-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2015-11-18-why-digital-transformation-keeps-disappointing-social.jpg",
+          "bytes": 127643,
+          "sha256": "2f6db877e80f265c44e8e9c4dc4d85bd412c80ed72b2cdf16ad7e908d4bdf754",
+          "git_blob_sha": "f0775d1140b5baeda0fad9539704cae902ee1cc4",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2015-11-18-why-digital-transformation-keeps-disappointing-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "source_path": "docusaurus/blog/2016-02-26-knowledge-management.md",
+      "source_sha": "74f377bcde1adcd16c98b52432805726a25e8e5b",
+      "title": "Knowledge Management 4.0",
+      "url": "https://governance.foundation/blog/2016/02/26/knowledge-management/",
+      "published_html_path": "blog/2016/02/26/knowledge-management/index.html",
+      "alt_text": "An archive of blank tablets transitions into a living tree of connected knowledge objects.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: Knowledge Management 4.0. Primary request: An ivory archival cabinet at left holds a few blank stone tablets; toward the right its open compartments transform into a living espalier tree with fine brass branches physically linking slate decision stones, ivory evidence pieces, and small green leaves. Knowledge formation rather than mere storage. Sophisticated sculptural still life on parchment, tree horizontally composed. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2016-02-26-knowledge-management-hero.png",
+        "sha256": "bb4de72d44352a436c95b3520565f54a0b32895f696c19726e270280422c6461",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2016-02-26-knowledge-management.webp",
+          "bytes": 173756,
+          "sha256": "3f658d344939521863d074e6829fbd8f0ae11774e5096b6648d3054146782b57",
+          "git_blob_sha": "d6c9a3fbee93dc3b4e1087a6ab8abd34d1bb84fe",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2016-02-26-knowledge-management.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2016-02-26-knowledge-management-960.webp",
+          "bytes": 71064,
+          "sha256": "0d2a430d15b94b26c20481543f67b54c6cce644e4a5decbc0808f32da4635da6",
+          "git_blob_sha": "bebfe75d408fc6d93a88d0b80852fa8c1a22a39f",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2016-02-26-knowledge-management-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2016-02-26-knowledge-management-social.jpg",
+          "bytes": 174187,
+          "sha256": "ff574f498abd0633d3fccef96cfc6934e8293804cd33cda331be61dd63226986",
+          "git_blob_sha": "6303babd3aaac9862f7c0f0c0751050205ef9ae6",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2016-02-26-knowledge-management-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "source_path": "docusaurus/blog/2016-03-22-knowledge-as-a-living-network-not-a-document-set.md",
+      "source_sha": "ba4968467adf5d617004d19d9547dd7d4c1a14f6",
+      "title": "Knowledge as a living network, not a document set",
+      "url": "https://governance.foundation/blog/2016/03/22/knowledge-as-a-living-network-not-a-document-set/",
+      "published_html_path": "blog/2016/03/22/knowledge-as-a-living-network-not-a-document-set/index.html",
+      "alt_text": "A branching brass tree connects diverse stone and glass elements above archival pages, representing living knowledge relationships.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: Knowledge as a living network, not a document set. A delicate bonsai-like sculptural tree of aged brass roots and branches grows through a horizontal stack of several blank ivory archival leaves; along the branches are small diverse slate stones, translucent glass discs and folded parchment shapes, each visibly joined, with one isolated loose leaf on the table. The living relationships, evidence and reuse give records meaning. Botanical but geometric and institutional, abundant breathing room, no typical glowing node graph. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2016-03-22-knowledge-as-a-living-network-not-a-document-set-hero.png",
+        "sha256": "c596c9f063e31bff4f9b9c2993be926e976bd2555b9b4164f173801c83c32f54",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2016-03-22-knowledge-as-a-living-network-not-a-document-set.webp",
+          "bytes": 175924,
+          "sha256": "1c30cae6c7cd68fd7e8f767fa43f76b775954b0f8a91626ca3c869233d8de373",
+          "git_blob_sha": "36d8b57d85fc98037ae3dd50b490dc0b9d9a9b4d",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2016-03-22-knowledge-as-a-living-network-not-a-document-set.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2016-03-22-knowledge-as-a-living-network-not-a-document-set-960.webp",
+          "bytes": 80112,
+          "sha256": "a9bb8f895fb47052512a2993780c679c1e33e9b1f127d736aab32d70179301f9",
+          "git_blob_sha": "f57990df3d6896c8d5de23338c5b1393b9c778e4",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2016-03-22-knowledge-as-a-living-network-not-a-document-set-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2016-03-22-knowledge-as-a-living-network-not-a-document-set-social.jpg",
+          "bytes": 168100,
+          "sha256": "d66ef9f4e4864a171087aca0f6f61861a7ea8fdcdf26dfa127361c99fb77611f",
+          "git_blob_sha": "25b1cd89fb0a5d4de2e015df98341268a7c58703",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2016-03-22-knowledge-as-a-living-network-not-a-document-set-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "source_path": "docusaurus/blog/2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect.md",
+      "source_sha": "15b3807350d3cea82bc512b958a1e85cb9688b17",
+      "title": "Why coherence is an organisational capability, not a communications side effect",
+      "url": "https://governance.foundation/blog/2016/04/18/why-coherence-is-an-organisational-capability-not-a-communications-side-effect/",
+      "published_html_path": "blog/2016/04/18/why-coherence-is-an-organisational-capability-not-a-communications-side-effect/index.html",
+      "alt_text": "A structured loom turns separate threads into a coherent woven surface.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: Why coherence is an organisational capability, not a communications side effect. Subject and meaning: A loom-like sculptural instrument with an ivory frame and precisely tensioned navy and muted brass threads forming a strong woven plane in the center. Several loose thread ends lie at the edge; the orderly weave is sustained by physical structure, not merely more threads. Detailed textile texture and stone frame, quiet tactile visual metaphor for maintained shared meaning.",
+      "original": {
+        "filename": "2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect-hero.png",
+        "sha256": "15ce13841df427b0379bc54798dad3dea965c5b73c32a01196ed8c449c17dfbc",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect.webp",
+          "bytes": 177220,
+          "sha256": "857e7823b1961db7b2f3cb202605dc044a14f14ae7097927e944a93122adcfd1",
+          "git_blob_sha": "8ab721b009c69461ec8bed29341d11cd43c7698c",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect-960.webp",
+          "bytes": 84822,
+          "sha256": "53c5e857b49b2b044d6bba021e055e11443db3cc70dde9492add7f5d3edb5af4",
+          "git_blob_sha": "e691fb369a918bab979613a0c11ef8982236f3b5",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect-social.jpg",
+          "bytes": 173358,
+          "sha256": "9198a94ec2547c181678a10a1a9a9d5c8d2c51319351f91ff2bac6509810f666",
+          "git_blob_sha": "830f3c136e13968791f35be8c53396a5410cc36c",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2016-04-18-why-coherence-is-an-organisational-capability-not-a-communications-side-effect-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "source_path": "docusaurus/blog/2016-05-06-from-knowledge-management-to-knowledgefund.md",
+      "source_sha": "e82a63c4f426e9c5a173c30f73049dda8dff7382",
+      "title": "From knowledge management to KnowledgeFund",
+      "url": "https://governance.foundation/blog/2016/05/06/from-knowledge-management-to-knowledgefund/",
+      "published_html_path": "blog/2016/05/06/from-knowledge-management-to-knowledgefund/index.html",
+      "alt_text": "Stored ivory slabs become connected reusable components in a brass-framed knowledge workshop.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: From knowledge management to KnowledgeFund. Primary request: A beautiful small precision workshop still life: stacked blank ivory slabs enter a brass-framed processing cradle and emerge as finely jointed dark slate and ivory modular pieces assembling into a useful expanding structure, with a curved brass recirculation track for refinement. Visual conversion from stored records into reusable intelligence, not coins or financial symbols. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2016-05-06-from-knowledge-management-to-knowledgefund-hero.png",
+        "sha256": "bf473e9d35fdf90205686dcb0ce47da9b886623f7c7ef43954e4c8607588b8ce",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2016-05-06-from-knowledge-management-to-knowledgefund.webp",
+          "bytes": 185752,
+          "sha256": "964d3d25f449b8db216df2e0d15fbd630185ea0365e06750fa449c6e1e439dba",
+          "git_blob_sha": "213c5f2e64c30d58f022be053e8c4c37cc9fa78c",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2016-05-06-from-knowledge-management-to-knowledgefund.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2016-05-06-from-knowledge-management-to-knowledgefund-960.webp",
+          "bytes": 84950,
+          "sha256": "445104f15cab1aeb33444a17e02a0f6a6b76a51e565c4224c40725540a219cd6",
+          "git_blob_sha": "c753664ae45c3411e813bfdb5b6af342b2a940e6",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2016-05-06-from-knowledge-management-to-knowledgefund-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2016-05-06-from-knowledge-management-to-knowledgefund-social.jpg",
+          "bytes": 180925,
+          "sha256": "486b6cf72985af3e11bdf4cb0f7c23a40fc6aba5971c312ebaed1728dc1b9196",
+          "git_blob_sha": "a6eb9518d3ee57704298cd558e2b1cf7ae1476fd",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2016-05-06-from-knowledge-management-to-knowledgefund-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "source_path": "docusaurus/blog/2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations.md",
+      "source_sha": "9d5281515edcee5c7fc4297ee0c694c81f839de9",
+      "title": "What Git did for code, KnowledgeFund will do for organisations",
+      "url": "https://governance.foundation/blog/2016/08/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/",
+      "published_html_path": "blog/2016/08/15/what-git-did-for-code-knowledgefund-will-do-for-organisations/index.html",
+      "alt_text": "Layered stone channels branch and merge through brass checkpoints, representing disciplined knowledge versioning and change.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: What Git did for code, KnowledgeFund will do for organisations. A museum-quality stone and brass model of a braided river: a layered slate channel divides into two precisely carved ivory branch channels, their paths carrying small polished brass checkpoints, then merges into a stronger single channel. Underneath, thin exposed strata preserve the history of earlier paths. Physical metaphor for versioned knowledge, accountable branching and reviewed merging, visible disciplined evolution rather than storage. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations-hero.png",
+        "sha256": "2e75895e34fdb1f0fea4184c34530ab30c08bc2fe6b045583c2c572ad2793284",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations.webp",
+          "bytes": 159404,
+          "sha256": "728662e128d3d4f8531d27c85725739d52e6f35583ca939270221a664d4dad25",
+          "git_blob_sha": "f628c57327617283c20f369d696d79f0d5e91432",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations-960.webp",
+          "bytes": 65702,
+          "sha256": "6edf7f5a4b00777c219f3ca78a864059cfe7036814e379e95936138a91e67a21",
+          "git_blob_sha": "1600acc984e327efbd8b82b23124d595669ad933",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations-social.jpg",
+          "bytes": 156682,
+          "sha256": "d6eda4915260a0b0629bf3955d3d8db2ac69297caa21b7d5b16de7a1bc2e8388",
+          "git_blob_sha": "f0592575ffa8202f333f749dfe3a7e9b343b5c50",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2016-08-15-what-git-did-for-code-knowledgefund-will-do-for-organisations-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "source_path": "docusaurus/blog/2016-09-22-contribution-as-governance-not-just-compliance.md",
+      "source_sha": "69106145c91429f001dd4c9d0ee6b3fe0a233299",
+      "title": "Contribution as governance, not just compliance",
+      "url": "https://governance.foundation/blog/2016/09/22/contribution-as-governance-not-just-compliance/",
+      "published_html_path": "blog/2016/09/22/contribution-as-governance-not-just-compliance/index.html",
+      "alt_text": "Distinct stone and brass contributions repair and strengthen a shared mosaic pathway.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: Contribution as governance, not just compliance. Subject and meaning: A broad low ivory mosaic platform is being strengthened by distinct fitted slate and brass inlays; one removable tessera lies beside its exact receptive socket, completing a repaired fissure and strengthening a useful continuous path across the mosaic. Built-in boundaries guide contribution while visible diverse additions improve the whole. Close three-quarter sculptural still life, no hands.",
+      "original": {
+        "filename": "2016-09-22-contribution-as-governance-not-just-compliance-hero.png",
+        "sha256": "e1fc324202986db20525799fd1e1ed589d5a7ee91d60c42c8dacef4a4ee3d884",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2016-09-22-contribution-as-governance-not-just-compliance.webp",
+          "bytes": 209870,
+          "sha256": "7af027c7c27a6bea615913287b81f02079cc8e3d76f1f673e7dae5fb7a5dc79a",
+          "git_blob_sha": "a26c026f73777eb324c814229fe5a0ed40c32b6d",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2016-09-22-contribution-as-governance-not-just-compliance.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2016-09-22-contribution-as-governance-not-just-compliance-960.webp",
+          "bytes": 93748,
+          "sha256": "6af7ae2167af38b8733d26d44e1964593cec5048d99949bfe1e9f5995eb34a9c",
+          "git_blob_sha": "768040ab95b060909263b564d8e8bc150769a4b7",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2016-09-22-contribution-as-governance-not-just-compliance-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2016-09-22-contribution-as-governance-not-just-compliance-social.jpg",
+          "bytes": 192509,
+          "sha256": "a4eb4a08828c0fed931e4c3e4f9193f85ab004d0bf20813c6b6a49a144a84007",
+          "git_blob_sha": "7d82b676b24f6210860d07e6e9b4c04ce90c3ca4",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2016-09-22-contribution-as-governance-not-just-compliance-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "source_path": "docusaurus/blog/2016-10-18-reuse-is-how-organisations-compound-intelligence.md",
+      "source_sha": "daeef34dd5ff4caf204c25a5d14ffb5b3d4511a6",
+      "title": "Reuse is how organisations compound intelligence",
+      "url": "https://governance.foundation/blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/",
+      "published_html_path": "blog/2016/10/18/reuse-is-how-organisations-compound-intelligence/index.html",
+      "alt_text": "A brass joinery pattern is reused in progressively more capable stone structures.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: Reuse is how organisations compound intelligence. Primary request: One elegant brass master joinery template rests in foreground, its distinctive dovetail form visibly repeated as an essential joint in three increasingly elaborate ivory and navy stone constructions arranged left to right. Each reuses and adapts the same small proven pattern, growing capability without identical copying. Tactile artisan still life. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2016-10-18-reuse-is-how-organisations-compound-intelligence-hero.png",
+        "sha256": "64eff089c092bb523c927c02e8861ee2254c51c292ecdbe2b173a08d3b4eb273",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2016-10-18-reuse-is-how-organisations-compound-intelligence.webp",
+          "bytes": 130840,
+          "sha256": "74afab5c354f1839e5664fa9ac58a2e94a35d778ddf7aff351a9ebc0aac68d6d",
+          "git_blob_sha": "89fe8f9d0cdac2c05cac054a6da4d1460f3498a9",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2016-10-18-reuse-is-how-organisations-compound-intelligence.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2016-10-18-reuse-is-how-organisations-compound-intelligence-960.webp",
+          "bytes": 56606,
+          "sha256": "5fc18ae27fbc87e70193d9786b25cc92310ece31174b889715af21c12bf83e6c",
+          "git_blob_sha": "bdfe41f3826d3b3afbbc9e44b63755c615b4b437",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2016-10-18-reuse-is-how-organisations-compound-intelligence-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2016-10-18-reuse-is-how-organisations-compound-intelligence-social.jpg",
+          "bytes": 136470,
+          "sha256": "87a8924be2817d8f4fd3b6d1d460220a49c140a26d7979c02634fc2e76e5082b",
+          "git_blob_sha": "d0956db1bfbc70f71ad92032640e08716e8aef8e",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2016-10-18-reuse-is-how-organisations-compound-intelligence-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "source_path": "docusaurus/blog/2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy.md",
+      "source_sha": "96cc4f13dbaa53b6428b5dfeeefd92035704d421",
+      "title": "Contribution, reuse, and the idea of an organisational economy",
+      "url": "https://governance.foundation/blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/",
+      "published_html_path": "blog/2016/11/13/contribution-reuse-and-the-idea-of-an-organisational-economy/index.html",
+      "alt_text": "A brass circulation wheel carries reusable ivory modules between workstations, representing compounding organisational contribution.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: Contribution, reuse, and the idea of an organisational economy. A handsome tabletop brass circulation wheel moves a few distinctive reusable ivory building modules around a loop through three small slate workstations. The same recognizable module geometry appears incorporated into progressively richer structures, with a tiny return channel showing feedback to the original contribution. Knowledge value compounds through visible contribution and reuse. Refined close architectural object photography, not money, coins or generic finance charts. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy-hero.png",
+        "sha256": "1b0d95b86f4356af63891acdeccedadc4e59600a914ec6b389927d0f7c235b8a",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy.webp",
+          "bytes": 146110,
+          "sha256": "c041bd0b7e954c5f851237a5abdc89c2ef17dbb6718f07a3a7a002de5b9ee67c",
+          "git_blob_sha": "3c26c0852f0792f40175c2e8743e358e9e3caf08",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy-960.webp",
+          "bytes": 65552,
+          "sha256": "1fc1f578c6ce5edd22813ce6b489059da1fe3aa3c210b6a8cb554c515d02e4ae",
+          "git_blob_sha": "e1e403379726c13a6a33f482ca2efa0126bc8eb5",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy-social.jpg",
+          "bytes": 148521,
+          "sha256": "dbb1a471990e24807130b1b30ef810d9ba0c064bbe42a781fdfa04faf87d441d",
+          "git_blob_sha": "7ff6f69d93149f01f8b78dfa1d6e95de27b23bc6",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2016-11-13-contribution-reuse-and-the-idea-of-an-organisational-economy-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "source_path": "docusaurus/blog/2016-12-08-organisational-memory-is-built-through-use-not-archiving.md",
+      "source_sha": "f8f8225e14eda1f3e9cfeee8da75ed7bf7727441",
+      "title": "Organisational memory is built through use, not archiving",
+      "url": "https://governance.foundation/blog/2016/12/08/organisational-memory-is-built-through-use-not-archiving/",
+      "published_html_path": "blog/2016/12/08/organisational-memory-is-built-through-use-not-archiving/index.html",
+      "alt_text": "A worn circular channel returns stone pieces into active use, contrasting with a closed archive drawer.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: Organisational memory is built through use, not archiving. Subject and meaning: A beautiful old ivory stone mill wheel with a polished brass circular channel repeatedly circulates a small collection of smooth slate stones past a working notch. In the background a closed dusty stone drawer sits unused. Wear polish on the active circular route suggests history strengthened through reuse, while the dominant form is a living return loop, not a filing cabinet.",
+      "original": {
+        "filename": "2016-12-08-organisational-memory-is-built-through-use-not-archiving-hero.png",
+        "sha256": "aca08d08d9d3d139a4624b12e93e05f9df64b378e32c91daea6473bac2e6138c",
+        "width": 1672,
+        "height": 940
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2016-12-08-organisational-memory-is-built-through-use-not-archiving.webp",
+          "bytes": 182796,
+          "sha256": "605d43b885f2a9def5767fc6fdeb45e77e831474f0040fae1b7b7725af510ebd",
+          "git_blob_sha": "2db77b56783804947685bf1f6adc70af9906e35d",
+          "width": 1672,
+          "height": 940,
+          "url": "/assets/images/blog/2016-12-08-organisational-memory-is-built-through-use-not-archiving.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2016-12-08-organisational-memory-is-built-through-use-not-archiving-960.webp",
+          "bytes": 87212,
+          "sha256": "29429c6f17368914f1b77a9d8fa78ff068439ad08f4bff76a16dff346b2a14dc",
+          "git_blob_sha": "e249a0247f5d14a60656268136465026757db8a4",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2016-12-08-organisational-memory-is-built-through-use-not-archiving-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2016-12-08-organisational-memory-is-built-through-use-not-archiving-social.jpg",
+          "bytes": 178959,
+          "sha256": "bb4acab8b44fad13592d6ce1e36746629595a2946e8c0a9687aab447796087e9",
+          "git_blob_sha": "a15f667b369e342ef307c596a9cf8ee322ab563d",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2016-12-08-organisational-memory-is-built-through-use-not-archiving-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "source_path": "docusaurus/blog/2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem.md",
+      "source_sha": "9cb439d87b31ed15fdac11802ea647241e722083",
+      "title": "Hybrid work exposed the real organisational memory problem",
+      "url": "https://governance.foundation/blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/",
+      "published_html_path": "blog/2022/02/17/hybrid-work-exposed-the-real-organisational-memory-problem/index.html",
+      "alt_text": "Separated work platforms expose fragile connections above a durable shared memory rail.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: Hybrid work exposed the real organisational memory problem. Primary request: Three separated ivory desk-like platforms on a warm parchment plain, previously adjacent edges now visibly apart; fragile loose threads hang across the gaps, while a substantial continuous slate archive rail with inset brass trace lines runs underneath all three and holds small blank tablets. Physical distance exposes brittle informal links and the need for durable shared memory. No office equipment. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem-hero.png",
+        "sha256": "cbda044c35a78e361d8345a8a0261993fa94b053dcd61fe0e11822a5b6c1864b",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem.webp",
+          "bytes": 99074,
+          "sha256": "0eedf1b1ac32b9aef05297607e08cda3418ca43fc266f05d8ae7db52ba3f24cc",
+          "git_blob_sha": "be1e98ce728bb6878e4aa76d91a75d063b4a327f",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem-960.webp",
+          "bytes": 40184,
+          "sha256": "00207828c25fe28349cc9e2a839183444c1612cfd3daa53bc133403e25ee91dc",
+          "git_blob_sha": "cfbbbc386e4f044e0a96c8a2715275b0db7aae73",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem-social.jpg",
+          "bytes": 122051,
+          "sha256": "fe9f4dd6fb1a4ce950c472fd99a2559638d2321c7d7c23953f636c942ab49924",
+          "git_blob_sha": "db670978187bb7397d4a04948a9921b79ad2febf",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2022-02-17-hybrid-work-exposed-the-real-organisational-memory-problem-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "source_path": "docusaurus/blog/2023-03-14-ai-exposes-broken-organisational-context.md",
+      "source_sha": "1b7dbfd3eed6b1ba32e8708e0c87f5c77ed48896",
+      "title": "AI exposes broken organisational context",
+      "url": "https://governance.foundation/blog/2023/03/14/ai-exposes-broken-organisational-context/",
+      "published_html_path": "blog/2023/03/14/ai-exposes-broken-organisational-context/index.html",
+      "alt_text": "A clear prism reveals cracks and missing connections in a stone relief, representing AI exposing broken organisational context.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: AI exposes broken organisational context. A large clear optical prism on a brass stand directs soft white natural light across a fragmented slate relief map; the grazing beam reveals hidden cracks, missing bridges and mismatched ivory segments in the map. The diagnostic light is intact and neutral; it exposes pre-existing context gaps rather than causing the damage. Elegant scientific instrument still life, no computer screen. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2023-03-14-ai-exposes-broken-organisational-context-hero.png",
+        "sha256": "1565affec17ac5f594c0083d4537b4e848465dc56416a5e14d0f1abe486017fc",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2023-03-14-ai-exposes-broken-organisational-context.webp",
+          "bytes": 155116,
+          "sha256": "eaf9aed51d9df952d1ccc4f1c0acc21b22b253fc962a9b8ddefd4dfe3462bf11",
+          "git_blob_sha": "52df854d028450fedc151051947af4ef4d5db221",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2023-03-14-ai-exposes-broken-organisational-context.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2023-03-14-ai-exposes-broken-organisational-context-960.webp",
+          "bytes": 69936,
+          "sha256": "8dc92f4009c606db5b68271f59083d0d0bfaeaa36b0c9fcec3122d90614cfd23",
+          "git_blob_sha": "90240e58ef21f9a6dea580554f383f532b841838",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2023-03-14-ai-exposes-broken-organisational-context-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2023-03-14-ai-exposes-broken-organisational-context-social.jpg",
+          "bytes": 159047,
+          "sha256": "e3587640c9b623d3ec6689e458b2bf0e4b19664f636b90c08198b17e5b360c5d",
+          "git_blob_sha": "79468f0facee3aa364823f980dd1d32eb5c6528d",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2023-03-14-ai-exposes-broken-organisational-context-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "source_path": "docusaurus/blog/2023-07-20-ai-adoption-is-not-the-same-as-capability-formation.md",
+      "source_sha": "8f8d2cc0b815105f9fb2cf07e7dfe19f4d824fe0",
+      "title": "AI adoption is not the same as capability formation",
+      "url": "https://governance.foundation/blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/",
+      "published_html_path": "blog/2023/07/20/ai-adoption-is-not-the-same-as-capability-formation/index.html",
+      "alt_text": "Brass components become a repeatable working mechanism, contrasting tool acquisition with capability formation.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: AI adoption is not the same as capability formation. Subject and meaning: A selection of beautifully finished brass tools is laid idle at one side, while in the center identical components are integrated into a working stone-and-brass precision mechanism producing a repeatable sequence of evenly shaped ivory pieces. Contrast mere tool presence with formed repeatable practice and dependable output. Restrained sculptural still life without machinery clutter.",
+      "original": {
+        "filename": "2023-07-20-ai-adoption-is-not-the-same-as-capability-formation-hero.png",
+        "sha256": "f67a667deb48572395fd1c6861d64ee0e2a445a066cf35701dae107cdd00af02",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2023-07-20-ai-adoption-is-not-the-same-as-capability-formation.webp",
+          "bytes": 134464,
+          "sha256": "4fedf7642b2e98db8d83e313e5ff74f907125f354e4402e0b65a1b3718d0e597",
+          "git_blob_sha": "b3d709232630780951724bea4f7da4a8d88d58f9",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2023-07-20-ai-adoption-is-not-the-same-as-capability-formation.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2023-07-20-ai-adoption-is-not-the-same-as-capability-formation-960.webp",
+          "bytes": 61888,
+          "sha256": "83b725602fbd805905cab9fe6e02d6a69b03fac81070cf406be420ae1ca7efda",
+          "git_blob_sha": "2fe1593caed8f600b8efb3e43d0df0684f9b5598",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2023-07-20-ai-adoption-is-not-the-same-as-capability-formation-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2023-07-20-ai-adoption-is-not-the-same-as-capability-formation-social.jpg",
+          "bytes": 145396,
+          "sha256": "9b54a53c0ad28fa95d1d1cb1d6ba97f1271a71a831d5af1939c9a2170e48f04d",
+          "git_blob_sha": "7e501d0170813ed7955d6e404925749ff0bbdff8",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2023-07-20-ai-adoption-is-not-the-same-as-capability-formation-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 27,
+      "source_path": "docusaurus/blog/2023-10-12-the-governance-gap-behind-most-ai-initiatives.md",
+      "source_sha": "f0b3244d89efaa333fd049a1bc79b1eb40f216ce",
+      "title": "The governance gap behind most AI initiatives",
+      "url": "https://governance.foundation/blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/",
+      "published_html_path": "blog/2023/10/12/the-governance-gap-behind-most-ai-initiatives/index.html",
+      "alt_text": "A missing bridge span separates flowing delivery tracks from governance guardrails.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: The governance gap behind most AI initiatives. Primary request: Two substantial ivory bridge approaches stand apart, one with smooth flowing brass tracks and the other with a restrained slate balustrade. Between them a missing central span reveals a critical gap; beside the gap a precise fitted navy keystone and brass continuous track await insertion. Quiet architectural model of the missing operational middle between acceleration and control. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2023-10-12-the-governance-gap-behind-most-ai-initiatives-hero.png",
+        "sha256": "914d123feb077440e991a7b2a663ca0c98dd1955f53964a92725e9dd02b38265",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2023-10-12-the-governance-gap-behind-most-ai-initiatives.webp",
+          "bytes": 153292,
+          "sha256": "ac2c76aaf90955881bcddc6f0360758a401480a498b9ce1ef52e9ef230063387",
+          "git_blob_sha": "2ebe62430f29cea6f00b657c59b4dd78f3509aa0",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2023-10-12-the-governance-gap-behind-most-ai-initiatives.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2023-10-12-the-governance-gap-behind-most-ai-initiatives-960.webp",
+          "bytes": 63500,
+          "sha256": "b284d1b3e3fab230c66e22db0227df1a9902c0314607b4bfc5f7a96bad4b51f6",
+          "git_blob_sha": "6c080a1c1e08097e03c5a38a9a16cc225a8c33cb",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2023-10-12-the-governance-gap-behind-most-ai-initiatives-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2023-10-12-the-governance-gap-behind-most-ai-initiatives-social.jpg",
+          "bytes": 146935,
+          "sha256": "7ebd69ce68af0f6fbf8e1ce15c1f591b32baddbf7c4e425ef599e751598d60c9",
+          "git_blob_sha": "50f77dfbf6772a9650e1aff8f32dd445dd5976f9",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2023-10-12-the-governance-gap-behind-most-ai-initiatives-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "source_path": "docusaurus/blog/2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready.md",
+      "source_sha": "d696207050d24ebac68abcdbcda668af4364eefe",
+      "title": "Generative AI arrived, but organisations were not structurally ready",
+      "url": "https://governance.foundation/blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/",
+      "published_html_path": "blog/2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready/index.html",
+      "alt_text": "A finished brass turbine awaits an incomplete stone cradle, representing AI arriving before structural readiness.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: Generative AI arrived, but organisations were not structurally ready. A beautifully finished brass turbine rests just above an incomplete stone receiving cradle: precision clean powerful component, but below it the supporting ivory and slate channels are disconnected, uneven and unfinished. One channel is carefully being aligned, without any workers. The metaphor is technical power arriving before the organisation can absorb it into work, responsibility and feedback. Sparse balanced sculptural scene, no debris or dramatic destruction. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready-hero.png",
+        "sha256": "d1bc54313cf88c13d874b9f4aa360d49417a0810c18c92a73a3bb005357d347e",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready.webp",
+          "bytes": 121180,
+          "sha256": "6fec31611a766579ead603c0934b500d9177ffc56bf70c19209dc2e4a3cc4a53",
+          "git_blob_sha": "f7c6794c7e69c7ebb9ea4214a01fe00be0359348",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready-960.webp",
+          "bytes": 53716,
+          "sha256": "13de01eaaa59c78175c9737d2aee5066f58006efbe8de20286020170aaa75bf9",
+          "git_blob_sha": "e6c65fcbe958454f0725c0fcff42685e5f5dfcb8",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready-social.jpg",
+          "bytes": 128165,
+          "sha256": "ecfa294201902c93bda0d76e6fd8c6793cdea582ffd6eb36c862f032f7e765c8",
+          "git_blob_sha": "1aa23a0bdc6adcb2a987f5fc61a3d6c0bcf498d9",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "source_path": "docusaurus/blog/2024-02-15-ai-rollout-is-work-redesign-not-software-rollout.md",
+      "source_sha": "db8465088de501596ed48a44ad21b501d37baf7c",
+      "title": "AI rollout is work redesign, not software rollout",
+      "url": "https://governance.foundation/blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/",
+      "published_html_path": "blog/2024/02/15/ai-rollout-is-work-redesign-not-software-rollout/index.html",
+      "alt_text": "Parallel technical and workflow components meet in a redesigned working assembly.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: AI rollout is work redesign, not software rollout. Subject and meaning: Two parallel channels in an ivory workshop table, one holding modular brass technical components, the other holding movable slate workflow gates and decision junctions. Both are physically recomposed into one central working assembly, with rearranged junctions showing a redesigned process rather than an add-on. A few loose modules await integration; clear two-stream visual metaphor with real material depth.",
+      "original": {
+        "filename": "2024-02-15-ai-rollout-is-work-redesign-not-software-rollout-hero.png",
+        "sha256": "968008bfd9f432f43ca92f00e421a5b1aa59d06dd065e3f9354801eee1a46ab1",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2024-02-15-ai-rollout-is-work-redesign-not-software-rollout.webp",
+          "bytes": 172212,
+          "sha256": "fe490d25bd0856c151ea5014e72901d7620ab75a0b83d6b2da4942ae56f8463e",
+          "git_blob_sha": "8f79fc6261891f20b7f7d6159ae9d96b57333745",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2024-02-15-ai-rollout-is-work-redesign-not-software-rollout.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2024-02-15-ai-rollout-is-work-redesign-not-software-rollout-960.webp",
+          "bytes": 72116,
+          "sha256": "ebb7d8aa020a24ad60f2616e02040df3e82acfb5c9cb1d25e806fdca4a340986",
+          "git_blob_sha": "2e1a418f78f67892f3e083d7eb3d09d786619a7e",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2024-02-15-ai-rollout-is-work-redesign-not-software-rollout-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2024-02-15-ai-rollout-is-work-redesign-not-software-rollout-social.jpg",
+          "bytes": 173029,
+          "sha256": "f5ebe34a2e32913a7b55cee745e734442d38cca576d143365112246b5f88a44b",
+          "git_blob_sha": "45689237630794738cedd72ca6d7ec4897c2acf5",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2024-02-15-ai-rollout-is-work-redesign-not-software-rollout-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "source_path": "docusaurus/blog/2024-05-23-organisational-memory-as-competitive-infrastructure.md",
+      "source_sha": "46bdea0bbe7397d4e1e74fb0bc24b4726743847a",
+      "title": "Organisational memory as competitive infrastructure",
+      "url": "https://governance.foundation/blog/2024/05/23/organisational-memory-as-competitive-infrastructure/",
+      "published_html_path": "blog/2024/05/23/organisational-memory-as-competitive-infrastructure/index.html",
+      "alt_text": "Layered stone memory infrastructure supports a continuous path and a flourishing olive tree.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: Organisational memory as competitive infrastructure. Primary request: A low wide cutaway aqueduct made from layered slate and limestone, with connected brass channels carrying warm reflected light beneath a small flourishing olive tree and durable stone pathway. The strata visibly preserve successive fitted pieces of history; infrastructure supports forward movement. Rich grounded landscape model rather than a building. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2024-05-23-organisational-memory-as-competitive-infrastructure-hero.png",
+        "sha256": "5f289e272f1f440f61b4ae8edbb09d07e116be14c98a42a38986f6c1f7e07a64",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2024-05-23-organisational-memory-as-competitive-infrastructure.webp",
+          "bytes": 331994,
+          "sha256": "c11c93cbc592bbe40bec439470e7cd5bb817baf30e9d60ec4b9f3329fcc8c5db",
+          "git_blob_sha": "be42a16ff6074089a92c5dda929961e86cbb8ba9",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2024-05-23-organisational-memory-as-competitive-infrastructure.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2024-05-23-organisational-memory-as-competitive-infrastructure-960.webp",
+          "bytes": 146970,
+          "sha256": "8aad668720d7a0f3c9952a51982f5528401250ccfdbfd676394e4947f675a705",
+          "git_blob_sha": "ea704131be651a11947ffff1015a52a66ec100ef",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2024-05-23-organisational-memory-as-competitive-infrastructure-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2024-05-23-organisational-memory-as-competitive-infrastructure-social.jpg",
+          "bytes": 256653,
+          "sha256": "7c90012f7bfcc51cd0b7edfa8fdeb9374e87521fb76a969b45dd41e770a084ce",
+          "git_blob_sha": "345a3a6367bd54f3167710076df4e72c57f6990f",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2024-05-23-organisational-memory-as-competitive-infrastructure-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 31,
+      "source_path": "docusaurus/blog/2024-08-08-what-an-ai-legible-organisation-actually-needs.md",
+      "source_sha": "b032cbffe84985545b9838b38c10bb993c235525",
+      "title": "What an AI-legible organisation actually needs",
+      "url": "https://governance.foundation/blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/",
+      "published_html_path": "blog/2024/08/08/what-an-ai-legible-organisation-actually-needs/index.html",
+      "alt_text": "Five linked stone mechanisms beneath clear glass represent shared language, decisions, ownership, context and feedback.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: What an AI-legible organisation actually needs. A wide low ivory stone instrument with five distinct interlocking slate ribs, each connected by a continuous brass line that loops back into the base; a clear glass plate above reveals every joint and trace. The five physical structural features stand for shared language, traceable decisions, ownership, current context and feedback. Precise readable assembly, open layers, subtle mechanical elegance, not five anonymous pillars. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2024-08-08-what-an-ai-legible-organisation-actually-needs-hero.png",
+        "sha256": "a0221778c893b72a12a81e1fbbd7cad0c09cf083a74b683a86050a808e27aaed",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2024-08-08-what-an-ai-legible-organisation-actually-needs.webp",
+          "bytes": 96746,
+          "sha256": "1edbc46cb28b56d0f9bf8c4b6b05007fce57d74a1f4f3c211114583a12fc53b0",
+          "git_blob_sha": "2a53f08f8df477d00672f830497d940cf67c6bfa",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2024-08-08-what-an-ai-legible-organisation-actually-needs.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2024-08-08-what-an-ai-legible-organisation-actually-needs-960.webp",
+          "bytes": 41384,
+          "sha256": "9dc34e4ddd1cb46641cdb36012d229d7c24bf2eac12a9ab15a27f7a24c35e4b6",
+          "git_blob_sha": "ee3610a5750e7d95f9b1560631178b6fee14a8a5",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2024-08-08-what-an-ai-legible-organisation-actually-needs-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2024-08-08-what-an-ai-legible-organisation-actually-needs-social.jpg",
+          "bytes": 115408,
+          "sha256": "bc2459de698bbc1a77f48d19eca9d2895142f68dc2dcd1ade13d12e74e7c5b52",
+          "git_blob_sha": "0d4555196f2448c9014ce46085e35326522a2f31",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2024-08-08-what-an-ai-legible-organisation-actually-needs-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "source_path": "docusaurus/blog/2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos.md",
+      "source_sha": "2a5cc58a6beab3360864ea798ad584afcda299cf",
+      "title": "Why freeform AI use finds value but also amplifies chaos",
+      "url": "https://governance.foundation/blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos/",
+      "published_html_path": "blog/2024/11/14/why-freeform-ai-use-finds-value-but-also-amplifies-chaos/index.html",
+      "alt_text": "Free brass strands are gathered into repeatable channels, balancing exploration with shared structure.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: Why freeform AI use finds value but also amplifies chaos. Subject and meaning: Organic curling brass strands explore freely across an ivory slab, discovering several small precious slate forms. Toward the center a carefully made stone comb gently gathers selected useful strands into a few consistent ordered channels, while unselected strands remain free at the edge. Physical metaphor for exploration becoming repeatable governed practice, without suppressing discovery.",
+      "original": {
+        "filename": "2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos-hero.png",
+        "sha256": "1aec6036ecbcb95d519332ee99d5fe27ece5382c0281be367c35e220526550ef",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos.webp",
+          "bytes": 189148,
+          "sha256": "9cdcc372ddba23f6b9422fc444bae8aa369164ec66395812ce6a1731fe8f1b93",
+          "git_blob_sha": "8365294eb609eb560a0c26f0bca7bad7d73fd818",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos-960.webp",
+          "bytes": 90160,
+          "sha256": "8256b55c7f5f51926c4d560b67c4fdd73bd344d91a58e789b78a4200d1078cfb",
+          "git_blob_sha": "7f016d9214d080ec28f22ea10614bfa8ca599922",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos-social.jpg",
+          "bytes": 184280,
+          "sha256": "a0559d876f8bf3021ba03a8ad13f8158f59dccb89dbde1caad7a398cafa1759c",
+          "git_blob_sha": "c92acbaed6171871c78ac7ff49777833f3d16e59",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2024-11-14-why-freeform-ai-use-finds-value-but-also-amplifies-chaos-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 33,
+      "source_path": "docusaurus/blog/2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks.md",
+      "source_sha": "63df0f70a1415b933ac6d01d2220f63e2a9ecbe0",
+      "title": "Organisational AI centrification, what it means and what it risks",
+      "url": "https://governance.foundation/blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/",
+      "published_html_path": "blog/2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks/index.html",
+      "alt_text": "A brass manifold balances a shared regulator with distributed branches and a return loop.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: Organisational AI centrification, what it means and what it risks. Primary request: A sculptural brass manifold on dark slate base splits from one narrow constricted central outlet into several generously spaced local branches; a clear ring-shaped brass return loop links the branch ends back to the shared central regulator. Show balanced distribution under common standards rather than a gigantic controlling tower. Minimal elegant hydraulic instrument. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks-hero.png",
+        "sha256": "57ff78ed1da691cfc91881d8b324403e4b85cbd042c69c834ac10cd0e2563546",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks.webp",
+          "bytes": 161396,
+          "sha256": "85db7c3d5af731b63c618feeb808c31f0c055becfb8b4570318f43e154587e2d",
+          "git_blob_sha": "66eb897631dddb62d61371b79ea40751c69726d2",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks-960.webp",
+          "bytes": 71288,
+          "sha256": "1ecbf96b780738e0af8eb27d5bea2754e01efc35cbb9e8059c89559917beefdb",
+          "git_blob_sha": "fa6472a55dfe9b1834ceda4d9ed34571e2399102",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks-social.jpg",
+          "bytes": 158939,
+          "sha256": "d05dd6c20b3e7e040ac27a7736b95b777b92afe64c3030d61f60bd1da7371a02",
+          "git_blob_sha": "3263b4827298080cf6a6769ac3eeaaba94e7cc3b",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "source_path": "docusaurus/blog/2026-04-10-based64-deployed-the-future.md",
+      "source_sha": "b3bafd2090a794a309b8fc42569dd29e44bf4512",
+      "title": "The AI rollout worked. The business didn't.",
+      "url": "https://governance.foundation/blog/2026/04/10/based64-deployed-the-future/",
+      "published_html_path": "blog/2026/04/10/based64-deployed-the-future/index.html",
+      "alt_text": "A polished award stage conceals disconnected conveyor loops, representing AI rollout success without business improvement.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: The AI rollout worked. The business didn't. An elegant miniature theatrical stage with warm ivory curtains and a polished blank brass award medallion in front, while a cutaway underneath reveals three disconnected tiny conveyor loops delivering identical stone blocks back to their own starting points. The polished appearance celebrates visible activity, but no useful flow reaches the empty destination platform. Wry sophisticated metaphor for successful technology rollout and innovation theatre preserving business dysfunction, no lettering anywhere. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2026-04-10-based64-deployed-the-future-hero.png",
+        "sha256": "90f04267920a796a2440663bb87fa599d710574efc6d7bb3b417f5c4118e3fc7",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-10-based64-deployed-the-future.webp",
+          "bytes": 162794,
+          "sha256": "000e00c4c4e19eaf5a332e54dd34aa8380c9c080413bdbf0de02db44d74f3b62",
+          "git_blob_sha": "e99fb3cfac7c3eba361d64f552202ef58a39b3b8",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-10-based64-deployed-the-future.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-10-based64-deployed-the-future-960.webp",
+          "bytes": 71018,
+          "sha256": "662326c527d7c5ed5b6a092310700ca67dd90fff677cd6178a8ce4ffdcd4c691",
+          "git_blob_sha": "2c7e2881ad8bf3014c46f32ac3f50b3142f84b6f",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-10-based64-deployed-the-future-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-10-based64-deployed-the-future-social.jpg",
+          "bytes": 162820,
+          "sha256": "4f03fc1b9e8e82b809a728c1f52cd780ffdfe2cf52129a3af624430eb3707efb",
+          "git_blob_sha": "4d1591565012fb73cab7b82de9a3d56818c2c23a",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-10-based64-deployed-the-future-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 35,
+      "source_path": "docusaurus/blog/2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai.md",
+      "source_sha": "e19a031ce44c3bc388bd19c47838c4994ab886d1",
+      "title": "Now it's your turn: what have you changed for AI?",
+      "url": "https://governance.foundation/blog/2026/04/13/now-its-your-turn-what-have-you-done-differently-with-ai/",
+      "published_html_path": "blog/2026/04/13/now-its-your-turn-what-have-you-done-differently-with-ai/index.html",
+      "alt_text": "A brass switch opens a new route from a repeated circular path, representing meaningful changes to work.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: Now it's your turn: what have you changed for AI?. Subject and meaning: A tactile ivory and slate circular track returns repeatedly to the same old route. A single substantial brass switch mechanism at the foreground has been deliberately moved, opening a new differently shaped route into a reconfigured stone work surface. This is an honest choice to change operating reality rather than repeat the transformation cycle. No hands, no buttons or text.",
+      "original": {
+        "filename": "2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai-hero.png",
+        "sha256": "b637c49efd29f6f51e3ea501b400a3c34f3f8fd8958dae97e46a36c87fa32a17",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai.webp",
+          "bytes": 177090,
+          "sha256": "fd6befc326502f232bef2627e6c58d43cd1f93ee3e9fdebc9d74c749e76ae765",
+          "git_blob_sha": "9feaf8d19b3eba4a6207bd57e68681be7dc19e95",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai-960.webp",
+          "bytes": 81376,
+          "sha256": "50bafe8634da7cdccead6ea56309ca2de686967bb3d850b60c83027f7ecc3e65",
+          "git_blob_sha": "1ef041523eb06adb2c7636be1cd2c702d62f054f",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai-social.jpg",
+          "bytes": 172275,
+          "sha256": "08795d3eee6e700d173dcb8b91ee24c6b9229e4718cb3d9b7f650313d4cf225b",
+          "git_blob_sha": "3e8fcdfb902f85442e7246fe9cdbb7661f37a8c0",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 36,
+      "source_path": "docusaurus/blog/2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook.md",
+      "source_sha": "f9443df1d56bc58837c0c98ad7d9d48db4dd4050",
+      "title": "Same old AI playbook, same old results",
+      "url": "https://governance.foundation/blog/2026/04/15/are-you-rolling-out-ai-with-the-same-old-playbook/",
+      "published_html_path": "blog/2026/04/15/are-you-rolling-out-ai-with-the-same-old-playbook/index.html",
+      "alt_text": "A new brass block travels the same closed circuit as older stone blocks.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: Same old AI playbook, same old results. Primary request: A sophisticated ivory and slate mechanical track loops around endlessly, carrying identical small blank polished blocks; one gleaming new brass block sits on the same closed circuit and changes nothing. Adjacent to the loop is a quiet unused opening toward an unbuilt straight path. Convey shiny new tools trapped in unchanged operating routines. Sculptural still life, no arrows or labels. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook-hero.png",
+        "sha256": "ee22692c667185dc46a2f17b14371321d7e78b23ff45496f71e604692090b12d",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook.webp",
+          "bytes": 124234,
+          "sha256": "5888fc7b9799dc83cfa7ae46c595345daea57286d8ac50b2883ce857bbfbc8fe",
+          "git_blob_sha": "a4cead781b958dcad105d19e1137eeb0fccba9cd",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook-960.webp",
+          "bytes": 55048,
+          "sha256": "c90282970183697b9d39ba41d057ece7e522139b053da85c5109940df2c0be31",
+          "git_blob_sha": "854ef1e6cda94617fcb546777ea5deffb77f1536",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook-social.jpg",
+          "bytes": 144349,
+          "sha256": "eaa6852ff46218621c65ad7b7cb31f076045c0aa489a0b29119a7c1146afb423",
+          "git_blob_sha": "0421c4df3dcb1d4f93d84532eeb5171d97c18c88",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 37,
+      "source_path": "docusaurus/blog/2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem.md",
+      "source_sha": "2e9a88dcfeac7af9d2a2507e513b4269ff5a9dfb",
+      "title": "Beyond harness engineering",
+      "url": "https://governance.foundation/blog/2026/04/16/beyond-harness-engineering-why-ai-success-is-a-governance-problem/",
+      "published_html_path": "blog/2026/04/16/beyond-harness-engineering-why-ai-success-is-a-governance-problem/index.html",
+      "alt_text": "A locally framed gyroscope sits inside wider connected governance boundaries, representing the system beyond the AI harness.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: Beyond harness engineering. A precise small brass gyroscope secured by an excellent tight local mechanical frame sits inside a much larger open ivory-and-slate navigational structure. The outer structure contains visible boundary gates, evidence checkpoints and a continuous return channel connecting multiple small mechanisms. Wide concentric framing makes clear that a reliable local harness is only one working component of system-wide governance of authority, context, memory, accountability and learning. Not a generic cage. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem-hero.png",
+        "sha256": "fb0d8607d3b4f6231c9eaa46de9b9beea3f4827e68a6202e0fe8c6a19ad3883e",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem.webp",
+          "bytes": 176058,
+          "sha256": "98b0795e77b210a50e111b3c79aacafce7c03acd52b401f359be85dc9991e42f",
+          "git_blob_sha": "e0d9151b9763fe11f5d05fd023834b9b1c157714",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem-960.webp",
+          "bytes": 83952,
+          "sha256": "6463e75a497e7ca34cbd0458126e180a6336d9e5e348f14cf79fa08c0c5fd211",
+          "git_blob_sha": "53191e3da562d8618cf031286c8532dac3a2c4d2",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem-social.jpg",
+          "bytes": 184004,
+          "sha256": "f0f1f0f15482f986ebbf05c352f91a48cb2b0f76eea3afe74cc1eabc0f048a63",
+          "git_blob_sha": "0fa97871746e26442d34a7549f7e74e5b1277916",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 38,
+      "source_path": "docusaurus/blog/2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations.md",
+      "source_sha": "3616eafc6baadeef9784f6d68c869483136056bb",
+      "title": "What Git did for code, KnowledgeFund will do for organisations",
+      "url": "https://governance.foundation/blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/",
+      "published_html_path": "blog/2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations/index.html",
+      "alt_text": "Layered branches diverge and rejoin a structured backbone, representing traceable organisational contribution and change.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: What Git did for code, KnowledgeFund will do for organisations. Subject and meaning: An elegant physical branching and merging sculpture carved from slate and ivory with brass inlaid traces. One solid longitudinal backbone splits into two short distinct parallel branches with visible layered revision strata, then carefully rejoins through a precise keyed review joint. The whole rests on a meaningful fitted foundation rather than loose piles. Close three-quarter view, compact museum artifact, no software interface.",
+      "original": {
+        "filename": "2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations-hero.png",
+        "sha256": "c24b1f17f51eb73862e06f06d9c38f1cfc1236f6919805b66c45b8dfac15ceb0",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations.webp",
+          "bytes": 131820,
+          "sha256": "c1d7b56bc55c5085da036bd6afde362b295352d1f4664e1c44b5bb05dee4b768",
+          "git_blob_sha": "ab981dd3d31d714e2e6d9375105fabdd3eb99e7e",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations-960.webp",
+          "bytes": 57762,
+          "sha256": "6d70deb061f4748ed0ec61c8c0f0568bf07d2f406edd4b373a5a22fd0bf47991",
+          "git_blob_sha": "b82011b6960af13eec60ab38df6ad941b3f375bf",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations-social.jpg",
+          "bytes": 138088,
+          "sha256": "db9bb5fef68c8ba4f03d4620e07d1fc6a05805674a1748229b3cf5e9da7f2c6d",
+          "git_blob_sha": "f309b3af6f17a496624fa16dc59bb0df9daf9bfb",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 39,
+      "source_path": "docusaurus/blog/2026-04-17-ai-rollout-is-about-changing-the-business.md",
+      "source_sha": "84d25fad51c86cab52dced765af3a7f479716e1e",
+      "title": "AI rollout is business change",
+      "url": "https://governance.foundation/blog/2026/04/17/ai-rollout-is-about-changing-the-business/",
+      "published_html_path": "blog/2026/04/17/ai-rollout-is-about-changing-the-business/index.html",
+      "alt_text": "Repositioned stone modules and new brass joints reshape an entire operating workflow.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: AI rollout is business change. Primary request: An exploded architectural-mechanical model of a slate and ivory work system being genuinely reconfigured: a former rigid straight channel has been separated into carefully spaced components, and new brass joints redirect these into an integrated branching workflow on the same foundation. Several fitted modules sit in purposeful changed positions. No merely decorative gadget on top. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2026-04-17-ai-rollout-is-about-changing-the-business-hero.png",
+        "sha256": "53716756d708fda04daa6cc4217b5dcb1cd7553fbd2ff42b8803be4ced7eda4e",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-17-ai-rollout-is-about-changing-the-business.webp",
+          "bytes": 133314,
+          "sha256": "ca5acc8177447261d4134ca3f833920d279b9d52bb8f8f78e67894140c8a7975",
+          "git_blob_sha": "5073765f57f0821343fb3dbec0d3c1a01ed106a2",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-17-ai-rollout-is-about-changing-the-business.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-17-ai-rollout-is-about-changing-the-business-960.webp",
+          "bytes": 61348,
+          "sha256": "a75a60db2ec77e7596aeb2415d1b9dededd690119c58f1d9041a920c33a46eb5",
+          "git_blob_sha": "472a6e850a8a8e53916e77cb06d570a99e808319",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-17-ai-rollout-is-about-changing-the-business-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-17-ai-rollout-is-about-changing-the-business-social.jpg",
+          "bytes": 152725,
+          "sha256": "39752fba5a029207c31c741192d712abbc469ca733590489a81de7fcf1d688cb",
+          "git_blob_sha": "dff6f3580b0b7ee23d25f72e4a8221d9c407cad2",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-17-ai-rollout-is-about-changing-the-business-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 40,
+      "source_path": "docusaurus/blog/2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it.md",
+      "source_sha": "adcd91726f60a2bf139950ba71e3da21dc92ad42",
+      "title": "You do not need to buy the capability. You need to build it",
+      "url": "https://governance.foundation/blog/2026/04/22/you-do-not-need-to-buy-the-capability-you-need-to-build-it/",
+      "published_html_path": "blog/2026/04/22/you-do-not-need-to-buy-the-capability-you-need-to-build-it/index.html",
+      "alt_text": "A packaged engine sits beside a custom-built vehicle chassis, illustrating organisational capability built around purchased intelligence.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: You do not need to buy the capability. You need to build it. A small purchased brass engine component rests on its opened unmarked parchment wrapping at left. At centre a much more substantial custom-fitted slate and ivory vehicle chassis is being assembled around an identical engine, with interlocking supports, steering linkage, return pipes and a stable foundation. No hands or workers. Focus on the surrounding organisation-built system rather than the engine. Beautiful studio physical model of capability formation, no toy branding. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it-hero.png",
+        "sha256": "43ff03ef3057973c761aca2db406d70b72ad6f9869dcb701986a06dc663943e3",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it.webp",
+          "bytes": 123854,
+          "sha256": "807e00e8819ee45722841f067ea4283a3c5c1ce8a84e46a1978f632530323082",
+          "git_blob_sha": "0510be7097b8619d7dbebe77a64cad3f3b981dbb",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it-960.webp",
+          "bytes": 57528,
+          "sha256": "27769ba635b957568b2d4a731d7c1ad4a28b277681b31ad36e9cfef0097c1ccf",
+          "git_blob_sha": "6150cbee5f64e293b431ab314ee6d14129c2ef50",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it-social.jpg",
+          "bytes": 135606,
+          "sha256": "cf5e743ce8cf65790b867fccb30d07032a1a14facba7cda8e6e7e99ba73182cb",
+          "git_blob_sha": "363816973003b3064011ee970f7d494732cf5089",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-22-you-do-not-need-to-buy-the-capability-you-need-to-build-it-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 41,
+      "source_path": "docusaurus/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund.md",
+      "source_sha": "1de2f2c60aca14dbfbbc9a7271acb9c4ab42b8b4",
+      "title": "How an organisation would build its own KnowledgeFund",
+      "url": "https://governance.foundation/blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/",
+      "published_html_path": "blog/2026/04/23/how-an-organisation-would-build-its-own-knowledgefund/index.html",
+      "alt_text": "A small working core reveals hidden brass seams and connects to adjacent modules for gradual growth.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: How an organisation would build its own KnowledgeFund. Subject and meaning: A craftsman's small bounded ivory workbench holds a partially assembled modular knowledge landscape: one complete useful slate-and-brass core with connected slots and channels, surrounded by a few adjacent carefully fitted modules awaiting expansion. A cut-open stone reveals a hidden brass seam being brought to the surface and connected to the core. Start small, extract tacit knowledge, structure it and expand through practical use; no tools with letters.",
+      "original": {
+        "filename": "2026-04-23-how-an-organisation-would-build-its-own-knowledgefund-hero.png",
+        "sha256": "77ae40c69b9a80199905ea0212abcb572dab19a033abeda52d70cd5a2034b4c5",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund.webp",
+          "bytes": 156642,
+          "sha256": "ea0d0c6c3597a07d2043f39754ed6dead1227f9863abb409a29b6d5ea0773fda",
+          "git_blob_sha": "0899fde4815a90a5f1ef4b9cb00cfffb26388a2c",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund-960.webp",
+          "bytes": 72010,
+          "sha256": "1cfebc770a509d23ea09200d52b46c033b9ac8644a1c38d09dc3f725aad713ab",
+          "git_blob_sha": "e7649f4e411eba72bcd57e2d7121156b82e7f556",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund-social.jpg",
+          "bytes": 161008,
+          "sha256": "df9e0084093dceb77e70d24516150087359096a5b6987d0d0248b271497fca6c",
+          "git_blob_sha": "65948d235e259397d39071fe30ba71291ccd94a8",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-23-how-an-organisation-would-build-its-own-knowledgefund-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 42,
+      "source_path": "docusaurus/blog/2026-04-23-what-organisational-gardens-actually-are.md",
+      "source_sha": "ba5f40b2dbf0c44b84213df1ed9264b058a47531",
+      "title": "What organisational gardens actually are",
+      "url": "https://governance.foundation/blog/2026/04/23/what-organisational-gardens-actually-are/",
+      "published_html_path": "blog/2026/04/23/what-organisational-gardens-actually-are/index.html",
+      "alt_text": "Brass pruning shears rest beside a garden transitioning from tangled growth to clear connected paths.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: What organisational gardens actually are. Primary request: An intimate wide miniature organisational garden in low ivory raised beds: one side tangled dry vines and obstructed stone paths, the centre with tasteful brass pruning shears resting beside a clipped branch, the other side carefully tended olive shrubs and clear slate paths with brass irrigation connections. Ongoing care restores healthy connected terrain. No gardener or hands. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2026-04-23-what-organisational-gardens-actually-are-hero.png",
+        "sha256": "fb09e73a1434c35da3407f692eecc0f94b2efcd39bec5ee52d3c0692aca8a850",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-23-what-organisational-gardens-actually-are.webp",
+          "bytes": 309064,
+          "sha256": "b423aee942c94afc2866574c243e0f93f2af8c17b697365db54dba1182d444ae",
+          "git_blob_sha": "a264c96c7657f78646ddcc6782d6b41cf69d97f8",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-23-what-organisational-gardens-actually-are.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-23-what-organisational-gardens-actually-are-960.webp",
+          "bytes": 134492,
+          "sha256": "4583a9c7ff0f091b1840e0d6be418f7ff387565b807f3ade1f7302934b8c7d23",
+          "git_blob_sha": "dc63cf03a50c26daad59d37682c373e3622539a9",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-23-what-organisational-gardens-actually-are-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-23-what-organisational-gardens-actually-are-social.jpg",
+          "bytes": 242168,
+          "sha256": "e6c7920f7159e19b4605e526e038287e82664bf5e7060254f4af0b056e757ce7",
+          "git_blob_sha": "1e3ef807a19019568fe04611bacbef46f814f691",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-23-what-organisational-gardens-actually-are-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 43,
+      "source_path": "docusaurus/blog/2026-04-24-your-organisation-can-now-evolve-from-within.md",
+      "source_sha": "37f9612be1bfe31b42d5fe1373d93e9028840603",
+      "title": "Your organisation can now evolve from within",
+      "url": "https://governance.foundation/blog/2026/04/24/your-organisation-can-now-evolve-from-within/",
+      "published_html_path": "blog/2026/04/24/your-organisation-can-now-evolve-from-within/index.html",
+      "alt_text": "An olive tree grows within a stone vessel sustained by internal irrigation loops, representing continuous organisational improvement.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: Your organisation can now evolve from within. Cutaway oval stone garden vessel containing a carefully tended branching olive sapling; underneath the soil layer an exquisite brass irrigation loop recirculates through fine channels and adjustable joints, visibly repairing one narrow crack in the vessel with a fresh brass seam. New growth emerges from several internal nodes. The image expresses persistent internal attention, accumulated memory, bounded support and shorter adaptation loops maintaining the organisation continuously, no gardener or magical glow. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2026-04-24-your-organisation-can-now-evolve-from-within-hero.png",
+        "sha256": "cf5f046c3a244dbea577a54db6c569dce2a3004e7138e1998ce40d5b53c3f701",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-24-your-organisation-can-now-evolve-from-within.webp",
+          "bytes": 232228,
+          "sha256": "132331cafddfe8c2f506940bb772d9cc99db0d1ff22b404491718fd3e8171fb6",
+          "git_blob_sha": "7516aed47be82f8548f9401ff43451124d406a23",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-24-your-organisation-can-now-evolve-from-within.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-24-your-organisation-can-now-evolve-from-within-960.webp",
+          "bytes": 100734,
+          "sha256": "0b15d6056807e25bd91c6e61011c6945133924b088f658838667d8f49c76e5eb",
+          "git_blob_sha": "aaadd35926aa99e621a2d0a8a302252b512de5f1",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-24-your-organisation-can-now-evolve-from-within-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-24-your-organisation-can-now-evolve-from-within-social.jpg",
+          "bytes": 198941,
+          "sha256": "35a1c401438328217b83c5ed9e4d7fadf110516707d792eb8d3ad786fafd88fc",
+          "git_blob_sha": "11e6e7fdc32de788d6c714dc6de623362a8a8a6c",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-24-your-organisation-can-now-evolve-from-within-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 44,
+      "source_path": "docusaurus/blog/2026-04-25-you-can-now-build-capability-from-within.md",
+      "source_sha": "a318b2cb9a8570274ccbc30204f5ce0443886847",
+      "title": "You can now build capability from within",
+      "url": "https://governance.foundation/blog/2026/04/25/you-can-now-build-capability-from-within/",
+      "published_html_path": "blog/2026/04/25/you-can-now-build-capability-from-within/index.html",
+      "alt_text": "A tended garden and irrigation loops grow within a stone vessel, symbolising capability built through ongoing internal care.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: You can now build capability from within. Subject and meaning: An open cross-section ivory stone vessel contains a carefully tended miniature internal garden. A small living olive tree grows from rich dark slate-colored earth, fine muted brass irrigation loops nourish roots from inside the vessel, and small terraces support modest healthy plants. Outer walls are simple while the interior is rich and connected: persistent care for internal knowledge, workflows, memory and reusable practice. Restrained, elegant, not fantasy or glowing.",
+      "original": {
+        "filename": "2026-04-25-you-can-now-build-capability-from-within-hero.png",
+        "sha256": "82e261d916f09b0f8c4c6dd3768690aeb32c2704f7bbe2baccd23d83f7f8cf84",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-25-you-can-now-build-capability-from-within.webp",
+          "bytes": 223620,
+          "sha256": "a5bc49c176908729cfc56918e86250f74c1bc9edd318f4f8727fa721b568762b",
+          "git_blob_sha": "90969059e943cd5d772a8b296af9182aaa6a15ea",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-25-you-can-now-build-capability-from-within.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-25-you-can-now-build-capability-from-within-960.webp",
+          "bytes": 92646,
+          "sha256": "379e3aa4e00331b626c29c29a5d9249362048ae2016dfdc8c01106e90a02dd07",
+          "git_blob_sha": "83c502295da817b8801776e17154f31cd5cc0fbb",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-25-you-can-now-build-capability-from-within-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-25-you-can-now-build-capability-from-within-social.jpg",
+          "bytes": 183608,
+          "sha256": "2c2e3b0cdfedee633663e2edbcdc20c435d570aa3ce8820a453f724f4944e532",
+          "git_blob_sha": "8f8cddec8a3e48949ba1b66f14487d4cda5cd05d",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-25-you-can-now-build-capability-from-within-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 45,
+      "source_path": "docusaurus/blog/2026-04-26-ai-is-a-star-trek-replicator-for-ideas.md",
+      "source_sha": "5a046e519e04e5defcba0aa68a526226d641cecc",
+      "title": "AI is a Star Trek replicator for ideas",
+      "url": "https://governance.foundation/blog/2026/04/26/ai-is-a-star-trek-replicator-for-ideas/",
+      "published_html_path": "blog/2026/04/26/ai-is-a-star-trek-replicator-for-ideas/index.html",
+      "alt_text": "A small brass seed is elaborated into three increasingly detailed ivory and brass prototypes.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Create a wide 16:9 editorial hero for article 'AI is a Star Trek replicator for ideas', explaining how one seed idea can elaborate into increasingly detailed usable structures. Four beautiful physical objects only on a completely bare warm ivory stone tabletop: from left to right a small brass seed on a dark slate plinth, a simple ivory seed-shaped model, a second ivory model opened slightly to show a brass mechanism, a third more sophisticated open ivory model with intricate brass internal mechanisms. No calipers, no tools, no measuring devices, no papers, no plans, no sketches, no arrows, absolutely no lettering or numbers anywhere. Soft natural light, warm parchment walls, restrained slate/navy #273449 and muted brass #c4ac7d palette, a sophisticated tactile still life, no science fiction glow, no humans, no robots, no logos or watermark. All four objects entirely visible with generous margins, minimal background.",
+      "original": {
+        "filename": "2026-04-26-ai-is-a-star-trek-replicator-for-ideas-hero.png",
+        "sha256": "df3cb9ea8de0a1dc85fe189897e7b3429e7d84ea32db41a914da1f99b54cea24",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-26-ai-is-a-star-trek-replicator-for-ideas.webp",
+          "bytes": 107812,
+          "sha256": "daf18b50513ea0581a01665ffd58ca209cddee33d238c6d9878c22cee7135a26",
+          "git_blob_sha": "ec7bd7c0a959213ee63c46031ac40369ec59cb25",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-26-ai-is-a-star-trek-replicator-for-ideas.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-26-ai-is-a-star-trek-replicator-for-ideas-960.webp",
+          "bytes": 48552,
+          "sha256": "237d223e4ccb64f3e525a5e6fcdddc20989fe464ce5044f7d471273dd1f1218b",
+          "git_blob_sha": "36d160eea4935fffe05f54d3ce6dc54006f68b40",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-26-ai-is-a-star-trek-replicator-for-ideas-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-26-ai-is-a-star-trek-replicator-for-ideas-social.jpg",
+          "bytes": 124947,
+          "sha256": "e77f4dd73b0026e3f732f856f3b93739ba6e5d1d1d88194a86fba008f364f399",
+          "git_blob_sha": "dfcb4ed606b8c9d7f7627dd44eb28db8b7d9fa19",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-26-ai-is-a-star-trek-replicator-for-ideas-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 46,
+      "source_path": "docusaurus/blog/2026-04-29-how-organisations-start-building-a-shared-model.md",
+      "source_sha": "05e0c6a54335fe98f85444a45acd65215a7437f6",
+      "title": "How organisations start building a shared model",
+      "url": "https://governance.foundation/blog/2026/04/29/how-organisations-start-building-a-shared-model/",
+      "published_html_path": "blog/2026/04/29/how-organisations-start-building-a-shared-model/index.html",
+      "alt_text": "A compact interlocking mosaic nucleus links two distinct paths, representing a bounded beginning for a shared model.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: How organisations start building a shared model. A tabletop mosaic under construction: one compact central nucleus of five precisely fitted ivory and slate pieces is complete, with small brass inlays connecting them. Two different textured pathways attach to this same nucleus from separate angles; loose compatible pieces nearby suggest gradual extension, while the surrounding table remains mostly empty. A practical bounded high-value beginning that can accumulate and grow, not a gigantic completed enterprise. Close tactile craft photography. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2026-04-29-how-organisations-start-building-a-shared-model-hero.png",
+        "sha256": "84ebfcf0c6b227e1bb9bcfaff3526179841225f4dc3437adf25c27b63938eb3d",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-how-organisations-start-building-a-shared-model.webp",
+          "bytes": 130086,
+          "sha256": "bf993abd3bcd5e739cc4b9583e880f187dd679683b3225984ea4a3c0b9e974af",
+          "git_blob_sha": "67ceef41dc157e203146da62022fd9c9e0d9e55c",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-29-how-organisations-start-building-a-shared-model.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-how-organisations-start-building-a-shared-model-960.webp",
+          "bytes": 55894,
+          "sha256": "3b5bba63513f91134a3355ebba31dd0b2e103238aa1469d35a192b5667637751",
+          "git_blob_sha": "d9e77c5136c1de9035fc870bfeb7ca84ab99f9df",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-29-how-organisations-start-building-a-shared-model-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-how-organisations-start-building-a-shared-model-social.jpg",
+          "bytes": 141885,
+          "sha256": "01ec5750f4a3f91e2782c529cc60ea77ac7d1cccf1eb951aaf9b879e34b0e806",
+          "git_blob_sha": "9871e297199aded87567094021b1453fc17716f2",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-29-how-organisations-start-building-a-shared-model-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 47,
+      "source_path": "docusaurus/blog/2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model.md",
+      "source_sha": "0ca42fd7040f728a1711c20aa2137165f05684fd",
+      "title": "What changes when organisations contribute into a shared model",
+      "url": "https://governance.foundation/blog/2026/04/29/what-changes-when-organisations-contribute-into-a-shared-model/",
+      "published_html_path": "blog/2026/04/29/what-changes-when-organisations-contribute-into-a-shared-model/index.html",
+      "alt_text": "Distinct contribution surfaces connect to a common spine, preserving different views within shared structure.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Use case: stylized-concept. Premium original text-free editorial blog hero, wide 16:9. Sophisticated tactile physical metaphor rendered as museum-quality miniature still-life photography. Warm parchment #f4efe6 background, ivory limestone, slate/navy #273449/#16202c, muted brass #c4ac7d. Soft natural side lighting, fine material texture, quiet shadows. Central crop-safe subject with clear silhouettes and generous margins. No text, letters, labels, logos, watermarks, people, robots, screens, neon or cyan. Article: What changes when organisations contribute into a shared model. Subject and meaning: Five distinct tactile contribution surfaces, a stepped slate relief, an ivory folded fan, a brass-rimmed shallow basin, a small stone grid and a curved trough, each feeds via a fitted channel into a shared horizontal brass spine inset into one substantial ivory base. The forms remain distinct yet meaning visibly accumulates along the common backbone as precise inset slate layers. Physical sculptural still life, not a node-link diagram.",
+      "original": {
+        "filename": "2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model-hero.png",
+        "sha256": "70a787b18ab16dcdf4a85132f8eef45f06bef5316fe592680f6f9d7b3b9f8d42",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "visual_inspection": "pass",
+        "article_specific_metaphor": "pass",
+        "palette_and_tactile_style": "pass",
+        "no_text_logos_people_robots_neon": "pass",
+        "composition": "wide landscape; key metaphor readable in central crop",
+        "png_integrity": "Pillow verify and full decode passed"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model.webp",
+          "bytes": 125758,
+          "sha256": "7efd1b4c294e8c72b7919030cbf608357de4beb8567b96e58dee7851b8ffa70e",
+          "git_blob_sha": "0409f55c0519935c1012b7d62a3ed75942b8c3f1",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model-960.webp",
+          "bytes": 52086,
+          "sha256": "5a5c8fd8c067dd8d1a1dfdbfcbe9ed7a31605fe73ec248eaa7f8fec84d5cbf6c",
+          "git_blob_sha": "5ef6fc90c1e09907b946944205dc34c32dbccec2",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model-social.jpg",
+          "bytes": 132369,
+          "sha256": "7bdcf2907e7f867a5a04c2f6d4ead57c765ef115243a56c99525c90184ddec95",
+          "git_blob_sha": "cc7acf67a8ea68852a84ccc5949e3b312f6ce237",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 48,
+      "source_path": "docusaurus/blog/2026-04-29-why-a-shared-core-needs-tailored-experiences.md",
+      "source_sha": "137c46e4346a4e8ddfffaacdb99026dd345aa68e",
+      "title": "Why a shared core needs tailored experiences",
+      "url": "https://governance.foundation/blog/2026/04/29/why-a-shared-core-needs-tailored-experiences/",
+      "published_html_path": "blog/2026/04/29/why-a-shared-core-needs-tailored-experiences/index.html",
+      "alt_text": "Five differently shaped lenses reveal distinct views of one shared slate core.",
+      "generator": "image_gen__imagegen",
+      "generation_prompt": "Article: Why a shared core needs tailored experiences. Primary request: A single exquisite dark slate polyhedral core held in a low brass cradle is viewed through five differently shaped ivory-framed optical lenses arranged in an open fan, each lens revealing a different useful detail of the SAME underlying core. Elegant physical optics exhibit, all frames distinct in shape and scale, coherent shared truth with role-specific views. No disconnected buildings or screen UI. Use case: stylized-concept. Asset: Governance.Foundation editorial blog hero. Wide 16:9 landscape, sophisticated tactile physical metaphor, realistic stone grain and fine workmanship, warm parchment #f4efe6, ivory, slate/navy #273449/#16202c, muted brass #c4ac7d, soft natural daylight, calm editorial sophistication, spacious crop-safe composition, main objects fully visible with generous margins. No text, lettering, numbers, logos, watermarks, people, robots, neon, cyan, screens, or diagram labels.",
+      "original": {
+        "filename": "2026-04-29-why-a-shared-core-needs-tailored-experiences-hero.png",
+        "sha256": "16a139a320a5d3ab22425921761c8cbb1c3fb88a22a55f614a4490078509fe4c",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual image inspection",
+        "article_specific_metaphor": true,
+        "palette": "warm parchment, ivory, slate/navy, muted brass",
+        "no_text_logos_watermarks_people_robots": true,
+        "composition": "wide approximately 16:9; central metaphor suitable for hero use",
+        "notes": "Original preserved without pixel editing."
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-why-a-shared-core-needs-tailored-experiences.webp",
+          "bytes": 159398,
+          "sha256": "0ef70688e91ca640ac5a4e078d29c77984001127de19bd453281f29398405dd3",
+          "git_blob_sha": "62e07216e36c395df90dd165c5770359c9b27cd6",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-29-why-a-shared-core-needs-tailored-experiences.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-why-a-shared-core-needs-tailored-experiences-960.webp",
+          "bytes": 72672,
+          "sha256": "5ff11fdff01b6b05dd7f43984f2349e0f902a25a8d60cb0d6d2dbda55490368c",
+          "git_blob_sha": "ebd304138a8132c7c8d8c4df5068080573db9975",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-29-why-a-shared-core-needs-tailored-experiences-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-why-a-shared-core-needs-tailored-experiences-social.jpg",
+          "bytes": 162563,
+          "sha256": "b80dce090d1e388076385d60fcfa2112355d7527a0d91ed560ade840aeeea180",
+          "git_blob_sha": "21a13bda2650bdfd436040b78e6a013be57abd15",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-29-why-a-shared-core-needs-tailored-experiences-social.jpg"
+        }
+      }
+    },
+    {
+      "id": 49,
+      "source_path": "docusaurus/blog/2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse.md",
+      "source_sha": "52e145c42f82411bcb58f09acb547671d983ae92",
+      "title": "Why organisations keep recreating the same knowledge — and why AI will make it worse",
+      "url": "https://governance.foundation/blog/2026/04/29/why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse/",
+      "published_html_path": "blog/2026/04/29/why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse/index.html",
+      "alt_text": "Separate molds produce incompatible piles of tiles above a common alignment rail, representing duplicated fragmented knowledge.",
+      "generator": "image_gen__imagegen (built-in)",
+      "generation_prompt": "Article: Why organisations keep recreating the same knowledge — and why AI will make it worse. Three small independent brass casting molds produce piles of nearly identical ivory geometric tiles, each with subtly incompatible connector notches. Duplicated local output accumulates in three isolated piles on slate plinths. In foreground one restrained continuous brass alignment rail with correctly fitted tile sockets shows the missing shared semantic backbone. Composition emphasises repeated knowledge production without reusable coherence, no factory smoke, no text. Use case: stylized-concept. Sophisticated tactile editorial physical metaphor for Governance.Foundation blog. Photoreal handcrafted sculptural still life, exquisite ivory limestone, deep slate/navy #273449/#16202c and muted brushed brass #c4ac7d, warm parchment #f4efe6 seamless environment. Soft natural light, quiet intelligent mood, material richness. Wide 16:9, subject wholly within central 80% with generous crop-safe margins. No text, lettering, numerals, labels, logos, watermarks, people, robots or neon cyan. One image.",
+      "original": {
+        "filename": "2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse-hero.png",
+        "sha256": "64f2c54183c63139dea53f70a8185f5028caac86aba172f892649154adf08c76",
+        "width": 1672,
+        "height": 941
+      },
+      "qa": {
+        "png_integrity": "passed Pillow verify and full decode",
+        "visual_review": "passed individual images inspected in three labelled contact sheets",
+        "article_specific": "full article read; distinct physical metaphor",
+        "palette": "warm parchment, ivory, slate/navy and muted brass",
+        "text_people_logos": "none visible",
+        "composition": "wide landscape; principal metaphor centrally readable"
+      },
+      "variants": {
+        "hero": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse.webp",
+          "bytes": 149668,
+          "sha256": "af6089c1ee928ee69d70ce2358718df7bf5c7d267635df4d4ab8d30f1dcda674",
+          "git_blob_sha": "5b44971b4083fdd636d2fb55edf655ba354420b0",
+          "width": 1672,
+          "height": 941,
+          "url": "/assets/images/blog/2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse.webp"
+        },
+        "small": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse-960.webp",
+          "bytes": 69994,
+          "sha256": "91957905b50a47082ffaaa9f79e310fd7acdad08619a2513d8f8d58c5a6a0c52",
+          "git_blob_sha": "abf0009201f56e3553ba12385dfabef779da3d05",
+          "width": 960,
+          "height": 540,
+          "url": "/assets/images/blog/2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse-960.webp"
+        },
+        "social": {
+          "path": "docusaurus/static/assets/images/blog/2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse-social.jpg",
+          "bytes": 166555,
+          "sha256": "d5797d6937793a879737cdebcf827552d514e903e781e919a06494a5378530b0",
+          "git_blob_sha": "1d042e3628dfcdddda09dd292c89c484dc28a4dc",
+          "width": 1200,
+          "height": 675,
+          "url": "/assets/images/blog/2026-04-29-why-organisations-keep-recreating-the-same-knowledge-and-why-ai-will-make-it-worse-social.jpg"
+        }
+      }
+    }
+  ]
+}
