@@ -3,6 +3,16 @@ title: "Reuse is how organisations compound intelligence"
 date: 2016-10-18 00:00:00 +1100
 slug: /2016/10/18/reuse-is-how-organisations-compound-intelligence
 description: "Why reuse is one of the main ways organisations turn scattered contribution into compounding capability."
+image: "/assets/images/blog/2016-10-18-reuse-is-how-organisations-compound-intelligence-social.jpg"
+hero:
+  src: "/assets/images/blog/2016-10-18-reuse-is-how-organisations-compound-intelligence.webp"
+  small: "/assets/images/blog/2016-10-18-reuse-is-how-organisations-compound-intelligence-960.webp"
+  alt: "A brass joinery pattern is reused in progressively more capable stone structures."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 A lot of organisations talk about knowledge, learning, and improvement.

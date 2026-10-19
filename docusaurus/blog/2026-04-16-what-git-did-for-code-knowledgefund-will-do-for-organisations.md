@@ -3,6 +3,16 @@ title: "What Git did for code, KnowledgeFund will do for organisations"
 date: 2026-04-16 16:50:00 +1000
 slug: /2026/04/16/what-git-did-for-code-knowledgefund-will-do-for-organisations
 description: "Git gave code a shared structure for change, traceability, and collaboration. KnowledgeFund will do the same for organisational knowledge, work, and decision-making."
+image: "/assets/images/blog/2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations.webp"
+  small: "/assets/images/blog/2026-04-16-what-git-did-for-code-knowledgefund-will-do-for-organisations-960.webp"
+  alt: "Layered branches diverge and rejoin a structured backbone, representing traceable organisational contribution and change."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 Git did not succeed because people suddenly became better at writing code.
 

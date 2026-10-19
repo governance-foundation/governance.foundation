@@ -3,6 +3,16 @@ title: "Governance Experience Platform"
 date: 2014-07-15 00:00:00 +1100
 slug: /2014/07/15/governance-experience-platform
 description: "Why organisations need shared governance experiences, not just abstract models, documents, and after-the-fact oversight."
+image: "/assets/images/blog/2014-07-15-governance-experience-platform-social.jpg"
+hero:
+  src: "/assets/images/blog/2014-07-15-governance-experience-platform.webp"
+  small: "/assets/images/blog/2014-07-15-governance-experience-platform-960.webp"
+  alt: "Three distinct work terraces connect through brass channels to one shared governance commons."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Most organisations do not fail because nobody cares.

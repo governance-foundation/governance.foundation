@@ -3,6 +3,16 @@ title: "Same old AI playbook, same old results"
 date: 2026-04-15 09:00:00 +1000
 slug: /2026/04/15/are-you-rolling-out-ai-with-the-same-old-playbook
 description: "If AI is being rolled out with the same old transformation logic, expect the same old organisational results."
+image: "/assets/images/blog/2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook.webp"
+  small: "/assets/images/blog/2026-04-15-are-you-rolling-out-ai-with-the-same-old-playbook-960.webp"
+  alt: "A new brass block travels the same closed circuit as older stone blocks."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 Many organisations are rolling out AI with the same old transformation playbook.
 

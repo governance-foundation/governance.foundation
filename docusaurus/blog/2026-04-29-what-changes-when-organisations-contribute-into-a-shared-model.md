@@ -3,6 +3,16 @@ title: "What changes when organisations contribute into a shared model"
 date: 2026-04-29 18:35:00 +1000
 slug: /2026/04/29/what-changes-when-organisations-contribute-into-a-shared-model
 description: "The real shift is not getting people to collaborate more. It is getting different roles, tools, and artifacts to contribute into a shared semantic model that preserves reuse, traceability, and organisational coherence."
+image: "/assets/images/blog/2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model.webp"
+  small: "/assets/images/blog/2026-04-29-what-changes-when-organisations-contribute-into-a-shared-model-960.webp"
+  alt: "Distinct contribution surfaces connect to a common spine, preserving different views within shared structure."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 If the first problem is fragmentation, the next question is obvious:

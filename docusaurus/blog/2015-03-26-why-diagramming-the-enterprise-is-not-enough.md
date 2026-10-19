@@ -3,6 +3,16 @@ title: "Why diagramming the enterprise is not enough"
 date: 2015-03-26 00:00:00 +1100
 slug: /2015/03/26/why-diagramming-the-enterprise-is-not-enough
 description: "Why enterprise diagrams can clarify structure without creating the shared meaning, experience, and learning an organisation actually needs."
+image: "/assets/images/blog/2015-03-26-why-diagramming-the-enterprise-is-not-enough-social.jpg"
+hero:
+  src: "/assets/images/blog/2015-03-26-why-diagramming-the-enterprise-is-not-enough.webp"
+  small: "/assets/images/blog/2015-03-26-why-diagramming-the-enterprise-is-not-enough-960.webp"
+  alt: "A bridge rises from a flat geometric plan into a usable path, showing how models must connect to real work."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Diagramming matters.

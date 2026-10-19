@@ -3,6 +3,16 @@ title: "Beyond harness engineering"
 date: 2026-04-16 16:20:00 +1000
 slug: /2026/04/16/beyond-harness-engineering-why-ai-success-is-a-governance-problem
 description: "Harness engineering matters, but once AI touches real work and real systems, success becomes a governance problem."
+image: "/assets/images/blog/2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem.webp"
+  small: "/assets/images/blog/2026-04-16-beyond-harness-engineering-why-ai-success-is-a-governance-problem-960.webp"
+  alt: "A locally framed gyroscope sits inside wider connected governance boundaries, representing the system beyond the AI harness."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 As AI adoption matures, the language around it is getting better.
 

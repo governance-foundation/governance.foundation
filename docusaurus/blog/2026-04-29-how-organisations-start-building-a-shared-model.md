@@ -3,6 +3,16 @@ title: "How organisations start building a shared model"
 date: 2026-04-29 19:10:00 +1000
 slug: /2026/04/29/how-organisations-start-building-a-shared-model
 description: "A shared model does not begin with total enterprise redesign. It begins by choosing a bounded starting surface, establishing semantic discipline, and creating contribution patterns that can compound over time."
+image: "/assets/images/blog/2026-04-29-how-organisations-start-building-a-shared-model-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-29-how-organisations-start-building-a-shared-model.webp"
+  small: "/assets/images/blog/2026-04-29-how-organisations-start-building-a-shared-model-960.webp"
+  alt: "A compact interlocking mosaic nucleus links two distinct paths, representing a bounded beginning for a shared model."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Once people accept that fragmented knowledge is a structural problem, and once they see the value of a shared semantic core with tailored experiences, the next question is usually practical.

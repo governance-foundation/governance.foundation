@@ -1,0 +1,15 @@
+.hero {
+  margin: 1.25rem 0 1.75rem;
+}
+
+.hero a {
+  display: block;
+  border-radius: 0.75rem;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.75rem;
+}

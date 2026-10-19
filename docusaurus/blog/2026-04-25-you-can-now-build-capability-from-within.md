@@ -3,6 +3,16 @@ title: "You can now build capability from within"
 date: 2026-04-25 11:25:00 +1000
 slug: /2026/04/25/you-can-now-build-capability-from-within
 description: "The AI era changes the strategic equation for organisations. Models can be bought, but real capability must be built. With persistent internal attention, organisations can now start building and evolving that capability from within."
+image: "/assets/images/blog/2026-04-25-you-can-now-build-capability-from-within-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-25-you-can-now-build-capability-from-within.webp"
+  small: "/assets/images/blog/2026-04-25-you-can-now-build-capability-from-within-960.webp"
+  alt: "A tended garden and irrigation loops grow within a stone vessel, symbolising capability built through ongoing internal care."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 The AI conversation is still too often trapped in procurement language.

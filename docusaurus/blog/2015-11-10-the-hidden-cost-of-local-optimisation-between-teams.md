@@ -3,6 +3,16 @@ title: "The hidden cost of local optimisation between teams"
 date: 2015-11-10 00:00:00 +1100
 slug: /2015/11/10/the-hidden-cost-of-local-optimisation-between-teams
 description: "Teams often optimise sensibly for their own local constraints. The hidden cost appears when the organisation loses coherence across boundaries."
+image: "/assets/images/blog/2015-11-10-the-hidden-cost-of-local-optimisation-between-teams-social.jpg"
+hero:
+  src: "/assets/images/blog/2015-11-10-the-hidden-cost-of-local-optimisation-between-teams.webp"
+  small: "/assets/images/blog/2015-11-10-the-hidden-cost-of-local-optimisation-between-teams-960.webp"
+  alt: "Separate precise gear assemblies have mismatched handoffs, illustrating the hidden cost of local team optimisation."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Most local optimisation does not begin as sabotage.

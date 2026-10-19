@@ -3,6 +3,16 @@ title: "Now it's your turn: what have you changed for AI?"
 date: 2026-04-13 09:00:00 +1000
 slug: /2026/04/13/now-its-your-turn-what-have-you-done-differently-with-ai
 description: "You watched digital transformation fail and promised yourself you would do better when your turn came. AI is your turn."
+image: "/assets/images/blog/2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai.webp"
+  small: "/assets/images/blog/2026-04-13-now-its-your-turn-what-have-you-done-differently-with-ai-960.webp"
+  alt: "A brass switch opens a new route from a repeated circular path, representing meaningful changes to work."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 Not long ago, you watched digital transformations go south and told yourself, "I can do it better when it's my turn."
 

@@ -3,6 +3,16 @@ title: "Your organisation can now evolve from within"
 date: 2026-04-24 10:55:00 +1000
 slug: /2026/04/24/your-organisation-can-now-evolve-from-within
 description: "AI gives organisations something they have almost never had at meaningful scale: persistent internal attention. That changes how improvement, maintenance, learning, and organisational evolution can happen."
+image: "/assets/images/blog/2026-04-24-your-organisation-can-now-evolve-from-within-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-24-your-organisation-can-now-evolve-from-within.webp"
+  small: "/assets/images/blog/2026-04-24-your-organisation-can-now-evolve-from-within-960.webp"
+  alt: "An olive tree grows within a stone vessel sustained by internal irrigation loops, representing continuous organisational improvement."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 One of the biggest changes AI introduces is not just automation.

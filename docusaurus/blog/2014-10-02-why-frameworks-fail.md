@@ -3,6 +3,16 @@ title: "Why Frameworks Fail?"
 date: 2014-10-02 00:00:00 +1100
 slug: /2014/10/02/why-frameworks-fail
 description: "Why frameworks that look sensible on paper still fail inside living organisations with their own history, incentives, and knowledge structure."
+image: "/assets/images/blog/2014-10-02-why-frameworks-fail-social.jpg"
+hero:
+  src: "/assets/images/blog/2014-10-02-why-frameworks-fail.webp"
+  small: "/assets/images/blog/2014-10-02-why-frameworks-fail-960.webp"
+  alt: "Two iceberg-like stone structures reveal incompatible hidden foundations beneath a clear waterline."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Frameworks often arrive with a promise.

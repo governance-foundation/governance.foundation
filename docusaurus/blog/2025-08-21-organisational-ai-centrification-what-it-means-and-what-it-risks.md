@@ -3,6 +3,16 @@ title: "Organisational AI centrification, what it means and what it risks"
 date: 2025-08-21 00:00:00 +1000
 slug: /2025/08/21/organisational-ai-centrification-what-it-means-and-what-it-risks
 description: "As AI capability concentrates in a few teams and platforms, organisations gain leverage but risk bottlenecks and fragility."
+image: "/assets/images/blog/2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks-social.jpg"
+hero:
+  src: "/assets/images/blog/2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks.webp"
+  small: "/assets/images/blog/2025-08-21-organisational-ai-centrification-what-it-means-and-what-it-risks-960.webp"
+  alt: "A brass manifold balances a shared regulator with distributed branches and a return loop."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 AI centrification is the concentration of AI capability into a small number of teams, platforms, and decision hubs.

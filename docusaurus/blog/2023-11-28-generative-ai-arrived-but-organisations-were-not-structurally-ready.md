@@ -3,6 +3,16 @@ title: "Generative AI arrived, but organisations were not structurally ready"
 date: 2023-11-28 00:00:00 +1100
 slug: /2023/11/28/generative-ai-arrived-but-organisations-were-not-structurally-ready
 description: "Generative AI moved faster than most organisations' ability to absorb it. The problem was not model access alone, but structural unreadiness."
+image: "/assets/images/blog/2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready-social.jpg"
+hero:
+  src: "/assets/images/blog/2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready.webp"
+  small: "/assets/images/blog/2023-11-28-generative-ai-arrived-but-organisations-were-not-structurally-ready-960.webp"
+  alt: "A finished brass turbine awaits an incomplete stone cradle, representing AI arriving before structural readiness."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Generative AI arrived fast.

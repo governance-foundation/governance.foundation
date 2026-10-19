@@ -3,6 +3,16 @@ title: "Contribution as governance, not just compliance"
 date: 2016-09-22 00:00:00 +1000
 slug: /2016/09/22/contribution-as-governance-not-just-compliance
 description: "Why organisations should treat useful contribution to shared knowledge and structure as part of governance, not only as optional good citizenship."
+image: "/assets/images/blog/2016-09-22-contribution-as-governance-not-just-compliance-social.jpg"
+hero:
+  src: "/assets/images/blog/2016-09-22-contribution-as-governance-not-just-compliance.webp"
+  small: "/assets/images/blog/2016-09-22-contribution-as-governance-not-just-compliance-960.webp"
+  alt: "Distinct stone and brass contributions repair and strengthen a shared mosaic pathway."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Governance is often imagined as something that constrains.

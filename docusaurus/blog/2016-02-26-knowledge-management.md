@@ -3,6 +3,16 @@ title: "Knowledge Management 4.0"
 date: 2016-02-26 00:00:00 +1100
 slug: /2016/02/26/knowledge-management
 description: "Why traditional knowledge management breaks down, and why organisations need a more living, connected, AI-legible approach to knowledge."
+image: "/assets/images/blog/2016-02-26-knowledge-management-social.jpg"
+hero:
+  src: "/assets/images/blog/2016-02-26-knowledge-management.webp"
+  small: "/assets/images/blog/2016-02-26-knowledge-management-960.webp"
+  alt: "An archive of blank tablets transitions into a living tree of connected knowledge objects."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Knowledge management has been trying to solve a real problem for a long time.

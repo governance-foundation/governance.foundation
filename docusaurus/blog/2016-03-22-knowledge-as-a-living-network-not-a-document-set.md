@@ -3,6 +3,16 @@ title: "Knowledge as a living network, not a document set"
 date: 2016-03-22 00:00:00 +1100
 slug: /2016/03/22/knowledge-as-a-living-network-not-a-document-set
 description: "Why organisational knowledge becomes more useful when it is treated as a connected living network rather than a pile of documents."
+image: "/assets/images/blog/2016-03-22-knowledge-as-a-living-network-not-a-document-set-social.jpg"
+hero:
+  src: "/assets/images/blog/2016-03-22-knowledge-as-a-living-network-not-a-document-set.webp"
+  small: "/assets/images/blog/2016-03-22-knowledge-as-a-living-network-not-a-document-set-960.webp"
+  alt: "A branching brass tree connects diverse stone and glass elements above archival pages, representing living knowledge relationships."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 A lot of organisations still treat knowledge as if it were mainly a filing problem.

@@ -3,6 +3,16 @@ title: "AI is a Star Trek replicator for ideas"
 date: 2026-04-26 19:35:00 +1000
 slug: /2026/04/26/ai-is-a-star-trek-replicator-for-ideas
 description: "What makes this AI moment different is not just automation or chat. It is that organisations can now replicate, expand, operationalise, and improve ideas at extraordinary speed."
+image: "/assets/images/blog/2026-04-26-ai-is-a-star-trek-replicator-for-ideas-social.jpg"
+hero:
+  src: "/assets/images/blog/2026-04-26-ai-is-a-star-trek-replicator-for-ideas.webp"
+  small: "/assets/images/blog/2026-04-26-ai-is-a-star-trek-replicator-for-ideas-960.webp"
+  alt: "A small brass seed is elaborated into three increasingly detailed ivory and brass prototypes."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 A good way to describe what changed is this:

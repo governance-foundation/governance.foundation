@@ -3,6 +3,16 @@ title: "Why most collaboration tools improve surfaces, not coherence"
 date: 2015-08-18 00:00:00 +1000
 slug: /2015/08/18/why-most-collaboration-tools-improve-surfaces-not-coherence
 description: "Many collaboration tools make interaction easier, faster, and more visible. That is not the same as creating real organisational coherence."
+image: "/assets/images/blog/2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence-social.jpg"
+hero:
+  src: "/assets/images/blog/2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence.webp"
+  small: "/assets/images/blog/2015-08-18-why-most-collaboration-tools-improve-surfaces-not-coherence-960.webp"
+  alt: "A polished ivory surface conceals disconnected slate supports and misaligned brass joints."
+  width: 1672
+  height: 941
+  small_width: 960
+  social_width: 1200
+  social_height: 675
 ---
 
 Most collaboration tools arrive with a familiar promise.
