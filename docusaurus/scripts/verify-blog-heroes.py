@@ -3,20 +3,25 @@
 import argparse
 from concurrent.futures import ThreadPoolExecutor
 import hashlib
+from http.client import HTTPConnection, HTTPSConnection
 from html.parser import HTMLParser
 import json
 from pathlib import Path
 import re
-import subprocess
 from urllib.parse import urljoin, urlsplit
-from urllib.request import urlopen
 
 REPO = Path(__file__).resolve().parents[2]
 MANIFEST = REPO / 'docusaurus/static/assets/images/blog/blog-hero-manifest.json'
+# Existing global artwork pinned to source baseline c9713e7e.
+BASELINE_ARTWORK = {
+    'docusaurus/static/assets/images/cards/blog-hero.jpg': 'e7972ee994b95922918c0a4a901e2c2eb384a7a3',
+    'docusaurus/static/assets/screenshots/homepage-og.jpg': 'f9d476f15b580985e1601a89533216a1657b670d',
+}
 
 
 class Page(HTMLParser):
     def __init__(self, text):
+        """Collect image, social metadata and canonical attributes from HTML."""
         super().__init__(convert_charrefs=True)
         self.images = []
         self.meta = {}
@@ -46,24 +51,29 @@ def front_matter(text):
     return match[1], match[2]
 
 
+def git_blob_sha(data):
+    """Compute Git's object identifier for file identity, not authentication."""
+    payload = b'blob ' + str(len(data)).encode() + b'\0' + data
+    return hashlib.sha1(payload, usedforsecurity=False).hexdigest()
+
+
 def source_checks(articles):
     sources = {str(p.relative_to(REPO)).replace('\\', '/') for p in (REPO / 'docusaurus/blog').glob('*.md')}
     require(sources == {a['source_path'] for a in articles}, 'Manifest must map every source exactly once')
     require(len(articles) == len(sources) == 49, 'Expected 49 unique articles')
     seen_paths, seen_hashes = set(), set()
     for article in articles:
-        original = subprocess.check_output(['git', 'cat-file', 'blob', article['source_sha']], cwd=REPO).decode('utf-8')
-        old_fm, old_body = front_matter(original)
         new_fm, new_body = front_matter((REPO / article['source_path']).read_text(encoding='utf-8'))
-        require(old_body == new_body, 'Changed prose: ' + article['source_path'])
-        require(new_fm.startswith(old_fm + '\nimage: '), 'Changed existing front matter: ' + article['source_path'])
         hero, small, social = (article['variants'][key] for key in ('hero', 'small', 'social'))
         expected = '\nimage: ' + json.dumps(social['url']) + '\nhero:\n'
         values = {'src': hero['url'], 'small': small['url'], 'alt': article['alt_text'],
                   'width': hero['width'], 'height': hero['height'], 'small_width': small['width'],
                   'social_width': social['width'], 'social_height': social['height']}
         expected += '\n'.join('  ' + key + ': ' + json.dumps(value, ensure_ascii=False) for key, value in values.items())
-        require(new_fm == old_fm + expected, 'Incorrect hero mapping: ' + article['source_path'])
+        require(new_fm.endswith(expected), 'Incorrect hero mapping: ' + article['source_path'])
+        old_fm = new_fm[:-len(expected)]
+        original = ('---\n' + old_fm + '\n---' + new_body).encode('utf-8')
+        require(git_blob_sha(original) == article['source_sha'], 'Changed original content: ' + article['source_path'])
         slug = re.search(r'(?m)^slug:\s*(.+)$', old_fm)[1].strip().strip('"\'')
         require(urlsplit(article['url']).path.rstrip('/') == '/blog' + slug.rstrip('/'), 'Changed article route')
         for variant in article['variants'].values():
@@ -74,11 +84,10 @@ def source_checks(articles):
             data = (REPO / path).read_bytes()
             require(len(data) == variant['bytes'], 'Image byte count mismatch: ' + path)
             require(hashlib.sha256(data).hexdigest() == variant['sha256'], 'Image hash mismatch: ' + path)
-            blob = hashlib.sha1(b'blob ' + str(len(data)).encode() + b'\0' + data).hexdigest()
+            blob = git_blob_sha(data)
             require(blob == variant['git_blob_sha'], 'Git image hash mismatch: ' + path)
-    for path in ('docusaurus/static/assets/images/cards/blog-hero.jpg', 'docusaurus/static/assets/screenshots/homepage-og.jpg'):
-        baseline = subprocess.check_output(['git', 'show', 'c9713e7e:' + path], cwd=REPO)
-        require((REPO / path).read_bytes() == baseline, 'Changed global artwork: ' + path)
+    for path, expected_blob in BASELINE_ARTWORK.items():
+        require(git_blob_sha((REPO / path).read_bytes()) == expected_blob, 'Changed global artwork: ' + path)
     print('PASS: 49 unchanged article bodies/front matter/routes; 147 unique derivative hashes; global artwork preserved')
 
 
@@ -104,9 +113,25 @@ def page_checks(article, text):
 
 
 def get(url):
-    with urlopen(url, timeout=45) as response:
+    """Fetch HTTPS URLs or loopback HTTP test URLs without following redirects."""
+    target = urlsplit(url)
+    require(target.scheme in ('http', 'https') and bool(target.hostname), 'Only HTTP(S) URLs are permitted')
+    require(target.username is None and target.password is None, 'URL credentials are not permitted')
+    if target.scheme == 'http':
+        require(target.hostname in ('localhost', '127.0.0.1', '::1'), 'HTTP is restricted to loopback testing')
+    connection_type = HTTPSConnection if target.scheme == 'https' else HTTPConnection
+    connection = connection_type(target.hostname, target.port, timeout=45)
+    try:
+        request_path = target.path or '/'
+        if target.query:
+            request_path += '?' + target.query
+        connection.request('GET', request_path)
+        response = connection.getresponse()
         require(response.status == 200, 'Non-200 response: ' + url)
-        return response.read(), response.headers.get_content_type()
+        mime_type = response.getheader('Content-Type', '').split(';', 1)[0].strip().lower()
+        return response.read(), mime_type
+    finally:
+        connection.close()
 
 
 def main():

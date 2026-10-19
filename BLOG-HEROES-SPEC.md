@@ -21,6 +21,10 @@ The 49 Governance.Foundation blog articles now have individual editorial heroes 
 - One earlier local browser route load reported a transient ChunkLoadError. The referenced chunk exists and responds HTTP 200; this did not recur in the fresh final-build session. Some screenshot captures timed out; successful desktop/mobile captures and DOM checks are recorded above.
 - git diff --check passed. Dependencies, deployment workflows, security settings and unrelated source files are unchanged.
 
+## Codacy follow-up
+
+The first implementation head reported seven findings, all in the acceptance verifier: subprocess import/calls and partial executable paths, unrestricted URL opening, and a missing parser constructor docstring. The verifier now reconstructs original article blobs and compares their pinned Git identities without launching subprocesses, checks pinned global-artwork identities directly, and permits HTTPS or loopback-only HTTP with explicit scheme/credential validation. No findings or checks were suppressed. Source/hash checks and a real HTTPS response smoke test passed after this correction. Blog component code and article mappings are unchanged by the correction.
+
 ## Existing validation limitations
 
 Full npm run typecheck still fails at static/viewer/js/embed.dev.js(831,1), TS1005, closing brace expected. The incomplete servlet-template file is unchanged since its introducing commit 616c903f. Project tsconfig excludes only .docusaurus/build; inherited @docusaurus/tsconfig 3.10.0 enables allowJs, so the static viewer is included.
